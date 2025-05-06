@@ -1,0 +1,27 @@
+2025-05-06 00:18:12,345 - INFO - Namespace(dropout=0.1, eval_batch_size=128, eval_steps=1000, learning_rate=0.0001, log_dir=None, logging_steps=100, lr_scheduler_type='linear', model_name='gpt2', n_epochs=1, output_dir='model_1732', random_seed=1732, save_steps=1000, tokenizer_dir=None, train_batch_size=32, warmup_steps=0, weight_decay=0.01)
+2025-05-06 00:18:12,346 - INFO - Random seed set to 1732
+2025-05-06 00:18:13,664 - INFO - Cuda random seed set to 1732
+2025-05-06 00:18:13,773 - INFO - Loading BabyLM Dataset...
+2025-05-06 00:19:54,473 - INFO - Namespace(dropout=0.1, eval_batch_size=128, eval_steps=1000, learning_rate=0.0001, log_dir=None, logging_steps=100, lr_scheduler_type='linear', model_name='gpt2', n_epochs=1, output_dir='model_1732', random_seed=1732, save_steps=1000, tokenizer_dir=None, train_batch_size=32, warmup_steps=0, weight_decay=0.01)
+2025-05-06 00:19:54,473 - INFO - Random seed set to 1732
+2025-05-06 00:19:55,727 - INFO - Cuda random seed set to 1732
+2025-05-06 00:19:55,837 - INFO - Loading BabyLM Dataset...
+2025-05-06 00:22:10,587 - INFO - Namespace(dropout=0.1, eval_batch_size=128, eval_steps=1000, learning_rate=0.0001, log_dir=None, logging_steps=100, lr_scheduler_type='linear', model_name='gpt2', n_epochs=1, output_dir='model_1732', random_seed=1732, save_steps=1000, tokenizer_dir=None, train_batch_size=32, warmup_steps=0, weight_decay=0.01)
+2025-05-06 00:22:10,595 - INFO - Random seed set to 1732
+2025-05-06 00:22:11,435 - INFO - Cuda random seed set to 1732
+2025-05-06 00:22:11,567 - INFO - Loading BabyLM Dataset...
+2025-05-06 00:23:55,127 - INFO - Finished loading BabyLM
+2025-05-06 00:23:56,586 - INFO - Using gpt2_collate_fn with bos_token_id 50256 and eos_token_id 50256
+2025-05-06 00:23:56,834 - INFO - Model size: 124.4M parameters
+2025-05-06 00:23:56,838 - INFO - Epoch 1/1
+2025-05-06 00:24:05,132 - INFO - Step 100: Loss: 4.5207, Learning rate: 0.0001
+2025-05-06 00:24:12,957 - INFO - Step 200: Loss: 2.8199, Learning rate: 0.0001
+2025-05-06 00:24:20,785 - INFO - Step 300: Loss: 3.0400, Learning rate: 0.0001
+2025-05-06 00:24:28,671 - INFO - Step 400: Loss: 3.7383, Learning rate: 0.0001
+2025-05-06 00:24:36,586 - INFO - Step 500: Loss: 3.0873, Learning rate: 0.0001
+2025-05-06 00:24:44,462 - INFO - Step 600: Loss: 2.7871, Learning rate: 0.0001
+2025-05-06 00:24:52,361 - INFO - Step 700: Loss: 2.8320, Learning rate: 0.0001
+2025-05-06 00:25:00,249 - INFO - Step 800: Loss: 2.9297, Learning rate: 0.0001
+2025-05-06 00:25:08,367 - INFO - Step 900: Loss: 2.5252, Learning rate: 0.0001
+2025-05-06 00:25:16,589 - INFO - Step 1000: Loss: 3.4050, Learning rate: 0.0001
+2025-05-06 00:25:24,757 - INFO - Step 1100: Loss: 3.5105, Learning rate: 0.0001

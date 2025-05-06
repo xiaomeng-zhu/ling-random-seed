@@ -19,16 +19,16 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--tokenizer_dir", type=str)
 
 # Training Parameters
-parser.add_argument("--random_seed", type=int, default=42)
+parser.add_argument("--random_seed", type=int, required=True)
 parser.add_argument("--model_name", type=str, default="gpt2")
-parser.add_argument("--train_batch_size", type=int, default=256)
-parser.add_argument("--eval_batch_size", type=int, default=32)
+parser.add_argument("--train_batch_size", type=int, default=32)
+parser.add_argument("--eval_batch_size", type=int, default=128)
 parser.add_argument("--weight_decay", type=float, default=0.01)
 parser.add_argument("--eval_steps", help="Number of training steps to go between evaluations", type=int, default=1000)
 parser.add_argument("--save_steps", type=int, default=1000)
 parser.add_argument("--dropout", help="Dropout", type=float, default=0.1)
 parser.add_argument("--learning_rate", help="Learning rate", type=float, default=0.0001)
-parser.add_argument("--n_epochs", help="Number of training epochs", type=int, default=5)
+parser.add_argument("--n_epochs", help="Number of training epochs", type=int, default=1)
 parser.add_argument("--lr_scheduler_type", help="Learning rate scheduler type (cosine or linear)", type=str, default="linear")
 parser.add_argument("--warmup_steps", help="Number of steps that are warmup", type=int, default=0)
 parser.add_argument("--logging_steps", help="Number of steps to log training progress", type=int, default=100)
@@ -52,11 +52,8 @@ np.random.seed(current_seed)
 torch.manual_seed(current_seed)
 logging.info(f"Random seed set to {current_seed}")
 if torch.cuda.is_available():
-    if not args.cuda:
-        print("WARNING: You have a CUDA device, so you should probably run with --cuda")
-    else:
-        logging.info(f"Cuda random seed set to {current_seed}")
-        torch.cuda.manual_seed(current_seed)
+	logging.info(f"Cuda random seed set to {current_seed}")
+	torch.cuda.manual_seed(current_seed)
 
 
 # Use default GPT2 tokenizer
@@ -80,7 +77,7 @@ class BabyLMDataset:
             ]
         }
         
-        dataset = load_dataset("xmzhu/baby-lm", data_files = data_files)
+        dataset = load_dataset("xmzhu/babylm-strict-small", data_files = data_files)
 
         self.tokenizer = tokenizer
         
@@ -236,6 +233,7 @@ class ModelTrainer:
                 loss.backward()
                 self.optimizer.step()
                 gc.collect()
+                torch.cuda.empty_cache()
 
                 # record number of steps
                 num_step += 1
@@ -249,9 +247,9 @@ class ModelTrainer:
             self.scheduler.step()
 
             # Optional: Evaluate after each epoch
-            if self.test_data:
-                self.evaluate(epoch)
+            if self.dev_data:
                 self.save_model(epoch)
+                self.evaluate()
             
 
     def evaluate(self):
@@ -279,6 +277,7 @@ class ModelTrainer:
 
                 val_loss += loss.item()
                 gc.collect()
+                torch.cuda.empty_cache()
 
         avg_val_loss = val_loss / len(val_loader)
         
@@ -311,6 +310,7 @@ class ModelTrainer:
 
                 test_loss += loss.item()
                 gc.collect()
+                torch.cuda.empty_cache()
 
         avg_test_loss = test_loss / len(test_loader)
         
@@ -341,5 +341,5 @@ model_trainer = ModelTrainer(tokenizer=tokenizer,
                              output_dir=args.output_dir
                             )
 model_trainer.train()
-model_trainer.test()
+# model_trainer.test()
 
