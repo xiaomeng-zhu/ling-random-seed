@@ -44,9 +44,11 @@ logging.info(args)
 def load_tokenizer_model(model_name, random_seed, epoch, pretrained=False):
     if pretrained:
         model = GPT2LMHeadModel.from_pretrained("gpt2")
+        logging.info(f"Loading pretrained gpt2 model")
         tokenizer = GPT2Tokenizer.from_pretrained(model_name)
     else:
         model = GPT2LMHeadModel.from_pretrained(f"model_{random_seed}_epoch{epoch}")
+        logging.info(f"Loading model from model_{random_seed}_epoch{epoch}")
         tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 
     model.to(DEVICE)
