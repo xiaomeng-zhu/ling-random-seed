@@ -1,0 +1,1001 @@
+sentence_good,sentence_bad,field,linguistics_term,UID,simple_LM_method,one_prefix_method,two_prefix_method,lexically_identical,pair_id,good_prob,bad_prob,correct
+Irene had messed up whose rug?,Whose had Irene messed up rug?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,0,-60.02058029174805,-60.230865478515625,1
+Edward has returned to which customers?,Which has Edward returned to customers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,1,-38.29773712158203,-41.01215362548828,1
+Holly is taking which blouse?,Which is Holly taking blouse?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,2,-51.577064514160156,-42.103614807128906,0
+All women had known what teachers?,What had all women known teachers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,3,-43.62491989135742,-40.0123176574707,0
+That truck will hurt which senator?,Which will that truck hurt senator?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,4,-53.24119567871094,-47.74385070800781,0
+Helen did drive to whose glacier?,Whose did Helen drive to glacier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,5,-57.093780517578125,-51.32543182373047,0
+Some documentary has disagreed with what commentaries?,What has some documentary disagreed with commentaries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,6,-68.19351196289062,-68.65547180175781,1
+Cheryl is selling what malls?,What is Cheryl selling malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,7,-72.08929443359375,-44.44629669189453,0
+David would cure what snake?,What would David cure snake?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,8,-35.90983200073242,-40.45874786376953,1
+Theresa did scare which men?,Which did Theresa scare men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,9,-54.573631286621094,-39.52710723876953,0
+Some chairs should embarrass what guys?,What should some chairs embarrass guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,10,-48.57738494873047,-49.28596115112305,1
+This committee can shock which student?,Which can this committee shock student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,11,-56.47367858886719,-48.80730438232422,0
+Jane can discover whose dogs?,Whose can Jane discover dogs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,12,-44.60404968261719,-45.11659240722656,1
+Julia is boycotting what mountain?,What is Julia boycotting mountain?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,13,-62.49737548828125,-52.112022399902344,0
+Carla had argued about what series?,What had Carla argued about series?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,14,-47.47694396972656,-52.90830993652344,1
+Amanda was investigating whose hospitals?,Whose was Amanda investigating hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,15,-49.91838836669922,-48.61644744873047,0
+All actresses are exploring which college campus?,Which are all actresses exploring college campus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,16,-62.23029327392578,-57.084007263183594,0
+Most schools have looked like what drawings?,What have most schools looked like drawings?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,17,-46.43735885620117,-51.842063903808594,1
+April is talking about which movies?,Which is April talking about movies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,18,-36.02165222167969,-32.77431869506836,0
+Tara will fix whose skateboards?,Whose will Tara fix skateboards?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,19,-72.02243041992188,-62.27568054199219,0
+Carla was lifting which pamphlet?,Which was Carla lifting pamphlet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,20,-53.61945343017578,-51.194725036621094,0
+A lot of hats do confuse whose committees?,Whose do a lot of hats confuse committees?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,21,-72.20597076416016,-60.21613311767578,0
+Tina might boast about whose bases?,Whose might Tina boast about bases?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,22,-72.48213195800781,-63.40411376953125,0
+A woman had concealed whose skateboards?,Whose had a woman concealed skateboards?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,23,-73.64117431640625,-57.887474060058594,0
+Caroline has worried what people?,What has Caroline worried people?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,24,-39.05415725708008,-41.97254943847656,1
+Galileo will sound like which woman?,Which will Galileo sound like woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,25,-58.59685516357422,-49.96882629394531,0
+Those actresses will love which movies?,Which will those actresses love movies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,26,-49.92575454711914,-47.74856185913086,0
+Peter did run around whose museum?,Whose did Peter run around museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,27,-49.17882537841797,-47.580718994140625,0
+Lucille was wearing which scarf?,Which was Lucille wearing scarf?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,28,-55.243751525878906,-46.857242584228516,0
+Monet has aggravated what waitresses?,What has Monet aggravated waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,29,-70.34317779541016,-66.7315902709961,0
+Most gloves might disturb what women?,What might most gloves disturb women?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,30,-49.431190490722656,-52.903900146484375,1
+Kayla has attacked which patients?,Which has Kayla attacked patients?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,31,-50.98249816894531,-50.10273742675781,0
+Spain had worked with what doctors?,What had Spain worked with doctors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,32,-38.79903793334961,-44.25830078125,1
+Guy should explore which oasis?,Which should Guy explore oasis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,33,-52.410926818847656,-55.304237365722656,1
+The Lutherans do boast about what person?,What do the Lutherans boast about person?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,34,-64.19221496582031,-63.99957275390625,0
+A waiter was thinking about which horses?,Which was a waiter thinking about horses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,35,-57.14357376098633,-38.96849822998047,0
+The Balkans could shock what doctors?,What could the Balkans shock doctors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,36,-56.59313201904297,-51.427955627441406,0
+Many children can annoy what children?,What can many children annoy children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,37,-38.40313720703125,-40.07942199707031,1
+Laurie might criticize what brochures?,What might Laurie criticize brochures?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,38,-72.2129135131836,-63.535438537597656,0
+Denise had known what boy?,What had Denise known boy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,39,-42.10092544555664,-45.562530517578125,1
+Deanna has hidden which lamp?,Which has Deanna hidden lamp?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,40,-52.448570251464844,-50.09656524658203,0
+Most cakes should upset what school?,What should most cakes upset school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,41,-44.480308532714844,-48.167694091796875,1
+A movie could disagree with which lady?,Which could a movie disagree with lady?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,42,-59.20367431640625,-48.335567474365234,0
+This student had investigated which guest?,Which had this student investigated guest?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,43,-54.0300178527832,-47.168704986572266,0
+Deborah would impress which senator?,Which would Deborah impress senator?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,44,-54.42413330078125,-49.09931182861328,0
+Todd was complaining about which guy?,Which was Todd complaining about guy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,45,-37.080360412597656,-43.634864807128906,1
+Curtis has dropped by whose mountains?,Whose has Curtis dropped by mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,46,-69.96297454833984,-51.610015869140625,0
+Bradley is hiding which lights?,Which is Bradley hiding lights?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,47,-42.344505310058594,-42.28388214111328,0
+A lot of grocery stores could disgust what patients?,What could a lot of grocery stores disgust patients?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,48,-80.98786163330078,-63.638275146484375,0
+Those dancers can disagree with what newspaper article?,What can those dancers disagree with newspaper article?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,49,-59.37593078613281,-65.14762115478516,1
+Lisa can love which dancers?,Which can Lisa love dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,50,-43.842628479003906,-42.20819854736328,0
+Catherine should hate which synopsis?,Which should Catherine hate synopsis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,51,-69.1802978515625,-53.67338180541992,0
+Richard was buying whose octopus?,Whose was Richard buying octopus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,52,-45.267967224121094,-47.988800048828125,1
+Julie is disturbing what cashiers?,What is Julie disturbing cashiers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,53,-52.20267868041992,-45.58489227294922,0
+Every waiter was arriving at whose hill?,Whose was every waiter arriving at hill?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,54,-56.865379333496094,-59.735321044921875,1
+Some bicycles were confusing which senator?,Which were some bicycles confusing senator?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,55,-60.11528396606445,-53.415184020996094,0
+Debra was examining whose books?,Whose was Debra examining books?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,56,-46.38819122314453,-51.02592468261719,1
+Brett has investigated which customer?,Which has Brett investigated customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,57,-68.39096069335938,-47.84169387817383,0
+Victoria has cleaned what candles?,What has Victoria cleaned candles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,58,-38.64631271362305,-43.904624938964844,1
+Bill should dislike what pedestrians?,What should Bill dislike pedestrians?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,59,-44.0640754699707,-44.62451171875,1
+Marla has brought what lake?,What has Marla brought lake?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,60,-44.6104850769043,-45.15287780761719,1
+Thomas does exit whose public park?,Whose does Thomas exit public park?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,61,-52.27409362792969,-50.41381072998047,0
+Christine might observe which doctor?,Which might Christine observe doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,62,-53.195335388183594,-50.19342041015625,0
+Claire was visiting which doctor?,Which was Claire visiting doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,63,-47.96812057495117,-37.93943786621094,0
+Linda has thought about what mushrooms?,What has Linda thought about mushrooms?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,64,-50.95631408691406,-40.29964828491211,0
+Tina can stun what men?,What can Tina stun men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,65,-66.09117889404297,-49.51422119140625,0
+Edward could kiss which actress?,Which could Edward kiss actress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,66,-44.34191131591797,-44.378273010253906,1
+Caroline is praising which alumnus?,Which is Caroline praising alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,67,-70.70872497558594,-59.61799621582031,0
+Candice will run around which schools?,Which will Candice run around schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,68,-48.590660095214844,-50.98609161376953,1
+Sabrina had dropped by what high schools?,What had Sabrina dropped by high schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,69,-54.83064651489258,-62.157814025878906,1
+The museums are stunning whose universities?,Whose are the museums stunning universities?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,70,-54.11317443847656,-51.42121505737305,0
+Some doctor is selling whose tomato?,Whose is some doctor selling tomato?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,71,-48.41465377807617,-46.754241943359375,0
+Bradley is thinking about what box?,What is Bradley thinking about box?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,72,-34.435462951660156,-36.4761962890625,1
+The books had worried what teacher?,What had the books worried teacher?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,73,-46.93321228027344,-42.05229187011719,0
+Kenneth has attacked which alumni?,Which has Kenneth attacked alumni?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,74,-59.17184066772461,-49.127464294433594,0
+A boy might run around whose oases?,Whose might a boy run around oases?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,75,-77.52137756347656,-64.97306823730469,0
+Diane has worn whose shawls?,Whose has Diane worn shawls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,76,-71.149658203125,-60.248233795166016,0
+Marla has noticed which bread?,Which has Marla noticed bread?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,77,-46.48066711425781,-48.45912170410156,1
+Caroline is arguing about which customer?,Which is Caroline arguing about customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,78,-52.45708084106445,-44.37355041503906,0
+Marla might hug which woman?,Which might Marla hug woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,79,-49.12635803222656,-53.2772216796875,1
+Those dancers had respected what art galleries?,What had those dancers respected art galleries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,80,-60.399070739746094,-56.99127197265625,0
+Benjamin was researching whose books?,Whose was Benjamin researching books?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,81,-53.12957763671875,-44.042877197265625,0
+Phillip will watch what waitresses?,What will Phillip watch waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,82,-52.86436462402344,-57.34170913696289,1
+Paula can bike to which schools?,Which can Paula bike to schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,83,-53.57808303833008,-48.61335754394531,0
+Monet does take what deer?,What does Monet take deer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,84,-49.12931823730469,-46.30628967285156,0
+Melanie was skated around what closet?,What was Melanie skated around closet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,85,-58.837310791015625,-55.55997085571289,0
+Lucille had arrived at whose movie theater?,Whose had Lucille arrived at movie theater?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,86,-64.5732421875,-65.79104614257812,1
+This actor is touring what oasis?,What is this actor touring oasis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,87,-56.03075408935547,-48.78569793701172,0
+Kayla has remembered which brochure?,Which has Kayla remembered brochure?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,88,-62.01835250854492,-66.1429672241211,1
+Victoria could talk to which doctor?,Which could Victoria talk to doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,89,-38.93191146850586,-40.853515625,1
+That teacher will aggravate what alumnus?,What will that teacher aggravate alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,90,-73.25081634521484,-73.47250366210938,1
+Carol had listened to which students?,Which had Carol listened to students?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,91,-51.129547119140625,-43.463531494140625,0
+Larry is observing which woman?,Which is Larry observing woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,92,-40.62621307373047,-39.204933166503906,0
+April will climb up which slope?,Which will April climb up slope?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,93,-50.32181930541992,-52.71394729614258,1
+Jacqueline might astound what government?,What might Jacqueline astound government?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,94,-66.0601806640625,-66.00950622558594,0
+Diane has known what guys?,What has Diane known guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,95,-49.4510612487793,-38.149497985839844,0
+Some men were revealing what children?,What were some men revealing children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,96,-41.40986633300781,-43.3021240234375,1
+Rodney has hidden which actors?,Which has Rodney hidden actors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,97,-47.26393127441406,-45.876365661621094,0
+Every window would bother what committees?,What would every window bother committees?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,98,-49.38116455078125,-52.94267654418945,1
+George is scanning what essay?,What is George scanning essay?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,99,-43.952423095703125,-40.29792022705078,0
+Daniel was observing what men?,What was Daniel observing men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,100,-42.80266571044922,-37.58481216430664,0
+The Clintons have talked to what men?,What have the Clintons talked to men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,101,-56.08889389038086,-49.73744201660156,0
+Some libraries could praise what play?,What could some libraries praise play?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,102,-50.735069274902344,-53.349822998046875,1
+Claire might hide whose rivers?,Whose might Claire hide rivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,103,-54.588966369628906,-48.476585388183594,0
+Kimberley might disgust whose committee?,Whose might Kimberley disgust committee?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,104,-65.53974914550781,-72.07597351074219,1
+Joel was descending what steps?,What was Joel descending steps?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,105,-49.29150390625,-42.54689407348633,0
+Benjamin has remembered whose lake?,Whose has Benjamin remembered lake?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,106,-55.0946159362793,-48.80144500732422,0
+Danielle might fire what children?,What might Danielle fire children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,107,-49.06482696533203,-45.60438537597656,0
+Scott has cared for which student?,Which has Scott cared for student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,108,-40.61418914794922,-42.8824577331543,1
+Carl might hide what newspaper article?,What might Carl hide newspaper article?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,109,-53.10966873168945,-59.957759857177734,1
+These mushrooms had looked like whose prints?,Whose had these mushrooms looked like prints?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,110,-58.74170684814453,-56.44132995605469,0
+Tina was describing which boys?,Which was Tina describing boys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,111,-61.6318359375,-40.832462310791016,0
+Diana had lifted which shawl?,Which had Diana lifted shawl?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,112,-71.99530029296875,-59.60829162597656,0
+A lot of trucks do embarrass which cashiers?,Which do a lot of trucks embarrass cashiers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,113,-77.20191192626953,-62.08805847167969,0
+Candice would boast about what waitresses?,What would Candice boast about waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,114,-65.60371398925781,-71.15737915039062,1
+Skateboards did upset what organization?,What did skateboards upset organization?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,115,-53.221229553222656,-51.61532211303711,0
+Lisa did kiss what guys?,What did Lisa kiss guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,116,-38.102996826171875,-36.826744079589844,0
+Carl is thinking about whose apples?,Whose is Carl thinking about apples?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,117,-44.14698028564453,-43.454139709472656,0
+Nina should visit what cafe?,What should Nina visit cafe?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,118,-53.49038314819336,-47.51301193237305,0
+These dresses are astounding which guest?,Which are these dresses astounding guest?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,119,-51.79833221435547,-49.93329620361328,0
+Sara has climbed up which ladders?,Which has Sara climbed up ladders?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,120,-69.23503112792969,-53.3436279296875,0
+Every waitress has astounded what drivers?,What has every waitress astounded drivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,121,-64.77815246582031,-61.269737243652344,0
+Alan is talking about whose essay?,Whose is Alan talking about essay?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,122,-38.7896728515625,-40.620849609375,1
+Caroline had brought what gloves?,What had Caroline brought gloves?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,123,-44.66678237915039,-42.87268829345703,0
+Deborah should see which movie theater?,Which should Deborah see movie theater?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,124,-54.03663635253906,-52.3740234375,0
+Tiffany can investigate which museums?,Which can Tiffany investigate museums?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,125,-68.21427154541016,-48.850685119628906,0
+Frank would cure which rabbits?,Which would Frank cure rabbits?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,126,-43.462467193603516,-45.445274353027344,1
+This committee had bothered what hospitals?,What had this committee bothered hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,127,-52.80986404418945,-51.128604888916016,0
+Theresa does wear which sweaters?,Which does Theresa wear sweaters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,128,-58.17858123779297,-41.81269073486328,0
+Sally is fleeing from what waitress?,What is Sally fleeing from waitress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,129,-63.40654373168945,-48.3721923828125,0
+Sherry was looking like whose sketch?,Whose was Sherry looking like sketch?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,130,-65.20000457763672,-56.11922073364258,0
+Amelia was looking like which photographs?,Which was Amelia looking like photographs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,131,-53.68333435058594,-45.635372161865234,0
+Ann was thinking about what customer?,What was Ann thinking about customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,132,-36.8654670715332,-34.35050964355469,0
+Some customer can scan what essays?,What can some customer scan essays?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,133,-52.66787338256836,-52.93030548095703,1
+Valerie has passed whose river?,Whose has Valerie passed river?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,134,-53.32477951049805,-50.531097412109375,0
+Brett is disgusting what pedestrians?,What is Brett disgusting pedestrians?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,135,-67.4670181274414,-45.806640625,0
+Paul has toured whose restaurants?,Whose has Paul toured restaurants?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,136,-43.07756042480469,-44.73894500732422,1
+Some cakes are impressing whose government?,Whose are some cakes impressing government?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,137,-51.03242492675781,-57.35319137573242,1
+Frank did fire which ladies?,Which did Frank fire ladies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,138,-46.26002883911133,-39.17461013793945,0
+These ladies had cared for which driver?,Which had these ladies cared for driver?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,139,-53.282928466796875,-48.869964599609375,0
+April will complain about which means?,Which will April complain about means?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,140,-39.61510467529297,-46.91663360595703,1
+Kristen had thought about which convertibles?,Which had Kristen thought about convertibles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,141,-66.05748748779297,-70.06339263916016,1
+Carl has cleaned whose museum?,Whose has Carl cleaned museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,142,-44.000343322753906,-49.970096588134766,1
+Regina had investigated what driver?,What had Regina investigated driver?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,143,-49.46904754638672,-50.73722839355469,1
+Suzanne was watching what actresses?,What was Suzanne watching actresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,144,-45.86124038696289,-43.30097198486328,0
+Melissa is describing whose essay?,Whose is Melissa describing essay?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,145,-52.62693786621094,-48.08219909667969,0
+Scott would flee from what lady?,What would Scott flee from lady?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,146,-44.058807373046875,-50.27653503417969,1
+Joseph was lifting what coat?,What was Joseph lifting coat?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,147,-38.58207321166992,-38.23566436767578,0
+Lucille was cleaning which dishes?,Which was Lucille cleaning dishes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,148,-56.35295486450195,-45.73167419433594,0
+That glacier is alarming which alumni?,Which is that glacier alarming alumni?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,149,-65.7984848022461,-53.285057067871094,0
+Stephanie had criticized what senators?,What had Stephanie criticized senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,150,-54.65727233886719,-52.19576644897461,0
+Tammy had lifted whose pamphlet?,Whose had Tammy lifted pamphlet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,151,-53.683380126953125,-57.76170349121094,1
+Noah was talking about what banks?,What was Noah talking about banks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,152,-45.54430389404297,-36.779842376708984,0
+Lucille can observe what waiters?,What can Lucille observe waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,153,-56.505863189697266,-60.44145584106445,1
+Craig was descending which ladders?,Which was Craig descending ladders?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,154,-53.23072814941406,-53.8131217956543,1
+Tina would complain about what plays?,What would Tina complain about plays?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,155,-54.56736373901367,-48.01460647583008,0
+Richard was breaking what skateboards?,What was Richard breaking skateboards?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,156,-51.24675750732422,-46.47710037231445,0
+Danielle had broken whose couches?,Whose had Danielle broken couches?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,157,-59.193538665771484,-57.038475036621094,0
+Most horses were embarrassing which patients?,Which were most horses embarrassing patients?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,158,-52.16756820678711,-50.401737213134766,0
+This broccoli is stunning which offspring?,Which is this broccoli stunning offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,159,-59.122066497802734,-48.86253356933594,0
+Nancy does hug which people?,Which does Nancy hug people?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,160,-50.65185546875,-37.031124114990234,0
+Every man had toured whose cafe?,Whose had every man toured cafe?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,161,-55.12763977050781,-56.13858413696289,1
+Some bread was worrying which alumni?,Which was some bread worrying alumni?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,162,-55.91133499145508,-52.67719268798828,0
+Anna was astounding which men?,Which was Anna astounding men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,163,-43.957916259765625,-42.293373107910156,0
+That car had confused what governments?,What had that car confused governments?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,164,-51.00898742675781,-46.14289093017578,0
+Sara was dropping by which library?,Which was Sara dropping by library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,165,-59.453147888183594,-45.89311981201172,0
+Travis is finding what senators?,What is Travis finding senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,166,-63.12458801269531,-45.51466369628906,0
+Homer does descend what ladders?,What does Homer descend ladders?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,167,-66.22306823730469,-53.620304107666016,0
+Those movie theaters were scaring whose library?,Whose were those movie theaters scaring library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,168,-65.75390625,-67.51739501953125,1
+Laurie had concealed whose brochures?,Whose had Laurie concealed brochures?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,169,-77.03636932373047,-64.32701110839844,0
+Margaret was approaching which waiter?,Which was Margaret approaching waiter?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,170,-46.36955261230469,-41.64509201049805,0
+Monica did fire what customer?,What did Monica fire customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,171,-48.58451843261719,-41.20732879638672,0
+The rabbits had distracted which actresses?,Which had the rabbits distracted actresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,172,-58.64923095703125,-48.03663635253906,0
+Tiffany did drop by whose cafe?,Whose did Tiffany drop by cafe?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,173,-77.19039916992188,-56.10884094238281,0
+The patients are worrying which students?,Which are the patients worrying students?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,174,-49.00904846191406,-41.20357131958008,0
+All teachers did appreciate what men?,What did all teachers appreciate men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,175,-45.40882110595703,-43.06411361694336,0
+John would love what essays?,What would John love essays?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,176,-37.73164749145508,-41.5511589050293,1
+This boy has discovered which icicle?,Which has this boy discovered icicle?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,177,-58.647064208984375,-55.87517547607422,0
+Brad has astounded which patients?,Which has Brad astounded patients?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,178,-55.7716064453125,-53.143470764160156,0
+Most rabbits have confused what men?,What have most rabbits confused men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,179,-47.635894775390625,-50.21765899658203,1
+Dawn could visit which art galleries?,Which could Dawn visit art galleries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,180,-66.02212524414062,-53.177955627441406,0
+Steve would appreciate what museums?,What would Steve appreciate museums?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,181,-39.524932861328125,-42.97026824951172,1
+Clyde would think about what hill?,What would Clyde think about hill?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,182,-69.21328735351562,-44.583457946777344,0
+Colleen had returned to what patients?,What had Colleen returned to patients?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,183,-49.984275817871094,-52.867271423339844,1
+Craig had fired which guest?,Which had Craig fired guest?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,184,-42.24593734741211,-45.86018753051758,1
+That drawing has looked like what stimuli?,What has that drawing looked like stimuli?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,185,-61.201324462890625,-53.41278076171875,0
+Mark will lift which glove?,Which will Mark lift glove?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,186,-44.829978942871094,-46.23945999145508,1
+Some woman could criticize what person?,What could some woman criticize person?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,187,-42.0411491394043,-45.840553283691406,1
+Kenneth is talking about whose commentaries?,Whose is Kenneth talking about commentaries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,188,-60.262657165527344,-52.03688049316406,0
+Galileo could dislike which movie theaters?,Which could Galileo dislike movie theaters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,189,-71.24980926513672,-62.82081604003906,0
+Deanna did aggravate what doctor?,What did Deanna aggravate doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,190,-57.512977600097656,-55.91419219970703,0
+Winston Churchill would upset what women?,What would Winston Churchill upset women?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,191,-52.718467712402344,-53.708221435546875,1
+Winston Churchill can kiss what child?,What can Winston Churchill kiss child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,192,-53.62846374511719,-52.4107780456543,0
+Samantha is curing what men?,What is Samantha curing men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,193,-65.28816223144531,-40.00148391723633,0
+Susan is concealing which child?,Which is Susan concealing child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,194,-49.99188232421875,-47.111915588378906,0
+A lake did disgust which dancers?,Which did a lake disgust dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,195,-69.85821533203125,-47.49299621582031,0
+Adam does drive to what mountains?,What does Adam drive to mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,196,-41.344970703125,-37.621803283691406,0
+A lot of hamsters are impressing what drivers?,What are a lot of hamsters impressing drivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,197,-78.1612548828125,-64.48516082763672,0
+Debra had listened to what waitress?,What had Debra listened to waitress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,198,-48.0997314453125,-54.847660064697266,1
+Kathleen was wearing what skirts?,What was Kathleen wearing skirts?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,199,-63.34783935546875,-44.1727180480957,0
+A lot of women do sound like which alumnus?,Which do a lot of women sound like alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,200,-77.07682800292969,-62.47026824951172,0
+That waitress might criticize which students?,Which might that waitress criticize students?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,201,-59.20078659057617,-51.968780517578125,0
+Stephanie was questioning which cashier?,Which was Stephanie questioning cashier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,202,-60.36001205444336,-52.2486686706543,0
+A lot of screens are alarming what actresses?,What are a lot of screens alarming actresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,203,-70.54568481445312,-56.38616180419922,0
+Every lady has discovered whose committees?,Whose has every lady discovered committees?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,204,-47.00425720214844,-56.13958740234375,1
+Lucille had messed up what gloves?,What had Lucille messed up gloves?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,205,-53.62010955810547,-53.21040725708008,0
+Laura is passing whose restaurant?,Whose is Laura passing restaurant?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,206,-40.449180603027344,-42.260032653808594,1
+Every lady had seen which octopus?,Which had every lady seen octopus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,207,-51.23247528076172,-51.095176696777344,0
+Cindy is boring what men?,What is Cindy boring men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,208,-56.48024368286133,-35.584007263183594,0
+Some government was insulting which child?,Which was some government insulting child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,209,-49.466766357421875,-43.75474548339844,0
+Winston Churchill can question what dancer?,What can Winston Churchill question dancer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,210,-56.495635986328125,-56.25950241088867,0
+Kenneth should wear whose skirts?,Whose should Kenneth wear skirts?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,211,-57.106143951416016,-49.34457778930664,0
+Homer was complaining about which commentaries?,Which was Homer complaining about commentaries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,212,-70.03302001953125,-59.096778869628906,0
+A dancer had looked like whose drawings?,Whose had a dancer looked like drawings?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,213,-67.35564422607422,-53.651145935058594,0
+These paintings should look like what waiters?,What should these paintings look like waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,214,-56.3262825012207,-53.8453483581543,0
+Theresa had run around whose banks?,Whose had Theresa run around banks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,215,-56.43658447265625,-52.89047622680664,0
+Samantha is boasting about what men?,What is Samantha boasting about men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,216,-71.80335998535156,-47.573463439941406,0
+Elaine has admired which peppers?,Which has Elaine admired peppers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,217,-58.009307861328125,-47.41913604736328,0
+Linda is talking to which guy?,Which is Linda talking to guy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,218,-47.60652160644531,-36.196258544921875,0
+Some pedestrian could conceal which customers?,Which could some pedestrian conceal customers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,219,-57.91114807128906,-52.183311462402344,0
+Theresa could climb up what slope?,What could Theresa climb up slope?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,220,-55.13069152832031,-51.832149505615234,0
+Christina has ascended whose slopes?,Whose has Christina ascended slopes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,221,-57.50130844116211,-56.79616928100586,0
+Guy has walked through which closet?,Which has Guy walked through closet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,222,-41.30194091796875,-49.545997619628906,1
+Regina was approaching what girl?,What was Regina approaching girl?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,223,-45.579280853271484,-42.19078063964844,0
+A print was looking like what pamphlet?,What was a print looking like pamphlet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,224,-66.73804473876953,-50.18781661987305,0
+Liam was scanning whose report?,Whose was Liam scanning report?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,225,-59.65509796142578,-50.038856506347656,0
+Diane had astounded which doctor?,Which had Diane astounded doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,226,-67.62635803222656,-52.543251037597656,0
+Kirsten had listened to which alumnus?,Which had Kirsten listened to alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,227,-76.22421264648438,-67.99403381347656,0
+Some guy was taking which sock?,Which was some guy taking sock?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,228,-45.66953659057617,-43.91649627685547,0
+Mark had observed what pedestrian?,What had Mark observed pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,229,-44.317588806152344,-48.546966552734375,1
+Laura has sounded like what plays?,What has Laura sounded like plays?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,230,-34.478660583496094,-41.46092224121094,1
+That hospital was boasting about what child?,What was that hospital boasting about child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,231,-57.78691864013672,-49.11705780029297,0
+The cashier might disturb which organization?,Which might the cashier disturb organization?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,232,-62.67632293701172,-59.439056396484375,0
+Sheila was dropping by which mall?,Which was Sheila dropping by mall?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,233,-53.380340576171875,-44.87842559814453,0
+Diane does forget whose story?,Whose does Diane forget story?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,234,-56.950096130371094,-45.38639831542969,0
+Timothy can shock which library?,Which can Timothy shock library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,235,-53.342002868652344,-47.08995819091797,0
+Omar might hug which alumnus?,Which might Omar hug alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,236,-74.94904327392578,-72.68345642089844,0
+Joel has attacked which senator?,Which has Joel attacked senator?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,237,-55.259796142578125,-46.56858825683594,0
+Larry will skate around what mountains?,What will Larry skate around mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,238,-46.69464111328125,-50.31065368652344,1
+Stacey will alarm what waitresses?,What will Stacey alarm waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,239,-68.62605285644531,-66.94107055664062,0
+This jacket can confuse which pedestrian?,Which can this jacket confuse pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,240,-56.777984619140625,-50.199684143066406,0
+Samuel has alarmed which guys?,Which has Samuel alarmed guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,241,-52.341270446777344,-45.32011413574219,0
+William is praising which patients?,Which is William praising patients?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,242,-49.42467498779297,-38.97303009033203,0
+Some bananas had scared which waiter?,Which had some bananas scared waiter?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,243,-53.393348693847656,-46.74526596069336,0
+Noah was running around what high schools?,What was Noah running around high schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,244,-55.4659423828125,-44.879371643066406,0
+Paul had cared for which guys?,Which had Paul cared for guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,245,-41.459197998046875,-38.87023162841797,0
+Meredith is descending whose slopes?,Whose is Meredith descending slopes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,246,-67.90282440185547,-55.457035064697266,0
+Steve did tour what high school?,What did Steve tour high school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,247,-38.364349365234375,-36.337486267089844,0
+A skateboard had upset which pedestrians?,Which had a skateboard upset pedestrians?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,248,-73.25828552246094,-57.6490592956543,0
+Randolf is hugging what senator?,What is Randolf hugging senator?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,249,-52.69973373413086,-52.61952209472656,0
+Bill did go to what art galleries?,What did Bill go to art galleries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,250,-48.40395736694336,-44.512996673583984,0
+Sabrina was revealing whose mouths?,Whose was Sabrina revealing mouths?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,251,-57.85946273803711,-65.62264251708984,1
+The hospital had appreciated which man?,Which had the hospital appreciated man?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,252,-51.35553741455078,-41.810516357421875,0
+Stephanie is escaping from which actor?,Which is Stephanie escaping from actor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,253,-51.94032287597656,-43.93226623535156,0
+A teenager can conceal which analyses?,Which can a teenager conceal analyses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,254,-67.31700897216797,-51.88713836669922,0
+Mark was wearing whose gloves?,Whose was Mark wearing gloves?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,255,-42.005218505859375,-40.79166030883789,0
+Angela had kissed what guys?,What had Angela kissed guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,256,-43.046875,-40.62289047241211,0
+Catherine was curing what lice?,What was Catherine curing lice?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,257,-62.691898345947266,-47.832115173339844,0
+A lot of drivers were arguing about what boy?,What were a lot of drivers arguing about boy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,258,-63.218692779541016,-53.77233123779297,0
+Timothy was revealing which rabbit?,Which was Timothy revealing rabbit?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,259,-49.830753326416016,-46.32212829589844,0
+Derek is embarrassing what offspring?,What is Derek embarrassing offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,260,-58.612144470214844,-39.40534973144531,0
+Nina would love whose commentaries?,Whose would Nina love commentaries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,261,-63.833560943603516,-60.856292724609375,0
+Paula has revealed whose skirt?,Whose has Paula revealed skirt?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,262,-52.162498474121094,-51.402061462402344,0
+Jerry might describe what customer?,What might Jerry describe customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,263,-38.43019104003906,-44.55805206298828,1
+Ann could insult whose museums?,Whose could Ann insult museums?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,264,-53.269813537597656,-51.17005920410156,0
+Melissa might ascend which stairs?,Which might Melissa ascend stairs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,265,-59.47265625,-52.84097671508789,0
+April was astounding which actress?,Which was April astounding actress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,266,-47.284915924072266,-43.00274658203125,0
+Patricia had bought whose snake?,Whose had Patricia bought snake?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,267,-53.171234130859375,-45.33793640136719,0
+Steve has impressed whose companies?,Whose has Steve impressed companies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,268,-39.94466781616211,-44.0517578125,1
+Carolyn had boasted about which actors?,Which had Carolyn boasted about actors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,269,-59.19207000732422,-54.15733337402344,0
+Helen would conceal which analyses?,Which would Helen conceal analyses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,270,-53.74720001220703,-50.28419494628906,0
+Alicia will walk through whose river?,Whose will Alicia walk through river?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,271,-68.07137298583984,-55.16615295410156,0
+Jodi has worn whose skirt?,Whose has Jodi worn skirt?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,272,-59.29340362548828,-56.461185455322266,0
+Christine might find whose wheelbarrow?,Whose might Christine find wheelbarrow?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,273,-69.82075500488281,-70.0036392211914,1
+Some customers might respect what waiters?,What might some customers respect waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,274,-57.055885314941406,-60.66312026977539,1
+Amanda is firing what person?,What is Amanda firing person?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,275,-44.707374572753906,-34.060760498046875,0
+This actor would worry which man?,Which would this actor worry man?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,276,-46.8784065246582,-46.006065368652344,0
+Gina does describe what boys?,What does Gina describe boys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,277,-55.04032516479492,-36.29533386230469,0
+Tamara had observed which doctor?,Which had Tamara observed doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,278,-52.196800231933594,-54.76081085205078,1
+Some adults are lifting what window?,What are some adults lifting window?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,279,-42.14697265625,-42.33592987060547,1
+Galileo had researched what lake?,What had Galileo researched lake?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,280,-61.839115142822266,-56.762847900390625,0
+Benjamin has loved what cashier?,What has Benjamin loved cashier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,281,-57.03903579711914,-48.369754791259766,0
+Jessica is lifting whose mushrooms?,Whose is Jessica lifting mushrooms?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,282,-44.06348419189453,-44.12898254394531,1
+Adam has argued about what offspring?,What has Adam argued about offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,283,-43.494834899902344,-45.54582214355469,1
+Stacey had seen whose movie theater?,Whose had Stacey seen movie theater?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,284,-61.214115142822266,-63.95241928100586,1
+Randolf could escape from what public parks?,What could Randolf escape from public parks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,285,-56.4129524230957,-64.37699890136719,1
+That customer can heal what louse?,What can that customer heal louse?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,286,-57.457984924316406,-55.967811584472656,0
+Michael is hurting which ladies?,Which is Michael hurting ladies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,287,-42.055118560791016,-35.33966827392578,0
+Connie might hug what students?,What might Connie hug students?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,288,-47.47269821166992,-48.46917724609375,1
+Heidi is concealing whose essay?,Whose is Heidi concealing essay?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,289,-70.85555267333984,-61.28044128417969,0
+The Impressionists had worn what sock?,What had the Impressionists worn sock?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,290,-70.25468444824219,-66.86103820800781,0
+All blouses have stunned what customers?,What have all blouses stunned customers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,291,-61.52691650390625,-60.50322723388672,0
+Martha would lift whose broccoli?,Whose would Martha lift broccoli?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,292,-52.00846862792969,-52.60191345214844,1
+Charles is working with which man?,Which is Charles working with man?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,293,-34.44551467895508,-35.385780334472656,1
+Doctors had bought which dog?,Which had doctors bought dog?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,294,-39.21318817138672,-35.17017364501953,0
+Brian had hated what adult?,What had Brian hated adult?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,295,-41.064735412597656,-42.83456039428711,1
+James had astounded what cashier?,What had James astounded cashier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,296,-60.36048126220703,-57.16649627685547,0
+Some guests are concealing which patient?,Which are some guests concealing patient?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,297,-57.54528045654297,-57.08869934082031,0
+A guest can return to whose hospitals?,Whose can a guest return to hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,298,-60.83218002319336,-47.93429946899414,0
+All ladders could disturb what governments?,What could all ladders disturb governments?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,299,-60.67365264892578,-60.55086135864258,0
+Natalie had attacked what waitress?,What had Natalie attacked waitress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,300,-53.15434265136719,-47.68834686279297,0
+Nancy is annoying what people?,What is Nancy annoying people?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,301,-43.907005310058594,-35.18309783935547,0
+The Clintons were stunning which senators?,Which were the Clintons stunning senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,302,-70.65151977539062,-57.76968002319336,0
+Kevin does cure which pedestrian?,Which does Kevin cure pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,303,-46.04325866699219,-41.11137390136719,0
+Victoria was going to which school?,Which was Victoria going to school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,304,-31.286563873291016,-31.294681549072266,1
+Julie might clean what fork?,What might Julie clean fork?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,305,-49.090736389160156,-48.747249603271484,0
+Christina had broken what tooth?,What had Christina broken tooth?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,306,-44.31047439575195,-46.118038177490234,1
+Denise will have whose pictures?,Whose will Denise have pictures?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,307,-41.43941879272461,-46.76699447631836,1
+Alexander is dropping by whose public parks?,Whose is Alexander dropping by public parks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,308,-49.051483154296875,-52.02991485595703,1
+These fish are ascending which stairs?,Which are these fish ascending stairs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,309,-46.83373260498047,-41.332611083984375,0
+Douglas is astounding what child?,What is Douglas astounding child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,310,-49.46577453613281,-39.70360565185547,0
+Carl had exited what hill?,What had Carl exited hill?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,311,-45.689186096191406,-47.274192810058594,1
+Jacqueline was concealing which boy?,Which was Jacqueline concealing boy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,312,-64.6381607055664,-59.24146270751953,0
+Brian was boasting about what alumnus?,What was Brian boasting about alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,313,-61.61998748779297,-62.4665412902832,1
+Brett is kissing which doctor?,Which is Brett kissing doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,314,-65.68262481689453,-42.16779708862305,0
+Andrew should visit which children?,Which should Andrew visit children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,315,-36.53548049926758,-41.538387298583984,1
+Tiffany is watching which adult?,Which is Tiffany watching adult?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,316,-62.07072830200195,-42.94060516357422,0
+Diane does bring whose windows?,Whose does Diane bring windows?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,317,-58.970741271972656,-44.221282958984375,0
+Some drivers have bored which waitress?,Which have some drivers bored waitress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,318,-53.410911560058594,-53.021095275878906,0
+Andrea has hugged what dancer?,What has Andrea hugged dancer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,319,-53.30799865722656,-45.499664306640625,0
+Helen is annoying what man?,What is Helen annoying man?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,320,-39.504730224609375,-35.044952392578125,0
+A lot of dancers had embarrassed what pedestrian?,What had a lot of dancers embarrassed pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,321,-71.9029769897461,-55.08777618408203,0
+Gregory could break what computers?,What could Gregory break computers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,322,-45.292869567871094,-42.4196662902832,0
+That senator could think about what face?,What could that senator think about face?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,323,-48.18314743041992,-50.529266357421875,1
+Steve has investigated which cashiers?,Which has Steve investigated cashiers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,324,-52.16635513305664,-50.84404373168945,0
+Wendy has descended what ladders?,What has Wendy descended ladders?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,325,-60.655967712402344,-55.278358459472656,0
+A lady might bike to whose art gallery?,Whose might a lady bike to art gallery?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,326,-76.07563781738281,-66.82347106933594,0
+This jacket can annoy what doctor?,What can this jacket annoy doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,327,-48.85211944580078,-48.411136627197266,0
+Rebecca is hiding what actors?,What is Rebecca hiding actors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,328,-45.26996612548828,-38.22686767578125,0
+Some dancer had worked with which customer?,Which had some dancer worked with customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,329,-51.60243225097656,-47.17756271362305,0
+The casseroles did alarm which actresses?,Which did the casseroles alarm actresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,330,-74.92607879638672,-61.84883117675781,0
+Becky should fix what screen?,What should Becky fix screen?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,331,-42.378257751464844,-42.65167236328125,1
+Sara has insulted what stories?,What has Sara insulted stories?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,332,-54.67566680908203,-39.032936096191406,0
+Thomas should find which truck?,Which should Thomas find truck?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,333,-38.603145599365234,-39.49165344238281,1
+Omar has thought about which synopsis?,Which has Omar thought about synopsis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,334,-62.271629333496094,-58.7500114440918,0
+Dawn would bike to whose hospitals?,Whose would Dawn bike to hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,335,-62.27822494506836,-52.26728820800781,0
+Chad had broken which carts?,Which had Chad broken carts?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,336,-55.64436340332031,-51.063880920410156,0
+A pedestrian had hired what teenager?,What had a pedestrian hired teenager?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,337,-66.73760223388672,-51.408775329589844,0
+Carolyn had examined what thesis?,What had Carolyn examined thesis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,338,-51.55918884277344,-52.8919677734375,1
+Every actress has brought whose lakes?,Whose has every actress brought lakes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,339,-48.54299545288086,-55.138614654541016,1
+Elaine had referenced what analyses?,What had Elaine referenced analyses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,340,-58.763572692871094,-50.784366607666016,0
+All pictures will look like whose ladders?,Whose will all pictures look like ladders?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,341,-60.405067443847656,-60.788299560546875,1
+Clyde is arguing about which customers?,Which is Clyde arguing about customers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,342,-80.74746704101562,-48.45722198486328,0
+Samuel has bored what cashier?,What has Samuel bored cashier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,343,-58.25590515136719,-51.891578674316406,0
+Rodney had praised whose theses?,Whose had Rodney praised theses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,344,-60.746604919433594,-58.882850646972656,0
+Brian had thought about which museum?,Which had Brian thought about museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,345,-39.99543380737305,-41.19240951538086,1
+Benjamin had returned to which oases?,Which had Benjamin returned to oases?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,346,-62.91172790527344,-56.0771484375,0
+All men were attacking what cashiers?,What were all men attacking cashiers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,347,-53.99591827392578,-52.407840728759766,0
+Victoria did forget what dancers?,What did Victoria forget dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,348,-38.92912292480469,-42.35576629638672,1
+Some hospital is boring what child?,What is some hospital boring child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,349,-45.524627685546875,-41.71272277832031,0
+Some tomatoes did look like whose painting?,Whose did some tomatoes look like painting?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,350,-54.95526123046875,-46.876190185546875,0
+A lot of actors have known which men?,Which have a lot of actors known men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,351,-61.585853576660156,-46.560543060302734,0
+Karen did praise what offspring?,What did Karen praise offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,352,-57.27815246582031,-44.56901550292969,0
+Christina is concealing what people?,What is Christina concealing people?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,353,-53.948612213134766,-46.707435607910156,0
+That actor had criticized which girl?,Which had that actor criticized girl?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,354,-50.067840576171875,-44.538063049316406,0
+Beth would look like what prints?,What would Beth look like prints?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,355,-60.93040466308594,-47.811546325683594,0
+Brian should tour whose art galleries?,Whose should Brian tour art galleries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,356,-53.87278747558594,-58.55598831176758,1
+All organizations are discussing which patient?,Which are all organizations discussing patient?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,357,-45.59481430053711,-45.68678283691406,1
+Sarah might think about which boys?,Which might Sarah think about boys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,358,-40.27387237548828,-41.579559326171875,1
+Patients might praise which person?,Which might patients praise person?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,359,-55.898048400878906,-43.820953369140625,0
+Cindy is observing what men?,What is Cindy observing men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,360,-60.9881591796875,-40.387882232666016,0
+Gina was running around whose glacier?,Whose was Gina running around glacier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,361,-63.770469665527344,-55.992210388183594,0
+Elizabeth is attacking which teachers?,Which is Elizabeth attacking teachers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,362,-41.06406021118164,-34.79103088378906,0
+Kenneth has biked to whose library?,Whose has Kenneth biked to library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,363,-69.53729248046875,-61.91504669189453,0
+Marla has arrived at which public park?,Which has Marla arrived at public park?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,364,-59.42363739013672,-57.11016082763672,0
+Ann is boycotting which museum?,Which is Ann boycotting museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,365,-64.900634765625,-50.32929611206055,0
+Phillip had investigated which drivers?,Which had Phillip investigated drivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,366,-52.422752380371094,-48.2036018371582,0
+The car was shocking what actresses?,What was the car shocking actresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,367,-51.851409912109375,-38.71392059326172,0
+Patricia had fixed whose cars?,Whose had Patricia fixed cars?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,368,-50.18956756591797,-41.79078674316406,0
+Patricia has bought whose bikes?,Whose has Patricia bought bikes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,369,-54.077518463134766,-46.409767150878906,0
+Veronica will think about what peppers?,What will Veronica think about peppers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,370,-49.1296501159668,-43.62456512451172,0
+Christopher might break which cup?,Which might Christopher break cup?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,371,-42.09980010986328,-46.907196044921875,1
+Homer has fired which man?,Which has Homer fired man?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,372,-51.43498229980469,-42.618675231933594,0
+Catherine can research what brochure?,What can Catherine research brochure?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,373,-68.85037231445312,-58.16354751586914,0
+Janice had fled from which child?,Which had Janice fled from child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,374,-53.05802536010742,-53.04701232910156,0
+These commentaries were disagreeing with what boys?,What were these commentaries disagreeing with boys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,375,-70.32368469238281,-65.07089233398438,0
+Mark had visited which grocery store?,Which had Mark visited grocery store?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,376,-54.401763916015625,-52.868072509765625,0
+Amy does ascend which mountains?,Which does Amy ascend mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,377,-48.499603271484375,-45.74494171142578,0
+Veronica would research whose stories?,Whose would Veronica research stories?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,378,-51.14470672607422,-45.2406005859375,0
+Dennis was complaining about what women?,What was Dennis complaining about women?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,379,-49.408203125,-37.294437408447266,0
+Dan is boring what dancer?,What is Dan boring dancer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,380,-38.710304260253906,-33.83159637451172,0
+The blouses were bothering what senator?,What were the blouses bothering senator?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,381,-57.31684875488281,-53.362892150878906,0
+Angela had ascended whose mountain?,Whose had Angela ascended mountain?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,382,-56.33177185058594,-52.01579284667969,0
+Nina can love which alumnus?,Which can Nina love alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,383,-74.10322570800781,-63.90428161621094,0
+Travis had fixed which couches?,Which had Travis fixed couches?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,384,-70.88113403320312,-54.824607849121094,0
+Amelia has healed which guests?,Which has Amelia healed guests?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,385,-53.881500244140625,-48.29095458984375,0
+Bradley does sell which coats?,Which does Bradley sell coats?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,386,-46.499141693115234,-40.59066390991211,0
+Gregory was scanning whose analysis?,Whose was Gregory scanning analysis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,387,-51.15065002441406,-49.254173278808594,0
+Janet could ascend which slopes?,Which could Janet ascend slopes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,388,-67.7256088256836,-54.593536376953125,0
+A hospital could appreciate whose libraries?,Whose could a hospital appreciate libraries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,389,-66.06088256835938,-57.53561019897461,0
+Joseph has sold whose closet?,Whose has Joseph sold closet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,390,-41.42665100097656,-48.70631408691406,1
+Many girls had fired what teenagers?,What had many girls fired teenagers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,391,-44.64347839355469,-45.385196685791016,1
+Larry has worried what children?,What has Larry worried children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,392,-33.01251983642578,-40.22203826904297,1
+Claire was questioning what government?,What was Claire questioning government?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,393,-43.81043243408203,-39.11638641357422,0
+Becca has fired which girl?,Which has Becca fired girl?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,394,-49.079833984375,-49.77823257446289,1
+The drawings were looking like what octopi?,What were the drawings looking like octopi?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,395,-62.36161804199219,-57.8305549621582,0
+Some drawing does look like whose sketches?,Whose does some drawing look like sketches?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,396,-58.65620040893555,-56.49071502685547,0
+Sally has referenced which customer?,Which has Sally referenced customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,397,-62.623600006103516,-42.53923034667969,0
+These waiters are concealing which analyses?,Which are these waiters concealing analyses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,398,-69.24686431884766,-67.34834289550781,0
+Kenneth would skate around what grocery store?,What would Kenneth skate around grocery store?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,399,-70.02604675292969,-62.742835998535156,0
+Laura had escaped from which girls?,Which had Laura escaped from girls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,400,-42.20622634887695,-43.92292404174805,1
+Theodore is selling whose wheelbarrows?,Whose is Theodore selling wheelbarrows?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,401,-75.66853332519531,-66.28584289550781,0
+Galileo could care for which teenagers?,Which could Galileo care for teenagers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,402,-62.59874725341797,-50.66307830810547,0
+Brenda was biking to what closet?,What was Brenda biking to closet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,403,-52.744407653808594,-54.47344207763672,1
+Victoria has thought about whose glove?,Whose has Victoria thought about glove?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,404,-39.72237777709961,-46.313880920410156,1
+Brenda has passed whose malls?,Whose has Brenda passed malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,405,-51.10414505004883,-53.42213821411133,1
+The cashier had broken whose couches?,Whose had the cashier broken couches?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,406,-67.98030090332031,-64.34152221679688,0
+Stephen can break which vases?,Which can Stephen break vases?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,407,-50.732181549072266,-51.254173278808594,1
+Connie has watched what child?,What has Connie watched child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,408,-39.64250183105469,-40.01424789428711,1
+Jill would run around what bank?,What would Jill run around bank?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,409,-54.88862609863281,-44.22402572631836,0
+The newspaper articles had disagreed with what students?,What had the newspaper articles disagreed with students?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,410,-64.28121948242188,-55.056785583496094,0
+Christine could descend what slope?,What could Christine descend slope?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,411,-59.17308044433594,-53.366966247558594,0
+Laura did bring what ladder?,What did Laura bring ladder?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,412,-37.6971549987793,-37.98653030395508,1
+Marcus is boasting about which child?,Which is Marcus boasting about child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,413,-48.372108459472656,-50.476837158203125,1
+Every photograph was looking like which snake?,Which was every photograph looking like snake?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,414,-50.10266876220703,-50.816810607910156,1
+A lot of girls could sound like which customer?,Which could a lot of girls sound like customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,415,-66.48623657226562,-49.52715301513672,0
+Gerald can criticize which child?,Which can Gerald criticize child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,416,-56.1002311706543,-43.998985290527344,0
+Some adult might tour which high schools?,Which might some adult tour high schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,417,-56.086524963378906,-53.84577178955078,0
+Cheryl was disgusting which men?,Which was Cheryl disgusting men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,418,-74.45638275146484,-42.16803741455078,0
+Deborah should complain about whose pamphlets?,Whose should Deborah complain about pamphlets?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,419,-66.3781509399414,-62.95724105834961,0
+George has visited what pedestrian?,What has George visited pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,420,-39.59691619873047,-43.83884811401367,1
+The waitresses would climb down whose slope?,Whose would the waitresses climb down slope?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,421,-70.697021484375,-70.09132385253906,0
+April could distract which organization?,Which could April distract organization?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,422,-47.72724914550781,-47.11005401611328,0
+Some museum will embarrass which men?,Which will some museum embarrass men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,423,-50.496368408203125,-50.09428024291992,0
+Becca would sound like whose movies?,Whose would Becca sound like movies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,424,-48.0557746887207,-49.466644287109375,1
+Kendra had broken whose convertibles?,Whose had Kendra broken convertibles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,425,-79.79953002929688,-79.22171020507812,0
+The cashiers were thinking about which diagnosis?,Which were the cashiers thinking about diagnosis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,426,-59.8900146484375,-53.772560119628906,0
+Most windows had bothered what children?,What had most windows bothered children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,427,-46.50059127807617,-49.708282470703125,1
+The Lutherans can irritate which man?,Which can the Lutherans irritate man?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,428,-66.93022155761719,-64.4349136352539,0
+Some casseroles were worrying which governments?,Which were some casseroles worrying governments?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,429,-67.87113952636719,-68.74840545654297,1
+Ellen can skate around what oases?,What can Ellen skate around oases?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,430,-62.868263244628906,-62.52611541748047,0
+Benjamin has gone to what hospitals?,What has Benjamin gone to hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,431,-44.144859313964844,-39.91204833984375,0
+Theodore did tour which lake?,Which did Theodore tour lake?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,432,-58.82429885864258,-44.33841323852539,0
+Suzanne might exit what cafe?,What might Suzanne exit cafe?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,433,-59.11497116088867,-52.6324577331543,0
+Pamela is bothering what doctor?,What is Pamela bothering doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,434,-58.32191467285156,-40.6212158203125,0
+Some car will astound which girls?,Which will some car astound girls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,435,-58.398807525634766,-53.91301727294922,0
+All guys were working with which child?,Which were all guys working with child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,436,-41.17534637451172,-40.12844467163086,0
+The people should mess up whose museum?,Whose should the people mess up museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,437,-47.8671989440918,-47.8076286315918,0
+Bruce was researching whose college campus?,Whose was Bruce researching college campus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,438,-52.559356689453125,-55.4843635559082,1
+Every sketch has looked like what eyes?,What has every sketch looked like eyes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,439,-50.273277282714844,-51.47945785522461,1
+Cindy has annoyed what customer?,What has Cindy annoyed customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,440,-62.77772521972656,-45.44502258300781,0
+Tina has approached what woman?,What has Tina approached woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,441,-58.245330810546875,-44.52278137207031,0
+A lot of teachers will wear which jacket?,Which will a lot of teachers wear jacket?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,442,-62.902626037597656,-49.09949493408203,0
+Travis has argued about what men?,What has Travis argued about men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,443,-61.92658996582031,-46.44407653808594,0
+Becca is scaring which senator?,Which is Becca scaring senator?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,444,-55.3282470703125,-51.171417236328125,0
+Regina was helping which senators?,Which was Regina helping senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,445,-54.74474334716797,-48.167755126953125,0
+Vanessa might tour which lake?,Which might Vanessa tour lake?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,446,-57.10860061645508,-49.063636779785156,0
+Becky should break what tooth?,What should Becky break tooth?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,447,-41.971885681152344,-42.69219207763672,1
+Every glass is worrying which people?,Which is every glass worrying people?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,448,-44.831573486328125,-44.829307556152344,0
+Janet would kiss which customer?,Which would Janet kiss customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,449,-54.704193115234375,-46.18365478515625,0
+Lucille was attacking which ladies?,Which was Lucille attacking ladies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,450,-53.83469772338867,-47.672508239746094,0
+These newspaper articles can annoy what children?,What can these newspaper articles annoy children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,451,-56.3009033203125,-56.33097457885742,1
+Wendy has driven to what school?,What has Wendy driven to school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,452,-47.44445037841797,-40.9243278503418,0
+These teachers will discuss what offspring?,What will these teachers discuss offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,453,-44.0147819519043,-45.36931610107422,1
+The report has upset which alumni?,Which has the report upset alumni?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,454,-54.19835662841797,-48.46497344970703,0
+Grace did hire what teenagers?,What did Grace hire teenagers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,455,-50.797916412353516,-39.68150329589844,0
+Suzanne was helping what waitresses?,What was Suzanne helping waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,456,-59.27374267578125,-55.05535888671875,0
+Carla could watch what teachers?,What could Carla watch teachers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,457,-41.40125274658203,-44.30524444580078,1
+Deanna has researched which art gallery?,Which has Deanna researched art gallery?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,458,-68.63284301757812,-63.83667755126953,0
+Some waitresses have described what guys?,What have some waitresses described guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,459,-59.089744567871094,-57.60805130004883,0
+Derek has upset which organizations?,Which has Derek upset organizations?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,460,-58.22796630859375,-43.53435516357422,0
+Some senator will reference what book?,What will some senator reference book?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,461,-51.78193664550781,-54.353965759277344,1
+Ruth had hurt what waitress?,What had Ruth hurt waitress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,462,-57.920372009277344,-43.36138916015625,0
+Pamela should pass whose restaurant?,Whose should Pamela pass restaurant?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,463,-65.02645111083984,-55.932334899902344,0
+Jill had messed up whose museum?,Whose had Jill messed up museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,464,-61.03647232055664,-53.18431091308594,0
+Stephen had boasted about which actress?,Which had Stephen boasted about actress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,465,-51.38908386230469,-51.511268615722656,1
+Tanya has passed whose high school?,Whose has Tanya passed high school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,466,-56.793861389160156,-53.310752868652344,0
+A lot of stories have disagreed with what doctors?,What have a lot of stories disagreed with doctors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,467,-63.677635192871094,-52.75634002685547,0
+Steven should insult which waitresses?,Which should Steven insult waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,468,-59.661407470703125,-59.736778259277344,1
+Paul was watching which child?,Which was Paul watching child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,469,-30.5517635345459,-32.721893310546875,1
+The cat had upset what men?,What had the cat upset men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,470,-47.873451232910156,-39.193931579589844,0
+That senator is upsetting what senators?,What is that senator upsetting senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,471,-59.255859375,-50.09822463989258,0
+The dancer can notice which pants?,Which can the dancer notice pants?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,472,-52.932029724121094,-48.58020782470703,0
+Omar had passed which high schools?,Which had Omar passed high schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,473,-56.47676086425781,-52.177024841308594,0
+April is bringing which hamster?,Which is April bringing hamster?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,474,-53.38373565673828,-48.767677307128906,0
+Those shirts were bothering which dancers?,Which were those shirts bothering dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,475,-52.39830017089844,-48.95172119140625,0
+Kirsten should bring whose shirt?,Whose should Kirsten bring shirt?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,476,-58.568214416503906,-52.51590347290039,0
+Kevin was complaining about what student?,What was Kevin complaining about student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,477,-35.5503044128418,-36.21763229370117,1
+Eric has left what mountains?,What has Eric left mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,478,-33.3372688293457,-35.12911605834961,1
+Current events were confusing which student?,Which were current events confusing student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,479,-48.86421203613281,-50.903480529785156,1
+A boy did think about what governments?,What did a boy think about governments?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,480,-54.828277587890625,-36.607295989990234,0
+Jill was buying which brochures?,Which was Jill buying brochures?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,481,-67.64012145996094,-51.46051788330078,0
+Lawrence can astound which museum?,Which can Lawrence astound museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,482,-57.86109924316406,-50.090049743652344,0
+The cart is distracting what guys?,What is the cart distracting guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,483,-54.967063903808594,-38.3718376159668,0
+Irene has escaped from which men?,Which has Irene escaped from men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,484,-54.909610748291016,-52.31991958618164,0
+Jennifer has investigated what offspring?,What has Jennifer investigated offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,485,-39.492034912109375,-46.40944290161133,1
+Lucille was hiding what customer?,What was Lucille hiding customer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,486,-50.26128387451172,-42.452701568603516,0
+Tamara would admire whose pasta?,Whose would Tamara admire pasta?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,487,-57.568382263183594,-62.47296905517578,1
+Those students are talking about whose movies?,Whose are those students talking about movies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,488,-33.44136047363281,-36.03657531738281,1
+Carl had concealed what doctors?,What had Carl concealed doctors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,489,-45.7649040222168,-44.064727783203125,0
+Marcus can observe which cashier?,Which can Marcus observe cashier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,490,-50.768348693847656,-57.63131332397461,1
+Those people have argued about which stimulus?,Which have those people argued about stimulus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,491,-47.815093994140625,-46.225746154785156,0
+Brian can buy which sketches?,Which can Brian buy sketches?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,492,-42.357303619384766,-40.58914566040039,0
+Jerry had sounded like which mountains?,Which had Jerry sounded like mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,493,-45.702049255371094,-45.07879638671875,0
+Schools have forgotten whose books?,Whose have schools forgotten books?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,494,-38.08445739746094,-45.80579376220703,1
+Linda had noticed which schools?,Which had Linda noticed schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,495,-53.53541564941406,-41.82585144042969,0
+Thomas was breaking whose tooth?,Whose was Thomas breaking tooth?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,496,-42.71672058105469,-44.66575241088867,1
+Angela is buying what pictures?,What is Angela buying pictures?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,497,-40.64408874511719,-31.470983505249023,0
+Elaine is breaking what computers?,What is Elaine breaking computers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,498,-50.28331756591797,-36.267581939697266,0
+Steven had arrived at what museum?,What had Steven arrived at museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,499,-41.50425720214844,-44.645057678222656,1
+Stephen has argued about what teenager?,What has Stephen argued about teenager?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,500,-40.84666061401367,-45.25887680053711,1
+Suzanne has referenced whose movies?,Whose has Suzanne referenced movies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,501,-52.478965759277344,-47.47101593017578,0
+Frank was talking to which boys?,Which was Frank talking to boys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,502,-38.791908264160156,-36.22819900512695,0
+Beverly should break what unicycle?,What should Beverly break unicycle?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,503,-65.37570190429688,-57.780029296875,0
+That icicle has disturbed what teacher?,What has that icicle disturbed teacher?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,504,-63.413787841796875,-55.921852111816406,0
+Michelle is kissing which offspring?,Which is Michelle kissing offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,505,-46.92351531982422,-41.867183685302734,0
+Ronald was exiting whose library?,Whose was Ronald exiting library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,506,-60.937862396240234,-50.63554000854492,0
+Thomas was disturbing whose library?,Whose was Thomas disturbing library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,507,-43.0721321105957,-46.77082443237305,1
+Every cashier has referenced whose theses?,Whose has every cashier referenced theses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,508,-76.27198028564453,-71.91902160644531,0
+The waitress can question what pedestrian?,What can the waitress question pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,509,-51.06554412841797,-49.58405685424805,0
+A lot of hamsters are astounding which boy?,Which are a lot of hamsters astounding boy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,510,-73.8447036743164,-62.07331848144531,0
+Carl was returning to which people?,Which was Carl returning to people?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,511,-35.55049133300781,-37.519287109375,1
+Many tomatoes had alarmed which teacher?,Which had many tomatoes alarmed teacher?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,512,-56.93890380859375,-52.26847839355469,0
+Kirsten has explored whose hospitals?,Whose has Kirsten explored hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,513,-62.524749755859375,-56.29020690917969,0
+Becca had noticed what skirt?,What had Becca noticed skirt?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,514,-49.50795364379883,-53.35253143310547,1
+Tonya is questioning whose library?,Whose is Tonya questioning library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,515,-49.04469299316406,-53.075592041015625,1
+Heather could reveal what art galleries?,What could Heather reveal art galleries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,516,-60.47909927368164,-54.33096694946289,0
+Kevin was alarming whose company?,Whose was Kevin alarming company?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,517,-42.452301025390625,-41.358367919921875,0
+Kristen was discussing what child?,What was Kristen discussing child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,518,-36.87480163574219,-42.635459899902344,1
+Suzanne can lift what rivers?,What can Suzanne lift rivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,519,-49.651798248291016,-48.90675354003906,0
+Rodney was fleeing from which boy?,Which was Rodney fleeing from boy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,520,-46.79348373413086,-49.96027755737305,1
+Kristen does hate which people?,Which does Kristen hate people?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,521,-43.22220230102539,-42.62786102294922,0
+Travis can reference which waiter?,Which can Travis reference waiter?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,522,-67.66590881347656,-52.27400588989258,0
+Erin had scanned which essays?,Which had Erin scanned essays?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,523,-59.90949630737305,-52.80216979980469,0
+Andrew has scanned whose theses?,Whose has Andrew scanned theses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,524,-57.119293212890625,-56.32991027832031,0
+Many governments have taken whose octopi?,Whose have many governments taken octopi?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,525,-58.235130310058594,-65.41096496582031,1
+A lot of carts are boring which alumni?,Which are a lot of carts boring alumni?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,526,-70.54353332519531,-55.35148620605469,0
+Cynthia had brought what books?,What had Cynthia brought books?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,527,-62.441890716552734,-41.26677703857422,0
+Kendra can astound which girls?,Which can Kendra astound girls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,528,-69.84291076660156,-58.615478515625,0
+Kevin does look like what sketch?,What does Kevin look like sketch?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,529,-39.93872833251953,-37.21697998046875,0
+Those hats have disgusted whose banks?,Whose have those hats disgusted banks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,530,-53.54366683959961,-54.461219787597656,1
+The public park had astounded whose hospital?,Whose had the public park astounded hospital?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,531,-72.32862854003906,-65.27687072753906,0
+The drawing is looking like which guests?,Which is the drawing looking like guests?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,532,-54.336307525634766,-44.366798400878906,0
+All senators had hurt what guests?,What had all senators hurt guests?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,533,-55.47201919555664,-56.3325080871582,1
+The teenager should ascend what slope?,What should the teenager ascend slope?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,534,-62.381317138671875,-52.64130401611328,0
+Tanya can visit what bank?,What can Tanya visit bank?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,535,-50.1817626953125,-53.02888107299805,1
+Sheila was looking like whose photographs?,Whose was Sheila looking like photographs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,536,-51.32623291015625,-46.68837356567383,0
+Rose was concealing which waiters?,Which was Rose concealing waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,537,-61.96204376220703,-61.54254913330078,0
+Noah does scan which essay?,Which does Noah scan essay?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,538,-57.73311233520508,-47.778045654296875,0
+Julie might notice whose dress?,Whose might Julie notice dress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,539,-44.850799560546875,-50.029823303222656,1
+Jodi is attacking what men?,What is Jodi attacking men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,540,-52.85862350463867,-43.38513946533203,0
+Caroline will shock what adults?,What will Caroline shock adults?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,541,-46.19225311279297,-45.10832595825195,0
+Timothy has respected whose libraries?,Whose has Timothy respected libraries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,542,-52.85772705078125,-52.45345687866211,0
+Roger would descend which mountain?,Which would Roger descend mountain?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,543,-49.339603424072266,-49.35588455200195,1
+Bradley had kissed which dancers?,Which had Bradley kissed dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,544,-47.3428955078125,-48.079612731933594,1
+All waitresses should listen to what man?,What should all waitresses listen to man?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,545,-58.43764114379883,-56.90504455566406,0
+Connie was investigating what woman?,What was Connie investigating woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,546,-41.46025848388672,-39.458595275878906,0
+Maria has passed what glaciers?,What has Maria passed glaciers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,547,-42.9183349609375,-47.78657531738281,1
+The doctors would heal what actor?,What would the doctors heal actor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,548,-46.00782775878906,-43.57362365722656,0
+Every dancer was referencing whose analyses?,Whose was every dancer referencing analyses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,549,-61.66038513183594,-61.65315628051758,0
+A woman had investigated whose hospitals?,Whose had a woman investigated hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,550,-59.51605987548828,-46.32124328613281,0
+Eva should discuss what waiter?,What should Eva discuss waiter?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,551,-36.08266067504883,-48.29173278808594,1
+Many dancers had insulted whose libraries?,Whose had many dancers insulted libraries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,552,-58.61705780029297,-60.511322021484375,1
+Those steps do irritate which dancers?,Which do those steps irritate dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,553,-60.155757904052734,-53.011531829833984,0
+Patrick should observe which dancers?,Which should Patrick observe dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,554,-47.45069122314453,-46.788631439208984,0
+Tammy has attacked what student?,What has Tammy attacked student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,555,-41.46167755126953,-44.01259994506836,1
+Every turtle is ascending what stairs?,What is every turtle ascending stairs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,556,-56.86582946777344,-53.11603927612305,0
+Lucille does drive to what lakes?,What does Lucille drive to lakes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,557,-56.093360900878906,-47.524681091308594,0
+That person had lifted whose chicken?,Whose had that person lifted chicken?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,558,-50.89063262939453,-44.8403205871582,0
+Many boys have fired what pedestrian?,What have many boys fired pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,559,-44.301124572753906,-47.994937896728516,1
+Martin does appreciate which dancers?,Which does Martin appreciate dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,560,-43.75030517578125,-41.62129592895508,0
+Travel does annoy which waiter?,Which does travel annoy waiter?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,561,-44.874786376953125,-44.42871856689453,0
+Patricia had remembered which woman?,Which had Patricia remembered woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,562,-50.36123275756836,-43.594017028808594,0
+The Borgias could hug which actor?,Which could the Borgias hug actor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,563,-69.98757934570312,-68.25630187988281,0
+The doctor has fired what girls?,What has the doctor fired girls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,564,-41.208343505859375,-36.740325927734375,0
+Julie is descending which hills?,Which is Julie descending hills?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,565,-52.600738525390625,-42.980220794677734,0
+Marie might sound like what waitresses?,What might Marie sound like waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,566,-53.97307586669922,-60.84557342529297,1
+Most guys are fixing whose convertible?,Whose are most guys fixing convertible?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,567,-47.36574935913086,-54.73377990722656,1
+Karen should examine whose reports?,Whose should Karen examine reports?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,568,-56.314849853515625,-46.994319915771484,0
+A senator had hugged which actors?,Which had a senator hugged actors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,569,-67.97676849365234,-49.633426666259766,0
+These children were praising which student?,Which were these children praising student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,570,-46.978233337402344,-42.316131591796875,0
+These trucks are upsetting which patients?,Which are these trucks upsetting patients?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,571,-47.02760314941406,-41.79861831665039,0
+Karla can descend which ladders?,Which can Karla descend ladders?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,572,-63.62379837036133,-64.48298645019531,1
+Michael might approach what girls?,What might Michael approach girls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,573,-41.85419464111328,-44.15653991699219,1
+Colleen had fixed what chairs?,What had Colleen fixed chairs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,574,-50.475589752197266,-51.83654022216797,1
+Helen has investigated which girl?,Which has Helen investigated girl?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,575,-45.405792236328125,-41.457794189453125,0
+Christopher could break what carriages?,What could Christopher break carriages?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,576,-46.47111892700195,-52.462581634521484,1
+Rebecca did buy which lakes?,Which did Rebecca buy lakes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,577,-52.82476806640625,-39.1258659362793,0
+Ann had loved which adult?,Which had Ann loved adult?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,578,-46.0500602722168,-42.82954406738281,0
+Some bicycle had looked like which drawing?,Which had some bicycle looked like drawing?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,579,-57.98834228515625,-50.10795211791992,0
+Karen can walk through whose restaurant?,Whose can Karen walk through restaurant?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,580,-57.40032196044922,-46.091796875,0
+Thomas will disgust which customers?,Which will Thomas disgust customers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,581,-48.561790466308594,-46.37872314453125,0
+Sheila did like what newspaper article?,What did Sheila like newspaper article?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,582,-52.03806686401367,-44.076744079589844,0
+Samantha was working with which boys?,Which was Samantha working with boys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,583,-58.92626953125,-41.86643981933594,0
+The Lutherans have examined what stories?,What have the Lutherans examined stories?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,584,-58.111915588378906,-56.10609817504883,0
+Richard might sell which cilantro?,Which might Richard sell cilantro?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,585,-59.09261703491211,-57.702735900878906,0
+Sabrina would love which report?,Which would Sabrina love report?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,586,-48.434818267822266,-55.66967010498047,1
+This eye is disturbing whose hospitals?,Whose is this eye disturbing hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,587,-49.70849609375,-46.93025207519531,0
+Andrea was curing what sheep?,What was Andrea curing sheep?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,588,-52.46686553955078,-42.08842468261719,0
+A candle is scaring what teenager?,What is a candle scaring teenager?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,589,-61.56854248046875,-48.23033905029297,0
+Many teachers had helped which patient?,Which had many teachers helped patient?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,590,-48.42805480957031,-46.652793884277344,0
+Patrick had noticed which ladies?,Which had Patrick noticed ladies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,591,-41.36170959472656,-42.89681625366211,1
+Mark has investigated which boy?,Which has Mark investigated boy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,592,-39.132911682128906,-41.309532165527344,1
+Marie was cleaning what mouth?,What was Marie cleaning mouth?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,593,-41.63926696777344,-38.58783721923828,0
+Beth was visiting which men?,Which was Beth visiting men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,594,-61.27997970581055,-38.87843322753906,0
+Holly had biked to which mall?,Which had Holly biked to mall?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,595,-65.1702880859375,-59.92046356201172,0
+Brian had taken what skateboards?,What had Brian taken skateboards?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,596,-47.49557876586914,-49.16527557373047,1
+Jacqueline had revealed what drivers?,What had Jacqueline revealed drivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,597,-55.467742919921875,-56.98570251464844,1
+Randolf does climb down whose mountains?,Whose does Randolf climb down mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,598,-56.817901611328125,-59.52049255371094,1
+Becky should sound like whose newspaper articles?,Whose should Becky sound like newspaper articles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,599,-57.997276306152344,-61.91803741455078,1
+Most hills are impressing which guests?,Which are most hills impressing guests?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,600,-55.263729095458984,-54.36583709716797,0
+The guest was talking about what restaurants?,What was the guest talking about restaurants?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,601,-41.74335479736328,-32.60150909423828,0
+Karla has approached what doctors?,What has Karla approached doctors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,602,-49.033695220947266,-52.61766815185547,1
+Walter does help what actresses?,What does Walter help actresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,603,-49.31109619140625,-40.99452209472656,0
+Martha did conceal what eye?,What did Martha conceal eye?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,604,-48.126197814941406,-42.88959503173828,0
+Naomi can have what truck?,What can Naomi have truck?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,605,-45.911277770996094,-39.47056198120117,0
+Christopher will reference what teacher?,What will Christopher reference teacher?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,606,-42.19707107543945,-45.364261627197266,1
+Every dancer does reveal which dancer?,Which does every dancer reveal dancer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,607,-52.34857940673828,-50.29667282104492,0
+The dress is worrying what schools?,What is the dress worrying schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,608,-46.297279357910156,-40.05847930908203,0
+Those doors were astounding which teacher?,Which were those doors astounding teacher?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,609,-52.69253921508789,-50.53401565551758,0
+Kevin is disturbing what university?,What is Kevin disturbing university?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,610,-37.620826721191406,-35.13039779663086,0
+Every sock can shock what lady?,What can every sock shock lady?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,611,-51.86439514160156,-50.798484802246094,0
+Gerald is astounding which patients?,Which is Gerald astounding patients?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,612,-63.26163864135742,-44.0575065612793,0
+Andrea does lift what schools?,What does Andrea lift schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,613,-50.60795593261719,-40.267547607421875,0
+Cindy does take which convertibles?,Which does Cindy take convertibles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,614,-80.33282470703125,-57.05817794799805,0
+Dawn can observe what children?,What can Dawn observe children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,615,-51.30735778808594,-40.447174072265625,0
+That sketch had looked like whose dresses?,Whose had that sketch looked like dresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,616,-61.35871887207031,-51.39960479736328,0
+A doctor was cleaning what fork?,What was a doctor cleaning fork?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,617,-63.147926330566406,-43.76515197753906,0
+Those guests were passing whose libraries?,Whose were those guests passing libraries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,618,-51.51031494140625,-53.3782844543457,1
+Lissa did question what senator?,What did Lissa question senator?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,619,-56.56634521484375,-50.33775329589844,0
+Sally was finding which chairs?,Which was Sally finding chairs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,620,-58.79936981201172,-39.272239685058594,0
+Connie has insulted which guys?,Which has Connie insulted guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,621,-48.306663513183594,-43.505348205566406,0
+This doctor is returning to which oases?,Which is this doctor returning to oases?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,622,-59.46739959716797,-53.05927276611328,0
+Sherry was climbing up which ladder?,Which was Sherry climbing up ladder?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,623,-61.87545394897461,-51.55421447753906,0
+Dennis was passing whose closet?,Whose was Dennis passing closet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,624,-59.14755630493164,-49.08972930908203,0
+Denise was selling whose bananas?,Whose was Denise selling bananas?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,625,-49.70984649658203,-49.587364196777344,0
+Carlos did bring what shirts?,What did Carlos bring shirts?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,626,-47.21893310546875,-41.04939270019531,0
+Monica has walked through which closet?,Which has Monica walked through closet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,627,-48.97576904296875,-49.75938034057617,1
+The mirror can worry what cashier?,What can the mirror worry cashier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,628,-57.13813018798828,-60.01197052001953,1
+Brian will dislike which waitresses?,Which will Brian dislike waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,629,-55.51015853881836,-56.52220153808594,1
+John did lift what hamsters?,What did John lift hamsters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,630,-50.31874084472656,-46.117332458496094,0
+Russell would bore which person?,Which would Russell bore person?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,631,-42.265357971191406,-44.3166389465332,1
+Becca has admired what birds?,What has Becca admired birds?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,632,-51.88490295410156,-49.79377746582031,0
+Dennis could fix which windows?,Which could Dennis fix windows?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,633,-56.22713851928711,-44.57880783081055,0
+Ella would wear which skirt?,Which would Ella wear skirt?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,634,-52.301239013671875,-43.157379150390625,0
+Stephen should clean whose turtle?,Whose should Stephen clean turtle?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,635,-47.486114501953125,-47.197959899902344,0
+Keith is escaping from what guests?,What is Keith escaping from guests?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,636,-42.26396179199219,-42.881683349609375,1
+Erin should know what doctors?,What should Erin know doctors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,637,-39.57696533203125,-44.054290771484375,1
+Judy might discover which actors?,Which might Judy discover actors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,638,-49.697994232177734,-49.25273895263672,0
+That dancer might sound like what offspring?,What might that dancer sound like offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,639,-57.37849426269531,-55.50384521484375,0
+William can leave which school?,Which can William leave school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,640,-39.084869384765625,-34.64512252807617,0
+Grace would mess up what rug?,What would Grace mess up rug?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,641,-50.92343521118164,-47.54889678955078,0
+Ellen is dropping by what malls?,What is Ellen dropping by malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,642,-51.67767333984375,-47.0535774230957,0
+Colleen had escaped from which guys?,Which had Colleen escaped from guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,643,-54.15290069580078,-56.30569839477539,1
+An actress does boast about what waiters?,What does an actress boast about waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,644,-60.167144775390625,-60.0778923034668,0
+Beverly should bring which bicycles?,Which should Beverly bring bicycles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,645,-63.135597229003906,-51.337364196777344,0
+Dana had shocked which teenagers?,Which had Dana shocked teenagers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,646,-58.70365905761719,-46.97297668457031,0
+That bird is stunning what offspring?,What is that bird stunning offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,647,-53.81370162963867,-43.43771743774414,0
+All patients have distracted which libraries?,Which have all patients distracted libraries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,648,-55.098289489746094,-51.06187438964844,0
+Danielle had forgotten what waiters?,What had Danielle forgotten waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,649,-53.07225799560547,-58.54641342163086,1
+Lucille has cured which boys?,Which has Lucille cured boys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,650,-53.94898223876953,-48.70824432373047,0
+Rose has fixed whose bicycle?,Whose has Rose fixed bicycle?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,651,-41.65044403076172,-46.557708740234375,1
+Claire will ascend what hill?,What will Claire ascend hill?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,652,-56.016822814941406,-50.30744934082031,0
+Sara is irritating what adult?,What is Sara irritating adult?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,653,-60.08073806762695,-39.64573287963867,0
+Bikes had annoyed whose banks?,Whose had bikes annoyed banks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,654,-67.83697509765625,-53.30500030517578,0
+Catherine has boasted about which waiters?,Which has Catherine boasted about waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,655,-72.10972595214844,-58.811302185058594,0
+Anne has annoyed what legislatures?,What has Anne annoyed legislatures?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,656,-46.54133605957031,-46.76814270019531,1
+Joseph has broken whose truck?,Whose has Joseph broken truck?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,657,-36.959129333496094,-43.087188720703125,1
+Martha is breaking which mirror?,Which is Martha breaking mirror?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,658,-46.59697723388672,-41.871551513671875,0
+Travis can approach which adult?,Which can Travis approach adult?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,659,-65.33966064453125,-51.02000427246094,0
+Catherine was messing up whose malls?,Whose was Catherine messing up malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,660,-63.77377700805664,-56.42734909057617,0
+Some dancers have remembered what teacher?,What have some dancers remembered teacher?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,661,-43.75932312011719,-47.625999450683594,1
+Peter had disgusted whose museums?,Whose had Peter disgusted museums?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,662,-47.98066711425781,-50.284942626953125,1
+Tracy should sell what newspaper articles?,What should Tracy sell newspaper articles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,663,-57.49468231201172,-53.86056137084961,0
+Anna could help what waitresses?,What could Anna help waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,664,-47.12737274169922,-52.19324493408203,1
+Vanessa has exited what lakes?,What has Vanessa exited lakes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,665,-57.29498291015625,-45.268348693847656,0
+This student has seen which mirrors?,Which has this student seen mirrors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,666,-47.02459716796875,-43.96147155761719,0
+Mary had dropped by what grocery stores?,What had Mary dropped by grocery stores?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,667,-50.00801467895508,-56.92831802368164,1
+That cafe was stunning which alumnus?,Which was that cafe stunning alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,668,-74.25634002685547,-63.24323272705078,0
+Carol should conceal whose tooth?,Whose should Carol conceal tooth?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,669,-57.584991455078125,-54.45420837402344,0
+Carlos had hated which person?,Which had Carlos hated person?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,670,-50.25956726074219,-48.826416015625,0
+Steve is working with what senators?,What is Steve working with senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,671,-40.91926193237305,-41.209815979003906,1
+Gerald was climbing down which hill?,Which was Gerald climbing down hill?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,672,-57.96593475341797,-45.03822326660156,0
+Omar is visiting what glacier?,What is Omar visiting glacier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,673,-55.53950500488281,-52.57581329345703,0
+The adult was disgusting what cashiers?,What was the adult disgusting cashiers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,674,-63.94524383544922,-49.67871856689453,0
+Barbara has broken which wheelbarrow?,Which has Barbara broken wheelbarrow?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,675,-61.5512809753418,-59.60859680175781,0
+Teresa could examine what pamphlet?,What could Teresa examine pamphlet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,676,-53.55169677734375,-50.79993438720703,0
+Patricia could kiss which boy?,Which could Patricia kiss boy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,677,-50.69312286376953,-41.486534118652344,0
+Some casseroles had irritated what customers?,What had some casseroles irritated customers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,678,-72.01826477050781,-66.59498596191406,0
+Every dancer might complain about which girls?,Which might every dancer complain about girls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,679,-54.98119354248047,-58.44859313964844,1
+Some customer had boycotted which art galleries?,Which had some customer boycotted art galleries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,680,-81.8419189453125,-72.87232971191406,0
+Stacey has climbed up whose steps?,Whose has Stacey climbed up steps?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,681,-58.06421661376953,-61.4530029296875,1
+Carl does lift which door?,Which does Carl lift door?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,682,-40.67278289794922,-36.938018798828125,0
+Marie should alarm whose organization?,Whose should Marie alarm organization?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,683,-47.11857986450195,-50.62269592285156,1
+The woman has talked about which cashiers?,Which has the woman talked about cashiers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,684,-56.765586853027344,-46.828773498535156,0
+Larry can remember what teacher?,What can Larry remember teacher?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,685,-29.475723266601562,-38.72124481201172,1
+Nicole will drop by what museum?,What will Nicole drop by museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,686,-51.053794860839844,-49.47895812988281,0
+Naomi is scanning which pamphlet?,Which is Naomi scanning pamphlet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,687,-60.38675308227539,-48.302249908447266,0
+Amanda was boycotting whose malls?,Whose was Amanda boycotting malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,688,-72.74186706542969,-65.15831756591797,0
+Some dancer had talked to what dancers?,What had some dancer talked to dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,689,-50.86518096923828,-49.94211959838867,0
+Kenneth had shocked which guy?,Which had Kenneth shocked guy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,690,-54.22856140136719,-44.69940185546875,0
+Dennis can run around whose movie theaters?,Whose can Dennis run around movie theaters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,691,-72.36154174804688,-64.26498413085938,0
+Gary is working with which men?,Which is Gary working with men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,692,-35.477909088134766,-37.78553771972656,1
+Rachel has disgusted which men?,Which has Rachel disgusted men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,693,-42.54216003417969,-41.5428581237793,0
+Laurie has forgotten which thesis?,Which has Laurie forgotten thesis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,694,-61.66566467285156,-49.69194793701172,0
+Dawn might discover whose museum?,Whose might Dawn discover museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,695,-60.23136901855469,-53.18402099609375,0
+Alice had talked to what guy?,What had Alice talked to guy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,696,-32.94371032714844,-40.370365142822266,1
+Regina had hired what men?,What had Regina hired men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,697,-47.17951583862305,-44.81672668457031,0
+Wendy was exiting whose museum?,Whose was Wendy exiting museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,698,-60.59601593017578,-52.519100189208984,0
+Bradley had seen what dancers?,What had Bradley seen dancers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,699,-38.54636001586914,-45.76673126220703,1
+These reports had disturbed what waitress?,What had these reports disturbed waitress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,700,-53.01898956298828,-49.50783920288086,0
+Noah is watching what actress?,What is Noah watching actress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,701,-47.3951301574707,-37.75843048095703,0
+Helen has complained about whose hypotheses?,Whose has Helen complained about hypotheses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,702,-56.4811897277832,-52.87122344970703,0
+Helen has discovered whose chairs?,Whose has Helen discovered chairs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,703,-46.95136260986328,-47.38508605957031,1
+A lot of teachers had admired which reports?,Which had a lot of teachers admired reports?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,704,-65.94232177734375,-49.336891174316406,0
+Amelia does know which woman?,Which does Amelia know woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,705,-45.65337371826172,-38.672882080078125,0
+Cynthia has run around which oasis?,Which has Cynthia run around oasis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,706,-81.89688110351562,-59.44599914550781,0
+Bethany was exploring what lakes?,What was Bethany exploring lakes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,707,-69.997314453125,-49.399269104003906,0
+The Impressionists could boast about whose ellipses?,Whose could the Impressionists boast about ellipses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,708,-101.33499908447266,-99.79556274414062,0
+Suzanne had healed which rabbits?,Which had Suzanne healed rabbits?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,709,-60.054229736328125,-52.57254409790039,0
+Benjamin has fled from what men?,What has Benjamin fled from men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,710,-53.60890197753906,-42.732547760009766,0
+Carrie had listened to what offspring?,What had Carrie listened to offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,711,-48.94254684448242,-45.998958587646484,0
+Some essay was distracting what children?,What was some essay distracting children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,712,-53.32988357543945,-44.83032989501953,0
+Susan had cleaned what schools?,What had Susan cleaned schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,713,-38.77007293701172,-42.59954833984375,1
+Naomi has walked through what bank?,What has Naomi walked through bank?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,714,-51.20541763305664,-46.752952575683594,0
+Christopher was boycotting which museums?,Which was Christopher boycotting museums?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,715,-60.308528900146484,-52.03009796142578,0
+The book had bothered what senators?,What had the book bothered senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,716,-55.09954071044922,-50.81842041015625,0
+Brenda would help what student?,What would Brenda help student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,717,-39.23972702026367,-43.646018981933594,1
+This cashier is revealing whose college campus?,Whose is this cashier revealing college campus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,718,-73.0362548828125,-67.69474029541016,0
+Irene had walked through what bank?,What had Irene walked through bank?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,719,-51.92986297607422,-53.21865463256836,1
+Pamela had watched what pedestrians?,What had Pamela watched pedestrians?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,720,-65.05378723144531,-52.70718765258789,0
+This pedestrian has insulted which customers?,Which has this pedestrian insulted customers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,721,-60.90123748779297,-50.076515197753906,0
+Wayne had returned to what ladies?,What had Wayne returned to ladies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,722,-49.22163772583008,-43.68528747558594,0
+Helen is bringing whose newspaper article?,Whose is Helen bringing newspaper article?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,723,-54.612464904785156,-53.811256408691406,0
+Brad was passing whose libraries?,Whose was Brad passing libraries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,724,-49.074039459228516,-54.67674255371094,1
+The casserole was shocking which patient?,Which was the casserole shocking patient?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,725,-71.95040130615234,-60.82240295410156,0
+Karen might stun whose museums?,Whose might Karen stun museums?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,726,-64.76676940917969,-55.97529602050781,0
+That boy is leaving what hills?,What is that boy leaving hills?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,727,-45.22502136230469,-36.67476272583008,0
+Eric was scaring what men?,What was Eric scaring men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,728,-41.17641830444336,-35.811988830566406,0
+William could research which mall?,Which could William research mall?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,729,-46.396156311035156,-44.31310272216797,0
+Meredith had looked like what picture?,What had Meredith looked like picture?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,730,-56.479881286621094,-49.3895378112793,0
+Frank will visit whose schools?,Whose will Frank visit schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,731,-40.91155242919922,-46.49998092651367,1
+A child was disturbing what cashiers?,What was a child disturbing cashiers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,732,-67.94381713867188,-49.92878723144531,0
+Julia has cared for which waitress?,Which has Julia cared for waitress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,733,-52.48145294189453,-47.66484451293945,0
+Carlos did talk about which lady?,Which did Carlos talk about lady?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,734,-48.5995979309082,-42.878318786621094,0
+Sherry has worried whose schools?,Whose has Sherry worried schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,735,-60.97560119628906,-54.23313903808594,0
+Some ladder can worry which child?,Which can some ladder worry child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,736,-48.44874572753906,-50.35871124267578,1
+Laura was curing what cats?,What was Laura curing cats?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,737,-44.209381103515625,-39.61405944824219,0
+Sarah could heal which student?,Which could Sarah heal student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,738,-43.618492126464844,-43.31592559814453,0
+Ella has respected whose art galleries?,Whose has Ella respected art galleries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,739,-62.87179946899414,-60.865169525146484,0
+Pamela can hate what men?,What can Pamela hate men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,740,-60.56849670410156,-47.107093811035156,0
+Samantha is firing what woman?,What is Samantha firing woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,741,-59.249366760253906,-38.31940460205078,0
+Rodney could discover what people?,What could Rodney discover people?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,742,-36.63014221191406,-44.233741760253906,1
+Regina had worried whose schools?,Whose had Regina worried schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,743,-52.167938232421875,-54.084503173828125,1
+Tiffany had kissed what people?,What had Tiffany kissed people?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,744,-59.026371002197266,-44.11162185668945,0
+Those women were exiting whose school?,Whose were those women exiting school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,745,-48.226402282714844,-47.231605529785156,0
+A lot of children have complained about which medium?,Which have a lot of children complained about medium?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,746,-63.570716857910156,-49.66851043701172,0
+Clyde would reveal which waitresses?,Which would Clyde reveal waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,747,-88.62777709960938,-63.701297760009766,0
+Rebecca is firing what pedestrian?,What is Rebecca firing pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,748,-49.10060119628906,-39.66166687011719,0
+The people were selling what eyes?,What were the people selling eyes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,749,-38.64906311035156,-32.86212921142578,0
+Sonia would listen to what offspring?,What would Sonia listen to offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,750,-53.02137756347656,-51.58184814453125,0
+Meredith had passed what museums?,What had Meredith passed museums?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,751,-59.448116302490234,-48.092647552490234,0
+Leslie will describe what drivers?,What will Leslie describe drivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,752,-47.079345703125,-44.06464385986328,0
+Those doctors are lifting whose coat?,Whose are those doctors lifting coat?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,753,-44.163082122802734,-47.77544021606445,1
+Many banks have fired which students?,Which have many banks fired students?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,754,-45.62350845336914,-46.00425720214844,1
+Rachelle can annoy what company?,What can Rachelle annoy company?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,755,-47.40510559082031,-51.91008377075195,1
+The waiters were aggravating which banks?,Which were the waiters aggravating banks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,756,-64.09088897705078,-60.57735824584961,0
+Tracy had known which dancer?,Which had Tracy known dancer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,757,-53.29067611694336,-41.753501892089844,0
+Mitchell did see what alumni?,What did Mitchell see alumni?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,758,-51.34622573852539,-45.18568420410156,0
+Alan was lifting which teeth?,Which was Alan lifting teeth?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,759,-43.64532470703125,-40.40637969970703,0
+James would examine whose newspaper article?,Whose would James examine newspaper article?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,760,-49.565711975097656,-58.31642150878906,1
+Harvard University did hire what actresses?,What did Harvard University hire actresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,761,-66.4881362915039,-47.994667053222656,0
+Most hamsters have looked like what photographs?,What have most hamsters looked like photographs?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,762,-55.65017318725586,-60.57048034667969,1
+Michelle would impress what ladies?,What would Michelle impress ladies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,763,-40.74260330200195,-42.40081024169922,1
+Carla has talked about what cafe?,What has Carla talked about cafe?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,764,-44.80607604980469,-46.68233108520508,1
+The cashiers had disgusted which actress?,Which had the cashiers disgusted actress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,765,-66.89685821533203,-58.81583023071289,0
+Deanna has talked to which driver?,Which has Deanna talked to driver?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,766,-52.69843292236328,-52.162933349609375,0
+These jackets were astounding what child?,What were these jackets astounding child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,767,-52.78997802734375,-48.47331237792969,0
+Tracy has brought which carts?,Which has Tracy brought carts?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,768,-53.363739013671875,-46.63182067871094,0
+A woman was dropping by which schools?,Which was a woman dropping by schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,769,-60.81521987915039,-43.997493743896484,0
+Tara can complain about which girl?,Which can Tara complain about girl?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,770,-60.72077178955078,-52.64268493652344,0
+Some reports would disagree with what story?,What would some reports disagree with story?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,771,-43.49298095703125,-48.13585662841797,1
+Leslie was finding what waitress?,What was Leslie finding waitress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,772,-50.382728576660156,-42.59766387939453,0
+A pedestrian was running around what schools?,What was a pedestrian running around schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,773,-63.403648376464844,-42.40871810913086,0
+Donald was referencing which senators?,Which was Donald referencing senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,774,-51.72779846191406,-45.117942810058594,0
+Gregory would shock what boys?,What would Gregory shock boys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,775,-46.169769287109375,-43.40974044799805,0
+Joel is noticing which offspring?,Which is Joel noticing offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,776,-54.545326232910156,-43.11975860595703,0
+Jessica had disgusted whose association?,Whose had Jessica disgusted association?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,777,-48.156272888183594,-51.85348892211914,1
+Eric would help what cashiers?,What would Eric help cashiers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,778,-44.36235809326172,-46.66560363769531,1
+Brenda was discussing what lady?,What was Brenda discussing lady?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,779,-40.146968841552734,-43.41103744506836,1
+Randolf had ascended what slopes?,What had Randolf ascended slopes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,780,-57.295570373535156,-61.27635955810547,1
+This pie does bore what drivers?,What does this pie bore drivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,781,-54.725486755371094,-44.64957809448242,0
+Debra had climbed up whose slope?,Whose had Debra climbed up slope?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,782,-53.80738830566406,-64.30964660644531,1
+Charles would descend whose hill?,Whose would Charles descend hill?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,783,-50.9136848449707,-51.38544845581055,1
+Eva did talk to which alumnus?,Which did Eva talk to alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,784,-60.28239440917969,-59.53736877441406,0
+Naomi has disliked which pedestrians?,Which has Naomi disliked pedestrians?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,785,-62.54685592651367,-51.27056121826172,0
+Those men have hurt which waitress?,Which have those men hurt waitress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,786,-47.88576126098633,-42.38990020751953,0
+Wendy is examining which analysis?,Which is Wendy examining analysis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,787,-55.290245056152344,-42.55553436279297,0
+The Great Lakes were impressing what men?,What were the Great Lakes impressing men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,788,-63.13422393798828,-55.973731994628906,0
+Alice did alarm what doctor?,What did Alice alarm doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,789,-41.87512969970703,-39.50940704345703,0
+Erin is helping which waiter?,Which is Erin helping waiter?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,790,-46.17633056640625,-41.08125305175781,0
+Carol has skated around whose mountains?,Whose has Carol skated around mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,791,-64.4100341796875,-58.47829055786133,0
+Some pedestrian does annoy what committee?,What does some pedestrian annoy committee?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,792,-54.166648864746094,-51.457603454589844,0
+Some movies would disagree with what child?,What would some movies disagree with child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,793,-41.221397399902344,-44.96723937988281,1
+Galileo was talking to which women?,Which was Galileo talking to women?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,794,-52.70315933227539,-44.61040496826172,0
+Katherine was dropping by whose school?,Whose was Katherine dropping by school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,795,-53.055484771728516,-47.10912322998047,0
+Carrie had biked to whose library?,Whose had Carrie biked to library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,796,-65.42145538330078,-64.13609313964844,0
+Sharon might fire which guests?,Which might Sharon fire guests?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,797,-54.061031341552734,-46.1722412109375,0
+Bethany would argue about which pedestrian?,Which would Bethany argue about pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,798,-71.71121215820312,-56.173126220703125,0
+Michelle did forget what offspring?,What did Michelle forget offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,799,-41.328155517578125,-43.803436279296875,1
+Jill should drop by what malls?,What should Jill drop by malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,800,-64.85935974121094,-53.338035583496094,0
+Some doctor is wearing which skirt?,Which is some doctor wearing skirt?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,801,-47.09779357910156,-41.57535934448242,0
+Brad has described which guys?,Which has Brad described guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,802,-41.558837890625,-46.40985870361328,1
+Most actors are escaping from what high school?,What are most actors escaping from high school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,803,-44.61554718017578,-45.893760681152344,1
+Some paintings have irritated which dancer?,Which have some paintings irritated dancer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,804,-55.63019561767578,-52.772071838378906,0
+Beth is hiring which doctor?,Which is Beth hiring doctor?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,805,-64.04258728027344,-39.709136962890625,0
+Some couch had embarrassed whose banks?,Whose had some couch embarrassed banks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,806,-58.096710205078125,-54.55742645263672,0
+Travis should kiss what waiters?,What should Travis kiss waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,807,-68.45349884033203,-58.74463653564453,0
+Amanda was passing whose movie theaters?,Whose was Amanda passing movie theaters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,808,-61.718414306640625,-57.46892547607422,0
+Many guests were returning to which movie theater?,Which were many guests returning to movie theater?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,809,-55.97791290283203,-58.564781188964844,1
+Deanna had toured whose banks?,Whose had Deanna toured banks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,810,-58.78315734863281,-59.62442398071289,1
+Gina should bore which patient?,Which should Gina bore patient?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,811,-64.71708679199219,-48.8709602355957,0
+Carol might drop by what schools?,What might Carol drop by schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,812,-49.790985107421875,-50.533668518066406,1
+Naomi will return to what malls?,What will Naomi return to malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,813,-55.59135437011719,-50.355831146240234,0
+Ruth does drop by what hospitals?,What does Ruth drop by hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,814,-61.676475524902344,-44.16671371459961,0
+That person can visit which person?,Which can that person visit person?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,815,-42.11738967895508,-37.97035217285156,0
+Thomas was irritating what alumnus?,What was Thomas irritating alumnus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,816,-59.78302001953125,-55.527305603027344,0
+Lucille did visit which public parks?,Which did Lucille visit public parks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,817,-62.77254867553711,-54.83866882324219,0
+Robert was concealing whose plays?,Whose was Robert concealing plays?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,818,-56.075843811035156,-52.07880783081055,0
+Jesus was exploring what public park?,What was Jesus exploring public park?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,819,-46.85924530029297,-48.499515533447266,1
+Sheila has escaped from what dancer?,What has Sheila escaped from dancer?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,820,-48.418617248535156,-43.153282165527344,0
+Lucille has worked with what child?,What has Lucille worked with child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,821,-44.71782684326172,-46.827606201171875,1
+Theodore had admired which icicles?,Which had Theodore admired icicles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,822,-73.05142974853516,-61.634700775146484,0
+Brenda has visited which student?,Which has Brenda visited student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,823,-46.879425048828125,-45.00132751464844,0
+Kristen has escaped from what women?,What has Kristen escaped from women?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,824,-43.123050689697266,-48.97429656982422,1
+Anne is criticizing which person?,Which is Anne criticizing person?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,825,-40.96438980102539,-38.08638000488281,0
+Stacy has questioned which cashier?,Which has Stacy questioned cashier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,826,-62.43076705932617,-55.34831237792969,0
+Caroline might dislike what analyses?,What might Caroline dislike analyses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,827,-53.626686096191406,-55.565185546875,1
+Katherine can describe which analysis?,Which can Katherine describe analysis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,828,-54.2658576965332,-40.187347412109375,0
+Most universities have hired what student?,What have most universities hired student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,829,-43.010780334472656,-48.70735549926758,1
+Colleen is listening to what lady?,What is Colleen listening to lady?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,830,-46.94634246826172,-46.96031951904297,1
+Most children had approached what drivers?,What had most children approached drivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,831,-45.997074127197266,-44.73314666748047,0
+Danielle should astound which drivers?,Which should Danielle astound drivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,832,-64.77762603759766,-52.68815612792969,0
+Carl was lifting whose turtles?,Whose was Carl lifting turtles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,833,-47.255027770996094,-46.44239807128906,0
+Bill is fixing what carriages?,What is Bill fixing carriages?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,834,-47.798927307128906,-43.68567657470703,0
+The prints were looking like whose jacket?,Whose were the prints looking like jacket?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,835,-53.17730712890625,-53.04498291015625,0
+Irene does boast about which diagnoses?,Which does Irene boast about diagnoses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,836,-69.08102416992188,-62.651973724365234,0
+Monica had sounded like which children?,Which had Monica sounded like children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,837,-46.45779800415039,-42.144805908203125,0
+Brenda is selling what photograph?,What is Brenda selling photograph?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,838,-38.67087173461914,-39.751991271972656,1
+Erin might insult which actors?,Which might Erin insult actors?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,839,-50.68217468261719,-52.224708557128906,1
+Russell will buy which lamps?,Which will Russell buy lamps?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,840,-40.95069122314453,-45.543792724609375,1
+Anne did investigate whose organization?,Whose did Anne investigate organization?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,841,-43.103912353515625,-46.88117980957031,1
+Some waitress had visited which drivers?,Which had some waitress visited drivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,842,-56.09527587890625,-49.99683380126953,0
+Pamela can bring whose spotlights?,Whose can Pamela bring spotlights?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,843,-75.61701202392578,-65.63558197021484,0
+Every girl did attack what boy?,What did every girl attack boy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,844,-45.242713928222656,-40.765228271484375,0
+Those slopes were alarming whose legislature?,Whose were those slopes alarming legislature?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,845,-60.20460510253906,-60.113922119140625,0
+Every public park had distracted which hospitals?,Which had every public park distracted hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,846,-61.225460052490234,-59.24335479736328,0
+Gerald is biking to what hospitals?,What is Gerald biking to hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,847,-62.22042465209961,-48.23654556274414,0
+Adam had loved which senators?,Which had Adam loved senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,848,-46.71239471435547,-46.71828842163086,1
+Jennifer would reference which cashiers?,Which would Jennifer reference cashiers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,849,-56.860511779785156,-57.43415069580078,1
+All museums had annoyed which boys?,Which had all museums annoyed boys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,850,-53.63323211669922,-48.98650360107422,0
+Dawn has thought about what teachers?,What has Dawn thought about teachers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,851,-49.932865142822266,-37.78059005737305,0
+Edward does investigate which committees?,Which does Edward investigate committees?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,852,-45.12791442871094,-43.00775146484375,0
+Becky should climb up what ladder?,What should Becky climb up ladder?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,853,-48.56836700439453,-47.380638122558594,0
+A lot of drawings do irritate which offspring?,Which do a lot of drawings irritate offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,854,-78.84271240234375,-60.84967041015625,0
+The Lutherans had talked about which woman?,Which had the Lutherans talked about woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,855,-58.84814453125,-56.545631408691406,0
+The museum should hire which student?,Which should the museum hire student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,856,-51.547576904296875,-47.05785369873047,0
+A lot of girls have climbed up which ladder?,Which have a lot of girls climbed up ladder?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,857,-64.338623046875,-54.15241241455078,0
+Curtis had exited which mall?,Which had Curtis exited mall?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,858,-72.22752380371094,-49.15875244140625,0
+Pamela could return to whose mall?,Whose could Pamela return to mall?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,859,-66.65895080566406,-55.67388153076172,0
+Brian has criticized what movies?,What has Brian criticized movies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,860,-31.622478485107422,-35.5416259765625,1
+Paula was thinking about whose popsicle?,Whose was Paula thinking about popsicle?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,861,-56.4578857421875,-58.21698760986328,1
+Carolyn should break what mirror?,What should Carolyn break mirror?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,862,-48.454044342041016,-45.35527801513672,0
+Homer has talked to what adult?,What has Homer talked to adult?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,863,-52.457820892333984,-46.11229705810547,0
+Maria would investigate what offspring?,What would Maria investigate offspring?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,864,-41.11687469482422,-47.00825500488281,1
+Kendra could notice what rabbit?,What could Kendra notice rabbit?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,865,-56.49658203125,-55.02204132080078,0
+Melinda might sound like whose commentary?,Whose might Melinda sound like commentary?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,866,-57.03895950317383,-63.203277587890625,1
+Tanya was buying which newspaper article?,Which was Tanya buying newspaper article?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,867,-67.39640808105469,-59.33446502685547,0
+Those students will forget which report?,Which will those students forget report?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,868,-43.76306915283203,-46.6298828125,1
+Tina will talk about which oasis?,Which will Tina talk about oasis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,869,-66.75834655761719,-51.72657775878906,0
+A lot of waiters will attack which ladies?,Which will a lot of waiters attack ladies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,870,-77.96175384521484,-63.190269470214844,0
+Some teenagers are hurting which guy?,Which are some teenagers hurting guy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,871,-40.58294677734375,-41.67207336425781,1
+Monet has insulted which essays?,Which has Monet insulted essays?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,872,-59.50006866455078,-54.39016342163086,0
+Andrea had skated around whose college campus?,Whose had Andrea skated around college campus?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,873,-76.04866027832031,-69.77014923095703,0
+Many documentaries had disagreed with what movie?,What had many documentaries disagreed with movie?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,874,-55.856483459472656,-59.05555725097656,1
+Cheryl should ascend what hills?,What should Cheryl ascend hills?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,875,-83.85801696777344,-52.910987854003906,0
+Lisa should argue about what driver?,What should Lisa argue about driver?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,876,-39.50444793701172,-43.059722900390625,1
+Patrick can upset which patient?,Which can Patrick upset patient?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,877,-42.927852630615234,-43.72536087036133,1
+This dancer might boast about which senators?,Which might this dancer boast about senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,878,-70.44011688232422,-67.99998474121094,0
+Larry has researched which companies?,Which has Larry researched companies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,879,-40.32077407836914,-42.03532791137695,1
+Vanessa can skate around what libraries?,What can Vanessa skate around libraries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,880,-63.160308837890625,-56.77048110961914,0
+Gregory had explored whose oasis?,Whose had Gregory explored oasis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,881,-61.83021926879883,-60.00615692138672,0
+Sarah could walk through whose mountains?,Whose could Sarah walk through mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,882,-43.56993865966797,-47.81439971923828,1
+Some turtles are annoying what men?,What are some turtles annoying men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,883,-47.55919647216797,-42.48895263671875,0
+Christina would clean whose grocery store?,Whose would Christina clean grocery store?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,884,-62.501949310302734,-61.57009506225586,0
+Vincent had climbed up which mountain?,Which had Vincent climbed up mountain?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,885,-59.93629455566406,-51.66394805908203,0
+Eric was skated around which closet?,Which was Eric skated around closet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,886,-52.687625885009766,-53.087623596191406,1
+Ellen had alarmed whose library?,Whose had Ellen alarmed library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,887,-52.85491180419922,-50.11403274536133,0
+Bill was climbing down whose steps?,Whose was Bill climbing down steps?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,888,-44.85599899291992,-48.801719665527344,1
+Amelia did go to what library?,What did Amelia go to library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,889,-47.402061462402344,-37.52381896972656,0
+Karla was aggravating what library?,What was Karla aggravating library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,890,-52.464256286621094,-54.13775634765625,1
+George is disgusting which children?,Which is George disgusting children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,891,-42.69782257080078,-32.25297546386719,0
+An actress had fired which senator?,Which had an actress fired senator?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,892,-49.80169677734375,-47.86450958251953,0
+That photograph is looking like what paintings?,What is that photograph looking like paintings?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,893,-54.425479888916016,-45.8046760559082,0
+The Borgias could insult which men?,Which could the Borgias insult men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,894,-70.52497863769531,-66.28378295898438,0
+Omar was arriving at whose hospitals?,Whose was Omar arriving at hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,895,-56.800498962402344,-58.339595794677734,1
+Alexander has cured which rabbits?,Which has Alexander cured rabbits?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,896,-44.31551742553711,-44.70916748046875,1
+Irene might boycott what association?,What might Irene boycott association?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,897,-63.72026824951172,-57.864070892333984,0
+Steven was breaking what couches?,What was Steven breaking couches?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,898,-48.10595703125,-46.09682083129883,0
+Patrick was examining whose essay?,Whose was Patrick examining essay?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,899,-46.519630432128906,-48.8411865234375,1
+A child has investigated what waiters?,What has a child investigated waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,900,-62.946929931640625,-49.582916259765625,0
+Angela should discuss what movies?,What should Angela discuss movies?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,901,-38.41216278076172,-37.877723693847656,0
+Theodore might insult what pedestrians?,What might Theodore insult pedestrians?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,902,-60.42251205444336,-54.027381896972656,0
+Mitchell had descended whose mountain?,Whose had Mitchell descended mountain?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,903,-60.007667541503906,-55.3956184387207,0
+Patricia does like whose sheep?,Whose does Patricia like sheep?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,904,-51.001853942871094,-40.49203872680664,0
+Janet was touring which art galleries?,Which was Janet touring art galleries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,905,-64.21129608154297,-50.83832550048828,0
+Lissa has gone to whose river?,Whose has Lissa gone to river?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,906,-55.2049674987793,-51.331905364990234,0
+Kathleen could hate which man?,Which could Kathleen hate man?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,907,-62.540000915527344,-45.9967155456543,0
+Erin should insult what waiter?,What should Erin insult waiter?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,908,-48.6884765625,-52.76153564453125,1
+Homer would leave whose museum?,Whose would Homer leave museum?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,909,-54.2333869934082,-47.48123550415039,0
+Travis can visit what college campuses?,What can Travis visit college campuses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,910,-63.99667739868164,-57.00006866455078,0
+Peter would pass what college campuses?,What would Peter pass college campuses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,911,-45.21757125854492,-48.26118469238281,1
+That boy has praised what children?,What has that boy praised children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,912,-43.25738525390625,-37.262596130371094,0
+Adam is complaining about what cashier?,What is Adam complaining about cashier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,913,-47.80419158935547,-45.27099609375,0
+Rachel was kissing what waitresses?,What was Rachel kissing waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,914,-49.91761779785156,-50.63030242919922,1
+Schools have shocked what guys?,What have schools shocked guys?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,915,-39.55556106567383,-39.996604919433594,1
+The Lutherans were concealing which art galleries?,Which were the Lutherans concealing art galleries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,916,-83.68798828125,-79.48451232910156,0
+Marcus is cleaning which fungi?,Which is Marcus cleaning fungi?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,917,-46.43498229980469,-48.75273895263672,1
+Kevin had criticized which closet?,Which had Kevin criticized closet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,918,-43.71782302856445,-44.906715393066406,1
+Omar will climb up which ladder?,Which will Omar climb up ladder?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,919,-56.82503890991211,-57.125457763671875,1
+Sarah should have what cart?,What should Sarah have cart?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,920,-36.281036376953125,-40.37464141845703,1
+Those senators should disturb whose schools?,Whose should those senators disturb schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,921,-56.0062141418457,-56.84729766845703,1
+Erin is dropping by what glacier?,What is Erin dropping by glacier?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,922,-53.70968246459961,-49.920989990234375,0
+A guy does conceal which pedestrian?,Which does a guy conceal pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,923,-65.51753997802734,-45.436004638671875,0
+Sara has scanned which brochures?,Which has Sara scanned brochures?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,924,-75.35430908203125,-57.19495391845703,0
+Todd is exiting whose college campuses?,Whose is Todd exiting college campuses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,925,-55.435665130615234,-57.74079132080078,1
+Irene is bothering whose bank?,Whose is Irene bothering bank?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,926,-53.82780456542969,-49.27587890625,0
+Kendra is exiting what movie theaters?,What is Kendra exiting movie theaters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,927,-73.84510040283203,-64.60616302490234,0
+Charles is cleaning what brochures?,What is Charles cleaning brochures?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,928,-53.58723449707031,-49.56298828125,0
+Deborah has embarrassed which waiters?,Which has Deborah embarrassed waiters?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,929,-58.11283874511719,-54.45212936401367,0
+Some adult had walked through whose cafe?,Whose had some adult walked through cafe?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,930,-59.153263092041016,-55.635520935058594,0
+Tina has hidden whose book?,Whose has Tina hidden book?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,931,-59.90224838256836,-45.9247932434082,0
+That bread is stunning whose schools?,Whose is that bread stunning schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,932,-52.95924758911133,-45.6548957824707,0
+Tara has known what woman?,What has Tara known woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,933,-53.14253616333008,-42.75270080566406,0
+Winston Churchill did distract which actress?,Which did Winston Churchill distract actress?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,934,-66.10016632080078,-57.99915313720703,0
+Gregory was returning to what public parks?,What was Gregory returning to public parks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,935,-51.545597076416016,-46.411991119384766,0
+Sabrina has passed whose rivers?,Whose has Sabrina passed rivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,936,-51.66136169433594,-61.8609619140625,1
+Stephen had descended whose mountains?,Whose had Stephen descended mountains?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,937,-44.64701461791992,-49.001216888427734,1
+Jeffrey had revealed what dishes?,What had Jeffrey revealed dishes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,938,-47.55540466308594,-54.47175598144531,1
+A child is descending whose slopes?,Whose is a child descending slopes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,939,-68.86688232421875,-49.30441665649414,0
+Some teacher would discover whose picture?,Whose would some teacher discover picture?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,940,-47.92790222167969,-52.70637512207031,1
+All fish would bore what teenager?,What would all fish bore teenager?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,941,-53.565853118896484,-49.22228240966797,0
+This student could drive to what malls?,What could this student drive to malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,942,-54.12287139892578,-50.2969970703125,0
+Some doctor had arrived at what malls?,What had some doctor arrived at malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,943,-54.96045684814453,-53.225799560546875,0
+Rhonda has remembered what teacher?,What has Rhonda remembered teacher?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,944,-43.78754425048828,-54.36717224121094,1
+Donald is looking like what prints?,What is Donald looking like prints?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,945,-38.997955322265625,-40.79899215698242,1
+Tracy has known which lady?,Which has Tracy known lady?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,946,-47.249977111816406,-38.124576568603516,0
+Chad is astounding whose hospital?,Whose is Chad astounding hospital?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,947,-58.814735412597656,-50.96582794189453,0
+Kayla was appreciating which teachers?,Which was Kayla appreciating teachers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,948,-55.761993408203125,-52.552764892578125,0
+Daniel does descend what ladder?,What does Daniel descend ladder?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,949,-49.630584716796875,-43.645442962646484,0
+Natalie was exiting which lakes?,Which was Natalie exiting lakes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,950,-61.16099166870117,-46.898155212402344,0
+Clyde has praised what man?,What has Clyde praised man?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,951,-72.9189224243164,-44.811038970947266,0
+Chad had criticized what lakes?,What had Chad criticized lakes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,952,-52.377899169921875,-48.3937873840332,0
+Lawrence is criticizing what children?,What is Lawrence criticizing children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,953,-43.689186096191406,-34.00144577026367,0
+Gerald will bore what child?,What will Gerald bore child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,954,-55.400386810302734,-42.416954040527344,0
+Paula had messed up whose school?,Whose had Paula messed up school?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,955,-47.662471771240234,-46.62596130371094,0
+Phillip has brought what eyes?,What has Phillip brought eyes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,956,-42.19802474975586,-40.41350173950195,0
+This lady might distract whose library?,Whose might this lady distract library?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,957,-53.8951416015625,-53.78520202636719,0
+Christine is driving to what malls?,What is Christine driving to malls?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,958,-50.498958587646484,-46.479427337646484,0
+Janet was dropping by which lakes?,Which was Janet dropping by lakes?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,959,-58.60435485839844,-47.20716857910156,0
+Victoria has visited what alumni?,What has Victoria visited alumni?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,960,-38.856414794921875,-44.894439697265625,1
+Becky did lift whose lamps?,Whose did Becky lift lamps?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,961,-51.87512969970703,-46.74244689941406,0
+Eric is kissing what men?,What is Eric kissing men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,962,-38.82946014404297,-34.17708969116211,0
+A lot of movie theaters have astounded what patients?,What have a lot of movie theaters astounded patients?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,963,-89.29536437988281,-69.73468017578125,0
+Roger has noticed whose rivers?,Whose has Roger noticed rivers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,964,-39.016883850097656,-47.79137420654297,1
+Sonia has criticized whose bank?,Whose has Sonia criticized bank?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,965,-56.58943176269531,-55.310150146484375,0
+Tina has fired which men?,Which has Tina fired men?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,966,-59.98113250732422,-42.9467658996582,0
+Stacey had attacked which customers?,Which had Stacey attacked customers?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,967,-57.4818229675293,-54.80181121826172,0
+Wendy did care for what boy?,What did Wendy care for boy?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,968,-50.67277526855469,-41.077423095703125,0
+That guest was criticizing which closet?,Which was that guest criticizing closet?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,969,-58.23459243774414,-47.08772277832031,0
+Sally is insulting which libraries?,Which is Sally insulting libraries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,970,-66.80070495605469,-43.12431716918945,0
+Lucille did complain about what phenomena?,What did Lucille complain about phenomena?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,971,-56.61229705810547,-51.930580139160156,0
+Thomas had taken what convertibles?,What had Thomas taken convertibles?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,972,-55.773193359375,-60.05534362792969,1
+The Borgias would appreciate what lady?,What would the Borgias appreciate lady?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,973,-62.595909118652344,-64.78878784179688,1
+The essays have disagreed with what brochures?,What have the essays disagreed with brochures?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,974,-70.02079010009766,-63.72505569458008,0
+Sarah has hated what pedestrian?,What has Sarah hated pedestrian?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,975,-41.74866485595703,-44.809539794921875,1
+Janet has worn what hats?,What has Janet worn hats?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,976,-52.56388854980469,-43.35919189453125,0
+Phillip did work with which guest?,Which did Phillip work with guest?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,977,-50.879878997802734,-44.605186462402344,0
+Some students do conceal whose analysis?,Whose do some students conceal analysis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,978,-47.098175048828125,-47.834495544433594,1
+Beth was cleaning which bread?,Which was Beth cleaning bread?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,979,-64.90351867675781,-40.967411041259766,0
+Stacey can listen to which child?,Which can Stacey listen to child?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,980,-49.55573272705078,-48.92812728881836,0
+Those waiters might pass whose hills?,Whose might those waiters pass hills?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,981,-62.178558349609375,-61.056732177734375,0
+Richard has disliked what waitresses?,What has Richard disliked waitresses?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,982,-51.95930480957031,-54.75089645385742,1
+Gary can skate around whose high schools?,Whose can Gary skate around high schools?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,983,-54.04509735107422,-56.28392791748047,1
+Marcus has questioned what children?,What has Marcus questioned children?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,984,-32.55872344970703,-41.145538330078125,1
+A lot of patients do walk through which banks?,Which do a lot of patients walk through banks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,985,-63.742000579833984,-49.870967864990234,0
+That customer should boast about what patient?,What should that customer boast about patient?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,986,-60.806758880615234,-58.434226989746094,0
+Michael was biking to whose banks?,Whose was Michael biking to banks?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,987,-52.17336654663086,-52.318233489990234,1
+These customers were running around whose hospitals?,Whose were these customers running around hospitals?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,988,-48.22919464111328,-49.60261535644531,1
+Samantha does clean what hospital?,What does Samantha clean hospital?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,989,-66.16200256347656,-44.601646423339844,0
+That pork had alarmed which senators?,Which had that pork alarmed senators?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,990,-68.71441650390625,-54.97421646118164,0
+Eva was researching which picture?,Which was Eva researching picture?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,991,-40.853538513183594,-42.80923843383789,1
+Randolf will research which documentaries?,Which will Randolf research documentaries?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,992,-58.96923828125,-60.75460433959961,1
+That waiter was cleaning which cars?,Which was that waiter cleaning cars?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,993,-54.57506561279297,-39.93722152709961,0
+These patients did research what thesis?,What did these patients research thesis?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,994,-50.34226608276367,-44.58515930175781,0
+A school has irritated what committee?,What has a school irritated committee?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,995,-65.5546875,-45.861717224121094,0
+Eyes did bother which woman?,Which did eyes bother woman?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,996,-48.892791748046875,-40.75813293457031,0
+Gina is helping which adults?,Which is Gina helping adults?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,997,-52.99171829223633,-35.808082580566406,0
+Sara was insulting what student?,What was Sara insulting student?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,998,-56.180301666259766,-37.32292175292969,0
+Many boys will embarrass what patient?,What will many boys embarrass patient?,syntax,island_effects,left_branch_island_echo_question,True,False,True,True,999,-45.78408432006836,-49.685096740722656,1

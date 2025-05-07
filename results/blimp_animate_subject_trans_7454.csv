@@ -1,0 +1,1001 @@
+sentence_good,sentence_bad,field,linguistics_term,UID,simple_LM_method,one_prefix_method,two_prefix_method,lexically_identical,pair_id,good_prob,bad_prob,correct
+Tina revealed Margaret.,The horse revealed Margaret.,syntax,s-selection,animate_subject_trans,True,False,True,False,0,-45.998329162597656,-36.869258880615234,0
+Danielle visited Irene.,The eye visited Irene.,syntax,s-selection,animate_subject_trans,True,False,True,False,1,-38.89708709716797,-41.331912994384766,1
+Paul runs around the art galleries.,The river runs around the art galleries.,syntax,s-selection,animate_subject_trans,True,False,True,False,2,-36.80738830566406,-41.5770263671875,1
+Most banks have praised Raymond.,The jackets have praised Raymond.,syntax,s-selection,animate_subject_trans,True,False,True,False,3,-40.99307632446289,-45.18992233276367,1
+Every doctor was selling some restaurants.,A cup was selling some restaurants.,syntax,s-selection,animate_subject_trans,True,False,True,False,4,-32.7155876159668,-47.06303405761719,1
+Steve bikes to a public park.,Every fork bikes to a public park.,syntax,s-selection,animate_subject_trans,True,False,True,False,5,-39.85874557495117,-52.173057556152344,1
+Beth scares Roger.,A carriage scares Roger.,syntax,s-selection,animate_subject_trans,True,False,True,False,6,-48.50148391723633,-49.22813415527344,1
+Melissa will clean a gate.,This mouth will clean a gate.,syntax,s-selection,animate_subject_trans,True,False,True,False,7,-36.62908935546875,-36.22344970703125,0
+Tanya conceals Adam.,This ice cream conceals Adam.,syntax,s-selection,animate_subject_trans,True,False,True,False,8,-58.437782287597656,-50.53139114379883,0
+Renee had praised Eric.,The beef had praised Eric.,syntax,s-selection,animate_subject_trans,True,False,True,False,9,-45.47447967529297,-44.66370391845703,0
+Mark hasn't respected a lot of actors.,Every government hasn't respected a lot of actors.,syntax,s-selection,animate_subject_trans,True,False,True,False,10,-38.056243896484375,-45.801361083984375,1
+Matt could argue about Bethany.,Every mall could argue about Bethany.,syntax,s-selection,animate_subject_trans,True,False,True,False,11,-43.50259780883789,-51.65665817260742,1
+Kathleen can't fix every carriage.,Some newspaper article can't fix every carriage.,syntax,s-selection,animate_subject_trans,True,False,True,False,12,-61.60752487182617,-56.915321350097656,0
+Denise wasn't referencing Homer.,Rice wasn't referencing Homer.,syntax,s-selection,animate_subject_trans,True,False,True,False,13,-44.925174713134766,-55.9818000793457,1
+Vanessa visits Judy.,The ice cream visits Judy.,syntax,s-selection,animate_subject_trans,True,False,True,False,14,-40.44911193847656,-41.64787292480469,1
+Beverly would scan a movie.,A pepper would scan a movie.,syntax,s-selection,animate_subject_trans,True,False,True,False,15,-52.66103744506836,-50.03631591796875,0
+Liam has respected many waiters.,That banana has respected many waiters.,syntax,s-selection,animate_subject_trans,True,False,True,False,16,-62.89555358886719,-61.353206634521484,0
+Some person hadn't passed all high schools.,That casserole hadn't passed all high schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,17,-43.91616439819336,-69.72844696044922,1
+Carlos has sounded like all hospitals.,This ice has sounded like all hospitals.,syntax,s-selection,animate_subject_trans,True,False,True,False,18,-41.772605895996094,-45.72889709472656,1
+Wendy walked through some schools.,The spotlight walked through some schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,19,-46.27549743652344,-38.27037048339844,0
+Steve hasn't returned to a dancer.,The nose hasn't returned to a dancer.,syntax,s-selection,animate_subject_trans,True,False,True,False,20,-32.805110931396484,-40.99854278564453,1
+Anne wasn't thinking about Paula.,Art wasn't thinking about Paula.,syntax,s-selection,animate_subject_trans,True,False,True,False,21,-28.711198806762695,-30.147499084472656,1
+Some women were scanning the essay.,A lot of dishes were scanning the essay.,syntax,s-selection,animate_subject_trans,True,False,True,False,22,-37.320831298828125,-63.183021545410156,1
+Victoria wouldn't insult a man.,That unicycle wouldn't insult a man.,syntax,s-selection,animate_subject_trans,True,False,True,False,23,-32.630699157714844,-55.404396057128906,1
+Peter isn't thinking about a lot of schools.,Some turtle isn't thinking about a lot of schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,24,-29.58293342590332,-45.11012268066406,1
+Samuel shouldn't hate Susan.,Art shouldn't hate Susan.,syntax,s-selection,animate_subject_trans,True,False,True,False,25,-38.38865280151367,-35.025047302246094,0
+Karla drives to every grocery store.,This chair drives to every grocery store.,syntax,s-selection,animate_subject_trans,True,False,True,False,26,-44.384464263916016,-47.08430480957031,1
+Omar isn't talking to Erin.,A legislature isn't talking to Erin.,syntax,s-selection,animate_subject_trans,True,False,True,False,27,-43.04484558105469,-53.269622802734375,1
+Galileo had talked to Stephanie.,This car had talked to Stephanie.,syntax,s-selection,animate_subject_trans,True,False,True,False,28,-45.362281799316406,-37.6861572265625,0
+Mitchell criticized Amy.,Some art gallery criticized Amy.,syntax,s-selection,animate_subject_trans,True,False,True,False,29,-34.13287353515625,-45.483604431152344,1
+Clyde couldn't forget Phillip.,That sketch couldn't forget Phillip.,syntax,s-selection,animate_subject_trans,True,False,True,False,30,-64.50062561035156,-51.998504638671875,0
+Most companies have remembered Jesus.,These chairs have remembered Jesus.,syntax,s-selection,animate_subject_trans,True,False,True,False,31,-33.421119689941406,-37.56047058105469,1
+Tina hasn't respected Florence.,Art hasn't respected Florence.,syntax,s-selection,animate_subject_trans,True,False,True,False,32,-55.511749267578125,-36.24134063720703,0
+Phillip can talk to those waitresses.,This pasta can talk to those waitresses.,syntax,s-selection,animate_subject_trans,True,False,True,False,33,-52.79515075683594,-57.406707763671875,1
+Matt discovered a lot of spotlights.,Every ladder discovered a lot of spotlights.,syntax,s-selection,animate_subject_trans,True,False,True,False,34,-42.166568756103516,-52.694862365722656,1
+Gina talks to Joseph.,Fish talks to Joseph.,syntax,s-selection,animate_subject_trans,True,False,True,False,35,-41.86543273925781,-30.036087036132812,0
+Kendra hasn't attacked some guys.,That window hasn't attacked some guys.,syntax,s-selection,animate_subject_trans,True,False,True,False,36,-55.36960220336914,-45.76121520996094,0
+Ella discovered Matt.,This association discovered Matt.,syntax,s-selection,animate_subject_trans,True,False,True,False,37,-44.73046112060547,-40.804412841796875,0
+Valerie isn't passing high schools.,A public park isn't passing high schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,38,-44.785972595214844,-64.07875061035156,1
+Carrie isn't listening to Jodi.,That movie theater isn't listening to Jodi.,syntax,s-selection,animate_subject_trans,True,False,True,False,39,-47.20672607421875,-59.824066162109375,1
+Russell hasn't escaped from some museum.,That picture hasn't escaped from some museum.,syntax,s-selection,animate_subject_trans,True,False,True,False,40,-40.792945861816406,-53.72532272338867,1
+This customer was arguing about Karen.,A report was arguing about Karen.,syntax,s-selection,animate_subject_trans,True,False,True,False,41,-41.30345916748047,-51.26139450073242,1
+Roger will watch that guest.,Some beef will watch that guest.,syntax,s-selection,animate_subject_trans,True,False,True,False,42,-27.97141456604004,-38.97322082519531,1
+Becky tours a lot of banks.,This rug tours a lot of banks.,syntax,s-selection,animate_subject_trans,True,False,True,False,43,-35.144561767578125,-44.450584411621094,1
+Chad isn't observing that cashier.,This casserole isn't observing that cashier.,syntax,s-selection,animate_subject_trans,True,False,True,False,44,-62.036746978759766,-75.92929077148438,1
+The girls weren't skated around a museum.,All snakes weren't skated around a museum.,syntax,s-selection,animate_subject_trans,True,False,True,False,45,-49.343528747558594,-52.80250549316406,1
+Brad hasn't returned to most pedestrians.,This dish hasn't returned to most pedestrians.,syntax,s-selection,animate_subject_trans,True,False,True,False,46,-42.88957977294922,-48.9992790222168,1
+Stacey toured the hill.,Some rice toured the hill.,syntax,s-selection,animate_subject_trans,True,False,True,False,47,-45.17753601074219,-38.48054504394531,0
+Jodi boycotted the closets.,Every committee boycotted the closets.,syntax,s-selection,animate_subject_trans,True,False,True,False,48,-68.18727111816406,-62.04648971557617,0
+Laura doesn't bring some boxes.,The painting doesn't bring some boxes.,syntax,s-selection,animate_subject_trans,True,False,True,False,49,-28.61557388305664,-35.571746826171875,1
+Every lady lifts this gate.,This report lifts this gate.,syntax,s-selection,animate_subject_trans,True,False,True,False,50,-35.86130905151367,-36.634071350097656,1
+Tanya admires Melanie.,Music admires Melanie.,syntax,s-selection,animate_subject_trans,True,False,True,False,51,-59.0815315246582,-39.860626220703125,0
+Erin wouldn't drive to the hill.,The coat wouldn't drive to the hill.,syntax,s-selection,animate_subject_trans,True,False,True,False,52,-39.25981140136719,-37.976295471191406,0
+Heidi hadn't concealed all socks.,The movie theater hadn't concealed all socks.,syntax,s-selection,animate_subject_trans,True,False,True,False,53,-55.8489990234375,-59.9144287109375,1
+Natalie complains about Caroline.,A rabbit complains about Caroline.,syntax,s-selection,animate_subject_trans,True,False,True,False,54,-43.27370834350586,-49.96820831298828,1
+Elaine might flee from Ronald.,That university might flee from Ronald.,syntax,s-selection,animate_subject_trans,True,False,True,False,55,-51.6356201171875,-53.65085220336914,1
+Some associations are admiring Alexander.,The dishes are admiring Alexander.,syntax,s-selection,animate_subject_trans,True,False,True,False,56,-50.551475524902344,-50.48619842529297,0
+Paula admired Kenneth.,Some river admired Kenneth.,syntax,s-selection,animate_subject_trans,True,False,True,False,57,-33.352783203125,-40.09947967529297,1
+Brenda dropped by a river.,This book dropped by a river.,syntax,s-selection,animate_subject_trans,True,False,True,False,58,-31.62894058227539,-36.308380126953125,1
+A senator drops by every lake.,The muffin drops by every lake.,syntax,s-selection,animate_subject_trans,True,False,True,False,59,-58.704383850097656,-48.956214904785156,0
+Carla can't watch Sara.,The tomato can't watch Sara.,syntax,s-selection,animate_subject_trans,True,False,True,False,60,-36.808265686035156,-38.122642517089844,1
+Pamela reveals Dana.,That carriage reveals Dana.,syntax,s-selection,animate_subject_trans,True,False,True,False,61,-50.842620849609375,-40.35411834716797,0
+Steven hasn't talked about Sara.,That window hasn't talked about Sara.,syntax,s-selection,animate_subject_trans,True,False,True,False,62,-29.34864044189453,-42.9172248840332,1
+Every library isn't praising Alexander.,The tomato isn't praising Alexander.,syntax,s-selection,animate_subject_trans,True,False,True,False,63,-45.332115173339844,-48.13458251953125,1
+Tamara hates Julia.,This ice hates Julia.,syntax,s-selection,animate_subject_trans,True,False,True,False,64,-35.74358367919922,-39.839046478271484,1
+Alan messed up some college campus.,A gate messed up some college campus.,syntax,s-selection,animate_subject_trans,True,False,True,False,65,-37.769954681396484,-56.35162353515625,1
+Paul fires Russell.,This truck fires Russell.,syntax,s-selection,animate_subject_trans,True,False,True,False,66,-27.21268081665039,-35.24412155151367,1
+Beverly wasn't examining books.,The bike wasn't examining books.,syntax,s-selection,animate_subject_trans,True,False,True,False,67,-56.47084426879883,-40.249629974365234,0
+Dawn hadn't forgotten Diana.,Some government hadn't forgotten Diana.,syntax,s-selection,animate_subject_trans,True,False,True,False,68,-49.00202560424805,-39.9669189453125,0
+Ella has forgotten Michael.,Spain has forgotten Michael.,syntax,s-selection,animate_subject_trans,True,False,True,False,69,-45.60609817504883,-30.27037811279297,0
+Alice fires Ruth.,Some plate fires Ruth.,syntax,s-selection,animate_subject_trans,True,False,True,False,70,-27.7198486328125,-42.198097229003906,1
+A lot of actors bought mountains.,All horses bought mountains.,syntax,s-selection,animate_subject_trans,True,False,True,False,71,-49.355628967285156,-31.131954193115234,0
+Amelia questioned Valerie.,The lake questioned Valerie.,syntax,s-selection,animate_subject_trans,True,False,True,False,72,-39.076332092285156,-38.97238540649414,0
+Pamela hadn't attacked a lot of cashiers.,This coat hadn't attacked a lot of cashiers.,syntax,s-selection,animate_subject_trans,True,False,True,False,73,-73.99311065673828,-58.482086181640625,0
+Leslie hadn't fixed this cart.,That sweater hadn't fixed this cart.,syntax,s-selection,animate_subject_trans,True,False,True,False,74,-51.97840881347656,-55.98842239379883,1
+Douglas hadn't argued about Samuel.,The carriage hadn't argued about Samuel.,syntax,s-selection,animate_subject_trans,True,False,True,False,75,-47.47417449951172,-48.7047004699707,1
+Kenneth isn't cleaning a jacket.,Spinach isn't cleaning a jacket.,syntax,s-selection,animate_subject_trans,True,False,True,False,76,-42.59211730957031,-52.594154357910156,1
+Florence hadn't fled from banks.,Every university hadn't fled from banks.,syntax,s-selection,animate_subject_trans,True,False,True,False,77,-55.5809440612793,-48.25822448730469,0
+Jill cleaned all ladders.,The door cleaned all ladders.,syntax,s-selection,animate_subject_trans,True,False,True,False,78,-53.53516387939453,-42.901100158691406,0
+Some cashier isn't complaining about these ladies.,The sketch isn't complaining about these ladies.,syntax,s-selection,animate_subject_trans,True,False,True,False,79,-56.68620300292969,-48.8720817565918,0
+Deborah drove to some college campuses.,Some commentary drove to some college campuses.,syntax,s-selection,animate_subject_trans,True,False,True,False,80,-50.95000076293945,-55.11751937866211,1
+Theresa visits Patricia.,The nose visits Patricia.,syntax,s-selection,animate_subject_trans,True,False,True,False,81,-38.86089324951172,-38.884483337402344,1
+Carl cleans this dress.,Bread cleans this dress.,syntax,s-selection,animate_subject_trans,True,False,True,False,82,-29.11280059814453,-48.149166107177734,1
+Melanie won't notice Carol.,This ice cream won't notice Carol.,syntax,s-selection,animate_subject_trans,True,False,True,False,83,-42.9542350769043,-47.36384201049805,1
+Russell was running around that school.,The sweater was running around that school.,syntax,s-selection,animate_subject_trans,True,False,True,False,84,-28.41668701171875,-39.17938995361328,1
+Candice can't kiss these people.,Some high school can't kiss these people.,syntax,s-selection,animate_subject_trans,True,False,True,False,85,-34.425628662109375,-38.758514404296875,1
+Matt was going to restaurants.,The cucumber was going to restaurants.,syntax,s-selection,animate_subject_trans,True,False,True,False,86,-22.069843292236328,-39.1595344543457,1
+Every guest isn't leaving Eva.,Art isn't leaving Eva.,syntax,s-selection,animate_subject_trans,True,False,True,False,87,-40.413917541503906,-31.7512149810791,0
+Dawn can't go to a mall.,Some window can't go to a mall.,syntax,s-selection,animate_subject_trans,True,False,True,False,88,-39.016666412353516,-34.79798889160156,0
+Tonya hadn't healed most horses.,This dish hadn't healed most horses.,syntax,s-selection,animate_subject_trans,True,False,True,False,89,-51.65374755859375,-53.07946014404297,1
+Kimberley bikes to the Great Lakes.,Every newspaper article bikes to the Great Lakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,90,-55.568965911865234,-59.7059440612793,1
+Wayne was attacking Cindy.,Every plane was attacking Cindy.,syntax,s-selection,animate_subject_trans,True,False,True,False,91,-40.19483184814453,-37.41640853881836,0
+Emily hadn't questioned that actor.,Some pepper hadn't questioned that actor.,syntax,s-selection,animate_subject_trans,True,False,True,False,92,-34.721595764160156,-47.27710723876953,1
+Deborah can't run around the Great Lakes.,A newspaper article can't run around the Great Lakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,93,-50.843055725097656,-71.0352783203125,1
+Aaron messed up these glasses.,That government messed up these glasses.,syntax,s-selection,animate_subject_trans,True,False,True,False,94,-32.27513885498047,-42.151031494140625,1
+Lawrence fled from Brad.,Literature fled from Brad.,syntax,s-selection,animate_subject_trans,True,False,True,False,95,-35.70246505737305,-41.24376678466797,1
+These dancers should investigate Caroline.,Glaciers should investigate Caroline.,syntax,s-selection,animate_subject_trans,True,False,True,False,96,-40.929786682128906,-53.40962219238281,1
+Mitchell can't complain about Peter.,This window can't complain about Peter.,syntax,s-selection,animate_subject_trans,True,False,True,False,97,-44.025962829589844,-41.834754943847656,0
+Every doctor wasn't describing a river.,This story wasn't describing a river.,syntax,s-selection,animate_subject_trans,True,False,True,False,98,-41.96154022216797,-39.663883209228516,0
+Sally concealed Kirsten.,This beef concealed Kirsten.,syntax,s-selection,animate_subject_trans,True,False,True,False,99,-49.919254302978516,-45.077789306640625,0
+Kendra might bike to a school.,Politics might bike to a school.,syntax,s-selection,animate_subject_trans,True,False,True,False,100,-55.47601318359375,-35.526573181152344,0
+A lot of actresses lifted these glaciers.,The documentaries lifted these glaciers.,syntax,s-selection,animate_subject_trans,True,False,True,False,101,-63.74536895751953,-47.863372802734375,0
+Many teenagers weren't observing Kathleen.,The museums weren't observing Kathleen.,syntax,s-selection,animate_subject_trans,True,False,True,False,102,-46.915061950683594,-49.60121154785156,1
+Elizabeth describes Melissa.,This mushroom describes Melissa.,syntax,s-selection,animate_subject_trans,True,False,True,False,103,-26.152923583984375,-39.21220397949219,1
+Janice cares for Melissa.,Every shawl cares for Melissa.,syntax,s-selection,animate_subject_trans,True,False,True,False,104,-38.90271759033203,-56.5311164855957,1
+Benjamin wasn't breaking every glass.,This pasta wasn't breaking every glass.,syntax,s-selection,animate_subject_trans,True,False,True,False,105,-45.28133773803711,-47.130950927734375,1
+Melanie is escaping from Emily.,Some dress is escaping from Emily.,syntax,s-selection,animate_subject_trans,True,False,True,False,106,-47.04363250732422,-46.62684631347656,0
+Andrea forgets Becca.,That turtle forgets Becca.,syntax,s-selection,animate_subject_trans,True,False,True,False,107,-49.2199821472168,-51.68671798706055,1
+Ann examines a lot of essays.,That company examines a lot of essays.,syntax,s-selection,animate_subject_trans,True,False,True,False,108,-35.7485466003418,-45.587581634521484,1
+Emily had questioned Dennis.,Some company had questioned Dennis.,syntax,s-selection,animate_subject_trans,True,False,True,False,109,-34.121009826660156,-40.33313751220703,1
+Most organizations helped Bill.,Most glasses helped Bill.,syntax,s-selection,animate_subject_trans,True,False,True,False,110,-33.41878890991211,-38.198463439941406,1
+Andrew talks to Todd.,The cart talks to Todd.,syntax,s-selection,animate_subject_trans,True,False,True,False,111,-30.42245864868164,-42.13732147216797,1
+Jacqueline insults all commentaries.,The tomato insults all commentaries.,syntax,s-selection,animate_subject_trans,True,False,True,False,112,-57.561649322509766,-57.17255401611328,0
+Melinda hadn't insulted malls.,The ice hadn't insulted malls.,syntax,s-selection,animate_subject_trans,True,False,True,False,113,-50.502777099609375,-47.978824615478516,0
+Jesus hugged Paul.,The snake hugged Paul.,syntax,s-selection,animate_subject_trans,True,False,True,False,114,-26.60141372680664,-38.6412353515625,1
+Nicole isn't approaching Sabrina.,The window isn't approaching Sabrina.,syntax,s-selection,animate_subject_trans,True,False,True,False,115,-52.66769790649414,-51.575347900390625,0
+The Impressionists were boycotting those cafes.,Most grocery stores were boycotting those cafes.,syntax,s-selection,animate_subject_trans,True,False,True,False,116,-78.4852066040039,-67.53234100341797,0
+Melinda has hidden carts.,This high school has hidden carts.,syntax,s-selection,animate_subject_trans,True,False,True,False,117,-40.14101791381836,-41.61406707763672,1
+Many girls boasted about Beverly.,Some dishes boasted about Beverly.,syntax,s-selection,animate_subject_trans,True,False,True,False,118,-43.91472244262695,-47.17326354980469,1
+Kathleen could bring every rug.,A restaurant could bring every rug.,syntax,s-selection,animate_subject_trans,True,False,True,False,119,-61.26020050048828,-54.18225860595703,0
+James examined these documentaries.,That report examined these documentaries.,syntax,s-selection,animate_subject_trans,True,False,True,False,120,-33.21678161621094,-48.50102996826172,1
+Colleen walks through these restaurants.,This restaurant walks through these restaurants.,syntax,s-selection,animate_subject_trans,True,False,True,False,121,-40.546417236328125,-38.775028228759766,0
+A dancer complained about most boys.,Some hamster complained about most boys.,syntax,s-selection,animate_subject_trans,True,False,True,False,122,-50.186397552490234,-48.18080139160156,0
+Colleen was watching Robert.,That rabbit was watching Robert.,syntax,s-selection,animate_subject_trans,True,False,True,False,123,-36.946075439453125,-40.933021545410156,1
+Patricia hadn't hidden those scarves.,A cafe hadn't hidden those scarves.,syntax,s-selection,animate_subject_trans,True,False,True,False,124,-53.58544158935547,-68.1964111328125,1
+Renee works with Sheila.,That association works with Sheila.,syntax,s-selection,animate_subject_trans,True,False,True,False,125,-36.586509704589844,-40.12291717529297,1
+Valerie boycotted a library.,The convertible boycotted a library.,syntax,s-selection,animate_subject_trans,True,False,True,False,126,-57.31124496459961,-54.90403747558594,0
+Homer arrived at a mountain.,An eggplant arrived at a mountain.,syntax,s-selection,animate_subject_trans,True,False,True,False,127,-39.21897888183594,-47.75104904174805,1
+Marie won't reference many patients.,The bird won't reference many patients.,syntax,s-selection,animate_subject_trans,True,False,True,False,128,-41.751495361328125,-51.79594421386719,1
+Stacey investigates Veronica.,Art investigates Veronica.,syntax,s-selection,animate_subject_trans,True,False,True,False,129,-51.966819763183594,-30.713773727416992,0
+Brenda was insulting Tina.,Some hair was insulting Tina.,syntax,s-selection,animate_subject_trans,True,False,True,False,130,-36.1685791015625,-43.542144775390625,1
+Rachelle wasn't driving to the lake.,The drawing wasn't driving to the lake.,syntax,s-selection,animate_subject_trans,True,False,True,False,131,-37.34549331665039,-40.1854133605957,1
+Laurie might watch Kayla.,A print might watch Kayla.,syntax,s-selection,animate_subject_trans,True,False,True,False,132,-55.22667694091797,-57.81785202026367,1
+Laurie hides Keith.,Some newspaper article hides Keith.,syntax,s-selection,animate_subject_trans,True,False,True,False,133,-49.26814651489258,-51.50468444824219,1
+This woman is referencing the doctor.,That spotlight is referencing the doctor.,syntax,s-selection,animate_subject_trans,True,False,True,False,134,-37.222496032714844,-46.83504104614258,1
+Colleen doesn't bring a lot of stairs.,A picture doesn't bring a lot of stairs.,syntax,s-selection,animate_subject_trans,True,False,True,False,135,-42.763973236083984,-50.31795120239258,1
+Lori is discovering the water.,The beef is discovering the water.,syntax,s-selection,animate_subject_trans,True,False,True,False,136,-43.664207458496094,-36.036190032958984,0
+William wasn't concealing Linda.,Some candle wasn't concealing Linda.,syntax,s-selection,animate_subject_trans,True,False,True,False,137,-45.78094482421875,-59.52937316894531,1
+Carmen could praise Christopher.,Some closet could praise Christopher.,syntax,s-selection,animate_subject_trans,True,False,True,False,138,-59.332359313964844,-47.613525390625,0
+These adults won't kiss Sheila.,The hospitals won't kiss Sheila.,syntax,s-selection,animate_subject_trans,True,False,True,False,139,-39.342193603515625,-42.80867385864258,1
+Tammy ran around every river.,This truck ran around every river.,syntax,s-selection,animate_subject_trans,True,False,True,False,140,-32.947021484375,-35.3672981262207,1
+Emily hadn't kissed Kimberley.,Every coat hadn't kissed Kimberley.,syntax,s-selection,animate_subject_trans,True,False,True,False,141,-47.89737319946289,-60.13884735107422,1
+Some doctor shouldn't attack the boys.,This ice shouldn't attack the boys.,syntax,s-selection,animate_subject_trans,True,False,True,False,142,-40.38536071777344,-42.00468063354492,1
+Veronica descends every mountain.,Some organization descends every mountain.,syntax,s-selection,animate_subject_trans,True,False,True,False,143,-55.10466003417969,-56.53361129760742,1
+Janet explores every lake.,Some shawl explores every lake.,syntax,s-selection,animate_subject_trans,True,False,True,False,144,-41.26311492919922,-57.55465316772461,1
+Leslie had investigated Veronica.,Some eye had investigated Veronica.,syntax,s-selection,animate_subject_trans,True,False,True,False,145,-46.651512145996094,-45.8206672668457,0
+Mitchell can't boast about David.,This popsicle can't boast about David.,syntax,s-selection,animate_subject_trans,True,False,True,False,146,-50.74578094482422,-61.03564453125,1
+Christopher talked to Karen.,Some fish talked to Karen.,syntax,s-selection,animate_subject_trans,True,False,True,False,147,-24.868484497070312,-32.82463836669922,1
+John talks about this person.,This window talks about this person.,syntax,s-selection,animate_subject_trans,True,False,True,False,148,-22.996570587158203,-33.62162780761719,1
+Most guests shouldn't return to some children.,Current events shouldn't return to some children.,syntax,s-selection,animate_subject_trans,True,False,True,False,149,-42.919681549072266,-41.48439025878906,0
+Sara was messing up the mall.,Every screen was messing up the mall.,syntax,s-selection,animate_subject_trans,True,False,True,False,150,-44.41928482055664,-39.06748580932617,0
+Melissa can reference Tracy.,That skateboard can reference Tracy.,syntax,s-selection,animate_subject_trans,True,False,True,False,151,-45.92692565917969,-54.793663024902344,1
+Michelle walked through many glaciers.,That box walked through many glaciers.,syntax,s-selection,animate_subject_trans,True,False,True,False,152,-36.538692474365234,-49.33799743652344,1
+Theresa has listened to Dana.,Every hill has listened to Dana.,syntax,s-selection,animate_subject_trans,True,False,True,False,153,-39.148746490478516,-38.61207580566406,0
+David hadn't respected some pedestrians.,This face hadn't respected some pedestrians.,syntax,s-selection,animate_subject_trans,True,False,True,False,154,-40.68487548828125,-51.55253219604492,1
+Frank wasn't buying a lot of rugs.,Every glacier wasn't buying a lot of rugs.,syntax,s-selection,animate_subject_trans,True,False,True,False,155,-42.53030776977539,-56.407405853271484,1
+Mary has investigated Erin.,A college campus has investigated Erin.,syntax,s-selection,animate_subject_trans,True,False,True,False,156,-33.35088348388672,-59.86025619506836,1
+Margaret cleaned all forks.,That high school cleaned all forks.,syntax,s-selection,animate_subject_trans,True,False,True,False,157,-36.451995849609375,-46.535247802734375,1
+Melinda has gone to many college campuses.,Some drawing has gone to many college campuses.,syntax,s-selection,animate_subject_trans,True,False,True,False,158,-48.63222122192383,-54.54214859008789,1
+Bruce saw Samuel.,That box saw Samuel.,syntax,s-selection,animate_subject_trans,True,False,True,False,159,-22.668170928955078,-38.64089584350586,1
+Omar was lifting this glove.,Some gate was lifting this glove.,syntax,s-selection,animate_subject_trans,True,False,True,False,160,-46.848976135253906,-45.663307189941406,0
+Timothy was running around most malls.,That computer was running around most malls.,syntax,s-selection,animate_subject_trans,True,False,True,False,161,-44.59776306152344,-52.57688903808594,1
+Sandra shouldn't investigate Erin.,That cup shouldn't investigate Erin.,syntax,s-selection,animate_subject_trans,True,False,True,False,162,-51.09269714355469,-49.41209030151367,0
+Naomi bikes to every closet.,A hill bikes to every closet.,syntax,s-selection,animate_subject_trans,True,False,True,False,163,-47.76050567626953,-57.08080291748047,1
+Bradley does remember Alicia.,That shawl does remember Alicia.,syntax,s-selection,animate_subject_trans,True,False,True,False,164,-38.143062591552734,-60.34281921386719,1
+Melissa is talking to Gregory.,Some ladder is talking to Gregory.,syntax,s-selection,animate_subject_trans,True,False,True,False,165,-35.97795104980469,-42.85602569580078,1
+Tracy can't dislike Stephanie.,That apple can't dislike Stephanie.,syntax,s-selection,animate_subject_trans,True,False,True,False,166,-44.454078674316406,-47.91864013671875,1
+Tracy hugs most students.,Some public park hugs most students.,syntax,s-selection,animate_subject_trans,True,False,True,False,167,-46.91893768310547,-51.13959503173828,1
+Randolf hasn't hired Steve.,Every book hasn't hired Steve.,syntax,s-selection,animate_subject_trans,True,False,True,False,168,-41.227264404296875,-39.07770919799805,0
+Carmen hired Jesus.,The broccoli hired Jesus.,syntax,s-selection,animate_subject_trans,True,False,True,False,169,-47.761470794677734,-35.41020584106445,0
+Michael was going to some school.,Every cake was going to some school.,syntax,s-selection,animate_subject_trans,True,False,True,False,170,-25.608787536621094,-35.252052307128906,1
+Becky discovered every art gallery.,The lamp discovered every art gallery.,syntax,s-selection,animate_subject_trans,True,False,True,False,171,-43.891517639160156,-51.27366638183594,1
+Becca had fixed every convertible.,This closet had fixed every convertible.,syntax,s-selection,animate_subject_trans,True,False,True,False,172,-45.14851760864258,-47.543495178222656,1
+Marla had thought about a movie.,Every plane had thought about a movie.,syntax,s-selection,animate_subject_trans,True,False,True,False,173,-34.2257194519043,-33.72233963012695,0
+Michelle can't clean every mirror.,A cat can't clean every mirror.,syntax,s-selection,animate_subject_trans,True,False,True,False,174,-34.86719512939453,-52.3362922668457,1
+Jerry talked about Samuel.,The print talked about Samuel.,syntax,s-selection,animate_subject_trans,True,False,True,False,175,-23.435901641845703,-36.396244049072266,1
+Curtis isn't leaving Randolf.,The banana isn't leaving Randolf.,syntax,s-selection,animate_subject_trans,True,False,True,False,176,-67.88697814941406,-55.63207244873047,0
+Liam has arrived at those college campuses.,This popsicle has arrived at those college campuses.,syntax,s-selection,animate_subject_trans,True,False,True,False,177,-63.7669563293457,-69.80680847167969,1
+Every pedestrian talks about a grocery store.,This convertible talks about a grocery store.,syntax,s-selection,animate_subject_trans,True,False,True,False,178,-43.41575241088867,-42.50981903076172,0
+David fixes those cups.,Every bird fixes those cups.,syntax,s-selection,animate_subject_trans,True,False,True,False,179,-34.0374755859375,-44.264183044433594,1
+Melissa walks through some closet.,A bike walks through some closet.,syntax,s-selection,animate_subject_trans,True,False,True,False,180,-39.61091232299805,-49.26416015625,1
+Randolf wouldn't tour hills.,The ice wouldn't tour hills.,syntax,s-selection,animate_subject_trans,True,False,True,False,181,-43.85136032104492,-42.628753662109375,0
+Nancy questions Kenneth.,The dish questions Kenneth.,syntax,s-selection,animate_subject_trans,True,False,True,False,182,-37.056976318359375,-37.5239143371582,1
+Ronald sells the scarves.,Every hospital sells the scarves.,syntax,s-selection,animate_subject_trans,True,False,True,False,183,-45.78355407714844,-39.370445251464844,0
+Dancers hadn't referenced Kristen.,Some horses hadn't referenced Kristen.,syntax,s-selection,animate_subject_trans,True,False,True,False,184,-60.59182357788086,-50.39570236206055,0
+Amelia walks through those hills.,Some essay walks through those hills.,syntax,s-selection,animate_subject_trans,True,False,True,False,185,-41.665672302246094,-44.28460693359375,1
+Rachel is discussing Brenda.,That lake is discussing Brenda.,syntax,s-selection,animate_subject_trans,True,False,True,False,186,-33.35010528564453,-45.05902862548828,1
+Tanya noticed the Lutherans.,Spain noticed the Lutherans.,syntax,s-selection,animate_subject_trans,True,False,True,False,187,-58.6489372253418,-40.964805603027344,0
+Lawrence had fired Kevin.,That bank had fired Kevin.,syntax,s-selection,animate_subject_trans,True,False,True,False,188,-35.32633972167969,-43.39026641845703,1
+This museum could appreciate Mark.,Some nose could appreciate Mark.,syntax,s-selection,animate_subject_trans,True,False,True,False,189,-42.48469161987305,-44.84151840209961,1
+Angela worked with some senators.,The mushroom worked with some senators.,syntax,s-selection,animate_subject_trans,True,False,True,False,190,-36.368385314941406,-44.43532180786133,1
+Sara does flee from Vincent.,That carriage does flee from Vincent.,syntax,s-selection,animate_subject_trans,True,False,True,False,191,-56.78711700439453,-54.300445556640625,0
+Theresa would return to Gerald.,This bread would return to Gerald.,syntax,s-selection,animate_subject_trans,True,False,True,False,192,-41.3115119934082,-43.09654235839844,1
+A customer wasn't insulting rivers.,Every bike wasn't insulting rivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,193,-54.94854736328125,-42.98539733886719,0
+Nina remembered Wayne.,Every shawl remembered Wayne.,syntax,s-selection,animate_subject_trans,True,False,True,False,194,-40.59699249267578,-52.54174041748047,1
+Douglas won't like fish.,That ice cream won't like fish.,syntax,s-selection,animate_subject_trans,True,False,True,False,195,-33.30421447753906,-43.24063491821289,1
+Sally broke the couches.,Ice cream broke the couches.,syntax,s-selection,animate_subject_trans,True,False,True,False,196,-47.01493453979492,-35.916358947753906,0
+All patients have argued about Brian.,Some essays have argued about Brian.,syntax,s-selection,animate_subject_trans,True,False,True,False,197,-40.531253814697266,-45.34328842163086,1
+Richard has listened to Ella.,That story has listened to Ella.,syntax,s-selection,animate_subject_trans,True,False,True,False,198,-29.45125961303711,-40.103126525878906,1
+Nancy ran around the Great Lakes.,This spinach ran around the Great Lakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,199,-47.12220001220703,-50.11732864379883,1
+Alan hadn't praised a story.,Every story hadn't praised a story.,syntax,s-selection,animate_subject_trans,True,False,True,False,200,-33.90440368652344,-40.41337585449219,1
+Jessica hires Tara.,That story hires Tara.,syntax,s-selection,animate_subject_trans,True,False,True,False,201,-28.86083984375,-42.93341827392578,1
+Gina lifts the doors.,This closet lifts the doors.,syntax,s-selection,animate_subject_trans,True,False,True,False,202,-36.30316162109375,-34.82734298706055,0
+Christina might hire Phillip.,The scarf might hire Phillip.,syntax,s-selection,animate_subject_trans,True,False,True,False,203,-41.397979736328125,-46.39190673828125,1
+Ronald argued about Jeffrey.,That committee argued about Jeffrey.,syntax,s-selection,animate_subject_trans,True,False,True,False,204,-45.941986083984375,-47.75334930419922,1
+Those actresses talked to many patients.,Those steps talked to many patients.,syntax,s-selection,animate_subject_trans,True,False,True,False,205,-38.307518005371094,-37.59727478027344,0
+Caroline cleans a lot of pies.,A hill cleans a lot of pies.,syntax,s-selection,animate_subject_trans,True,False,True,False,206,-42.04677963256836,-52.62915802001953,1
+Tonya is criticizing Elizabeth.,Every couch is criticizing Elizabeth.,syntax,s-selection,animate_subject_trans,True,False,True,False,207,-41.000152587890625,-42.0548210144043,1
+Suzanne couldn't visit Colleen.,That fork couldn't visit Colleen.,syntax,s-selection,animate_subject_trans,True,False,True,False,208,-55.82740020751953,-60.71137619018555,1
+This actress sees most patients.,That muffin sees most patients.,syntax,s-selection,animate_subject_trans,True,False,True,False,209,-37.30110549926758,-46.04491424560547,1
+Linda was messing up some dishes.,That dog was messing up some dishes.,syntax,s-selection,animate_subject_trans,True,False,True,False,210,-49.04472351074219,-45.66497802734375,0
+A woman was kissing Daniel.,The glove was kissing Daniel.,syntax,s-selection,animate_subject_trans,True,False,True,False,211,-49.68898010253906,-42.12451171875,0
+April wasn't passing some bank.,A hat wasn't passing some bank.,syntax,s-selection,animate_subject_trans,True,False,True,False,212,-37.52710723876953,-53.96914291381836,1
+Deborah hates Colleen.,A light hates Colleen.,syntax,s-selection,animate_subject_trans,True,False,True,False,213,-42.874168395996094,-54.66254806518555,1
+Some waitresses examined an essay.,The casseroles examined an essay.,syntax,s-selection,animate_subject_trans,True,False,True,False,214,-51.7624397277832,-57.08397674560547,1
+Debra has hired Homer.,This pasta has hired Homer.,syntax,s-selection,animate_subject_trans,True,False,True,False,215,-37.45430374145508,-41.78249740600586,1
+Diana isn't touring the hospitals.,That mouth isn't touring the hospitals.,syntax,s-selection,animate_subject_trans,True,False,True,False,216,-52.13418197631836,-45.160438537597656,0
+Eva loves this dancer.,Music loves this dancer.,syntax,s-selection,animate_subject_trans,True,False,True,False,217,-24.198022842407227,-27.702735900878906,1
+Bruce hadn't examined the story.,That screen hadn't examined the story.,syntax,s-selection,animate_subject_trans,True,False,True,False,218,-31.312421798706055,-44.24327087402344,1
+Naomi escaped from Sherry.,That print escaped from Sherry.,syntax,s-selection,animate_subject_trans,True,False,True,False,219,-41.29526138305664,-50.09400939941406,1
+Gregory can talk about that senator.,That apple can talk about that senator.,syntax,s-selection,animate_subject_trans,True,False,True,False,220,-38.964969635009766,-45.489681243896484,1
+These women have loved Julie.,Movie theaters have loved Julie.,syntax,s-selection,animate_subject_trans,True,False,True,False,221,-31.187286376953125,-42.20146942138672,1
+Brett hasn't messed up that dress.,Every newspaper article hasn't messed up that dress.,syntax,s-selection,animate_subject_trans,True,False,True,False,222,-58.41741943359375,-52.86845016479492,0
+Victoria has arrived at these banks.,A college campus has arrived at these banks.,syntax,s-selection,animate_subject_trans,True,False,True,False,223,-34.01619338989258,-64.5101089477539,1
+Russell is boasting about Dawn.,The vase is boasting about Dawn.,syntax,s-selection,animate_subject_trans,True,False,True,False,224,-40.061729431152344,-57.056732177734375,1
+Diana boycotts a lot of restaurants.,A shawl boycotts a lot of restaurants.,syntax,s-selection,animate_subject_trans,True,False,True,False,225,-58.541160583496094,-78.92153930664062,1
+Tanya loves Wayne.,A legislature loves Wayne.,syntax,s-selection,animate_subject_trans,True,False,True,False,226,-42.829559326171875,-49.075279235839844,1
+Dan bikes to this museum.,The pasta bikes to this museum.,syntax,s-selection,animate_subject_trans,True,False,True,False,227,-35.44903564453125,-47.813812255859375,1
+Caroline finds Steven.,Some cup finds Steven.,syntax,s-selection,animate_subject_trans,True,False,True,False,228,-32.3049430847168,-35.976200103759766,1
+Kimberley hides most rivers.,That window hides most rivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,229,-47.4566650390625,-45.16041946411133,0
+Gregory cleans that popsicle.,A dress cleans that popsicle.,syntax,s-selection,animate_subject_trans,True,False,True,False,230,-49.3551025390625,-59.95249938964844,1
+Janice passed this hospital.,Beef passed this hospital.,syntax,s-selection,animate_subject_trans,True,False,True,False,231,-35.35627746582031,-36.04069519042969,1
+The Lutherans worked with some guys.,The essays worked with some guys.,syntax,s-selection,animate_subject_trans,True,False,True,False,232,-47.089393615722656,-37.99365234375,0
+Tonya isn't kissing Marie.,A commentary isn't kissing Marie.,syntax,s-selection,animate_subject_trans,True,False,True,False,233,-42.10685348510742,-58.72338104248047,1
+Every adult is concealing Samuel.,Some rabbit is concealing Samuel.,syntax,s-selection,animate_subject_trans,True,False,True,False,234,-51.06419372558594,-55.82314682006836,1
+Most libraries argued about Benjamin.,Those glasses argued about Benjamin.,syntax,s-selection,animate_subject_trans,True,False,True,False,235,-43.80885314941406,-41.82849884033203,0
+Wendy didn't approach that actress.,The slope didn't approach that actress.,syntax,s-selection,animate_subject_trans,True,False,True,False,236,-54.16197967529297,-45.455474853515625,0
+This boy wasn't fleeing from Sarah.,Some lamp wasn't fleeing from Sarah.,syntax,s-selection,animate_subject_trans,True,False,True,False,237,-44.823360443115234,-53.75002670288086,1
+Sally won't question Judy.,Some cup won't question Judy.,syntax,s-selection,animate_subject_trans,True,False,True,False,238,-50.89716339111328,-48.9454345703125,0
+Bruce discussed Carmen.,That broccoli discussed Carmen.,syntax,s-selection,animate_subject_trans,True,False,True,False,239,-28.600513458251953,-46.29341125488281,1
+Keith hides a lot of rivers.,Some cucumber hides a lot of rivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,240,-31.1691837310791,-49.904693603515625,1
+Allison hasn't gone to every restaurant.,Every projector hasn't gone to every restaurant.,syntax,s-selection,animate_subject_trans,True,False,True,False,241,-41.941226959228516,-46.67005157470703,1
+Christine is driving to high schools.,This sweater is driving to high schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,242,-33.164024353027344,-38.72679138183594,1
+Tina wasn't leaving Laurie.,Some carriage wasn't leaving Laurie.,syntax,s-selection,animate_subject_trans,True,False,True,False,243,-52.225311279296875,-45.27434539794922,0
+Ellen won't reference Margaret.,Some bicycle won't reference Margaret.,syntax,s-selection,animate_subject_trans,True,False,True,False,244,-42.295284271240234,-52.14412307739258,1
+Many universities are arguing about some patient.,Most tomatoes are arguing about some patient.,syntax,s-selection,animate_subject_trans,True,False,True,False,245,-40.39999771118164,-44.276275634765625,1
+Regina describes Grace.,This hat describes Grace.,syntax,s-selection,animate_subject_trans,True,False,True,False,246,-35.18040466308594,-35.765899658203125,1
+A lot of dancers weren't escaping from an actor.,All malls weren't escaping from an actor.,syntax,s-selection,animate_subject_trans,True,False,True,False,247,-68.25562286376953,-56.83208084106445,0
+Omar has driven to this lake.,A lamp has driven to this lake.,syntax,s-selection,animate_subject_trans,True,False,True,False,248,-48.60999298095703,-55.082008361816406,1
+All organizations should describe David.,Some cars should describe David.,syntax,s-selection,animate_subject_trans,True,False,True,False,249,-38.824432373046875,-35.362037658691406,0
+Rose isn't fleeing from Guy.,Politics isn't fleeing from Guy.,syntax,s-selection,animate_subject_trans,True,False,True,False,250,-41.54867172241211,-41.58836364746094,1
+Naomi has fled from Cindy.,That story has fled from Cindy.,syntax,s-selection,animate_subject_trans,True,False,True,False,251,-44.89583206176758,-45.31789016723633,1
+Raymond exited these grocery stores.,Music exited these grocery stores.,syntax,s-selection,animate_subject_trans,True,False,True,False,252,-47.72228240966797,-38.659141540527344,0
+These girls aren't wearing that shoe.,Some rivers aren't wearing that shoe.,syntax,s-selection,animate_subject_trans,True,False,True,False,253,-36.13548278808594,-38.814308166503906,1
+Some dancer kissed that actor.,Some public park kissed that actor.,syntax,s-selection,animate_subject_trans,True,False,True,False,254,-42.01021957397461,-47.530914306640625,1
+Victoria hadn't visited every library.,This company hadn't visited every library.,syntax,s-selection,animate_subject_trans,True,False,True,False,255,-36.685829162597656,-43.3363037109375,1
+Many teenagers were noticing Mark.,Most doors were noticing Mark.,syntax,s-selection,animate_subject_trans,True,False,True,False,256,-40.301490783691406,-40.41901397705078,1
+Deanna is hugging Tamara.,Some lamp is hugging Tamara.,syntax,s-selection,animate_subject_trans,True,False,True,False,257,-49.53506851196289,-51.905494689941406,1
+Patricia had cleaned every dress.,This school had cleaned every dress.,syntax,s-selection,animate_subject_trans,True,False,True,False,258,-40.60001754760742,-41.07431411743164,1
+Joel won't argue about Mitchell.,A government won't argue about Mitchell.,syntax,s-selection,animate_subject_trans,True,False,True,False,259,-38.38249588012695,-52.48743438720703,1
+Charles isn't insulting those customers.,This shirt isn't insulting those customers.,syntax,s-selection,animate_subject_trans,True,False,True,False,260,-37.81719970703125,-44.89365005493164,1
+The doctors wouldn't care for Mary.,Many steps wouldn't care for Mary.,syntax,s-selection,animate_subject_trans,True,False,True,False,261,-37.32868576049805,-41.7618522644043,1
+Mark exits a hospital.,Some picture exits a hospital.,syntax,s-selection,animate_subject_trans,True,False,True,False,262,-27.47565269470215,-40.19877624511719,1
+Jill brought that cart.,That closet brought that cart.,syntax,s-selection,animate_subject_trans,True,False,True,False,263,-44.63346862792969,-45.69998550415039,1
+Danielle discusses Alice.,Every photograph discusses Alice.,syntax,s-selection,animate_subject_trans,True,False,True,False,264,-35.27281951904297,-40.680763244628906,1
+Brad wasn't discovering this computer.,Every hospital wasn't discovering this computer.,syntax,s-selection,animate_subject_trans,True,False,True,False,265,-37.4359245300293,-44.789730072021484,1
+William lifts this river.,The lake lifts this river.,syntax,s-selection,animate_subject_trans,True,False,True,False,266,-29.61838722229004,-37.34915542602539,1
+Jennifer does research a cafe.,Some casserole does research a cafe.,syntax,s-selection,animate_subject_trans,True,False,True,False,267,-34.975120544433594,-63.846309661865234,1
+Lawrence can't reveal Andrew.,This restaurant can't reveal Andrew.,syntax,s-selection,animate_subject_trans,True,False,True,False,268,-38.98116683959961,-39.28385925292969,1
+Naomi had cleaned a fork.,That book had cleaned a fork.,syntax,s-selection,animate_subject_trans,True,False,True,False,269,-42.8417854309082,-45.76120376586914,1
+John was leaving Helen.,Every eggplant was leaving Helen.,syntax,s-selection,animate_subject_trans,True,False,True,False,270,-30.18102264404297,-54.43080139160156,1
+Tracy won't kiss Lori.,Every report won't kiss Lori.,syntax,s-selection,animate_subject_trans,True,False,True,False,271,-45.896202087402344,-46.331241607666016,1
+Carla wasn't arriving at many college campuses.,A restaurant wasn't arriving at many college campuses.,syntax,s-selection,animate_subject_trans,True,False,True,False,272,-61.88517761230469,-71.49064636230469,1
+That company wouldn't remember the Lutherans.,Every icicle wouldn't remember the Lutherans.,syntax,s-selection,animate_subject_trans,True,False,True,False,273,-52.65719985961914,-65.1404800415039,1
+Vincent might admire that mirror.,The fish might admire that mirror.,syntax,s-selection,animate_subject_trans,True,False,True,False,274,-53.76112747192383,-43.72089385986328,0
+Every driver finds Lissa.,The skirt finds Lissa.,syntax,s-selection,animate_subject_trans,True,False,True,False,275,-39.07009506225586,-43.04734420776367,1
+Chad hired Eric.,A snake hired Eric.,syntax,s-selection,animate_subject_trans,True,False,True,False,276,-39.92124938964844,-45.6185188293457,1
+Jodi respects a hospital.,The school respects a hospital.,syntax,s-selection,animate_subject_trans,True,False,True,False,277,-41.62299346923828,-33.249732971191406,0
+Kirsten had concealed George.,The cucumber had concealed George.,syntax,s-selection,animate_subject_trans,True,False,True,False,278,-57.49546813964844,-52.98199462890625,0
+Some guests couldn't question Theodore.,Many casseroles couldn't question Theodore.,syntax,s-selection,animate_subject_trans,True,False,True,False,279,-44.57062911987305,-64.58129119873047,1
+Janet isn't walking through malls.,That sock isn't walking through malls.,syntax,s-selection,animate_subject_trans,True,False,True,False,280,-47.61602783203125,-51.606101989746094,1
+Barbara would cure doctors.,The sketch would cure doctors.,syntax,s-selection,animate_subject_trans,True,False,True,False,281,-33.58216857910156,-38.06851577758789,1
+A man is dropping by grocery stores.,This hamster is dropping by grocery stores.,syntax,s-selection,animate_subject_trans,True,False,True,False,282,-58.65868377685547,-54.20337677001953,0
+Allison messed up most hospitals.,That dress messed up most hospitals.,syntax,s-selection,animate_subject_trans,True,False,True,False,283,-39.52894592285156,-41.36396026611328,1
+Suzanne should lift many stairs.,The cake should lift many stairs.,syntax,s-selection,animate_subject_trans,True,False,True,False,284,-51.91484451293945,-47.874366760253906,0
+Samantha researched all essays.,This bird researched all essays.,syntax,s-selection,animate_subject_trans,True,False,True,False,285,-57.94049072265625,-41.79164123535156,0
+Kenneth can't appreciate those museums.,Chicken can't appreciate those museums.,syntax,s-selection,animate_subject_trans,True,False,True,False,286,-44.62877655029297,-33.74036407470703,0
+Tonya couldn't boast about science.,Some pork couldn't boast about science.,syntax,s-selection,animate_subject_trans,True,False,True,False,287,-46.00758361816406,-51.868896484375,1
+Becky wouldn't complain about Connie.,Every pepper wouldn't complain about Connie.,syntax,s-selection,animate_subject_trans,True,False,True,False,288,-34.488525390625,-46.01592254638672,1
+Cheryl isn't admiring those unicycles.,The movie isn't admiring those unicycles.,syntax,s-selection,animate_subject_trans,True,False,True,False,289,-107.14702606201172,-78.90290832519531,0
+Colleen bikes to this museum.,Every apple bikes to this museum.,syntax,s-selection,animate_subject_trans,True,False,True,False,290,-45.15235900878906,-45.433837890625,1
+Carol might take some socks.,That cup might take some socks.,syntax,s-selection,animate_subject_trans,True,False,True,False,291,-38.902976989746094,-40.14292907714844,1
+Beth toured many libraries.,Art toured many libraries.,syntax,s-selection,animate_subject_trans,True,False,True,False,292,-56.848716735839844,-36.07829666137695,0
+Lawrence isn't exploring the movie theater.,This bank isn't exploring the movie theater.,syntax,s-selection,animate_subject_trans,True,False,True,False,293,-46.06547546386719,-47.93731689453125,1
+Ann drops by that lake.,A snake drops by that lake.,syntax,s-selection,animate_subject_trans,True,False,True,False,294,-35.360111236572266,-52.58378601074219,1
+Grace is discovering the committees.,A dish is discovering the committees.,syntax,s-selection,animate_subject_trans,True,False,True,False,295,-40.62016296386719,-51.55909729003906,1
+Paul isn't walking through that closet.,That light isn't walking through that closet.,syntax,s-selection,animate_subject_trans,True,False,True,False,296,-35.34585952758789,-46.872802734375,1
+Tina explores movie theaters.,That picture explores movie theaters.,syntax,s-selection,animate_subject_trans,True,False,True,False,297,-55.08892822265625,-49.218238830566406,0
+Carla wasn't driving to that bank.,That committee wasn't driving to that bank.,syntax,s-selection,animate_subject_trans,True,False,True,False,298,-42.27460479736328,-47.97316360473633,1
+Sherry didn't hug Curtis.,Literature didn't hug Curtis.,syntax,s-selection,animate_subject_trans,True,False,True,False,299,-49.68712615966797,-42.67714309692383,0
+Cynthia is buying eggplants.,Some play is buying eggplants.,syntax,s-selection,animate_subject_trans,True,False,True,False,300,-70.10065460205078,-48.67922592163086,0
+Larry isn't admiring Patrick.,The lake isn't admiring Patrick.,syntax,s-selection,animate_subject_trans,True,False,True,False,301,-45.25556945800781,-54.653953552246094,1
+Danielle had worn the shirts.,The essay had worn the shirts.,syntax,s-selection,animate_subject_trans,True,False,True,False,302,-38.01191711425781,-41.934814453125,1
+Guy had talked to Holly.,Some eye had talked to Holly.,syntax,s-selection,animate_subject_trans,True,False,True,False,303,-29.39653778076172,-44.50551223754883,1
+This doctor isn't scanning some play.,This projector isn't scanning some play.,syntax,s-selection,animate_subject_trans,True,False,True,False,304,-45.07758712768555,-51.903343200683594,1
+Karla isn't lifting a shoe.,Some car isn't lifting a shoe.,syntax,s-selection,animate_subject_trans,True,False,True,False,305,-40.03948211669922,-41.5687255859375,1
+Debra hasn't returned to Alexander.,Every eggplant hasn't returned to Alexander.,syntax,s-selection,animate_subject_trans,True,False,True,False,306,-40.44120407104492,-59.21367645263672,1
+Ronald approached Carla.,Literature approached Carla.,syntax,s-selection,animate_subject_trans,True,False,True,False,307,-43.70159912109375,-38.806556701660156,0
+Sandra can flee from Adam.,Some rice can flee from Adam.,syntax,s-selection,animate_subject_trans,True,False,True,False,308,-51.08599853515625,-46.329307556152344,0
+Russell wouldn't complain about Jeffrey.,Every eggplant wouldn't complain about Jeffrey.,syntax,s-selection,animate_subject_trans,True,False,True,False,309,-36.980220794677734,-64.56233215332031,1
+Children listened to Susan.,Most rivers listened to Susan.,syntax,s-selection,animate_subject_trans,True,False,True,False,310,-26.604841232299805,-37.19889831542969,1
+Nicole wasn't praising Elizabeth.,Some computer wasn't praising Elizabeth.,syntax,s-selection,animate_subject_trans,True,False,True,False,311,-46.4693603515625,-46.44054412841797,0
+Scott breaks this screen.,Every high school breaks this screen.,syntax,s-selection,animate_subject_trans,True,False,True,False,312,-25.434467315673828,-36.0262451171875,1
+Jane skates around this grocery store.,A bank skates around this grocery store.,syntax,s-selection,animate_subject_trans,True,False,True,False,313,-45.10448455810547,-62.50825500488281,1
+Julie attacks Kayla.,Some commentary attacks Kayla.,syntax,s-selection,animate_subject_trans,True,False,True,False,314,-37.86423110961914,-47.14612579345703,1
+Monet is hiding some guys.,Every turtle is hiding some guys.,syntax,s-selection,animate_subject_trans,True,False,True,False,315,-36.225318908691406,-40.814029693603516,1
+Rhonda isn't fleeing from Connie.,This sketch isn't fleeing from Connie.,syntax,s-selection,animate_subject_trans,True,False,True,False,316,-50.108848571777344,-51.53887176513672,1
+Rachelle wasn't boasting about the Borgias.,Every drawing wasn't boasting about the Borgias.,syntax,s-selection,animate_subject_trans,True,False,True,False,317,-66.96900939941406,-69.99969482421875,1
+Suzanne saw Teresa.,That sweater saw Teresa.,syntax,s-selection,animate_subject_trans,True,False,True,False,318,-38.208282470703125,-39.75572204589844,1
+Debra runs around many movie theaters.,Every ladder runs around many movie theaters.,syntax,s-selection,animate_subject_trans,True,False,True,False,319,-50.3603515625,-54.28324890136719,1
+Nancy hired people.,The dog hired people.,syntax,s-selection,animate_subject_trans,True,False,True,False,320,-31.816926956176758,-26.121782302856445,0
+Brenda helps Sharon.,That dog helps Sharon.,syntax,s-selection,animate_subject_trans,True,False,True,False,321,-29.433895111083984,-33.332275390625,1
+Diane hadn't talked to Eric.,This face hadn't talked to Eric.,syntax,s-selection,animate_subject_trans,True,False,True,False,322,-46.3042106628418,-41.40433120727539,0
+Some doctor didn't criticize these ladies.,That public park didn't criticize these ladies.,syntax,s-selection,animate_subject_trans,True,False,True,False,323,-43.97364044189453,-58.763336181640625,1
+Some dancer isn't helping Catherine.,That rice isn't helping Catherine.,syntax,s-selection,animate_subject_trans,True,False,True,False,324,-42.72434997558594,-44.127540588378906,1
+The teachers hadn't examined this newspaper article.,Many glasses hadn't examined this newspaper article.,syntax,s-selection,animate_subject_trans,True,False,True,False,325,-52.194576263427734,-55.41645050048828,1
+Meredith conceals Curtis.,This sketch conceals Curtis.,syntax,s-selection,animate_subject_trans,True,False,True,False,326,-56.35393524169922,-50.6492919921875,0
+George isn't running around a lot of malls.,A glove isn't running around a lot of malls.,syntax,s-selection,animate_subject_trans,True,False,True,False,327,-42.59899139404297,-63.31526184082031,1
+Dawn wouldn't describe Sabrina.,Every skateboard wouldn't describe Sabrina.,syntax,s-selection,animate_subject_trans,True,False,True,False,328,-58.402809143066406,-60.49003601074219,1
+Paul did examine some play.,Every university did examine some play.,syntax,s-selection,animate_subject_trans,True,False,True,False,329,-35.99480438232422,-43.8050537109375,1
+Martha cured Gregory.,The shoe cured Gregory.,syntax,s-selection,animate_subject_trans,True,False,True,False,330,-35.29936218261719,-40.727073669433594,1
+Many people could argue about Homer.,All essays could argue about Homer.,syntax,s-selection,animate_subject_trans,True,False,True,False,331,-30.399856567382812,-45.83037567138672,1
+James isn't exiting hills.,This movie theater isn't exiting hills.,syntax,s-selection,animate_subject_trans,True,False,True,False,332,-40.771732330322266,-54.79779815673828,1
+Kirsten had kissed the Borgias.,This report had kissed the Borgias.,syntax,s-selection,animate_subject_trans,True,False,True,False,333,-70.20310974121094,-56.80531311035156,0
+Alexander walks through some glaciers.,That candle walks through some glaciers.,syntax,s-selection,animate_subject_trans,True,False,True,False,334,-34.811588287353516,-48.72570037841797,1
+Keith notices all unicycles.,The glacier notices all unicycles.,syntax,s-selection,animate_subject_trans,True,False,True,False,335,-51.59404754638672,-65.44364929199219,1
+Lucille left Larry.,Every college campus left Larry.,syntax,s-selection,animate_subject_trans,True,False,True,False,336,-32.170555114746094,-42.66713333129883,1
+Danielle hugged Kristen.,That screen hugged Kristen.,syntax,s-selection,animate_subject_trans,True,False,True,False,337,-37.59739685058594,-43.02020263671875,1
+Homer helped Melanie.,A sketch helped Melanie.,syntax,s-selection,animate_subject_trans,True,False,True,False,338,-43.237239837646484,-49.13580322265625,1
+Alice ran around some glacier.,An essay ran around some glacier.,syntax,s-selection,animate_subject_trans,True,False,True,False,339,-31.783710479736328,-46.92524337768555,1
+George had described the drivers.,This box had described the drivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,340,-33.5502815246582,-40.91705322265625,1
+Tamara complains about those drivers.,Every carriage complains about those drivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,341,-40.93307876586914,-44.307533264160156,1
+The boy hadn't boasted about Andrea.,The documentary hadn't boasted about Andrea.,syntax,s-selection,animate_subject_trans,True,False,True,False,342,-52.557342529296875,-59.90064239501953,1
+Teresa is running around a mall.,This library is running around a mall.,syntax,s-selection,animate_subject_trans,True,False,True,False,343,-37.02155685424805,-36.26493835449219,0
+Robert explored these closets.,Every high school explored these closets.,syntax,s-selection,animate_subject_trans,True,False,True,False,344,-34.86146545410156,-48.73722839355469,1
+Eric does appreciate Elaine.,Some college campus does appreciate Elaine.,syntax,s-selection,animate_subject_trans,True,False,True,False,345,-34.8961181640625,-52.844181060791016,1
+Regina wasn't working with Renee.,A sock wasn't working with Renee.,syntax,s-selection,animate_subject_trans,True,False,True,False,346,-51.448036193847656,-60.598350524902344,1
+Alan is wearing the shoe.,This ice is wearing the shoe.,syntax,s-selection,animate_subject_trans,True,False,True,False,347,-28.051136016845703,-39.69348907470703,1
+Cynthia had all stairs.,Politics had all stairs.,syntax,s-selection,animate_subject_trans,True,False,True,False,348,-51.663387298583984,-25.620853424072266,0
+Carrie hasn't talked to Sheila.,Every government hasn't talked to Sheila.,syntax,s-selection,animate_subject_trans,True,False,True,False,349,-39.699344635009766,-36.85779571533203,0
+Kristen biked to a lot of movie theaters.,Some dress biked to a lot of movie theaters.,syntax,s-selection,animate_subject_trans,True,False,True,False,350,-60.76361846923828,-69.12202453613281,1
+Colleen insulted Irene.,This college campus insulted Irene.,syntax,s-selection,animate_subject_trans,True,False,True,False,351,-44.688140869140625,-56.07358932495117,1
+Naomi has escaped from Michelle.,Every candle has escaped from Michelle.,syntax,s-selection,animate_subject_trans,True,False,True,False,352,-43.42259216308594,-45.48570251464844,1
+Rachel could criticize this documentary.,The mushroom could criticize this documentary.,syntax,s-selection,animate_subject_trans,True,False,True,False,353,-38.265716552734375,-49.878761291503906,1
+Samuel hasn't gone to most closets.,A muffin hasn't gone to most closets.,syntax,s-selection,animate_subject_trans,True,False,True,False,354,-48.149627685546875,-67.7542953491211,1
+That beef looks like the paintings.,Some wheelbarrow looks like the paintings.,syntax,s-selection,animate_subject_trans,True,False,True,False,355,-36.856292724609375,-54.712188720703125,1
+Wendy isn't approaching Todd.,Some spinach isn't approaching Todd.,syntax,s-selection,animate_subject_trans,True,False,True,False,356,-55.881839752197266,-49.55583572387695,0
+The Lutherans can't remember the patient.,Commentaries can't remember the patient.,syntax,s-selection,animate_subject_trans,True,False,True,False,357,-44.34382247924805,-35.24928665161133,0
+Alexander wasn't exploring some rivers.,The computer wasn't exploring some rivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,358,-37.751277923583984,-44.254119873046875,1
+Those cashiers were exiting all hospitals.,A lot of stairs were exiting all hospitals.,syntax,s-selection,animate_subject_trans,True,False,True,False,359,-57.159339904785156,-65.30394744873047,1
+Melanie hadn't talked to Patrick.,Some mountain hadn't talked to Patrick.,syntax,s-selection,animate_subject_trans,True,False,True,False,360,-43.41937255859375,-45.44313430786133,1
+Vanessa wasn't buying most libraries.,That government wasn't buying most libraries.,syntax,s-selection,animate_subject_trans,True,False,True,False,361,-48.836280822753906,-49.5278205871582,1
+A guy conceals most waitresses.,This shawl conceals most waitresses.,syntax,s-selection,animate_subject_trans,True,False,True,False,362,-75.29962158203125,-78.73037719726562,1
+Eric has escaped from Heather.,That icicle has escaped from Heather.,syntax,s-selection,animate_subject_trans,True,False,True,False,363,-33.69696044921875,-59.41288757324219,1
+Ellen ran around that bank.,A legislature ran around that bank.,syntax,s-selection,animate_subject_trans,True,False,True,False,364,-31.12828826904297,-49.735416412353516,1
+Lisa scans many plays.,The government scans many plays.,syntax,s-selection,animate_subject_trans,True,False,True,False,365,-35.742122650146484,-43.000022888183594,1
+Melanie didn't clean many snakes.,Some hamster didn't clean many snakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,366,-46.35264205932617,-52.642860412597656,1
+Dan is scanning a commentary.,Every unicycle is scanning a commentary.,syntax,s-selection,animate_subject_trans,True,False,True,False,367,-36.429927825927734,-54.21577453613281,1
+The dancers had these couches.,The couches had these couches.,syntax,s-selection,animate_subject_trans,True,False,True,False,368,-41.88325119018555,-48.024688720703125,1
+Barbara helps that teacher.,A glacier helps that teacher.,syntax,s-selection,animate_subject_trans,True,False,True,False,369,-29.52560806274414,-47.79682922363281,1
+The man could research most plays.,Some horse could research most plays.,syntax,s-selection,animate_subject_trans,True,False,True,False,370,-44.319664001464844,-49.734222412109375,1
+Russell didn't fire those cashiers.,This rice didn't fire those cashiers.,syntax,s-selection,animate_subject_trans,True,False,True,False,371,-46.12865447998047,-57.64756393432617,1
+Margaret is bringing many scarves.,The fish is bringing many scarves.,syntax,s-selection,animate_subject_trans,True,False,True,False,372,-43.787315368652344,-49.873043060302734,1
+Claire has boycotted some university.,Some steak has boycotted some university.,syntax,s-selection,animate_subject_trans,True,False,True,False,373,-66.3991470336914,-66.65142822265625,1
+Noah hadn't listened to Eva.,Some closet hadn't listened to Eva.,syntax,s-selection,animate_subject_trans,True,False,True,False,374,-46.9783821105957,-48.062049865722656,1
+Tanya had fixed that fork.,That pie had fixed that fork.,syntax,s-selection,animate_subject_trans,True,False,True,False,375,-52.13929748535156,-47.996559143066406,0
+Julie could question Benjamin.,That grocery store could question Benjamin.,syntax,s-selection,animate_subject_trans,True,False,True,False,376,-36.27692413330078,-57.52693557739258,1
+Martha is insulting many guys.,Some bike is insulting many guys.,syntax,s-selection,animate_subject_trans,True,False,True,False,377,-43.07484436035156,-45.65697479248047,1
+Rodney is driving to those lakes.,A committee is driving to those lakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,378,-36.734107971191406,-53.125850677490234,1
+Diana hasn't cared for Meredith.,Fish hasn't cared for Meredith.,syntax,s-selection,animate_subject_trans,True,False,True,False,379,-52.40916442871094,-34.921627044677734,0
+Tiffany had healed Matt.,This door had healed Matt.,syntax,s-selection,animate_subject_trans,True,False,True,False,380,-62.32551574707031,-43.32658386230469,0
+Bethany is discussing April.,Every mall is discussing April.,syntax,s-selection,animate_subject_trans,True,False,True,False,381,-56.20940017700195,-36.69450378417969,0
+All senators kissed Holly.,The pies kissed Holly.,syntax,s-selection,animate_subject_trans,True,False,True,False,382,-44.31611251831055,-41.26698303222656,0
+Teresa wasn't skated around that cafe.,A window wasn't skated around that cafe.,syntax,s-selection,animate_subject_trans,True,False,True,False,383,-60.55061340332031,-67.26851654052734,1
+Every student might care for those girls.,That public park might care for those girls.,syntax,s-selection,animate_subject_trans,True,False,True,False,384,-40.206722259521484,-55.67014694213867,1
+Teresa hadn't remembered Timothy.,The bicycle hadn't remembered Timothy.,syntax,s-selection,animate_subject_trans,True,False,True,False,385,-47.857635498046875,-45.45789337158203,0
+The hospital was firing Mitchell.,The water was firing Mitchell.,syntax,s-selection,animate_subject_trans,True,False,True,False,386,-38.4073600769043,-37.332763671875,0
+Tamara will escape from Adam.,Music will escape from Adam.,syntax,s-selection,animate_subject_trans,True,False,True,False,387,-41.411502838134766,-34.57173538208008,0
+The driver shouldn't examine a lot of plays.,The skirt shouldn't examine a lot of plays.,syntax,s-selection,animate_subject_trans,True,False,True,False,388,-49.425880432128906,-51.876129150390625,1
+Valerie wasn't passing every mountain.,A mushroom wasn't passing every mountain.,syntax,s-selection,animate_subject_trans,True,False,True,False,389,-48.577598571777344,-57.361446380615234,1
+Mary fled from Becky.,A door fled from Becky.,syntax,s-selection,animate_subject_trans,True,False,True,False,390,-30.169023513793945,-49.743927001953125,1
+Most actors skated around this library.,Many reports skated around this library.,syntax,s-selection,animate_subject_trans,True,False,True,False,391,-47.387176513671875,-46.50130081176758,0
+Kayla would discuss Roger.,That plate would discuss Roger.,syntax,s-selection,animate_subject_trans,True,False,True,False,392,-41.67310333251953,-43.459999084472656,1
+Every girl discovers Cynthia.,Some sweater discovers Cynthia.,syntax,s-selection,animate_subject_trans,True,False,True,False,393,-35.45092010498047,-42.394859313964844,1
+Gerald ran around some movie theater.,The apple ran around some movie theater.,syntax,s-selection,animate_subject_trans,True,False,True,False,394,-50.655094146728516,-47.701622009277344,0
+Susan is criticizing Guy.,The sock is criticizing Guy.,syntax,s-selection,animate_subject_trans,True,False,True,False,395,-36.16442108154297,-44.52088165283203,1
+Melinda had scanned many stories.,A movie had scanned many stories.,syntax,s-selection,animate_subject_trans,True,False,True,False,396,-46.959190368652344,-54.56664276123047,1
+Liam thought about some association.,The mushroom thought about some association.,syntax,s-selection,animate_subject_trans,True,False,True,False,397,-44.884986877441406,-42.15341567993164,0
+Nina will notice those girls.,A sketch will notice those girls.,syntax,s-selection,animate_subject_trans,True,False,True,False,398,-42.797637939453125,-52.02149200439453,1
+Gerald isn't biking to a grocery store.,That car isn't biking to a grocery store.,syntax,s-selection,animate_subject_trans,True,False,True,False,399,-60.25444412231445,-54.9096565246582,0
+Leslie listens to Keith.,This story listens to Keith.,syntax,s-selection,animate_subject_trans,True,False,True,False,400,-38.77492141723633,-35.39809799194336,0
+Rhonda will lift a tomato.,That movie will lift a tomato.,syntax,s-selection,animate_subject_trans,True,False,True,False,401,-41.1115608215332,-40.054508209228516,0
+Kristen might bike to those libraries.,Some snake might bike to those libraries.,syntax,s-selection,animate_subject_trans,True,False,True,False,402,-49.447105407714844,-55.53034210205078,1
+Diana broke this skateboard.,That cat broke this skateboard.,syntax,s-selection,animate_subject_trans,True,False,True,False,403,-51.78022384643555,-45.81913757324219,0
+Karla notices Carolyn.,The college campus notices Carolyn.,syntax,s-selection,animate_subject_trans,True,False,True,False,404,-34.511329650878906,-47.78633117675781,1
+Julia discusses a lot of dancers.,A muffin discusses a lot of dancers.,syntax,s-selection,animate_subject_trans,True,False,True,False,405,-35.31234359741211,-54.625343322753906,1
+The students haven't cleaned some glasses.,Eggplants haven't cleaned some glasses.,syntax,s-selection,animate_subject_trans,True,False,True,False,406,-46.17076873779297,-70.90379333496094,1
+Some ladies were exiting all high schools.,The Balkans were exiting all high schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,407,-48.77336502075195,-53.96979522705078,1
+John has healed a lot of actresses.,Music has healed a lot of actresses.,syntax,s-selection,animate_subject_trans,True,False,True,False,408,-36.25149154663086,-36.21662139892578,0
+Tanya wouldn't conceal most socks.,A door wouldn't conceal most socks.,syntax,s-selection,animate_subject_trans,True,False,True,False,409,-61.17334747314453,-61.59071350097656,1
+Becca might fix this dish.,Every ladder might fix this dish.,syntax,s-selection,animate_subject_trans,True,False,True,False,410,-39.762115478515625,-41.11973571777344,1
+April sounded like Amelia.,The museum sounded like Amelia.,syntax,s-selection,animate_subject_trans,True,False,True,False,411,-26.281152725219727,-35.46082305908203,1
+Christine hasn't watched Janet.,This plane hasn't watched Janet.,syntax,s-selection,animate_subject_trans,True,False,True,False,412,-39.565818786621094,-40.728206634521484,1
+Jeffrey wasn't noticing Aaron.,The mouth wasn't noticing Aaron.,syntax,s-selection,animate_subject_trans,True,False,True,False,413,-41.305145263671875,-41.86522674560547,1
+Rebecca has broken some computer.,A unicycle has broken some computer.,syntax,s-selection,animate_subject_trans,True,False,True,False,414,-33.79833984375,-58.62725830078125,1
+An actor discusses Tanya.,Art discusses Tanya.,syntax,s-selection,animate_subject_trans,True,False,True,False,415,-44.45537567138672,-34.153114318847656,0
+Those women don't exit these glaciers.,A lot of mushrooms don't exit these glaciers.,syntax,s-selection,animate_subject_trans,True,False,True,False,416,-44.34336471557617,-68.93157196044922,1
+Claire hasn't described this documentary.,That ladder hasn't described this documentary.,syntax,s-selection,animate_subject_trans,True,False,True,False,417,-51.33088302612305,-51.02094650268555,0
+Nancy was bringing this wheelbarrow.,The wheelbarrow was bringing this wheelbarrow.,syntax,s-selection,animate_subject_trans,True,False,True,False,418,-63.35775375366211,-76.73432922363281,1
+Douglas hasn't appreciated some doctor.,This rug hasn't appreciated some doctor.,syntax,s-selection,animate_subject_trans,True,False,True,False,419,-47.906898498535156,-48.69694519042969,1
+Colleen cleans some dish.,Some eye cleans some dish.,syntax,s-selection,animate_subject_trans,True,False,True,False,420,-39.246864318847656,-38.35703659057617,0
+Rose is touring all glaciers.,Art is touring all glaciers.,syntax,s-selection,animate_subject_trans,True,False,True,False,421,-39.805274963378906,-39.42753982543945,0
+The student will examine the commentary.,This newspaper article will examine the commentary.,syntax,s-selection,animate_subject_trans,True,False,True,False,422,-39.02677917480469,-50.21866989135742,1
+Sara exited that bank.,Every photograph exited that bank.,syntax,s-selection,animate_subject_trans,True,False,True,False,423,-42.34770965576172,-40.61354064941406,0
+Marla hid Curtis.,A play hid Curtis.,syntax,s-selection,animate_subject_trans,True,False,True,False,424,-36.77006530761719,-42.441688537597656,1
+Dawn wouldn't buy some rivers.,Every shawl wouldn't buy some rivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,425,-45.42551803588867,-53.996543884277344,1
+Cheryl isn't thinking about the print.,A gate isn't thinking about the print.,syntax,s-selection,animate_subject_trans,True,False,True,False,426,-63.27965545654297,-48.735870361328125,0
+Mitchell had hugged Monica.,That university had hugged Monica.,syntax,s-selection,animate_subject_trans,True,False,True,False,427,-44.936893463134766,-47.52753448486328,1
+John was observing Michelle.,This hat was observing Michelle.,syntax,s-selection,animate_subject_trans,True,False,True,False,428,-35.115516662597656,-42.17146682739258,1
+Lawrence isn't appreciating Martin.,Every bike isn't appreciating Martin.,syntax,s-selection,animate_subject_trans,True,False,True,False,429,-47.62892532348633,-50.58073425292969,1
+Some boy had exited the cafes.,Pork had exited the cafes.,syntax,s-selection,animate_subject_trans,True,False,True,False,430,-45.096458435058594,-55.07377243041992,1
+Elizabeth isn't approaching Christopher.,Some bird isn't approaching Christopher.,syntax,s-selection,animate_subject_trans,True,False,True,False,431,-33.997032165527344,-43.71575164794922,1
+Nancy is talking about Lucille.,This pie is talking about Lucille.,syntax,s-selection,animate_subject_trans,True,False,True,False,432,-43.57836151123047,-40.78002166748047,0
+Charles exited those art galleries.,Every school exited those art galleries.,syntax,s-selection,animate_subject_trans,True,False,True,False,433,-40.67577362060547,-46.68141555786133,1
+Dan hadn't dropped by many libraries.,That steak hadn't dropped by many libraries.,syntax,s-selection,animate_subject_trans,True,False,True,False,434,-45.39130783081055,-60.95604705810547,1
+Sara was working with Deborah.,This cucumber was working with Deborah.,syntax,s-selection,animate_subject_trans,True,False,True,False,435,-43.851558685302734,-49.0521354675293,1
+Kristin sounds like Rachel.,This fish sounds like Rachel.,syntax,s-selection,animate_subject_trans,True,False,True,False,436,-31.186838150024414,-37.24855041503906,1
+Most pedestrians wouldn't hug Patrick.,All legislatures wouldn't hug Patrick.,syntax,s-selection,animate_subject_trans,True,False,True,False,437,-48.50788116455078,-50.55290985107422,1
+Jane won't appreciate Candice.,Every skateboard won't appreciate Candice.,syntax,s-selection,animate_subject_trans,True,False,True,False,438,-39.69776153564453,-60.146644592285156,1
+Kenneth hated Curtis.,Some bank hated Curtis.,syntax,s-selection,animate_subject_trans,True,False,True,False,439,-32.8480224609375,-36.92467498779297,1
+Jesus boasted about a lot of newspaper articles.,This spinach boasted about a lot of newspaper articles.,syntax,s-selection,animate_subject_trans,True,False,True,False,440,-51.771026611328125,-67.48553466796875,1
+Melissa watched Ella.,Some vase watched Ella.,syntax,s-selection,animate_subject_trans,True,False,True,False,441,-35.30451202392578,-45.70703125,1
+Tiffany should lift cups.,This glove should lift cups.,syntax,s-selection,animate_subject_trans,True,False,True,False,442,-56.74361038208008,-42.59953308105469,0
+Dennis scares patients.,The jacket scares patients.,syntax,s-selection,animate_subject_trans,True,False,True,False,443,-39.494937896728516,-32.920082092285156,0
+Kathleen is talking about a guy.,The skateboard is talking about a guy.,syntax,s-selection,animate_subject_trans,True,False,True,False,444,-48.43217086791992,-39.42123031616211,0
+Roger isn't researching a story.,Some jacket isn't researching a story.,syntax,s-selection,animate_subject_trans,True,False,True,False,445,-30.690872192382812,-44.33155822753906,1
+Most committees haven't talked about Maria.,Some glasses haven't talked about Maria.,syntax,s-selection,animate_subject_trans,True,False,True,False,446,-41.72649002075195,-40.544822692871094,0
+Douglas respects that doctor.,This cucumber respects that doctor.,syntax,s-selection,animate_subject_trans,True,False,True,False,447,-37.47032165527344,-48.32146453857422,1
+Scott resembles some photographs.,That light resembles some photographs.,syntax,s-selection,animate_subject_trans,True,False,True,False,448,-27.084644317626953,-40.030216217041016,1
+Pamela had broken these cups.,Some unicycle had broken these cups.,syntax,s-selection,animate_subject_trans,True,False,True,False,449,-55.38613510131836,-50.96239471435547,0
+The ice cream looks like these drawings.,This photograph looks like these drawings.,syntax,s-selection,animate_subject_trans,True,False,True,False,450,-40.28871536254883,-38.170738220214844,0
+Elaine drives to most art galleries.,This dish drives to most art galleries.,syntax,s-selection,animate_subject_trans,True,False,True,False,451,-52.64630889892578,-51.218360900878906,0
+Carmen arrived at some public park.,Literature arrived at some public park.,syntax,s-selection,animate_subject_trans,True,False,True,False,452,-58.69470977783203,-44.354209899902344,0
+Raymond has seen Eva.,A documentary has seen Eva.,syntax,s-selection,animate_subject_trans,True,False,True,False,453,-35.78660583496094,-49.83924102783203,1
+Becky didn't reveal Marla.,Some truck didn't reveal Marla.,syntax,s-selection,animate_subject_trans,True,False,True,False,454,-39.000545501708984,-48.024696350097656,1
+Those organizations had sold all photographs.,Carriages had sold all photographs.,syntax,s-selection,animate_subject_trans,True,False,True,False,455,-37.03132247924805,-42.71435546875,1
+People cleaned the pork.,Most cats cleaned the pork.,syntax,s-selection,animate_subject_trans,True,False,True,False,456,-28.672080993652344,-37.496177673339844,1
+Linda wasn't breaking some car.,The cake wasn't breaking some car.,syntax,s-selection,animate_subject_trans,True,False,True,False,457,-45.44911193847656,-39.4849853515625,0
+Eric might heal Winston Churchill.,This nose might heal Winston Churchill.,syntax,s-selection,animate_subject_trans,True,False,True,False,458,-42.933563232421875,-52.97110366821289,1
+Naomi hasn't sounded like Jennifer.,The bank hasn't sounded like Jennifer.,syntax,s-selection,animate_subject_trans,True,False,True,False,459,-46.2606086730957,-45.127349853515625,0
+A cashier fixed those windows.,The lake fixed those windows.,syntax,s-selection,animate_subject_trans,True,False,True,False,460,-56.080894470214844,-36.68878936767578,0
+Derek criticizes Julie.,Some fish criticizes Julie.,syntax,s-selection,animate_subject_trans,True,False,True,False,461,-53.32495880126953,-47.67513656616211,0
+Elaine examines documentaries.,The dish examines documentaries.,syntax,s-selection,animate_subject_trans,True,False,True,False,462,-39.96825408935547,-39.45890426635742,0
+Stacy criticizes Carmen.,That fish criticizes Carmen.,syntax,s-selection,animate_subject_trans,True,False,True,False,463,-53.749305725097656,-51.003517150878906,0
+Heather has criticized Dana.,Every unicycle has criticized Dana.,syntax,s-selection,animate_subject_trans,True,False,True,False,464,-43.21980667114258,-51.086605072021484,1
+Curtis can talk about Donna.,The cilantro can talk about Donna.,syntax,s-selection,animate_subject_trans,True,False,True,False,465,-49.73888397216797,-47.886131286621094,0
+Travis hadn't listened to Gregory.,This plane hadn't listened to Gregory.,syntax,s-selection,animate_subject_trans,True,False,True,False,466,-58.2672119140625,-43.03063201904297,0
+The Borgias are selling a plate.,Most photographs are selling a plate.,syntax,s-selection,animate_subject_trans,True,False,True,False,467,-47.038063049316406,-33.38350296020508,0
+Theresa wouldn't praise Carlos.,Every lake wouldn't praise Carlos.,syntax,s-selection,animate_subject_trans,True,False,True,False,468,-48.43589782714844,-48.840126037597656,1
+Those waitresses hadn't fled from Jesus.,All projectors hadn't fled from Jesus.,syntax,s-selection,animate_subject_trans,True,False,True,False,469,-60.76835632324219,-58.429588317871094,0
+Tina heals Russell.,The hair heals Russell.,syntax,s-selection,animate_subject_trans,True,False,True,False,470,-47.687225341796875,-37.2449836730957,0
+Kayla arrived at these cafes.,That documentary arrived at these cafes.,syntax,s-selection,animate_subject_trans,True,False,True,False,471,-43.95908737182617,-55.315391540527344,1
+Sara can't examine most newspaper articles.,This movie theater can't examine most newspaper articles.,syntax,s-selection,animate_subject_trans,True,False,True,False,472,-61.29386901855469,-63.30402374267578,1
+Some committee helped Vanessa.,A couch helped Vanessa.,syntax,s-selection,animate_subject_trans,True,False,True,False,473,-35.78831100463867,-45.36806869506836,1
+Sara can't scan that story.,Music can't scan that story.,syntax,s-selection,animate_subject_trans,True,False,True,False,474,-45.69460678100586,-31.283540725708008,0
+Russell hates Cynthia.,That movie hates Cynthia.,syntax,s-selection,animate_subject_trans,True,False,True,False,475,-25.97010040283203,-35.466766357421875,1
+Helen climbs down these hills.,The skirt climbs down these hills.,syntax,s-selection,animate_subject_trans,True,False,True,False,476,-38.23064422607422,-43.12915802001953,1
+Derek should dislike Amelia.,A restaurant should dislike Amelia.,syntax,s-selection,animate_subject_trans,True,False,True,False,477,-51.14015197753906,-53.963417053222656,1
+April is going to that museum.,The rug is going to that museum.,syntax,s-selection,animate_subject_trans,True,False,True,False,478,-27.529190063476562,-35.668067932128906,1
+Laurie flees from Deborah.,A restaurant flees from Deborah.,syntax,s-selection,animate_subject_trans,True,False,True,False,479,-57.50896072387695,-57.70360565185547,1
+Robert visits the teachers.,Steak visits the teachers.,syntax,s-selection,animate_subject_trans,True,False,True,False,480,-29.258804321289062,-39.277671813964844,1
+Candice had some eyes.,A coat had some eyes.,syntax,s-selection,animate_subject_trans,True,False,True,False,481,-27.714534759521484,-41.991004943847656,1
+Randolf exits most glaciers.,A screen exits most glaciers.,syntax,s-selection,animate_subject_trans,True,False,True,False,482,-46.74127197265625,-59.6265869140625,1
+A wheelbarrow resembles that painting.,Every tomato resembles that painting.,syntax,s-selection,animate_subject_trans,True,False,True,False,483,-63.544952392578125,-40.53907775878906,0
+Marie wasn't discussing books.,The university wasn't discussing books.,syntax,s-selection,animate_subject_trans,True,False,True,False,484,-30.181884765625,-36.04723358154297,1
+Erin had sold all candles.,This closet had sold all candles.,syntax,s-selection,animate_subject_trans,True,False,True,False,485,-40.469520568847656,-42.87129592895508,1
+Patricia isn't driving to most high schools.,This chicken isn't driving to most high schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,486,-47.182716369628906,-50.12384033203125,1
+George isn't discovering Marla.,Some essay isn't discovering Marla.,syntax,s-selection,animate_subject_trans,True,False,True,False,487,-40.91496276855469,-53.86943054199219,1
+Russell was hiding a woman.,That glacier was hiding a woman.,syntax,s-selection,animate_subject_trans,True,False,True,False,488,-26.91098403930664,-47.682533264160156,1
+Tamara scanned this story.,Every turtle scanned this story.,syntax,s-selection,animate_subject_trans,True,False,True,False,489,-38.31707763671875,-39.79765701293945,1
+Randolf didn't fix the plate.,Every popsicle didn't fix the plate.,syntax,s-selection,animate_subject_trans,True,False,True,False,490,-37.596763610839844,-50.69142150878906,1
+Mitchell cleans this college campus.,That unicycle cleans this college campus.,syntax,s-selection,animate_subject_trans,True,False,True,False,491,-47.321632385253906,-59.78329849243164,1
+Pamela hadn't seen all computers.,Every report hadn't seen all computers.,syntax,s-selection,animate_subject_trans,True,False,True,False,492,-54.69609451293945,-40.40263366699219,0
+Elaine hasn't concealed Aaron.,The horse hasn't concealed Aaron.,syntax,s-selection,animate_subject_trans,True,False,True,False,493,-49.616172790527344,-46.1806640625,0
+Caroline had kissed Carrie.,A cafe had kissed Carrie.,syntax,s-selection,animate_subject_trans,True,False,True,False,494,-41.79413604736328,-53.114566802978516,1
+Tammy has skated around every art gallery.,That chicken has skated around every art gallery.,syntax,s-selection,animate_subject_trans,True,False,True,False,495,-65.4189224243164,-72.44839477539062,1
+The Clintons are boasting about Stephen.,Those pictures are boasting about Stephen.,syntax,s-selection,animate_subject_trans,True,False,True,False,496,-58.86289978027344,-48.954166412353516,0
+Valerie explored some mall.,Every lamp explored some mall.,syntax,s-selection,animate_subject_trans,True,False,True,False,497,-41.928749084472656,-42.64215850830078,1
+Barbara won't conceal Julia.,A university won't conceal Julia.,syntax,s-selection,animate_subject_trans,True,False,True,False,498,-41.16300964355469,-57.68804168701172,1
+Marie cured Linda.,This tomato cured Linda.,syntax,s-selection,animate_subject_trans,True,False,True,False,499,-26.3682918548584,-41.14387512207031,1
+Tracy hadn't hugged Emily.,This sweater hadn't hugged Emily.,syntax,s-selection,animate_subject_trans,True,False,True,False,500,-52.21921920776367,-53.22707748413086,1
+Rachel discovered this library.,Every committee discovered this library.,syntax,s-selection,animate_subject_trans,True,False,True,False,501,-26.583850860595703,-39.4261589050293,1
+James explores grocery stores.,A government explores grocery stores.,syntax,s-selection,animate_subject_trans,True,False,True,False,502,-34.70479202270508,-55.62030029296875,1
+Raymond is attacking Douglas.,That restaurant is attacking Douglas.,syntax,s-selection,animate_subject_trans,True,False,True,False,503,-37.24361801147461,-39.3092155456543,1
+Brian hasn't talked to Steve.,This eggplant hasn't talked to Steve.,syntax,s-selection,animate_subject_trans,True,False,True,False,504,-29.592979431152344,-55.042930603027344,1
+Linda runs around those art galleries.,A spotlight runs around those art galleries.,syntax,s-selection,animate_subject_trans,True,False,True,False,505,-55.222957611083984,-66.62071228027344,1
+Erin had cleaned those public parks.,That door had cleaned those public parks.,syntax,s-selection,animate_subject_trans,True,False,True,False,506,-47.03437042236328,-49.17334747314453,1
+Laura is touring many hospitals.,The computer is touring many hospitals.,syntax,s-selection,animate_subject_trans,True,False,True,False,507,-34.93901062011719,-41.934043884277344,1
+Regina will discuss Carolyn.,The muffin will discuss Carolyn.,syntax,s-selection,animate_subject_trans,True,False,True,False,508,-40.95890426635742,-45.518226623535156,1
+Laura climbs up the hills.,Art climbs up the hills.,syntax,s-selection,animate_subject_trans,True,False,True,False,509,-27.220630645751953,-28.956378936767578,1
+Marcus did praise Stephanie.,This cart did praise Stephanie.,syntax,s-selection,animate_subject_trans,True,False,True,False,510,-36.060543060302734,-50.56938171386719,1
+Mary could escape from Meredith.,Every muffin could escape from Meredith.,syntax,s-selection,animate_subject_trans,True,False,True,False,511,-38.8570671081543,-49.55560302734375,1
+Margaret would love Kayla.,The shawl would love Kayla.,syntax,s-selection,animate_subject_trans,True,False,True,False,512,-38.367515563964844,-57.81092071533203,1
+Tonya was talking about Brian.,Some cake was talking about Brian.,syntax,s-selection,animate_subject_trans,True,False,True,False,513,-31.426376342773438,-37.10443115234375,1
+Thomas fires the waitresses.,Some sock fires the waitresses.,syntax,s-selection,animate_subject_trans,True,False,True,False,514,-38.362586975097656,-52.775596618652344,1
+Patients were firing guys.,Many planes were firing guys.,syntax,s-selection,animate_subject_trans,True,False,True,False,515,-40.48725509643555,-34.33831024169922,0
+Amanda can't visit Jason.,Some mall can't visit Jason.,syntax,s-selection,animate_subject_trans,True,False,True,False,516,-36.76700210571289,-42.5727653503418,1
+Diane hasn't attacked Charles.,A university hasn't attacked Charles.,syntax,s-selection,animate_subject_trans,True,False,True,False,517,-48.283668518066406,-52.459041595458984,1
+Diana hadn't dropped by rivers.,That ladder hadn't dropped by rivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,518,-58.161598205566406,-54.04484558105469,0
+Lisa wasn't dropping by every mall.,Every eggplant wasn't dropping by every mall.,syntax,s-selection,animate_subject_trans,True,False,True,False,519,-41.637020111083984,-66.71368408203125,1
+Cynthia wouldn't think about most glasses.,Every cart wouldn't think about most glasses.,syntax,s-selection,animate_subject_trans,True,False,True,False,520,-64.81574249267578,-50.481468200683594,0
+Barbara examines every essay.,That candle examines every essay.,syntax,s-selection,animate_subject_trans,True,False,True,False,521,-43.1074104309082,-51.03646469116211,1
+Timothy messed up the high schools.,Every photograph messed up the high schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,522,-32.409454345703125,-39.00252914428711,1
+Dana sees Rodney.,The rug sees Rodney.,syntax,s-selection,animate_subject_trans,True,False,True,False,523,-37.30097961425781,-35.85105514526367,0
+Derek hasn't hated Teresa.,Spain hasn't hated Teresa.,syntax,s-selection,animate_subject_trans,True,False,True,False,524,-53.06792449951172,-36.20240783691406,0
+Every waitress was driving to that hill.,Every car was driving to that hill.,syntax,s-selection,animate_subject_trans,True,False,True,False,525,-42.97338104248047,-35.631134033203125,0
+Leslie should take this mirror.,That screen should take this mirror.,syntax,s-selection,animate_subject_trans,True,False,True,False,526,-40.6478271484375,-40.2369384765625,0
+Scott did discuss Richard.,That pasta did discuss Richard.,syntax,s-selection,animate_subject_trans,True,False,True,False,527,-33.267173767089844,-46.891483306884766,1
+Edward toured Spain.,The book toured Spain.,syntax,s-selection,animate_subject_trans,True,False,True,False,528,-24.401153564453125,-34.661746978759766,1
+Customers shouldn't heal Catherine.,Bananas shouldn't heal Catherine.,syntax,s-selection,animate_subject_trans,True,False,True,False,529,-36.917991638183594,-43.27653503417969,1
+A legislature described Cheryl.,Some skateboard described Cheryl.,syntax,s-selection,animate_subject_trans,True,False,True,False,530,-51.28916549682617,-47.951271057128906,0
+Curtis resembles many pictures.,Every bird resembles many pictures.,syntax,s-selection,animate_subject_trans,True,False,True,False,531,-53.068443298339844,-42.06304931640625,0
+Curtis didn't break the chair.,Every muffin didn't break the chair.,syntax,s-selection,animate_subject_trans,True,False,True,False,532,-50.903114318847656,-40.420040130615234,0
+Most children had attacked Sheila.,All pictures had attacked Sheila.,syntax,s-selection,animate_subject_trans,True,False,True,False,533,-32.45807647705078,-39.683998107910156,1
+Donna questions Elizabeth.,Some school questions Elizabeth.,syntax,s-selection,animate_subject_trans,True,False,True,False,534,-37.95841598510742,-34.339622497558594,0
+Jane hasn't lifted that truck.,That glove hasn't lifted that truck.,syntax,s-selection,animate_subject_trans,True,False,True,False,535,-32.0320930480957,-46.080787658691406,1
+Sandra hadn't talked to Judy.,The muffin hadn't talked to Judy.,syntax,s-selection,animate_subject_trans,True,False,True,False,536,-48.310882568359375,-47.330421447753906,0
+Brenda has brought this window.,The book has brought this window.,syntax,s-selection,animate_subject_trans,True,False,True,False,537,-33.0974006652832,-35.75506591796875,1
+Caroline isn't exploring closets.,Some fish isn't exploring closets.,syntax,s-selection,animate_subject_trans,True,False,True,False,538,-49.95806884765625,-47.73424530029297,0
+Carol isn't observing Jessica.,Some company isn't observing Jessica.,syntax,s-selection,animate_subject_trans,True,False,True,False,539,-44.424400329589844,-42.663028717041016,0
+The Clintons haven't explored some cafes.,Some schools haven't explored some cafes.,syntax,s-selection,animate_subject_trans,True,False,True,False,540,-58.01240539550781,-46.95029067993164,0
+That doctor hid Victoria.,Every icicle hid Victoria.,syntax,s-selection,animate_subject_trans,True,False,True,False,541,-36.37749481201172,-49.621803283691406,1
+Some mushroom disturbs Ellen.,That nose disturbs Ellen.,syntax,s-selection,animate_subject_trans,True,False,True,False,542,-49.339561462402344,-49.24507141113281,0
+Florence won't exit this hospital.,Every shawl won't exit this hospital.,syntax,s-selection,animate_subject_trans,True,False,True,False,543,-48.61846923828125,-61.022361755371094,1
+Diane doesn't hate Sabrina.,Every government doesn't hate Sabrina.,syntax,s-selection,animate_subject_trans,True,False,True,False,544,-56.3673095703125,-46.9207763671875,0
+Tara hasn't helped Maria.,This company hasn't helped Maria.,syntax,s-selection,animate_subject_trans,True,False,True,False,545,-49.45777893066406,-37.08753204345703,0
+Donna dislikes some restaurant.,The pasta dislikes some restaurant.,syntax,s-selection,animate_subject_trans,True,False,True,False,546,-50.60149383544922,-56.22625732421875,1
+Dan messed up this couch.,This sketch messed up this couch.,syntax,s-selection,animate_subject_trans,True,False,True,False,547,-28.667892456054688,-40.451995849609375,1
+Tanya couldn't take these bikes.,That steak couldn't take these bikes.,syntax,s-selection,animate_subject_trans,True,False,True,False,548,-51.576194763183594,-47.90609359741211,0
+Gina brought some mouth.,That pie brought some mouth.,syntax,s-selection,animate_subject_trans,True,False,True,False,549,-38.75605010986328,-40.604469299316406,1
+Amelia references that book.,The pepper references that book.,syntax,s-selection,animate_subject_trans,True,False,True,False,550,-37.59898376464844,-37.60478591918945,1
+Connie appreciated Steve.,That hamster appreciated Steve.,syntax,s-selection,animate_subject_trans,True,False,True,False,551,-36.20433807373047,-48.737518310546875,1
+Every dancer cleaned the lights.,That rabbit cleaned the lights.,syntax,s-selection,animate_subject_trans,True,False,True,False,552,-32.62263870239258,-35.9868278503418,1
+Eva fixed the carts.,That association fixed the carts.,syntax,s-selection,animate_subject_trans,True,False,True,False,553,-28.212303161621094,-45.126869201660156,1
+Irene hadn't fled from Laurie.,This drawing hadn't fled from Laurie.,syntax,s-selection,animate_subject_trans,True,False,True,False,554,-53.10651397705078,-54.26763916015625,1
+Every library respected Travis.,Every shirt respected Travis.,syntax,s-selection,animate_subject_trans,True,False,True,False,555,-36.002769470214844,-39.943973541259766,1
+All doctors had respected Donna.,A lot of lakes had respected Donna.,syntax,s-selection,animate_subject_trans,True,False,True,False,556,-41.60942459106445,-62.49174499511719,1
+Frank was attacking all waitresses.,The river was attacking all waitresses.,syntax,s-selection,animate_subject_trans,True,False,True,False,557,-47.045623779296875,-50.013736724853516,1
+Sarah biked to these high schools.,Some casserole biked to these high schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,558,-44.89930725097656,-74.14299774169922,1
+Rebecca wasn't bringing some shirts.,Every fish wasn't bringing some shirts.,syntax,s-selection,animate_subject_trans,True,False,True,False,559,-41.76292419433594,-48.12081527709961,1
+Karla discussed Caroline.,Every college campus discussed Caroline.,syntax,s-selection,animate_subject_trans,True,False,True,False,560,-32.382102966308594,-43.54440689086914,1
+Marcus researched all college campuses.,The cafe researched all college campuses.,syntax,s-selection,animate_subject_trans,True,False,True,False,561,-38.87481689453125,-49.495361328125,1
+Kristin went to these malls.,This essay went to these malls.,syntax,s-selection,animate_subject_trans,True,False,True,False,562,-37.68305969238281,-45.979835510253906,1
+Tammy isn't biking to that closet.,The cake isn't biking to that closet.,syntax,s-selection,animate_subject_trans,True,False,True,False,563,-51.48607635498047,-53.203529357910156,1
+Edward talked to a girl.,Every legislature talked to a girl.,syntax,s-selection,animate_subject_trans,True,False,True,False,564,-23.411842346191406,-35.324241638183594,1
+Katherine won't watch Dan.,Every association won't watch Dan.,syntax,s-selection,animate_subject_trans,True,False,True,False,565,-42.506309509277344,-41.15937423706055,0
+Emily had fired Tiffany.,Some movie had fired Tiffany.,syntax,s-selection,animate_subject_trans,True,False,True,False,566,-31.83743667602539,-42.25010681152344,1
+This patient concealed this hamster.,That high school concealed this hamster.,syntax,s-selection,animate_subject_trans,True,False,True,False,567,-52.57135772705078,-58.02354049682617,1
+Patrick revealed Monet.,Some banana revealed Monet.,syntax,s-selection,animate_subject_trans,True,False,True,False,568,-34.42499542236328,-50.414310455322266,1
+Amy was concealing Bethany.,That high school was concealing Bethany.,syntax,s-selection,animate_subject_trans,True,False,True,False,569,-53.84989929199219,-67.747802734375,1
+Valerie can research some book.,A wheelbarrow can research some book.,syntax,s-selection,animate_subject_trans,True,False,True,False,570,-48.75433349609375,-74.75457763671875,1
+Holly helps the drivers.,A rug helps the drivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,571,-35.729087829589844,-44.54264831542969,1
+Homer is fixing some car.,That window is fixing some car.,syntax,s-selection,animate_subject_trans,True,False,True,False,572,-43.39867401123047,-37.73078918457031,0
+Ruth runs around every museum.,This glacier runs around every museum.,syntax,s-selection,animate_subject_trans,True,False,True,False,573,-48.28169250488281,-43.746917724609375,0
+Colleen investigates Veronica.,Politics investigates Veronica.,syntax,s-selection,animate_subject_trans,True,False,True,False,574,-42.086402893066406,-33.8212890625,0
+Frank hasn't discussed Jodi.,This government hasn't discussed Jodi.,syntax,s-selection,animate_subject_trans,True,False,True,False,575,-43.30559158325195,-47.7616081237793,1
+The drivers will talk to Jerry.,All museums will talk to Jerry.,syntax,s-selection,animate_subject_trans,True,False,True,False,576,-40.9378662109375,-42.35992431640625,1
+Roger arrived at the public park.,The newspaper article arrived at the public park.,syntax,s-selection,animate_subject_trans,True,False,True,False,577,-31.665542602539062,-51.66297912597656,1
+Judy hadn't cleaned a mall.,The mall hadn't cleaned a mall.,syntax,s-selection,animate_subject_trans,True,False,True,False,578,-39.01350402832031,-43.65325927734375,1
+Emily was criticizing Michael.,This broccoli was criticizing Michael.,syntax,s-selection,animate_subject_trans,True,False,True,False,579,-35.14051818847656,-47.20211410522461,1
+Jacqueline drove to a lot of mountains.,The art gallery drove to a lot of mountains.,syntax,s-selection,animate_subject_trans,True,False,True,False,580,-47.57514953613281,-54.68926239013672,1
+Craig questions Bradley.,Every movie questions Bradley.,syntax,s-selection,animate_subject_trans,True,False,True,False,581,-26.764812469482422,-33.39741516113281,1
+Carmen left Kayla.,Some skateboard left Kayla.,syntax,s-selection,animate_subject_trans,True,False,True,False,582,-55.21775817871094,-50.436607360839844,0
+James questioned Lissa.,A committee questioned Lissa.,syntax,s-selection,animate_subject_trans,True,False,True,False,583,-32.185829162597656,-55.26047134399414,1
+Janice watched Randolf.,This drawing watched Randolf.,syntax,s-selection,animate_subject_trans,True,False,True,False,584,-47.663177490234375,-50.16983413696289,1
+Stacey didn't escape from Cynthia.,That glass didn't escape from Cynthia.,syntax,s-selection,animate_subject_trans,True,False,True,False,585,-56.375511169433594,-50.97853088378906,0
+Gerald hadn't lifted this cart.,The truck hadn't lifted this cart.,syntax,s-selection,animate_subject_trans,True,False,True,False,586,-56.737056732177734,-50.34672927856445,0
+Melanie breaks most glasses.,The shawl breaks most glasses.,syntax,s-selection,animate_subject_trans,True,False,True,False,587,-44.93682098388672,-57.39839172363281,1
+Some organizations sold these sweaters.,All muffins sold these sweaters.,syntax,s-selection,animate_subject_trans,True,False,True,False,588,-40.24713134765625,-49.5959587097168,1
+These teenagers weren't walking through Harvard University.,All organizations weren't walking through Harvard University.,syntax,s-selection,animate_subject_trans,True,False,True,False,589,-46.31871032714844,-47.07747268676758,1
+Kathleen hadn't hired Keith.,Some glove hadn't hired Keith.,syntax,s-selection,animate_subject_trans,True,False,True,False,590,-62.86602020263672,-49.33116149902344,0
+Linda has fixed all bikes.,Some gate has fixed all bikes.,syntax,s-selection,animate_subject_trans,True,False,True,False,591,-47.373374938964844,-43.91766357421875,0
+Melinda hasn't sounded like Florence.,Some painting hasn't sounded like Florence.,syntax,s-selection,animate_subject_trans,True,False,True,False,592,-45.5218505859375,-46.60560607910156,1
+April is talking to April.,Every essay is talking to April.,syntax,s-selection,animate_subject_trans,True,False,True,False,593,-31.06821060180664,-39.93729782104492,1
+Irene had some glove.,Some spotlight had some glove.,syntax,s-selection,animate_subject_trans,True,False,True,False,594,-35.857723236083984,-37.82001495361328,1
+Andrea is observing Pamela.,This lake is observing Pamela.,syntax,s-selection,animate_subject_trans,True,False,True,False,595,-45.5476188659668,-43.46529769897461,0
+Carolyn fixed some carts.,Every bird fixed some carts.,syntax,s-selection,animate_subject_trans,True,False,True,False,596,-42.13245391845703,-41.378692626953125,0
+Frank hasn't cured April.,Ice cream hasn't cured April.,syntax,s-selection,animate_subject_trans,True,False,True,False,597,-38.78212356567383,-42.167266845703125,1
+Sally wasn't listening to Cheryl.,The dress wasn't listening to Cheryl.,syntax,s-selection,animate_subject_trans,True,False,True,False,598,-47.447723388671875,-40.89476776123047,0
+Nancy hasn't approached Amelia.,Some mushroom hasn't approached Amelia.,syntax,s-selection,animate_subject_trans,True,False,True,False,599,-48.33469772338867,-49.52177810668945,1
+Judy talks about Rose.,Some ladder talks about Rose.,syntax,s-selection,animate_subject_trans,True,False,True,False,600,-30.05820083618164,-39.375797271728516,1
+Theresa wore those shawls.,The organization wore those shawls.,syntax,s-selection,animate_subject_trans,True,False,True,False,601,-55.13046646118164,-53.70693588256836,0
+Theodore cures Christina.,Some broccoli cures Christina.,syntax,s-selection,animate_subject_trans,True,False,True,False,602,-42.73263931274414,-42.0010986328125,0
+Christine hadn't talked to Helen.,Some painting hadn't talked to Helen.,syntax,s-selection,animate_subject_trans,True,False,True,False,603,-40.064735412597656,-43.36824417114258,1
+Those pedestrians do take this library.,Most books do take this library.,syntax,s-selection,animate_subject_trans,True,False,True,False,604,-38.9534912109375,-32.6265869140625,0
+Every guy watches this senator.,The ice watches this senator.,syntax,s-selection,animate_subject_trans,True,False,True,False,605,-38.94961166381836,-41.196571350097656,1
+Cheryl was praising Larry.,That plate was praising Larry.,syntax,s-selection,animate_subject_trans,True,False,True,False,606,-65.8205337524414,-45.092857360839844,0
+Rodney finds unicycles.,The dress finds unicycles.,syntax,s-selection,animate_subject_trans,True,False,True,False,607,-51.45041275024414,-53.934425354003906,1
+Janet bikes to every school.,This window bikes to every school.,syntax,s-selection,animate_subject_trans,True,False,True,False,608,-42.02985382080078,-44.28466033935547,1
+Theresa hadn't explored these libraries.,Some box hadn't explored these libraries.,syntax,s-selection,animate_subject_trans,True,False,True,False,609,-53.32741165161133,-53.37846755981445,1
+Kayla shouldn't pass a lot of movie theaters.,Every public park shouldn't pass a lot of movie theaters.,syntax,s-selection,animate_subject_trans,True,False,True,False,610,-55.170188903808594,-66.62860870361328,1
+Emily walks through the mall.,Every painting walks through the mall.,syntax,s-selection,animate_subject_trans,True,False,True,False,611,-24.3455753326416,-34.94313430786133,1
+Ellen notices all cakes.,A bicycle notices all cakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,612,-36.771888732910156,-50.322052001953125,1
+Anna might hug Tonya.,That steak might hug Tonya.,syntax,s-selection,animate_subject_trans,True,False,True,False,613,-44.278873443603516,-55.44728088378906,1
+James wasn't cleaning some chicken.,That window wasn't cleaning some chicken.,syntax,s-selection,animate_subject_trans,True,False,True,False,614,-36.255035400390625,-48.44718933105469,1
+Linda could know Holly.,Every bicycle could know Holly.,syntax,s-selection,animate_subject_trans,True,False,True,False,615,-45.48126983642578,-43.817447662353516,0
+Raymond had cleaned the book.,This mirror had cleaned the book.,syntax,s-selection,animate_subject_trans,True,False,True,False,616,-35.30757522583008,-36.51517105102539,1
+Donna was questioning Douglas.,The bank was questioning Douglas.,syntax,s-selection,animate_subject_trans,True,False,True,False,617,-40.187095642089844,-38.45256042480469,0
+Irene hugs Tracy.,This hospital hugs Tracy.,syntax,s-selection,animate_subject_trans,True,False,True,False,618,-40.780662536621094,-41.13609313964844,1
+Susan won't care for Adam.,Some fork won't care for Adam.,syntax,s-selection,animate_subject_trans,True,False,True,False,619,-29.532215118408203,-49.89610290527344,1
+April visits Theodore.,Every sock visits Theodore.,syntax,s-selection,animate_subject_trans,True,False,True,False,620,-30.239768981933594,-41.32538604736328,1
+Sara hadn't approached Janet.,This eggplant hadn't approached Janet.,syntax,s-selection,animate_subject_trans,True,False,True,False,621,-50.863338470458984,-61.4202766418457,1
+Some drivers can't discuss Julie.,Some apples can't discuss Julie.,syntax,s-selection,animate_subject_trans,True,False,True,False,622,-39.48139572143555,-39.904998779296875,1
+David hasn't complained about Bruce.,A mouth hasn't complained about Bruce.,syntax,s-selection,animate_subject_trans,True,False,True,False,623,-35.507991790771484,-59.370880126953125,1
+Jill approaches Lawrence.,The truck approaches Lawrence.,syntax,s-selection,animate_subject_trans,True,False,True,False,624,-38.51980209350586,-33.8032341003418,0
+The Clintons hid a high school.,Most cars hid a high school.,syntax,s-selection,animate_subject_trans,True,False,True,False,625,-41.991851806640625,-32.24476623535156,0
+Meredith boycotted these college campuses.,The high school boycotted these college campuses.,syntax,s-selection,animate_subject_trans,True,False,True,False,626,-74.52639770507812,-68.627685546875,0
+The Impressionists have cared for George.,A lot of planes have cared for George.,syntax,s-selection,animate_subject_trans,True,False,True,False,627,-60.477027893066406,-58.75849914550781,0
+Elaine sees John.,Science sees John.,syntax,s-selection,animate_subject_trans,True,False,True,False,628,-35.300968170166016,-26.327972412109375,0
+Denise hadn't listened to the guys.,Every blouse hadn't listened to the guys.,syntax,s-selection,animate_subject_trans,True,False,True,False,629,-37.40955352783203,-50.279075622558594,1
+Alan hadn't insulted a customer.,The spinach hadn't insulted a customer.,syntax,s-selection,animate_subject_trans,True,False,True,False,630,-36.22472381591797,-49.59663009643555,1
+James lifts some truck.,Some glacier lifts some truck.,syntax,s-selection,animate_subject_trans,True,False,True,False,631,-27.082305908203125,-40.043678283691406,1
+Caroline hasn't healed Gregory.,Every hamster hasn't healed Gregory.,syntax,s-selection,animate_subject_trans,True,False,True,False,632,-46.39641189575195,-55.29450225830078,1
+Tamara does run around the libraries.,This pepper does run around the libraries.,syntax,s-selection,animate_subject_trans,True,False,True,False,633,-44.84674835205078,-48.172550201416016,1
+Rebecca had talked to Sheila.,The sketch had talked to Sheila.,syntax,s-selection,animate_subject_trans,True,False,True,False,634,-36.96427917480469,-42.39550018310547,1
+Curtis approached Wendy.,Some college campus approached Wendy.,syntax,s-selection,animate_subject_trans,True,False,True,False,635,-51.54655456542969,-46.74931716918945,0
+The patients have worked with Walter.,Spotlights have worked with Walter.,syntax,s-selection,animate_subject_trans,True,False,True,False,636,-40.44029235839844,-43.688865661621094,1
+Stacy was arriving at many libraries.,A book was arriving at many libraries.,syntax,s-selection,animate_subject_trans,True,False,True,False,637,-58.0098991394043,-59.765018463134766,1
+Leslie has observed Kenneth.,That shoe has observed Kenneth.,syntax,s-selection,animate_subject_trans,True,False,True,False,638,-43.087074279785156,-44.600990295410156,1
+Sally doesn't reference John.,Science doesn't reference John.,syntax,s-selection,animate_subject_trans,True,False,True,False,639,-49.160987854003906,-35.080352783203125,0
+Every patient should know Brian.,That cat should know Brian.,syntax,s-selection,animate_subject_trans,True,False,True,False,640,-36.925331115722656,-41.67751693725586,1
+Michael hadn't known Samuel.,A cat hadn't known Samuel.,syntax,s-selection,animate_subject_trans,True,False,True,False,641,-32.48678970336914,-52.95317459106445,1
+David hasn't known this child.,A high school hasn't known this child.,syntax,s-selection,animate_subject_trans,True,False,True,False,642,-30.155433654785156,-54.770938873291016,1
+Jerry hid many turtles.,The couch hid many turtles.,syntax,s-selection,animate_subject_trans,True,False,True,False,643,-32.95112609863281,-42.71181869506836,1
+Many women fled from Matt.,Tomatoes fled from Matt.,syntax,s-selection,animate_subject_trans,True,False,True,False,644,-37.757720947265625,-41.07914733886719,1
+A waiter praised Rachelle.,The box praised Rachelle.,syntax,s-selection,animate_subject_trans,True,False,True,False,645,-57.57834243774414,-46.82373809814453,0
+These men can't hate Lawrence.,Some shoes can't hate Lawrence.,syntax,s-selection,animate_subject_trans,True,False,True,False,646,-34.09705352783203,-37.45597839355469,1
+Caroline remembers most lakes.,A rabbit remembers most lakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,647,-39.00489807128906,-50.386695861816406,1
+Some senators fired Carl.,Those mushrooms fired Carl.,syntax,s-selection,animate_subject_trans,True,False,True,False,648,-43.517181396484375,-41.27586364746094,0
+Kimberley cared for Anne.,The ice cream cared for Anne.,syntax,s-selection,animate_subject_trans,True,False,True,False,649,-44.317955017089844,-43.27364730834961,0
+Thomas attacks Todd.,Some company attacks Todd.,syntax,s-selection,animate_subject_trans,True,False,True,False,650,-28.6628475189209,-37.516510009765625,1
+Bruce has cleaned this truck.,That mall has cleaned this truck.,syntax,s-selection,animate_subject_trans,True,False,True,False,651,-26.880414962768555,-40.217628479003906,1
+A waitress has broken some vases.,The truck has broken some vases.,syntax,s-selection,animate_subject_trans,True,False,True,False,652,-61.076866149902344,-45.366790771484375,0
+Jesus hires Clyde.,Every cart hires Clyde.,syntax,s-selection,animate_subject_trans,True,False,True,False,653,-33.79814147949219,-45.40534973144531,1
+Paul did watch Peter.,Some chicken did watch Peter.,syntax,s-selection,animate_subject_trans,True,False,True,False,654,-32.7009391784668,-42.687232971191406,1
+Christopher didn't talk about Vanessa.,Some rice didn't talk about Vanessa.,syntax,s-selection,animate_subject_trans,True,False,True,False,655,-28.355392456054688,-40.168270111083984,1
+Edward is going to this high school.,That pork is going to this high school.,syntax,s-selection,animate_subject_trans,True,False,True,False,656,-25.75918197631836,-38.434471130371094,1
+Ann didn't care for David.,Literature didn't care for David.,syntax,s-selection,animate_subject_trans,True,False,True,False,657,-28.520784378051758,-37.62913513183594,1
+Tonya isn't curing Barbara.,This sketch isn't curing Barbara.,syntax,s-selection,animate_subject_trans,True,False,True,False,658,-43.47608184814453,-46.255760192871094,1
+Matt had taken the cup.,Every wheelbarrow had taken the cup.,syntax,s-selection,animate_subject_trans,True,False,True,False,659,-27.230327606201172,-56.08755874633789,1
+Vincent hasn't researched a lot of books.,Some library hasn't researched a lot of books.,syntax,s-selection,animate_subject_trans,True,False,True,False,660,-55.11060333251953,-47.13032913208008,0
+Martha hasn't fixed most unicycles.,Travel hasn't fixed most unicycles.,syntax,s-selection,animate_subject_trans,True,False,True,False,661,-68.63961791992188,-62.89839553833008,0
+Leslie noticed Omar.,The face noticed Omar.,syntax,s-selection,animate_subject_trans,True,False,True,False,662,-38.150421142578125,-39.35391616821289,1
+Brenda is escaping from all lakes.,That plane is escaping from all lakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,663,-40.29524230957031,-47.366920471191406,1
+Benjamin was going to the Great Lakes.,Some high school was going to the Great Lakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,664,-42.233070373535156,-43.395362854003906,1
+Bruce was talking to Samantha.,The window was talking to Samantha.,syntax,s-selection,animate_subject_trans,True,False,True,False,665,-26.81976890563965,-36.4996337890625,1
+Michelle observes Gregory.,That mirror observes Gregory.,syntax,s-selection,animate_subject_trans,True,False,True,False,666,-29.328243255615234,-45.215126037597656,1
+Stacy had appreciated Colleen.,Some glove had appreciated Colleen.,syntax,s-selection,animate_subject_trans,True,False,True,False,667,-60.41020965576172,-57.47488784790039,0
+Holly isn't cleaning a lot of restaurants.,That popsicle isn't cleaning a lot of restaurants.,syntax,s-selection,animate_subject_trans,True,False,True,False,668,-45.51091003417969,-59.069061279296875,1
+Caroline isn't thinking about Cindy.,This ice cream isn't thinking about Cindy.,syntax,s-selection,animate_subject_trans,True,False,True,False,669,-38.72953796386719,-44.99641799926758,1
+This patient hasn't boycotted the organization.,The mall hasn't boycotted the organization.,syntax,s-selection,animate_subject_trans,True,False,True,False,670,-64.56671142578125,-64.45551300048828,0
+Katherine disliked some libraries.,This screen disliked some libraries.,syntax,s-selection,animate_subject_trans,True,False,True,False,671,-49.99929428100586,-43.771705627441406,0
+Most doctors had some water.,Those glasses had some water.,syntax,s-selection,animate_subject_trans,True,False,True,False,672,-26.591800689697266,-29.062952041625977,1
+Randolf referenced Travis.,That shoe referenced Travis.,syntax,s-selection,animate_subject_trans,True,False,True,False,673,-36.897422790527344,-43.14731979370117,1
+Harvard University hasn't bought the muffins.,Some bike hasn't bought the muffins.,syntax,s-selection,animate_subject_trans,True,False,True,False,674,-59.201026916503906,-45.69472122192383,0
+Some waitress is healing Carmen.,That broccoli is healing Carmen.,syntax,s-selection,animate_subject_trans,True,False,True,False,675,-44.92787170410156,-47.851356506347656,1
+Mitchell hasn't investigated many dancers.,That lamp hasn't investigated many dancers.,syntax,s-selection,animate_subject_trans,True,False,True,False,676,-48.15945053100586,-50.647911071777344,1
+A lot of patients haven't hired Jessica.,A lot of bicycles haven't hired Jessica.,syntax,s-selection,animate_subject_trans,True,False,True,False,677,-58.018959045410156,-64.53225708007812,1
+Dana can attack Aaron.,A dress can attack Aaron.,syntax,s-selection,animate_subject_trans,True,False,True,False,678,-43.917823791503906,-48.45957946777344,1
+Amelia hadn't escaped from Daniel.,The steak hadn't escaped from Daniel.,syntax,s-selection,animate_subject_trans,True,False,True,False,679,-49.39079666137695,-50.82366943359375,1
+Tara discussed Christopher.,Some sock discussed Christopher.,syntax,s-selection,animate_subject_trans,True,False,True,False,680,-43.06330871582031,-40.885597229003906,0
+Carmen skates around a lot of banks.,Every fish skates around a lot of banks.,syntax,s-selection,animate_subject_trans,True,False,True,False,681,-64.08937072753906,-51.32114028930664,0
+Jeffrey fires Bradley.,Spain fires Bradley.,syntax,s-selection,animate_subject_trans,True,False,True,False,682,-34.6049919128418,-27.492355346679688,0
+Bradley isn't hiring Joel.,Some candle isn't hiring Joel.,syntax,s-selection,animate_subject_trans,True,False,True,False,683,-38.633270263671875,-48.47447204589844,1
+This guest watches Bradley.,Every museum watches Bradley.,syntax,s-selection,animate_subject_trans,True,False,True,False,684,-37.12200164794922,-36.394386291503906,0
+Kevin doesn't mess up many shoes.,Some restaurant doesn't mess up many shoes.,syntax,s-selection,animate_subject_trans,True,False,True,False,685,-37.81623077392578,-48.563148498535156,1
+That committee did fire Gina.,That ice cream did fire Gina.,syntax,s-selection,animate_subject_trans,True,False,True,False,686,-47.1874885559082,-49.35778045654297,1
+Alicia is exiting those art galleries.,That movie is exiting those art galleries.,syntax,s-selection,animate_subject_trans,True,False,True,False,687,-75.25804901123047,-58.71375274658203,0
+Susan is criticizing Dawn.,The sock is criticizing Dawn.,syntax,s-selection,animate_subject_trans,True,False,True,False,688,-32.47167205810547,-42.511409759521484,1
+Charles would kiss Renee.,The plane would kiss Renee.,syntax,s-selection,animate_subject_trans,True,False,True,False,689,-41.742820739746094,-48.540321350097656,1
+Benjamin was describing Charles.,That light was describing Charles.,syntax,s-selection,animate_subject_trans,True,False,True,False,690,-42.33930587768555,-42.76722717285156,1
+Vanessa drops by those rivers.,Some wheelbarrow drops by those rivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,691,-41.499977111816406,-62.562171936035156,1
+This teacher praises Edward.,The water praises Edward.,syntax,s-selection,animate_subject_trans,True,False,True,False,692,-37.372596740722656,-35.08038330078125,0
+Tiffany knew Mary.,Some window knew Mary.,syntax,s-selection,animate_subject_trans,True,False,True,False,693,-52.53033447265625,-39.708251953125,0
+Heidi hadn't admired Samuel.,This couch hadn't admired Samuel.,syntax,s-selection,animate_subject_trans,True,False,True,False,694,-49.56321334838867,-49.48749542236328,0
+Travis wasn't referencing Natalie.,Every mall wasn't referencing Natalie.,syntax,s-selection,animate_subject_trans,True,False,True,False,695,-60.68487548828125,-46.43941116333008,0
+Every customer hasn't described Scott.,A chair hasn't described Scott.,syntax,s-selection,animate_subject_trans,True,False,True,False,696,-41.618743896484375,-53.61310577392578,1
+Elaine can't remember Lawrence.,The newspaper article can't remember Lawrence.,syntax,s-selection,animate_subject_trans,True,False,True,False,697,-35.21469497680664,-44.285980224609375,1
+David hasn't talked about every commentary.,The movie hasn't talked about every commentary.,syntax,s-selection,animate_subject_trans,True,False,True,False,698,-38.32941436767578,-42.75122833251953,1
+Tonya escapes from Christopher.,This dog escapes from Christopher.,syntax,s-selection,animate_subject_trans,True,False,True,False,699,-39.171932220458984,-38.21931457519531,0
+Sonia knows Laura.,Every turtle knows Laura.,syntax,s-selection,animate_subject_trans,True,False,True,False,700,-43.91274642944336,-39.19565200805664,0
+Dan dropped by some mountain.,The sock dropped by some mountain.,syntax,s-selection,animate_subject_trans,True,False,True,False,701,-34.102203369140625,-43.94285583496094,1
+These actresses aren't kissing Eva.,All socks aren't kissing Eva.,syntax,s-selection,animate_subject_trans,True,False,True,False,702,-43.72832107543945,-43.68636703491211,0
+Wendy wasn't messing up every rug.,Travel wasn't messing up every rug.,syntax,s-selection,animate_subject_trans,True,False,True,False,703,-61.03495788574219,-42.959442138671875,0
+Gregory argued about Deanna.,Some report argued about Deanna.,syntax,s-selection,animate_subject_trans,True,False,True,False,704,-47.07305145263672,-49.7799072265625,1
+Patrick had passed a mountain.,The scarf had passed a mountain.,syntax,s-selection,animate_subject_trans,True,False,True,False,705,-30.21488380432129,-38.87166213989258,1
+April investigated those boys.,A hamster investigated those boys.,syntax,s-selection,animate_subject_trans,True,False,True,False,706,-29.467355728149414,-53.165618896484375,1
+Kendra didn't clean that mouth.,That eye didn't clean that mouth.,syntax,s-selection,animate_subject_trans,True,False,True,False,707,-51.93601989746094,-41.64577102661133,0
+Nina referenced Marcus.,Every report referenced Marcus.,syntax,s-selection,animate_subject_trans,True,False,True,False,708,-44.7845344543457,-42.69142150878906,0
+Deborah arrives at this cafe.,Ice cream arrives at this cafe.,syntax,s-selection,animate_subject_trans,True,False,True,False,709,-36.36100769042969,-33.11048126220703,0
+All legislatures sold a shoe.,Many art galleries sold a shoe.,syntax,s-selection,animate_subject_trans,True,False,True,False,710,-40.087730407714844,-44.74188232421875,1
+Waiters don't skate around Spain.,The drawings don't skate around Spain.,syntax,s-selection,animate_subject_trans,True,False,True,False,711,-47.92177200317383,-50.524024963378906,1
+Samantha would take the sock.,Some pasta would take the sock.,syntax,s-selection,animate_subject_trans,True,False,True,False,712,-53.09204864501953,-38.732887268066406,0
+Jodi shouldn't arrive at every library.,The shirt shouldn't arrive at every library.,syntax,s-selection,animate_subject_trans,True,False,True,False,713,-55.910301208496094,-47.92628479003906,0
+David discovered this ice cream.,Every hospital discovered this ice cream.,syntax,s-selection,animate_subject_trans,True,False,True,False,714,-31.016647338867188,-40.27879333496094,1
+Brad hadn't worn the coat.,A hamster hadn't worn the coat.,syntax,s-selection,animate_subject_trans,True,False,True,False,715,-31.637216567993164,-56.980709075927734,1
+John was wearing every shawl.,This wheelbarrow was wearing every shawl.,syntax,s-selection,animate_subject_trans,True,False,True,False,716,-49.332462310791016,-75.97898864746094,1
+Matt skates around that high school.,Some computer skates around that high school.,syntax,s-selection,animate_subject_trans,True,False,True,False,717,-35.92954635620117,-42.7343635559082,1
+Patricia sold some apples.,That dish sold some apples.,syntax,s-selection,animate_subject_trans,True,False,True,False,718,-33.625823974609375,-39.40675735473633,1
+The Lutherans weren't kissing Marie.,A lot of dishes weren't kissing Marie.,syntax,s-selection,animate_subject_trans,True,False,True,False,719,-57.71099090576172,-63.51715087890625,1
+Mary hasn't revealed some computers.,The screen hasn't revealed some computers.,syntax,s-selection,animate_subject_trans,True,False,True,False,720,-36.883052825927734,-44.889862060546875,1
+The student sounds like Cheryl.,Every wheelbarrow sounds like Cheryl.,syntax,s-selection,animate_subject_trans,True,False,True,False,721,-34.51347351074219,-54.64647674560547,1
+Michelle researched these newspaper articles.,Politics researched these newspaper articles.,syntax,s-selection,animate_subject_trans,True,False,True,False,722,-40.030967712402344,-42.481353759765625,1
+John wouldn't approach Carrie.,The couch wouldn't approach Carrie.,syntax,s-selection,animate_subject_trans,True,False,True,False,723,-36.47539520263672,-44.68117141723633,1
+Amelia was walking through some art gallery.,The hair was walking through some art gallery.,syntax,s-selection,animate_subject_trans,True,False,True,False,724,-53.011112213134766,-50.581443786621094,0
+The pedestrian brought those art galleries.,A turtle brought those art galleries.,syntax,s-selection,animate_subject_trans,True,False,True,False,725,-51.06290817260742,-56.45060729980469,1
+A lot of senators weren't fleeing from Leslie.,Some rugs weren't fleeing from Leslie.,syntax,s-selection,animate_subject_trans,True,False,True,False,726,-74.81269836425781,-59.04620361328125,0
+This cashier does clean every cup.,That eggplant does clean every cup.,syntax,s-selection,animate_subject_trans,True,False,True,False,727,-52.78351593017578,-60.83892059326172,1
+Carolyn hadn't respected Heidi.,Some vase hadn't respected Heidi.,syntax,s-selection,animate_subject_trans,True,False,True,False,728,-48.813941955566406,-56.95894241333008,1
+Most governments do talk about Ellen.,Some cakes do talk about Ellen.,syntax,s-selection,animate_subject_trans,True,False,True,False,729,-37.02225112915039,-38.52207565307617,1
+Julia cleans most movie theaters.,The door cleans most movie theaters.,syntax,s-selection,animate_subject_trans,True,False,True,False,730,-47.29192352294922,-49.321598052978516,1
+Nina couldn't escape from Christina.,A book couldn't escape from Christina.,syntax,s-selection,animate_subject_trans,True,False,True,False,731,-51.301979064941406,-56.885459899902344,1
+A library had helped Melanie.,The broccoli had helped Melanie.,syntax,s-selection,animate_subject_trans,True,False,True,False,732,-50.219993591308594,-44.40763473510742,0
+Richard was kissing Candice.,Some school was kissing Candice.,syntax,s-selection,animate_subject_trans,True,False,True,False,733,-36.35137939453125,-48.07118225097656,1
+Russell was arguing about many books.,A spotlight was arguing about many books.,syntax,s-selection,animate_subject_trans,True,False,True,False,734,-33.747581481933594,-58.248165130615234,1
+Omar isn't examining some book.,Some apple isn't examining some book.,syntax,s-selection,animate_subject_trans,True,False,True,False,735,-49.21880340576172,-49.0029296875,0
+Pamela might wear all blouses.,A pepper might wear all blouses.,syntax,s-selection,animate_subject_trans,True,False,True,False,736,-67.71397399902344,-62.04689025878906,0
+Alexander has known Sarah.,This cafe has known Sarah.,syntax,s-selection,animate_subject_trans,True,False,True,False,737,-26.419055938720703,-38.20844268798828,1
+The Clintons left the dancers.,A lot of boxes left the dancers.,syntax,s-selection,animate_subject_trans,True,False,True,False,738,-39.770965576171875,-51.6385612487793,1
+Tara isn't concealing Mitchell.,Pork isn't concealing Mitchell.,syntax,s-selection,animate_subject_trans,True,False,True,False,739,-63.63020324707031,-62.89282989501953,0
+The Borgias were listening to Stephanie.,Some malls were listening to Stephanie.,syntax,s-selection,animate_subject_trans,True,False,True,False,740,-51.17945861816406,-42.8487434387207,0
+Naomi remembered Cheryl.,This screen remembered Cheryl.,syntax,s-selection,animate_subject_trans,True,False,True,False,741,-37.746856689453125,-39.984100341796875,1
+Denise describes Judy.,This high school describes Judy.,syntax,s-selection,animate_subject_trans,True,False,True,False,742,-32.630767822265625,-38.149600982666016,1
+Suzanne could return to that grocery store.,A carriage could return to that grocery store.,syntax,s-selection,animate_subject_trans,True,False,True,False,743,-50.73112106323242,-57.676422119140625,1
+Omar respects Raymond.,That lamp respects Raymond.,syntax,s-selection,animate_subject_trans,True,False,True,False,744,-39.34495162963867,-40.51690673828125,1
+Douglas appreciated this person.,Some documentary appreciated this person.,syntax,s-selection,animate_subject_trans,True,False,True,False,745,-35.885040283203125,-39.72317123413086,1
+The child should argue about Cynthia.,The sketch should argue about Cynthia.,syntax,s-selection,animate_subject_trans,True,False,True,False,746,-38.499542236328125,-45.02937316894531,1
+Veronica has brought many bicycles.,The eye has brought many bicycles.,syntax,s-selection,animate_subject_trans,True,False,True,False,747,-42.327354431152344,-44.35334014892578,1
+Scott could mess up those cars.,Every sketch could mess up those cars.,syntax,s-selection,animate_subject_trans,True,False,True,False,748,-34.713401794433594,-46.743438720703125,1
+Linda couldn't kiss Brenda.,That company couldn't kiss Brenda.,syntax,s-selection,animate_subject_trans,True,False,True,False,749,-48.11145782470703,-45.39716339111328,0
+Valerie couldn't skate around some hill.,Some movie theater couldn't skate around some hill.,syntax,s-selection,animate_subject_trans,True,False,True,False,750,-58.765419006347656,-67.88711547851562,1
+Beverly has revealed this window.,Some organization has revealed this window.,syntax,s-selection,animate_subject_trans,True,False,True,False,751,-61.12370300292969,-42.41234588623047,0
+Allison was returning to Steven.,This cilantro was returning to Steven.,syntax,s-selection,animate_subject_trans,True,False,True,False,752,-38.24433135986328,-53.44486999511719,1
+Tamara might appreciate every boy.,The mirror might appreciate every boy.,syntax,s-selection,animate_subject_trans,True,False,True,False,753,-44.16309356689453,-46.440162658691406,1
+This person hadn't helped Winston Churchill.,Every public park hadn't helped Winston Churchill.,syntax,s-selection,animate_subject_trans,True,False,True,False,754,-49.56556701660156,-62.309574127197266,1
+Irene hasn't researched Monet.,Every hospital hasn't researched Monet.,syntax,s-selection,animate_subject_trans,True,False,True,False,755,-58.6690673828125,-54.684898376464844,0
+Diane was fixing most bikes.,That public park was fixing most bikes.,syntax,s-selection,animate_subject_trans,True,False,True,False,756,-51.580406188964844,-58.0357666015625,1
+Andrew wasn't questioning Randolf.,Some hair wasn't questioning Randolf.,syntax,s-selection,animate_subject_trans,True,False,True,False,757,-48.38555145263672,-57.868106842041016,1
+Julia hired Melissa.,That sweater hired Melissa.,syntax,s-selection,animate_subject_trans,True,False,True,False,758,-31.92827606201172,-42.002906799316406,1
+Kayla escapes from Melanie.,Some rice escapes from Melanie.,syntax,s-selection,animate_subject_trans,True,False,True,False,759,-39.07365417480469,-42.26642608642578,1
+This committee disliked Lissa.,The company disliked Lissa.,syntax,s-selection,animate_subject_trans,True,False,True,False,760,-47.684085845947266,-41.24875259399414,0
+Jane will see Becca.,Some drawing will see Becca.,syntax,s-selection,animate_subject_trans,True,False,True,False,761,-30.093290328979492,-46.62950134277344,1
+Kevin wasn't helping a lot of patients.,The nose wasn't helping a lot of patients.,syntax,s-selection,animate_subject_trans,True,False,True,False,762,-32.96461486816406,-41.310096740722656,1
+Debra has explored the lake.,A screen has explored the lake.,syntax,s-selection,animate_subject_trans,True,False,True,False,763,-36.11991500854492,-51.762359619140625,1
+Michelle criticizes Peter.,This skirt criticizes Peter.,syntax,s-selection,animate_subject_trans,True,False,True,False,764,-37.322959899902344,-49.59196472167969,1
+Rachel climbs up some ladder.,Some lamp climbs up some ladder.,syntax,s-selection,animate_subject_trans,True,False,True,False,765,-32.23653793334961,-44.5663948059082,1
+Marla questioned many waitresses.,This convertible questioned many waitresses.,syntax,s-selection,animate_subject_trans,True,False,True,False,766,-53.96638107299805,-61.02053451538086,1
+Nancy ran around the malls.,That popsicle ran around the malls.,syntax,s-selection,animate_subject_trans,True,False,True,False,767,-42.430084228515625,-54.239479064941406,1
+The teenagers have talked about Steven.,The cars have talked about Steven.,syntax,s-selection,animate_subject_trans,True,False,True,False,768,-37.53138732910156,-31.938575744628906,0
+Thomas listened to Michael.,Every cup listened to Michael.,syntax,s-selection,animate_subject_trans,True,False,True,False,769,-23.848812103271484,-33.92952346801758,1
+John would fix some screens.,Pork would fix some screens.,syntax,s-selection,animate_subject_trans,True,False,True,False,770,-32.80016326904297,-47.53451156616211,1
+Amanda passes some school.,That projector passes some school.,syntax,s-selection,animate_subject_trans,True,False,True,False,771,-34.983978271484375,-42.59777069091797,1
+Linda had researched that glacier.,This hair had researched that glacier.,syntax,s-selection,animate_subject_trans,True,False,True,False,772,-51.45149230957031,-48.537689208984375,0
+Every driver visited Gary.,Every glass visited Gary.,syntax,s-selection,animate_subject_trans,True,False,True,False,773,-36.079383850097656,-40.417030334472656,1
+This hospital isn't admiring those actors.,This pie isn't admiring those actors.,syntax,s-selection,animate_subject_trans,True,False,True,False,774,-58.263206481933594,-59.015342712402344,1
+Tammy isn't praising Tina.,The unicycle isn't praising Tina.,syntax,s-selection,animate_subject_trans,True,False,True,False,775,-40.49976348876953,-54.83128356933594,1
+Susan hadn't concealed this hamster.,This hill hadn't concealed this hamster.,syntax,s-selection,animate_subject_trans,True,False,True,False,776,-50.82489776611328,-61.85857391357422,1
+John hasn't sounded like Grace.,Literature hasn't sounded like Grace.,syntax,s-selection,animate_subject_trans,True,False,True,False,777,-38.30104064941406,-48.25790786743164,1
+Marie had described Winston Churchill.,Some restaurant had described Winston Churchill.,syntax,s-selection,animate_subject_trans,True,False,True,False,778,-43.22360610961914,-52.92593002319336,1
+Every man could hate Vincent.,A mouth could hate Vincent.,syntax,s-selection,animate_subject_trans,True,False,True,False,779,-37.9029541015625,-52.728973388671875,1
+Andrew references Guy.,That report references Guy.,syntax,s-selection,animate_subject_trans,True,False,True,False,780,-28.748388290405273,-42.06283950805664,1
+A lot of guests are listening to Cheryl.,Many cars are listening to Cheryl.,syntax,s-selection,animate_subject_trans,True,False,True,False,781,-55.153873443603516,-33.331851959228516,0
+Anna is messing up some high school.,Some popsicle is messing up some high school.,syntax,s-selection,animate_subject_trans,True,False,True,False,782,-34.116111755371094,-55.993553161621094,1
+Becca hasn't brought every tomato.,That popsicle hasn't brought every tomato.,syntax,s-selection,animate_subject_trans,True,False,True,False,783,-47.5102653503418,-60.6422004699707,1
+Jennifer has discussed that commentary.,The photograph has discussed that commentary.,syntax,s-selection,animate_subject_trans,True,False,True,False,784,-32.44464874267578,-42.81725311279297,1
+Gary has worked with Mary.,This art gallery has worked with Mary.,syntax,s-selection,animate_subject_trans,True,False,True,False,785,-26.119203567504883,-49.899784088134766,1
+Maria reveals some carts.,This fork reveals some carts.,syntax,s-selection,animate_subject_trans,True,False,True,False,786,-31.025745391845703,-46.6418342590332,1
+William buys a book.,The cup buys a book.,syntax,s-selection,animate_subject_trans,True,False,True,False,787,-19.352828979492188,-30.792747497558594,1
+Jessica observed Meredith.,Every dog observed Meredith.,syntax,s-selection,animate_subject_trans,True,False,True,False,788,-26.554847717285156,-36.2990608215332,1
+A lot of waiters weren't helping Beverly.,Many spotlights weren't helping Beverly.,syntax,s-selection,animate_subject_trans,True,False,True,False,789,-70.82023620605469,-54.96611785888672,0
+Stacy hasn't researched every restaurant.,Some box hasn't researched every restaurant.,syntax,s-selection,animate_subject_trans,True,False,True,False,790,-55.44721221923828,-48.18315887451172,0
+Robert left most closets.,This cat left most closets.,syntax,s-selection,animate_subject_trans,True,False,True,False,791,-34.0875244140625,-44.51844787597656,1
+Marie couldn't drive to these hills.,The wheelbarrow couldn't drive to these hills.,syntax,s-selection,animate_subject_trans,True,False,True,False,792,-38.21207809448242,-63.52207946777344,1
+Some boy hasn't fixed every couch.,The cat hasn't fixed every couch.,syntax,s-selection,animate_subject_trans,True,False,True,False,793,-45.07720947265625,-40.44725036621094,0
+Brett isn't going to every restaurant.,A hamster isn't going to every restaurant.,syntax,s-selection,animate_subject_trans,True,False,True,False,794,-52.923728942871094,-56.989013671875,1
+Dan has sold this horse.,Science has sold this horse.,syntax,s-selection,animate_subject_trans,True,False,True,False,795,-30.49011993408203,-31.270496368408203,1
+A lot of waitresses hadn't brought many snakes.,Most cups hadn't brought many snakes.,syntax,s-selection,animate_subject_trans,True,False,True,False,796,-79.13558959960938,-46.44235610961914,0
+Andrea reveals these screens.,That screen reveals these screens.,syntax,s-selection,animate_subject_trans,True,False,True,False,797,-41.225914001464844,-42.18101501464844,1
+Many drivers were discussing Russell.,The stairs were discussing Russell.,syntax,s-selection,animate_subject_trans,True,False,True,False,798,-38.766483306884766,-38.20066452026367,0
+Kristen respects Vanessa.,This movie theater respects Vanessa.,syntax,s-selection,animate_subject_trans,True,False,True,False,799,-31.92368507385254,-43.92741394042969,1
+Vincent remembers Adam.,A convertible remembers Adam.,syntax,s-selection,animate_subject_trans,True,False,True,False,800,-44.5413818359375,-50.66603469848633,1
+Joel hugs Guy.,This cilantro hugs Guy.,syntax,s-selection,animate_subject_trans,True,False,True,False,801,-36.959556579589844,-57.1080322265625,1
+Tara isn't hiding a bicycle.,A banana isn't hiding a bicycle.,syntax,s-selection,animate_subject_trans,True,False,True,False,802,-47.34313201904297,-49.34788131713867,1
+Curtis did observe a doctor.,That candle did observe a doctor.,syntax,s-selection,animate_subject_trans,True,False,True,False,803,-56.42205810546875,-45.98285675048828,0
+Timothy boycotted a lot of companies.,The picture boycotted a lot of companies.,syntax,s-selection,animate_subject_trans,True,False,True,False,804,-49.28675842285156,-55.229942321777344,1
+Kathleen sells every face.,This car sells every face.,syntax,s-selection,animate_subject_trans,True,False,True,False,805,-54.50325012207031,-32.65420913696289,0
+Actors can heal Travis.,Some glaciers can heal Travis.,syntax,s-selection,animate_subject_trans,True,False,True,False,806,-51.950984954833984,-42.55896759033203,0
+Sherry hasn't questioned Mark.,That lamp hasn't questioned Mark.,syntax,s-selection,animate_subject_trans,True,False,True,False,807,-52.00920104980469,-46.773826599121094,0
+Benjamin had walked through all cafes.,Some ice cream had walked through all cafes.,syntax,s-selection,animate_subject_trans,True,False,True,False,808,-54.79697036743164,-58.34065246582031,1
+Leslie disagrees with Monet.,The water disagrees with Monet.,syntax,s-selection,animate_subject_trans,True,False,True,False,809,-52.6434440612793,-48.924217224121094,0
+A doctor passes these schools.,This cucumber passes these schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,810,-44.49842071533203,-45.09381103515625,1
+Beth investigates Joseph.,That essay investigates Joseph.,syntax,s-selection,animate_subject_trans,True,False,True,False,811,-51.774871826171875,-47.29785919189453,0
+Meredith fired Mark.,Some bicycle fired Mark.,syntax,s-selection,animate_subject_trans,True,False,True,False,812,-43.124549865722656,-39.75313949584961,0
+Allison talked to Kristin.,A mountain talked to Kristin.,syntax,s-selection,animate_subject_trans,True,False,True,False,813,-40.83660888671875,-52.1409797668457,1
+The Lutherans praised Christopher.,Universities praised Christopher.,syntax,s-selection,animate_subject_trans,True,False,True,False,814,-50.205299377441406,-46.79125213623047,0
+Caroline isn't approaching Nicole.,That documentary isn't approaching Nicole.,syntax,s-selection,animate_subject_trans,True,False,True,False,815,-43.421112060546875,-49.460365295410156,1
+That lady hadn't discussed Rachel.,This painting hadn't discussed Rachel.,syntax,s-selection,animate_subject_trans,True,False,True,False,816,-42.68093490600586,-42.92616271972656,1
+Donna insults Marla.,That dog insults Marla.,syntax,s-selection,animate_subject_trans,True,False,True,False,817,-39.91704177856445,-42.043601989746094,1
+Heather forgot Gary.,Some convertible forgot Gary.,syntax,s-selection,animate_subject_trans,True,False,True,False,818,-38.481414794921875,-43.483219146728516,1
+That actress was discovering the people.,The closet was discovering the people.,syntax,s-selection,animate_subject_trans,True,False,True,False,819,-39.203189849853516,-37.869834899902344,0
+Many men aren't arriving at the bank.,Hospitals aren't arriving at the bank.,syntax,s-selection,animate_subject_trans,True,False,True,False,820,-35.05368423461914,-54.70891189575195,1
+Bethany can discuss Nicole.,That hair can discuss Nicole.,syntax,s-selection,animate_subject_trans,True,False,True,False,821,-57.319454193115234,-41.40980529785156,0
+Helen forgot some woman.,A turtle forgot some woman.,syntax,s-selection,animate_subject_trans,True,False,True,False,822,-32.48507308959961,-46.224761962890625,1
+Jeffrey fixes these screens.,The art gallery fixes these screens.,syntax,s-selection,animate_subject_trans,True,False,True,False,823,-41.44268035888672,-56.01051330566406,1
+Spain knows Eva.,Every pie knows Eva.,syntax,s-selection,animate_subject_trans,True,False,True,False,824,-25.868602752685547,-36.52458190917969,1
+Every man had cured all teachers.,This skateboard had cured all teachers.,syntax,s-selection,animate_subject_trans,True,False,True,False,825,-43.491424560546875,-55.73816680908203,1
+Tanya has thought about Wayne.,A mirror has thought about Wayne.,syntax,s-selection,animate_subject_trans,True,False,True,False,826,-46.7851448059082,-50.75200653076172,1
+Regina could walk through that river.,That eye could walk through that river.,syntax,s-selection,animate_subject_trans,True,False,True,False,827,-44.15654754638672,-45.44363021850586,1
+Nancy helps Brett.,The university helps Brett.,syntax,s-selection,animate_subject_trans,True,False,True,False,828,-38.07087707519531,-31.418418884277344,0
+Keith will cure Danielle.,Music will cure Danielle.,syntax,s-selection,animate_subject_trans,True,False,True,False,829,-35.54955291748047,-34.223392486572266,0
+Keith wouldn't hate Jerry.,Some commentary wouldn't hate Jerry.,syntax,s-selection,animate_subject_trans,True,False,True,False,830,-30.648040771484375,-46.4925537109375,1
+Melanie hasn't complained about Marcus.,The screen hasn't complained about Marcus.,syntax,s-selection,animate_subject_trans,True,False,True,False,831,-50.73699951171875,-48.843017578125,0
+Angela boycotted the public parks.,That mirror boycotted the public parks.,syntax,s-selection,animate_subject_trans,True,False,True,False,832,-56.05320739746094,-63.73084259033203,1
+Anne could go to many college campuses.,Some mushroom could go to many college campuses.,syntax,s-selection,animate_subject_trans,True,False,True,False,833,-45.322811126708984,-57.319725036621094,1
+George talked about Jesus.,Some bank talked about Jesus.,syntax,s-selection,animate_subject_trans,True,False,True,False,834,-20.616744995117188,-31.993427276611328,1
+Debra boasts about Paul.,That mouth boasts about Paul.,syntax,s-selection,animate_subject_trans,True,False,True,False,835,-39.832401275634766,-47.75670623779297,1
+Gerald sounds like Andrea.,Every nose sounds like Andrea.,syntax,s-selection,animate_subject_trans,True,False,True,False,836,-37.78934097290039,-36.476539611816406,0
+Monica talked to Adam.,A snake talked to Adam.,syntax,s-selection,animate_subject_trans,True,False,True,False,837,-30.17917251586914,-43.987274169921875,1
+Cindy couldn't scan a story.,This newspaper article couldn't scan a story.,syntax,s-selection,animate_subject_trans,True,False,True,False,838,-52.94013214111328,-50.301116943359375,0
+Anna buys many rabbits.,This candle buys many rabbits.,syntax,s-selection,animate_subject_trans,True,False,True,False,839,-31.37136459350586,-44.36560821533203,1
+Sabrina isn't helping a lot of drivers.,That broccoli isn't helping a lot of drivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,840,-44.0568733215332,-49.507564544677734,1
+Every teacher talks about that documentary.,This college campus talks about that documentary.,syntax,s-selection,animate_subject_trans,True,False,True,False,841,-35.607337951660156,-49.147056579589844,1
+Patricia hasn't returned to Charles.,A restaurant hasn't returned to Charles.,syntax,s-selection,animate_subject_trans,True,False,True,False,842,-37.96710968017578,-50.8326301574707,1
+Patricia wasn't curing Ellen.,A story wasn't curing Ellen.,syntax,s-selection,animate_subject_trans,True,False,True,False,843,-43.25214385986328,-52.43838882446289,1
+Derek ascends every hill.,Every projector ascends every hill.,syntax,s-selection,animate_subject_trans,True,False,True,False,844,-56.670928955078125,-54.13286209106445,0
+Valerie sells the pasta.,That bicycle sells the pasta.,syntax,s-selection,animate_subject_trans,True,False,True,False,845,-38.7860107421875,-40.53050994873047,1
+Jodi had cared for Michael.,Some broccoli had cared for Michael.,syntax,s-selection,animate_subject_trans,True,False,True,False,846,-49.447933197021484,-46.68238830566406,0
+Chad has hugged Marie.,This glove has hugged Marie.,syntax,s-selection,animate_subject_trans,True,False,True,False,847,-52.0157356262207,-45.524261474609375,0
+Natalie is listening to Dan.,This apple is listening to Dan.,syntax,s-selection,animate_subject_trans,True,False,True,False,848,-37.568992614746094,-38.34191131591797,1
+This guest isn't hugging Homer.,The organization isn't hugging Homer.,syntax,s-selection,animate_subject_trans,True,False,True,False,849,-46.30167007446289,-45.52153396606445,0
+Homer isn't noticing Larry.,A spotlight isn't noticing Larry.,syntax,s-selection,animate_subject_trans,True,False,True,False,850,-50.66012954711914,-59.083858489990234,1
+Vincent runs around a lot of cafes.,This story runs around a lot of cafes.,syntax,s-selection,animate_subject_trans,True,False,True,False,851,-54.45512008666992,-42.511383056640625,0
+Tiffany fired Lissa.,Every car fired Lissa.,syntax,s-selection,animate_subject_trans,True,False,True,False,852,-59.601226806640625,-39.332035064697266,0
+Eric messes up this shirt.,That restaurant messes up this shirt.,syntax,s-selection,animate_subject_trans,True,False,True,False,853,-37.64884948730469,-51.26274108886719,1
+Bruce has returned to Naomi.,The movie has returned to Naomi.,syntax,s-selection,animate_subject_trans,True,False,True,False,854,-26.569133758544922,-33.2030029296875,1
+Larry observes Scott.,That photograph observes Scott.,syntax,s-selection,animate_subject_trans,True,False,True,False,855,-27.009769439697266,-44.67235565185547,1
+This girl might listen to Katherine.,A drawing might listen to Katherine.,syntax,s-selection,animate_subject_trans,True,False,True,False,856,-35.814613342285156,-48.914039611816406,1
+The teachers don't help Sally.,Some associations don't help Sally.,syntax,s-selection,animate_subject_trans,True,False,True,False,857,-35.13559341430664,-40.016605377197266,1
+Bruce knows Marla.,The horse knows Marla.,syntax,s-selection,animate_subject_trans,True,False,True,False,858,-26.44298553466797,-37.33951950073242,1
+Donald is noticing Aaron.,This art gallery is noticing Aaron.,syntax,s-selection,animate_subject_trans,True,False,True,False,859,-32.244049072265625,-49.775733947753906,1
+Janet was hiring the actor.,A dish was hiring the actor.,syntax,s-selection,animate_subject_trans,True,False,True,False,860,-41.154483795166016,-53.29881286621094,1
+Jane hadn't examined some movies.,Travel hadn't examined some movies.,syntax,s-selection,animate_subject_trans,True,False,True,False,861,-32.828102111816406,-35.50265121459961,1
+Sheila hadn't messed up every library.,The shirt hadn't messed up every library.,syntax,s-selection,animate_subject_trans,True,False,True,False,862,-46.027366638183594,-46.49365234375,1
+Becca isn't cleaning these newspaper articles.,That story isn't cleaning these newspaper articles.,syntax,s-selection,animate_subject_trans,True,False,True,False,863,-58.56678009033203,-57.53954315185547,0
+Cindy wasn't talking to Denise.,Every vase wasn't talking to Denise.,syntax,s-selection,animate_subject_trans,True,False,True,False,864,-52.355751037597656,-50.55840301513672,0
+Florence isn't firing Tamara.,This university isn't firing Tamara.,syntax,s-selection,animate_subject_trans,True,False,True,False,865,-56.765830993652344,-49.73565673828125,0
+Spain hired a lot of dancers.,Every cake hired a lot of dancers.,syntax,s-selection,animate_subject_trans,True,False,True,False,866,-29.2512264251709,-41.49322509765625,1
+Carl hasn't sounded like all men.,The box hasn't sounded like all men.,syntax,s-selection,animate_subject_trans,True,False,True,False,867,-38.095619201660156,-43.977291107177734,1
+Julie observes Lori.,That gate observes Lori.,syntax,s-selection,animate_subject_trans,True,False,True,False,868,-33.77534484863281,-46.68975067138672,1
+Heidi arrives at a lake.,The water arrives at a lake.,syntax,s-selection,animate_subject_trans,True,False,True,False,869,-36.015480041503906,-29.1113224029541,0
+Donna flees from some hills.,That print flees from some hills.,syntax,s-selection,animate_subject_trans,True,False,True,False,870,-47.18707275390625,-54.130584716796875,1
+Debra hasn't examined that newspaper article.,This snake hasn't examined that newspaper article.,syntax,s-selection,animate_subject_trans,True,False,True,False,871,-50.619136810302734,-53.071651458740234,1
+Dan can praise Carl.,This ice cream can praise Carl.,syntax,s-selection,animate_subject_trans,True,False,True,False,872,-37.48396301269531,-47.14153289794922,1
+Cheryl shouldn't help Stacey.,Every restaurant shouldn't help Stacey.,syntax,s-selection,animate_subject_trans,True,False,True,False,873,-74.01422119140625,-51.84275817871094,0
+The woman is exiting that high school.,Every face is exiting that high school.,syntax,s-selection,animate_subject_trans,True,False,True,False,874,-42.3624267578125,-43.13746643066406,1
+This actor hasn't cured those students.,A commentary hasn't cured those students.,syntax,s-selection,animate_subject_trans,True,False,True,False,875,-44.72243881225586,-61.507606506347656,1
+Naomi could dislike Cheryl.,A glacier could dislike Cheryl.,syntax,s-selection,animate_subject_trans,True,False,True,False,876,-46.774024963378906,-60.28904342651367,1
+That pedestrian hadn't questioned Emily.,A spotlight hadn't questioned Emily.,syntax,s-selection,animate_subject_trans,True,False,True,False,877,-54.14850616455078,-62.29148864746094,1
+Carla references some cashier.,The closet references some cashier.,syntax,s-selection,animate_subject_trans,True,False,True,False,878,-49.39293670654297,-50.03168869018555,1
+This government wouldn't talk about Jerry.,The apple wouldn't talk about Jerry.,syntax,s-selection,animate_subject_trans,True,False,True,False,879,-37.01258850097656,-39.76017379760742,1
+All waiters weren't cleaning some eye.,Many couches weren't cleaning some eye.,syntax,s-selection,animate_subject_trans,True,False,True,False,880,-56.49318313598633,-54.26921081542969,0
+All adults fled from those grocery stores.,These books fled from those grocery stores.,syntax,s-selection,animate_subject_trans,True,False,True,False,881,-48.82518768310547,-47.635528564453125,0
+Kendra should wear some blouse.,A wheelbarrow should wear some blouse.,syntax,s-selection,animate_subject_trans,True,False,True,False,882,-58.41558074951172,-74.05036926269531,1
+Angela skates around some cafe.,Some computer skates around some cafe.,syntax,s-selection,animate_subject_trans,True,False,True,False,883,-45.761253356933594,-46.44074630737305,1
+Cynthia respects Jeffrey.,That couch respects Jeffrey.,syntax,s-selection,animate_subject_trans,True,False,True,False,884,-60.82958221435547,-46.4043083190918,0
+William talks about the grocery stores.,That school talks about the grocery stores.,syntax,s-selection,animate_subject_trans,True,False,True,False,885,-31.174072265625,-41.51700210571289,1
+Peter wasn't curing drivers.,A drawing wasn't curing drivers.,syntax,s-selection,animate_subject_trans,True,False,True,False,886,-35.35736846923828,-51.83754348754883,1
+A teenager heals Bethany.,A glove heals Bethany.,syntax,s-selection,animate_subject_trans,True,False,True,False,887,-59.39042282104492,-61.59629821777344,1
+Vincent respected Mary.,A light respected Mary.,syntax,s-selection,animate_subject_trans,True,False,True,False,888,-45.1744270324707,-48.241397857666016,1
+Stacy observed James.,That bicycle observed James.,syntax,s-selection,animate_subject_trans,True,False,True,False,889,-43.49152374267578,-42.341697692871094,0
+The actresses cleaned the schools.,These cars cleaned the schools.,syntax,s-selection,animate_subject_trans,True,False,True,False,890,-33.68227767944336,-28.44009017944336,0
+A lot of pedestrians haven't boycotted the public park.,Many college campuses haven't boycotted the public park.,syntax,s-selection,animate_subject_trans,True,False,True,False,891,-94.07402801513672,-82.21636962890625,0
+Benjamin kissed Alicia.,Some painting kissed Alicia.,syntax,s-selection,animate_subject_trans,True,False,True,False,892,-36.54720687866211,-39.82854461669922,1
+Carlos has observed Clyde.,The pepper has observed Clyde.,syntax,s-selection,animate_subject_trans,True,False,True,False,893,-40.06809616088867,-45.418312072753906,1
+Tracy kisses Deanna.,This cafe kisses Deanna.,syntax,s-selection,animate_subject_trans,True,False,True,False,894,-50.33605194091797,-50.07884979248047,0
+Irene hugged Grace.,Some sock hugged Grace.,syntax,s-selection,animate_subject_trans,True,False,True,False,895,-39.530094146728516,-43.648094177246094,1
+Many actresses can't dislike every woman.,Most high schools can't dislike every woman.,syntax,s-selection,animate_subject_trans,True,False,True,False,896,-46.55131149291992,-48.289894104003906,1
+Some actor won't describe Karen.,Some movie theater won't describe Karen.,syntax,s-selection,animate_subject_trans,True,False,True,False,897,-41.513641357421875,-52.639835357666016,1
+Samantha would remember Alan.,The casserole would remember Alan.,syntax,s-selection,animate_subject_trans,True,False,True,False,898,-54.824920654296875,-56.14179992675781,1
+Stacey was cleaning these cars.,Some spotlight was cleaning these cars.,syntax,s-selection,animate_subject_trans,True,False,True,False,899,-47.20159149169922,-42.25819396972656,0
+Danielle hasn't cleaned these candles.,The horse hasn't cleaned these candles.,syntax,s-selection,animate_subject_trans,True,False,True,False,900,-44.68868637084961,-42.89439392089844,0
+Allison concealed Matt.,Water concealed Matt.,syntax,s-selection,animate_subject_trans,True,False,True,False,901,-42.99168395996094,-30.761016845703125,0
+The legislature wasn't concealing Samantha.,This glove wasn't concealing Samantha.,syntax,s-selection,animate_subject_trans,True,False,True,False,902,-60.92572784423828,-59.85282897949219,0
+Edward had hated a patient.,Every movie had hated a patient.,syntax,s-selection,animate_subject_trans,True,False,True,False,903,-33.81202697753906,-38.23338317871094,1
+Carl hadn't approached Lucille.,An eggplant hadn't approached Lucille.,syntax,s-selection,animate_subject_trans,True,False,True,False,904,-43.977516174316406,-67.60786437988281,1
+Deborah won't care for Roger.,Every library won't care for Roger.,syntax,s-selection,animate_subject_trans,True,False,True,False,905,-42.551292419433594,-43.513370513916016,1
+People hadn't escaped from Erin.,Most chairs hadn't escaped from Erin.,syntax,s-selection,animate_subject_trans,True,False,True,False,906,-38.31056213378906,-51.016658782958984,1
+Naomi could work with that teacher.,That fish could work with that teacher.,syntax,s-selection,animate_subject_trans,True,False,True,False,907,-40.803672790527344,-42.23332214355469,1
+All children can't sell a lot of computers.,A lot of cars can't sell a lot of computers.,syntax,s-selection,animate_subject_trans,True,False,True,False,908,-35.33495330810547,-50.65879440307617,1
+Most customers forgot Michelle.,Many paintings forgot Michelle.,syntax,s-selection,animate_subject_trans,True,False,True,False,909,-35.80050277709961,-37.360897064208984,1
+Todd talks to Rachel.,Some university talks to Rachel.,syntax,s-selection,animate_subject_trans,True,False,True,False,910,-30.23806381225586,-40.257301330566406,1
+David talks to Nicole.,That library talks to Nicole.,syntax,s-selection,animate_subject_trans,True,False,True,False,911,-29.38751220703125,-42.88862228393555,1
+People concealed a lot of essays.,These unicycles concealed a lot of essays.,syntax,s-selection,animate_subject_trans,True,False,True,False,912,-36.279563903808594,-70.64192199707031,1
+Amelia admires Curtis.,Some skirt admires Curtis.,syntax,s-selection,animate_subject_trans,True,False,True,False,913,-51.33473205566406,-50.72903823852539,0
+Bradley does clean this sketch.,This shoe does clean this sketch.,syntax,s-selection,animate_subject_trans,True,False,True,False,914,-39.833229064941406,-44.68061828613281,1
+Most actresses didn't boycott the Clintons.,Many high schools didn't boycott the Clintons.,syntax,s-selection,animate_subject_trans,True,False,True,False,915,-57.91473388671875,-60.100135803222656,1
+This teacher is fleeing from Jill.,Science is fleeing from Jill.,syntax,s-selection,animate_subject_trans,True,False,True,False,916,-44.016510009765625,-37.8338508605957,0
+Every dancer wasn't going to some river.,A book wasn't going to some river.,syntax,s-selection,animate_subject_trans,True,False,True,False,917,-42.77937316894531,-48.950225830078125,1
+Heather hadn't forgotten those newspaper articles.,A projector hadn't forgotten those newspaper articles.,syntax,s-selection,animate_subject_trans,True,False,True,False,918,-57.49950408935547,-72.671142578125,1
+April isn't going to a closet.,The ice cream isn't going to a closet.,syntax,s-selection,animate_subject_trans,True,False,True,False,919,-29.659934997558594,-38.04106140136719,1
+Mitchell is appreciating Daniel.,The spotlight is appreciating Daniel.,syntax,s-selection,animate_subject_trans,True,False,True,False,920,-46.24959945678711,-46.63994598388672,1
+Brian has boycotted the Clintons.,That book has boycotted the Clintons.,syntax,s-selection,animate_subject_trans,True,False,True,False,921,-55.365516662597656,-67.92399597167969,1
+Daniel kissed Kendra.,Science kissed Kendra.,syntax,s-selection,animate_subject_trans,True,False,True,False,922,-32.989864349365234,-35.13011932373047,1
+Alan might love Veronica.,The unicycle might love Veronica.,syntax,s-selection,animate_subject_trans,True,False,True,False,923,-32.919921875,-51.1533317565918,1
+This girl hires teachers.,The cucumber hires teachers.,syntax,s-selection,animate_subject_trans,True,False,True,False,924,-33.25792694091797,-42.75624465942383,1
+Winston Churchill descends some steps.,A shoe descends some steps.,syntax,s-selection,animate_subject_trans,True,False,True,False,925,-65.32186126708984,-62.4516487121582,0
+Phillip passes every high school.,That drawing passes every high school.,syntax,s-selection,animate_subject_trans,True,False,True,False,926,-32.90424728393555,-40.16645050048828,1
+Randolf isn't arguing about some actors.,This hospital isn't arguing about some actors.,syntax,s-selection,animate_subject_trans,True,False,True,False,927,-49.43255615234375,-49.776756286621094,1
+Kirsten fixes the vases.,This rug fixes the vases.,syntax,s-selection,animate_subject_trans,True,False,True,False,928,-61.99861145019531,-49.99201583862305,0
+Sherry isn't researching those pictures.,This pie isn't researching those pictures.,syntax,s-selection,animate_subject_trans,True,False,True,False,929,-52.28572082519531,-46.19182586669922,0
+Rhonda hid Katherine.,The ladder hid Katherine.,syntax,s-selection,animate_subject_trans,True,False,True,False,930,-37.71672058105469,-38.85308837890625,1
+Homer isn't watching Dana.,The picture isn't watching Dana.,syntax,s-selection,animate_subject_trans,True,False,True,False,931,-46.44830322265625,-38.0358772277832,0
+Some girl wasn't helping Theodore.,That organization wasn't helping Theodore.,syntax,s-selection,animate_subject_trans,True,False,True,False,932,-41.1144905090332,-44.62293243408203,1
+Jessica escapes from Eva.,This tomato escapes from Eva.,syntax,s-selection,animate_subject_trans,True,False,True,False,933,-31.115009307861328,-44.37935256958008,1
+Melinda hasn't driven to that movie theater.,Art hasn't driven to that movie theater.,syntax,s-selection,animate_subject_trans,True,False,True,False,934,-55.270999908447266,-48.68539810180664,0
+Sherry did return to Steve.,The door did return to Steve.,syntax,s-selection,animate_subject_trans,True,False,True,False,935,-50.53289031982422,-40.456336975097656,0
+Some drivers should tour these museums.,Most rugs should tour these museums.,syntax,s-selection,animate_subject_trans,True,False,True,False,936,-47.920204162597656,-57.905094146728516,1
+James hasn't worked with Amanda.,Every mushroom hasn't worked with Amanda.,syntax,s-selection,animate_subject_trans,True,False,True,False,937,-31.131267547607422,-45.014381408691406,1
+Lisa approaches Monica.,That screen approaches Monica.,syntax,s-selection,animate_subject_trans,True,False,True,False,938,-27.051509857177734,-40.39524459838867,1
+Curtis investigates Michelle.,That glacier investigates Michelle.,syntax,s-selection,animate_subject_trans,True,False,True,False,939,-53.02478790283203,-48.23480987548828,0
+Douglas attacked Phillip.,The hair attacked Phillip.,syntax,s-selection,animate_subject_trans,True,False,True,False,940,-36.173004150390625,-38.395362854003906,1
+Some waiter remembers Ruth.,Every fork remembers Ruth.,syntax,s-selection,animate_subject_trans,True,False,True,False,941,-42.33802795410156,-42.25179672241211,0
+Laura isn't hugging Judy.,That eggplant isn't hugging Judy.,syntax,s-selection,animate_subject_trans,True,False,True,False,942,-35.80157470703125,-63.269771575927734,1
+Theodore messes up some plates.,This car messes up some plates.,syntax,s-selection,animate_subject_trans,True,False,True,False,943,-52.500694274902344,-47.36378860473633,0
+Todd broke the window.,Some skirt broke the window.,syntax,s-selection,animate_subject_trans,True,False,True,False,944,-19.401531219482422,-34.89864730834961,1
+Walter is questioning Dawn.,Some company is questioning Dawn.,syntax,s-selection,animate_subject_trans,True,False,True,False,945,-35.19370651245117,-37.74380874633789,1
+Jason boycotted most art galleries.,Some spotlight boycotted most art galleries.,syntax,s-selection,animate_subject_trans,True,False,True,False,946,-56.801353454589844,-71.57960510253906,1
+Craig will drive to this hospital.,A photograph will drive to this hospital.,syntax,s-selection,animate_subject_trans,True,False,True,False,947,-31.488954544067383,-50.622337341308594,1
+Cindy insulted Sarah.,Some cilantro insulted Sarah.,syntax,s-selection,animate_subject_trans,True,False,True,False,948,-47.88941955566406,-54.63420104980469,1
+Benjamin should lift many malls.,That rug should lift many malls.,syntax,s-selection,animate_subject_trans,True,False,True,False,949,-53.781455993652344,-55.36422348022461,1
+William escaped from all dancers.,Some cilantro escaped from all dancers.,syntax,s-selection,animate_subject_trans,True,False,True,False,950,-35.843116760253906,-58.93321228027344,1
+Nancy has kissed Craig.,The library has kissed Craig.,syntax,s-selection,animate_subject_trans,True,False,True,False,951,-43.871829986572266,-38.9998779296875,0
+Donald does arrive at this museum.,This library does arrive at this museum.,syntax,s-selection,animate_subject_trans,True,False,True,False,952,-35.45563507080078,-43.708885192871094,1
+Susan hadn't cared for Christina.,Spain hadn't cared for Christina.,syntax,s-selection,animate_subject_trans,True,False,True,False,953,-35.85820770263672,-38.36979293823242,1
+Keith thought about Laurie.,Art thought about Laurie.,syntax,s-selection,animate_subject_trans,True,False,True,False,954,-25.85610580444336,-27.10858726501465,1
+Wendy sounds like most glaciers.,A coat sounds like most glaciers.,syntax,s-selection,animate_subject_trans,True,False,True,False,955,-53.10337829589844,-52.824012756347656,0
+Grace wasn't walking through public parks.,That computer wasn't walking through public parks.,syntax,s-selection,animate_subject_trans,True,False,True,False,956,-47.93517303466797,-54.056121826171875,1
+Noah respected Rodney.,A screen respected Rodney.,syntax,s-selection,animate_subject_trans,True,False,True,False,957,-41.745452880859375,-50.24467849731445,1
+Rebecca does visit Susan.,The pie does visit Susan.,syntax,s-selection,animate_subject_trans,True,False,True,False,958,-41.54853439331055,-44.283172607421875,1
+Carmen heals Brett.,That rug heals Brett.,syntax,s-selection,animate_subject_trans,True,False,True,False,959,-52.18294143676758,-42.801841735839844,0
+Monica isn't praising Monet.,Every painting isn't praising Monet.,syntax,s-selection,animate_subject_trans,True,False,True,False,960,-51.50236511230469,-55.54411315917969,1
+Nina hasn't observed Paula.,Politics hasn't observed Paula.,syntax,s-selection,animate_subject_trans,True,False,True,False,961,-49.46320724487305,-37.4991340637207,0
+Beverly is talking about Erin.,The mushroom is talking about Erin.,syntax,s-selection,animate_subject_trans,True,False,True,False,962,-50.7237548828125,-38.14225387573242,0
+Those children have forgotten Michael.,The movies have forgotten Michael.,syntax,s-selection,animate_subject_trans,True,False,True,False,963,-32.00969696044922,-37.20991516113281,1
+The company shouldn't dislike Valerie.,Some shirt shouldn't dislike Valerie.,syntax,s-selection,animate_subject_trans,True,False,True,False,964,-44.29191589355469,-49.700050354003906,1
+Theodore was praising Andrea.,That rug was praising Andrea.,syntax,s-selection,animate_subject_trans,True,False,True,False,965,-47.42328643798828,-48.109107971191406,1
+Sherry has sold a river.,The rug has sold a river.,syntax,s-selection,animate_subject_trans,True,False,True,False,966,-43.81346893310547,-36.41147232055664,0
+Heather hates Todd.,Every movie hates Todd.,syntax,s-selection,animate_subject_trans,True,False,True,False,967,-36.268436431884766,-33.26849365234375,0
+Julia explored those museums.,Some restaurant explored those museums.,syntax,s-selection,animate_subject_trans,True,False,True,False,968,-35.828155517578125,-42.88978576660156,1
+Meredith flees from Carolyn.,That hamster flees from Carolyn.,syntax,s-selection,animate_subject_trans,True,False,True,False,969,-50.76243591308594,-56.24961853027344,1
+Barbara hadn't remembered Carlos.,The water hadn't remembered Carlos.,syntax,s-selection,animate_subject_trans,True,False,True,False,970,-41.873451232910156,-44.37831497192383,1
+Samantha hates Valerie.,A mushroom hates Valerie.,syntax,s-selection,animate_subject_trans,True,False,True,False,971,-53.23174285888672,-48.669288635253906,0
+Children could know Samuel.,Those shirts could know Samuel.,syntax,s-selection,animate_subject_trans,True,False,True,False,972,-29.74869728088379,-40.636444091796875,1
+Every boy isn't watching Janice.,Every association isn't watching Janice.,syntax,s-selection,animate_subject_trans,True,False,True,False,973,-42.542945861816406,-46.994117736816406,1
+A lot of children don't pass this mall.,A lot of organizations don't pass this mall.,syntax,s-selection,animate_subject_trans,True,False,True,False,974,-52.71677780151367,-57.12975311279297,1
+Karla is concealing that customer.,That pork is concealing that customer.,syntax,s-selection,animate_subject_trans,True,False,True,False,975,-51.70790100097656,-57.638038635253906,1
+Bethany couldn't discover the rabbit.,The face couldn't discover the rabbit.,syntax,s-selection,animate_subject_trans,True,False,True,False,976,-65.02152252197266,-45.18284225463867,0
+Sonia hasn't discovered Denise.,A glacier hasn't discovered Denise.,syntax,s-selection,animate_subject_trans,True,False,True,False,977,-51.72100067138672,-57.39187240600586,1
+William observed Christina.,A story observed Christina.,syntax,s-selection,animate_subject_trans,True,False,True,False,978,-28.800907135009766,-48.007408142089844,1
+Samuel was questioning Alan.,Every spotlight was questioning Alan.,syntax,s-selection,animate_subject_trans,True,False,True,False,979,-36.07904815673828,-44.36313247680664,1
+The libraries weren't referencing Bethany.,Those steps weren't referencing Bethany.,syntax,s-selection,animate_subject_trans,True,False,True,False,980,-62.175392150878906,-56.94569778442383,0
+Edward hadn't discussed Jeffrey.,A bike hadn't discussed Jeffrey.,syntax,s-selection,animate_subject_trans,True,False,True,False,981,-36.24714660644531,-56.41569137573242,1
+Cheryl has questioned Beth.,Every blouse has questioned Beth.,syntax,s-selection,animate_subject_trans,True,False,True,False,982,-64.83211517333984,-49.845481872558594,0
+Mitchell couldn't investigate Jennifer.,The snake couldn't investigate Jennifer.,syntax,s-selection,animate_subject_trans,True,False,True,False,983,-46.3302116394043,-45.120723724365234,0
+A lot of patients couldn't approach Roger.,All shoes couldn't approach Roger.,syntax,s-selection,animate_subject_trans,True,False,True,False,984,-60.88751983642578,-45.841766357421875,0
+The teenager was returning to patients.,Every glacier was returning to patients.,syntax,s-selection,animate_subject_trans,True,False,True,False,985,-36.661842346191406,-41.118011474609375,1
+Anna described the closets.,The fish described the closets.,syntax,s-selection,animate_subject_trans,True,False,True,False,986,-32.09459686279297,-41.01721954345703,1
+Vincent wasn't walking through the restaurant.,A school wasn't walking through the restaurant.,syntax,s-selection,animate_subject_trans,True,False,True,False,987,-49.54515838623047,-46.06011962890625,0
+Douglas should complain about Craig.,That water should complain about Craig.,syntax,s-selection,animate_subject_trans,True,False,True,False,988,-43.84553146362305,-47.495277404785156,1
+This student hired Deanna.,Every report hired Deanna.,syntax,s-selection,animate_subject_trans,True,False,True,False,989,-45.02626037597656,-46.04730224609375,1
+Every pedestrian hasn't revealed a pepper.,Every chair hasn't revealed a pepper.,syntax,s-selection,animate_subject_trans,True,False,True,False,990,-53.201202392578125,-48.59466552734375,0
+Deanna couldn't watch Jennifer.,Some light couldn't watch Jennifer.,syntax,s-selection,animate_subject_trans,True,False,True,False,991,-40.705665588378906,-42.51701736450195,1
+These actors should boast about Keith.,Many hills should boast about Keith.,syntax,s-selection,animate_subject_trans,True,False,True,False,992,-51.18821716308594,-53.16407775878906,1
+Tara loves the report.,Some lake loves the report.,syntax,s-selection,animate_subject_trans,True,False,True,False,993,-38.65756607055664,-36.21919250488281,0
+Robert attacked some driver.,Every print attacked some driver.,syntax,s-selection,animate_subject_trans,True,False,True,False,994,-29.218791961669922,-42.743770599365234,1
+Gregory climbs down a ladder.,Some pork climbs down a ladder.,syntax,s-selection,animate_subject_trans,True,False,True,False,995,-36.966453552246094,-40.691566467285156,1
+That actress won't discuss Nina.,This glove won't discuss Nina.,syntax,s-selection,animate_subject_trans,True,False,True,False,996,-41.322364807128906,-43.942256927490234,1
+Sally walked through those glaciers.,That candle walked through those glaciers.,syntax,s-selection,animate_subject_trans,True,False,True,False,997,-50.423423767089844,-48.884193420410156,0
+Dana had worn many socks.,A projector had worn many socks.,syntax,s-selection,animate_subject_trans,True,False,True,False,998,-47.93218231201172,-59.67117691040039,1
+Lisa wasn't going to that high school.,This candle wasn't going to that high school.,syntax,s-selection,animate_subject_trans,True,False,True,False,999,-27.309852600097656,-39.71240234375,1

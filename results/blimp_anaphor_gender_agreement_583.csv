@@ -1,0 +1,1001 @@
+sentence_good,sentence_bad,field,linguistics_term,UID,simple_LM_method,one_prefix_method,two_prefix_method,lexically_identical,pair_id,good_prob,bad_prob,correct
+Katherine can't help herself.,Katherine can't help himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,0,-37.1646614074707,-36.22486877441406,0
+Karla could listen to herself.,Karla could listen to himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,1,-29.4995059967041,-29.088932037353516,0
+Marie won't think about herself.,Marie won't think about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,2,-25.382469177246094,-24.848045349121094,0
+Mark hasn't discussed himself.,Mark hasn't discussed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,3,-27.148719787597656,-28.56511878967285,1
+Stephen impressed himself.,Stephen impressed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,4,-18.667015075683594,-21.692100524902344,1
+Christina boasts about herself.,Christina boasts about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,5,-37.378753662109375,-36.54014205932617,0
+Suzanne would irritate herself.,Suzanne would irritate itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,6,-44.822845458984375,-43.97990417480469,0
+Rose couldn't reference herself.,Rose couldn't reference itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,7,-35.92945098876953,-34.515689849853516,0
+Paul should stun himself.,Paul should stun herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,8,-33.25376510620117,-34.38147735595703,1
+Kristen praises herself.,Kristen praises himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,9,-28.39291000366211,-27.673906326293945,0
+Tamara might work with herself.,Tamara might work with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,10,-34.94845199584961,-33.590579986572266,0
+Valerie remembers herself.,Valerie remembers itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,11,-33.356258392333984,-32.90202713012695,0
+Kristen hasn't worked with herself.,Kristen hasn't worked with itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,12,-32.28135299682617,-33.648643493652344,1
+Kendra disturbed herself.,Kendra disturbed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,13,-46.156585693359375,-45.704612731933594,0
+Lawrence had boasted about himself.,Lawrence had boasted about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,14,-42.43792724609375,-43.149131774902344,1
+Jason wasn't listening to himself.,Jason wasn't listening to herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,15,-23.263877868652344,-24.001773834228516,1
+Sabrina disturbs herself.,Sabrina disturbs himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,16,-37.587432861328125,-37.349609375,0
+Some essay doesn't disagree with itself.,Some essay doesn't disagree with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,17,-43.11735916137695,-42.871585845947266,0
+Kenneth wasn't admiring himself.,Kenneth wasn't admiring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,18,-51.28834915161133,-50.15430450439453,0
+Melanie had referenced herself.,Melanie had referenced itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,19,-43.08110046386719,-44.36009216308594,1
+Larry reveals himself.,Larry reveals itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,20,-18.707426071166992,-20.014644622802734,1
+Samantha isn't watching herself.,Samantha isn't watching itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,21,-46.35774230957031,-47.7919921875,1
+Rachel should like herself.,Rachel should like himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,22,-27.60969352722168,-26.430973052978516,0
+Heather has helped herself.,Heather has helped itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,23,-36.61737823486328,-39.319000244140625,1
+Lori has found herself.,Lori has found itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,24,-33.7026252746582,-33.18328857421875,0
+Christina hadn't shocked herself.,Christina hadn't shocked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,25,-39.21282958984375,-39.79049301147461,1
+Theresa wasn't alarming herself.,Theresa wasn't alarming himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,26,-45.33668518066406,-44.66277313232422,0
+Jacqueline works with herself.,Jacqueline works with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,27,-34.858158111572266,-33.36851119995117,0
+Alan hires himself.,Alan hires herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,28,-21.599124908447266,-22.56072235107422,1
+April isn't complaining about herself.,April isn't complaining about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,29,-32.960594177246094,-32.08699035644531,0
+Scott had questioned himself.,Scott had questioned herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,30,-24.94098663330078,-26.55670928955078,1
+Wayne helps himself.,Wayne helps itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,31,-31.10626220703125,-31.81062889099121,1
+Amelia heals herself.,Amelia heals himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,32,-40.16572952270508,-39.314910888671875,0
+Debra is disgusting herself.,Debra is disgusting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,33,-32.747222900390625,-32.85991287231445,1
+Irene has admired herself.,Irene has admired himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,34,-40.08180618286133,-39.64363098144531,0
+Brad distracted himself.,Brad distracted herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,35,-23.128223419189453,-23.637191772460938,1
+Sherry wouldn't cure herself.,Sherry wouldn't cure itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,36,-42.434818267822266,-42.298988342285156,0
+Ronald upset himself.,Ronald upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,37,-35.33052444458008,-34.26813507080078,0
+Catherine hasn't noticed herself.,Catherine hasn't noticed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,38,-40.09715270996094,-38.338809967041016,0
+Susan shouldn't criticize herself.,Susan shouldn't criticize himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,39,-28.631486892700195,-27.76261329650879,0
+Dawn has described herself.,Dawn has described himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,40,-43.836029052734375,-42.82379150390625,0
+Joseph describes himself.,Joseph describes herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,41,-20.890907287597656,-21.879528045654297,1
+Catherine isn't hurting herself.,Catherine isn't hurting himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,42,-40.60414505004883,-39.66869354248047,0
+Tracy alarmed herself.,Tracy alarmed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,43,-38.09593200683594,-36.21017074584961,0
+Heather has embarrassed herself.,Heather has embarrassed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,44,-39.843902587890625,-38.533538818359375,0
+Sharon hurt herself.,Sharon hurt itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,45,-27.00433349609375,-28.877758026123047,1
+Marie might admire herself.,Marie might admire himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,46,-30.89413070678711,-29.655162811279297,0
+Susan did love herself.,Susan did love itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,47,-25.13705825805664,-25.838199615478516,1
+Russell hasn't hired himself.,Russell hasn't hired herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,48,-27.413162231445312,-28.060379028320312,1
+Every man insulted himself.,Every man insulted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,49,-28.840505599975586,-30.118242263793945,1
+Marie had insulted herself.,Marie had insulted himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,50,-28.643970489501953,-27.403972625732422,0
+Steve wasn't describing himself.,Steve wasn't describing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,51,-29.65789222717285,-32.27226257324219,1
+Roger had known himself.,Roger had known herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,52,-26.76203155517578,-27.992931365966797,1
+Larry boasts about himself.,Larry boasts about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,53,-29.255685806274414,-30.73857307434082,1
+Kayla complains about herself.,Kayla complains about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,54,-30.652862548828125,-29.480117797851562,0
+A bird had found itself.,A bird had found herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,55,-42.299835205078125,-42.94400405883789,1
+Ellen wasn't worrying herself.,Ellen wasn't worrying himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,56,-38.30520248413086,-37.32313537597656,0
+Debra wasn't investigating herself.,Debra wasn't investigating itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,57,-36.75521469116211,-38.336456298828125,1
+Larry referenced himself.,Larry referenced herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,58,-20.03382110595703,-20.998523712158203,1
+Joel does complain about himself.,Joel does complain about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,59,-36.56715393066406,-37.096466064453125,1
+Gregory won't attack himself.,Gregory won't attack itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,60,-30.5367431640625,-32.07242202758789,1
+Christine hasn't questioned herself.,Christine hasn't questioned himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,61,-36.47132110595703,-35.71819305419922,0
+Natalie returned to herself.,Natalie returned to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,62,-36.448829650878906,-36.58656311035156,1
+Becca was approaching herself.,Becca was approaching himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,63,-35.33616638183594,-34.827022552490234,0
+Rachelle investigated herself.,Rachelle investigated himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,64,-30.897266387939453,-29.936717987060547,0
+Sheila saw herself.,Sheila saw himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,65,-26.266216278076172,-24.276325225830078,0
+Jacqueline likes herself.,Jacqueline likes himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,66,-32.619544982910156,-31.366601943969727,0
+Douglas healed himself.,Douglas healed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,67,-33.77987289428711,-34.30293655395508,1
+Colleen wasn't concealing herself.,Colleen wasn't concealing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,68,-51.42957305908203,-52.71717071533203,1
+Catherine disturbed herself.,Catherine disturbed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,69,-38.64471435546875,-38.21678924560547,0
+Some company astounded itself.,Some company astounded herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,70,-38.992164611816406,-38.932899475097656,0
+Todd likes himself.,Todd likes itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,71,-16.683544158935547,-18.170490264892578,1
+Tamara couldn't flee from herself.,Tamara couldn't flee from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,72,-41.024749755859375,-40.38983154296875,0
+Rose praised herself.,Rose praised himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,73,-20.404640197753906,-19.790512084960938,0
+Joseph isn't annoying himself.,Joseph isn't annoying herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,74,-31.754472732543945,-31.754985809326172,1
+Jodi liked herself.,Jodi liked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,75,-39.870635986328125,-38.193355560302734,0
+Ronald fled from himself.,Ronald fled from herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,76,-40.7354736328125,-41.228668212890625,1
+Tina fires herself.,Tina fires himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,77,-43.23246383666992,-42.90131378173828,0
+Michelle saw herself.,Michelle saw itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,78,-19.119295120239258,-19.11035919189453,0
+Renee might admire herself.,Renee might admire itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,79,-39.63077926635742,-40.334068298339844,1
+A girl couldn't reveal herself.,A girl couldn't reveal himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,80,-44.349510192871094,-43.05601501464844,0
+Curtis won't describe himself.,Curtis won't describe itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,81,-51.70977020263672,-51.7502555847168,1
+Patricia does respect herself.,Patricia does respect himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,82,-35.52193069458008,-35.007362365722656,0
+Valerie forgets herself.,Valerie forgets itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,83,-41.75926208496094,-40.416011810302734,0
+Deborah had annoyed herself.,Deborah had annoyed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,84,-40.329933166503906,-39.81843566894531,0
+Clyde hasn't hated himself.,Clyde hasn't hated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,85,-60.465518951416016,-62.45887756347656,1
+Andrea does kiss herself.,Andrea does kiss itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,86,-38.53284454345703,-40.01507568359375,1
+Irene isn't irritating herself.,Irene isn't irritating itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,87,-44.05887222290039,-43.305076599121094,0
+Stacy hadn't sounded like herself.,Stacy hadn't sounded like itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,88,-49.932613372802734,-49.0125617980957,0
+Rose has shocked herself.,Rose has shocked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,89,-29.932796478271484,-29.381000518798828,0
+George wasn't hurting himself.,George wasn't hurting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,90,-24.100955963134766,-28.270416259765625,1
+Amy would question herself.,Amy would question himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,91,-28.21438980102539,-26.320411682128906,0
+Tonya sees herself.,Tonya sees itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,92,-28.2997989654541,-28.379032135009766,1
+Christina hasn't hired herself.,Christina hasn't hired himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,93,-33.90251159667969,-33.10313415527344,0
+Pamela did reveal herself.,Pamela did reveal himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,94,-55.489871978759766,-54.27116012573242,0
+Diane had concealed herself.,Diane had concealed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,95,-49.124244689941406,-48.950828552246094,0
+Melinda hasn't argued about herself.,Melinda hasn't argued about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,96,-44.683956146240234,-44.678245544433594,0
+Deanna insults herself.,Deanna insults itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,97,-32.46543884277344,-32.009193420410156,0
+Gregory isn't hurting himself.,Gregory isn't hurting herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,98,-30.764366149902344,-31.655357360839844,1
+Rebecca should shock herself.,Rebecca should shock himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,99,-34.516685485839844,-33.993675231933594,0
+Amanda stunned herself.,Amanda stunned itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,100,-37.14646911621094,-35.79499053955078,0
+That dancer wouldn't aggravate herself.,That dancer wouldn't aggravate himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,101,-45.80756378173828,-44.923179626464844,0
+Colleen talks to herself.,Colleen talks to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,102,-32.16337203979492,-33.54548645019531,1
+Brian hasn't healed himself.,Brian hasn't healed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,103,-29.747848510742188,-31.602760314941406,1
+Natalie is curing herself.,Natalie is curing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,104,-43.31487274169922,-43.100494384765625,0
+Rhonda was upsetting herself.,Rhonda was upsetting himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,105,-37.21820831298828,-36.66545867919922,0
+Peter wasn't disgusting himself.,Peter wasn't disgusting herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,106,-30.34503936767578,-30.72601318359375,1
+Kristen isn't aggravating herself.,Kristen isn't aggravating itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,107,-38.021270751953125,-37.92447280883789,0
+Victoria hid herself.,Victoria hid himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,108,-21.932254791259766,-19.658742904663086,0
+Becca has seen herself.,Becca has seen himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,109,-33.28878402709961,-32.554054260253906,0
+Sherry can't forget herself.,Sherry can't forget himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,110,-40.86392593383789,-39.8570442199707,0
+Tracy had distracted herself.,Tracy had distracted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,111,-39.46348190307617,-39.55862808227539,1
+Stephanie is talking to herself.,Stephanie is talking to himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,112,-31.166553497314453,-30.389047622680664,0
+Rachelle might return to herself.,Rachelle might return to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,113,-35.73833465576172,-36.52007293701172,1
+Carl describes himself.,Carl describes herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,114,-21.050588607788086,-22.07875633239746,1
+Jeffrey didn't describe himself.,Jeffrey didn't describe herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,115,-29.948223114013672,-31.315719604492188,1
+Jacqueline hadn't concealed herself.,Jacqueline hadn't concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,116,-48.59146499633789,-47.522377014160156,0
+Tracy isn't upsetting herself.,Tracy isn't upsetting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,117,-41.19800567626953,-41.86567687988281,1
+Sonia hasn't discovered herself.,Sonia hasn't discovered himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,118,-39.981109619140625,-38.378273010253906,0
+Laura does find herself.,Laura does find himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,119,-25.13818359375,-23.897056579589844,0
+Jodi is confusing herself.,Jodi is confusing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,120,-45.253929138183594,-45.697509765625,1
+Florence disliked herself.,Florence disliked himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,121,-34.508575439453125,-33.83782958984375,0
+Alexander complains about himself.,Alexander complains about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,122,-23.847240447998047,-25.133968353271484,1
+Melissa complains about herself.,Melissa complains about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,123,-33.96574401855469,-34.66426086425781,1
+Teresa isn't noticing herself.,Teresa isn't noticing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,124,-42.44353485107422,-42.28712844848633,0
+Jerry should cure himself.,Jerry should cure herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,125,-24.369876861572266,-25.898258209228516,1
+Tanya was kissing herself.,Tanya was kissing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,126,-43.29924774169922,-42.829856872558594,0
+Todd was scaring himself.,Todd was scaring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,127,-24.382614135742188,-27.59097671508789,1
+Sheila was noticing herself.,Sheila was noticing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,128,-32.96683120727539,-31.481613159179688,0
+Marla wasn't distracting herself.,Marla wasn't distracting himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,129,-38.60770034790039,-38.061859130859375,0
+Dana hasn't respected herself.,Dana hasn't respected itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,130,-44.065242767333984,-43.832218170166016,0
+Curtis isn't scaring himself.,Curtis isn't scaring herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,131,-56.911643981933594,-57.64767074584961,1
+Some organization had distracted itself.,Some organization had distracted himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,132,-38.30976104736328,-39.00498580932617,1
+Some dancer has visited herself.,Some dancer has visited himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,133,-35.6636962890625,-34.9306640625,0
+Adam returned to himself.,Adam returned to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,134,-17.923097610473633,-19.707324981689453,1
+A university won't impress itself.,A university won't impress himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,135,-48.2625846862793,-48.18543243408203,0
+Marla annoyed herself.,Marla annoyed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,136,-30.417387008666992,-28.8233642578125,0
+Every story would disagree with itself.,Every story would disagree with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,137,-34.97517776489258,-34.94015884399414,0
+Aaron references himself.,Aaron references itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,138,-23.322002410888672,-21.59505844116211,0
+Caroline isn't impressing herself.,Caroline isn't impressing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,139,-46.168399810791016,-46.34238815307617,1
+Laurie wasn't questioning herself.,Laurie wasn't questioning itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,140,-41.24959182739258,-41.92434310913086,1
+Alexander would criticize himself.,Alexander would criticize itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,141,-26.187679290771484,-27.908796310424805,1
+Martin couldn't disgust himself.,Martin couldn't disgust herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,142,-29.810306549072266,-30.82593536376953,1
+Danielle embarrassed herself.,Danielle embarrassed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,143,-29.77204132080078,-28.746137619018555,0
+Daniel hasn't fired himself.,Daniel hasn't fired itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,144,-27.46173858642578,-30.330368041992188,1
+Catherine has confused herself.,Catherine has confused himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,145,-43.705177307128906,-42.75286865234375,0
+That committee wasn't upsetting itself.,That committee wasn't upsetting himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,146,-42.80336380004883,-42.61531448364258,0
+Stephanie has thought about herself.,Stephanie has thought about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,147,-36.137596130371094,-36.46830749511719,1
+Rachel notices herself.,Rachel notices itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,148,-21.82927894592285,-21.074316024780273,0
+Claire doesn't complain about herself.,Claire doesn't complain about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,149,-36.256568908691406,-35.25447082519531,0
+Brenda investigates herself.,Brenda investigates himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,150,-33.22721481323242,-32.57728576660156,0
+Debra disgusted herself.,Debra disgusted himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,151,-30.477603912353516,-29.674440383911133,0
+Tamara isn't referencing herself.,Tamara isn't referencing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,152,-41.22167205810547,-39.994590759277344,0
+Gina loves herself.,Gina loves itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,153,-29.826169967651367,-31.005592346191406,1
+Mary does help herself.,Mary does help itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,154,-27.25876235961914,-27.853673934936523,1
+Kirsten hadn't hurt herself.,Kirsten hadn't hurt himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,155,-47.084083557128906,-46.27803039550781,0
+Anna shouldn't appreciate herself.,Anna shouldn't appreciate itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,156,-31.28740692138672,-30.693660736083984,0
+Anne hasn't kissed herself.,Anne hasn't kissed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,157,-27.843006134033203,-30.27364730834961,1
+Donna will discover herself.,Donna will discover himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,158,-37.07795715332031,-35.943214416503906,0
+Martin didn't hire himself.,Martin didn't hire herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,159,-24.345230102539062,-25.485557556152344,1
+Brett hadn't revealed himself.,Brett hadn't revealed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,160,-52.32538986206055,-52.97772979736328,1
+Stacey complains about herself.,Stacey complains about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,161,-44.9267578125,-44.372886657714844,0
+Gina appreciates herself.,Gina appreciates himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,162,-38.816463470458984,-38.33055877685547,0
+Dawn is disgusting herself.,Dawn is disgusting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,163,-44.73395538330078,-44.4318962097168,0
+Douglas should upset himself.,Douglas should upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,164,-37.92075729370117,-37.62273406982422,0
+Rebecca disturbs herself.,Rebecca disturbs itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,165,-35.844818115234375,-34.86778259277344,0
+Carolyn hadn't discussed herself.,Carolyn hadn't discussed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,166,-36.49055480957031,-35.87703323364258,0
+Becca does irritate herself.,Becca does irritate himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,167,-46.70518493652344,-46.420806884765625,0
+Kevin hadn't referenced himself.,Kevin hadn't referenced herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,168,-32.00065994262695,-33.12080383300781,1
+Rhonda notices herself.,Rhonda notices itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,169,-35.85475158691406,-33.567596435546875,0
+Ann should upset herself.,Ann should upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,170,-33.98329544067383,-32.14169692993164,0
+Roger would think about himself.,Roger would think about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,171,-25.516366958618164,-26.05701446533203,1
+Victoria appreciates herself.,Victoria appreciates itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,172,-27.885295867919922,-26.534103393554688,0
+Travis appreciates himself.,Travis appreciates itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,173,-49.32383728027344,-48.65107727050781,0
+Eric investigated himself.,Eric investigated herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,174,-21.965892791748047,-22.68996810913086,1
+Dana was watching herself.,Dana was watching itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,175,-36.31183624267578,-36.95326232910156,1
+Matt hasn't hidden himself.,Matt hasn't hidden herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,176,-28.69124412536621,-29.71780776977539,1
+Meredith sounds like herself.,Meredith sounds like himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,177,-40.142303466796875,-38.93997573852539,0
+Heidi has hated herself.,Heidi has hated himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,178,-38.557769775390625,-37.06756591796875,0
+Tina had cured herself.,Tina had cured itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,179,-48.07040786743164,-46.905155181884766,0
+Cindy was praising herself.,Cindy was praising itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,180,-49.2900390625,-49.291873931884766,1
+April has hired herself.,April has hired himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,181,-27.819557189941406,-26.862834930419922,0
+Sara bored herself.,Sara bored itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,182,-36.007965087890625,-33.896934509277344,0
+Robert complained about himself.,Robert complained about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,183,-22.414718627929688,-23.32776641845703,1
+Martin had respected himself.,Martin had respected herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,184,-26.60941505432129,-28.1944580078125,1
+Grace had hated herself.,Grace had hated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,185,-37.265785217285156,-38.57424545288086,1
+Gary wasn't hiring himself.,Gary wasn't hiring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,186,-26.45151710510254,-28.378135681152344,1
+Tammy wouldn't escape from herself.,Tammy wouldn't escape from itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,187,-39.801719665527344,-39.8451042175293,1
+Cheryl notices herself.,Cheryl notices itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,188,-51.8419189453125,-49.73234558105469,0
+Gary didn't complain about himself.,Gary didn't complain about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,189,-25.051712036132812,-26.097984313964844,1
+Carolyn isn't insulting herself.,Carolyn isn't insulting himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,190,-41.51234817504883,-41.46635437011719,0
+Nicole irritated herself.,Nicole irritated himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,191,-30.69351577758789,-30.296863555908203,0
+Karen respects herself.,Karen respects himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,192,-40.847633361816406,-40.59768295288086,0
+Kirsten dislikes herself.,Kirsten dislikes itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,193,-57.12095642089844,-55.89958953857422,0
+Ann discussed herself.,Ann discussed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,194,-26.309181213378906,-25.729347229003906,0
+Julia thinks about herself.,Julia thinks about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,195,-33.023345947265625,-32.523902893066406,0
+Michelle couldn't reveal herself.,Michelle couldn't reveal itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,196,-27.785343170166016,-29.022884368896484,1
+Sharon isn't investigating herself.,Sharon isn't investigating himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,197,-40.74036407470703,-39.7545166015625,0
+Carlos isn't irritating himself.,Carlos isn't irritating itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,198,-38.624359130859375,-38.92379379272461,1
+Alice can care for herself.,Alice can care for himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,199,-29.377744674682617,-28.78034210205078,0
+Christina wasn't stunning herself.,Christina wasn't stunning itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,200,-37.807960510253906,-39.47608947753906,1
+Regina wasn't attacking herself.,Regina wasn't attacking himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,201,-35.4678955078125,-34.78932189941406,0
+That school has confused itself.,That school has confused himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,202,-35.603729248046875,-36.179351806640625,1
+Laura has approached herself.,Laura has approached itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,203,-27.975257873535156,-28.8552188873291,1
+Martha shocked herself.,Martha shocked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,204,-29.295625686645508,-29.26210594177246,0
+Judy would care for herself.,Judy would care for itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,205,-31.742263793945312,-31.787906646728516,1
+Dana is irritating herself.,Dana is irritating himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,206,-45.90180206298828,-46.099510192871094,1
+Beverly returned to herself.,Beverly returned to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,207,-45.48036193847656,-45.257328033447266,0
+Nicole had loved herself.,Nicole had loved himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,208,-32.30321502685547,-31.284950256347656,0
+Every fish did find itself.,Every fish did find herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,209,-37.037742614746094,-37.18347930908203,1
+Steve fires himself.,Steve fires itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,210,-21.99260902404785,-21.638957977294922,0
+That woman can't scare herself.,That woman can't scare himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,211,-30.745176315307617,-29.735044479370117,0
+Sharon shouldn't observe herself.,Sharon shouldn't observe himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,212,-39.816612243652344,-39.091766357421875,0
+Tonya forgot herself.,Tonya forgot himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,213,-31.985431671142578,-30.740013122558594,0
+Gina has complained about herself.,Gina has complained about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,214,-41.10199737548828,-40.84208679199219,0
+Kristin had bothered herself.,Kristin had bothered itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,215,-36.2859001159668,-35.5074462890625,0
+Dana loves herself.,Dana loves itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,216,-35.118919372558594,-35.546669006347656,1
+Regina scares herself.,Regina scares himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,217,-28.016281127929688,-27.099716186523438,0
+Chad had aggravated himself.,Chad had aggravated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,218,-51.12721252441406,-52.19689178466797,1
+Margaret is describing herself.,Margaret is describing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,219,-28.81717300415039,-27.923160552978516,0
+Deanna couldn't kiss herself.,Deanna couldn't kiss himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,220,-35.54502487182617,-34.3430061340332,0
+Jerry hides himself.,Jerry hides herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,221,-20.56259536743164,-21.892501831054688,1
+Russell wasn't approaching himself.,Russell wasn't approaching itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,222,-27.947811126708984,-29.05547523498535,1
+Alice is impressing herself.,Alice is impressing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,223,-34.29249572753906,-34.80521011352539,1
+Laurie boasts about herself.,Laurie boasts about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,224,-42.76187515258789,-41.8587646484375,0
+Peter returned to himself.,Peter returned to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,225,-17.986717224121094,-19.822711944580078,1
+Lissa can notice herself.,Lissa can notice himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,226,-36.85856628417969,-35.100868225097656,0
+Clyde couldn't notice himself.,Clyde couldn't notice herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,227,-56.464534759521484,-57.9420166015625,1
+Matt didn't hire himself.,Matt didn't hire itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,228,-24.84419822692871,-27.58422088623047,1
+Dana had disturbed herself.,Dana had disturbed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,229,-42.90770721435547,-42.713531494140625,0
+Jill is criticizing herself.,Jill is criticizing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,230,-50.62460708618164,-50.708251953125,1
+Rhonda remembers herself.,Rhonda remembers himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,231,-32.88554382324219,-31.628902435302734,0
+Julia hasn't impressed herself.,Julia hasn't impressed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,232,-37.68775177001953,-36.564273834228516,0
+Suzanne cured herself.,Suzanne cured himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,233,-36.78887939453125,-36.379188537597656,0
+Kenneth hadn't kissed himself.,Kenneth hadn't kissed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,234,-36.0040397644043,-37.04454040527344,1
+Janice hadn't shocked herself.,Janice hadn't shocked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,235,-41.83721923828125,-41.893795013427734,1
+Janice had left herself.,Janice had left itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,236,-31.34684181213379,-31.180316925048828,0
+Joseph will care for himself.,Joseph will care for itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,237,-30.591888427734375,-31.520675659179688,1
+Janice wasn't upsetting herself.,Janice wasn't upsetting himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,238,-38.08563232421875,-37.432064056396484,0
+Tiffany isn't investigating herself.,Tiffany isn't investigating himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,239,-57.14264678955078,-56.27239227294922,0
+Sally isn't praising herself.,Sally isn't praising himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,240,-48.07476806640625,-47.66786193847656,0
+Susan should distract herself.,Susan should distract itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,241,-27.595151901245117,-29.897659301757812,1
+The waitress hasn't described herself.,The waitress hasn't described itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,242,-40.29985427856445,-39.98302459716797,0
+Cynthia listens to herself.,Cynthia listens to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,243,-52.89997863769531,-55.07613754272461,1
+Donald discussed himself.,Donald discussed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,244,-21.136882781982422,-22.08361053466797,1
+Matt admires himself.,Matt admires itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,245,-31.194637298583984,-31.954669952392578,1
+Sally is annoying herself.,Sally is annoying itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,246,-42.23206329345703,-42.25747299194336,1
+Carrie disturbs herself.,Carrie disturbs itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,247,-37.691650390625,-36.42131805419922,0
+Irene investigated herself.,Irene investigated himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,248,-35.12407684326172,-34.46589660644531,0
+Dana has hurt herself.,Dana has hurt itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,249,-40.569942474365234,-42.03132247924805,1
+Travis had thought about himself.,Travis had thought about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,250,-47.49809646606445,-48.235511779785156,1
+Maria talks to herself.,Maria talks to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,251,-23.453699111938477,-24.404560089111328,1
+Sherry shouldn't fire herself.,Sherry shouldn't fire itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,252,-44.15142822265625,-44.25282669067383,1
+Dawn shocked herself.,Dawn shocked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,253,-41.24803924560547,-40.547813415527344,0
+Stacy escapes from herself.,Stacy escapes from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,254,-43.30595397949219,-42.78047180175781,0
+Laura did investigate herself.,Laura did investigate himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,255,-29.40951156616211,-27.54960823059082,0
+Liam hasn't fled from himself.,Liam hasn't fled from herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,256,-45.5556526184082,-46.1568603515625,1
+Carla couldn't escape from herself.,Carla couldn't escape from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,257,-37.782047271728516,-37.35911178588867,0
+Eric could think about himself.,Eric could think about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,258,-24.713077545166016,-25.35409164428711,1
+Carrie didn't hide herself.,Carrie didn't hide itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,259,-31.837554931640625,-32.70626449584961,1
+The woman can't annoy herself.,The woman can't annoy himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,260,-34.574684143066406,-33.4645881652832,0
+Carl hasn't impressed himself.,Carl hasn't impressed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,261,-28.82512855529785,-31.603099822998047,1
+Michael hugged himself.,Michael hugged itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,262,-19.558025360107422,-22.560087203979492,1
+Marcus could see himself.,Marcus could see herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,263,-22.62468719482422,-24.284780502319336,1
+Charles had talked about himself.,Charles had talked about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,264,-24.571622848510742,-26.192035675048828,1
+Jacqueline wouldn't discuss herself.,Jacqueline wouldn't discuss itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,265,-40.571285247802734,-40.104373931884766,0
+Jason helped himself.,Jason helped itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,266,-18.349712371826172,-20.684539794921875,1
+Patrick finds himself.,Patrick finds itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,267,-16.833221435546875,-19.674640655517578,1
+Mark fires himself.,Mark fires itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,268,-23.12181854248047,-22.32938003540039,0
+Tiffany argued about herself.,Tiffany argued about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,269,-53.858062744140625,-53.17328643798828,0
+Lori hadn't talked to herself.,Lori hadn't talked to himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,270,-37.98188018798828,-37.07597351074219,0
+Alice has distracted herself.,Alice has distracted himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,271,-28.917804718017578,-27.35112953186035,0
+Rose heals herself.,Rose heals itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,272,-25.092531204223633,-23.335643768310547,0
+Grace wouldn't talk to herself.,Grace wouldn't talk to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,273,-33.571685791015625,-35.43552780151367,1
+Kimberley would embarrass herself.,Kimberley would embarrass itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,274,-39.87137985229492,-41.6974983215332,1
+John admires himself.,John admires itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,275,-31.54930877685547,-32.40362548828125,1
+Deborah didn't bother herself.,Deborah didn't bother himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,276,-31.517465591430664,-30.785999298095703,0
+Grace finds herself.,Grace finds himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,277,-28.56365966796875,-26.881513595581055,0
+John hadn't talked to himself.,John hadn't talked to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,278,-26.18277931213379,-28.750713348388672,1
+Clyde distracted himself.,Clyde distracted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,279,-53.01637268066406,-52.93986511230469,0
+Dennis praises himself.,Dennis praises itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,280,-39.38200759887695,-40.13385772705078,1
+Mary hides herself.,Mary hides himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,281,-22.327774047851562,-21.22254180908203,0
+Sally wouldn't talk about herself.,Sally wouldn't talk about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,282,-37.98060607910156,-37.657447814941406,0
+Thomas hadn't irritated himself.,Thomas hadn't irritated herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,283,-33.30997085571289,-34.15928268432617,1
+Donna hides herself.,Donna hides itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,284,-33.056121826171875,-32.959197998046875,0
+This guy discusses himself.,This guy discusses herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,285,-27.801429748535156,-29.116735458374023,1
+Steven described himself.,Steven described herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,286,-19.297588348388672,-20.47927474975586,1
+Carolyn hadn't alarmed herself.,Carolyn hadn't alarmed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,287,-42.576271057128906,-42.2017822265625,0
+Some boy isn't stunning himself.,Some boy isn't stunning herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,288,-40.40885543823242,-41.01239013671875,1
+Janice hasn't distracted herself.,Janice hasn't distracted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,289,-39.920047760009766,-41.119117736816406,1
+An organization astounded itself.,An organization astounded herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,290,-38.98642349243164,-39.50005340576172,1
+Angela hasn't impressed herself.,Angela hasn't impressed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,291,-32.18293380737305,-30.87661361694336,0
+Rose conceals herself.,Rose conceals himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,292,-34.7891845703125,-34.12569808959961,0
+Lawrence questioned himself.,Lawrence questioned herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,293,-26.462665557861328,-27.625211715698242,1
+Sarah knows herself.,Sarah knows itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,294,-20.0892333984375,-19.24941062927246,0
+Cindy wasn't astounding herself.,Cindy wasn't astounding himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,295,-54.770957946777344,-54.324615478515625,0
+Andrew is talking to himself.,Andrew is talking to herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,296,-22.866046905517578,-23.59197998046875,1
+Kimberley isn't admiring herself.,Kimberley isn't admiring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,297,-56.788856506347656,-56.116397857666016,0
+Samantha argued about herself.,Samantha argued about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,298,-48.283935546875,-48.47740173339844,1
+Beth had sounded like herself.,Beth had sounded like itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,299,-53.96092987060547,-53.22990036010742,0
+Rachelle aggravated herself.,Rachelle aggravated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,300,-35.44961929321289,-35.768306732177734,1
+Bruce had noticed himself.,Bruce had noticed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,301,-23.467247009277344,-24.78426742553711,1
+Heidi talks about herself.,Heidi talks about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,302,-33.15064239501953,-31.71335220336914,0
+Amy scares herself.,Amy scares himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,303,-19.09752655029297,-18.451488494873047,0
+Donna isn't hiring herself.,Donna isn't hiring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,304,-38.73646545410156,-39.889793395996094,1
+Eric returned to himself.,Eric returned to herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,305,-18.567462921142578,-20.290374755859375,1
+Lucille should fire herself.,Lucille should fire himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,306,-33.38786315917969,-32.52180480957031,0
+Amelia escaped from herself.,Amelia escaped from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,307,-39.02574157714844,-38.18181610107422,0
+Katherine bored herself.,Katherine bored himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,308,-38.76422882080078,-37.80995178222656,0
+Kirsten wasn't praising herself.,Kirsten wasn't praising itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,309,-54.960174560546875,-54.96138381958008,1
+Valerie works with herself.,Valerie works with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,310,-34.03980255126953,-32.63226318359375,0
+Teresa was observing herself.,Teresa was observing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,311,-38.532569885253906,-37.73287582397461,0
+Samuel disagrees with himself.,Samuel disagrees with herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,312,-34.541969299316406,-36.064369201660156,1
+Kayla thinks about herself.,Kayla thinks about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,313,-29.028955459594727,-29.68048858642578,1
+Frank describes himself.,Frank describes herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,314,-21.437782287597656,-22.34375,1
+Tanya wouldn't distract herself.,Tanya wouldn't distract itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,315,-45.94736099243164,-47.63304138183594,1
+Rhonda was shocking herself.,Rhonda was shocking himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,316,-38.520294189453125,-38.18730163574219,0
+Kimberley loved herself.,Kimberley loved himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,317,-31.133243560791016,-29.985950469970703,0
+Amelia can't help herself.,Amelia can't help himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,318,-36.23598098754883,-35.23334503173828,0
+Martin has listened to himself.,Martin has listened to herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,319,-23.360015869140625,-23.679458618164062,1
+Elizabeth will help herself.,Elizabeth will help itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,320,-23.612266540527344,-24.295726776123047,1
+Some man can't describe himself.,Some man can't describe itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,321,-32.11779022216797,-33.0308952331543,1
+Sara observed herself.,Sara observed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,322,-36.70615768432617,-36.47086715698242,0
+Irene watches herself.,Irene watches itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,323,-31.04169464111328,-30.290245056152344,0
+Jerry impressed himself.,Jerry impressed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,324,-18.571189880371094,-19.80256462097168,1
+Sharon is watching herself.,Sharon is watching himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,325,-29.812036514282227,-29.075435638427734,0
+Christina observed herself.,Christina observed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,326,-29.221843719482422,-29.326629638671875,1
+Cynthia distracted herself.,Cynthia distracted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,327,-56.705589294433594,-57.012725830078125,1
+Samuel had cared for himself.,Samuel had cared for itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,328,-29.923694610595703,-32.68817138671875,1
+Omar would attack himself.,Omar would attack itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,329,-35.7103271484375,-36.66228485107422,1
+Kirsten helps herself.,Kirsten helps himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,330,-41.59605407714844,-40.75777053833008,0
+Janice complained about herself.,Janice complained about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,331,-33.910789489746094,-33.695106506347656,0
+Tina is insulting herself.,Tina is insulting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,332,-49.35235595703125,-49.581390380859375,1
+Wayne is attacking himself.,Wayne is attacking herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,333,-34.49315643310547,-34.939979553222656,1
+Meredith was curing herself.,Meredith was curing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,334,-43.450294494628906,-42.80682373046875,0
+Anne couldn't distract herself.,Anne couldn't distract himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,335,-28.06716537475586,-26.843952178955078,0
+Joseph notices himself.,Joseph notices itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,336,-22.893024444580078,-22.281570434570312,0
+Patricia hugged herself.,Patricia hugged itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,337,-30.61785316467285,-31.400943756103516,1
+Karla has confused herself.,Karla has confused himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,338,-34.754947662353516,-33.900054931640625,0
+Derek is noticing himself.,Derek is noticing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,339,-44.29371643066406,-44.425052642822266,1
+Edward attacked himself.,Edward attacked herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,340,-17.748390197753906,-18.571317672729492,1
+Roger hadn't stunned himself.,Roger hadn't stunned herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,341,-33.388038635253906,-33.873050689697266,1
+Carlos isn't discussing himself.,Carlos isn't discussing herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,342,-36.23970413208008,-37.56546401977539,1
+Danielle will appreciate herself.,Danielle will appreciate himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,343,-37.00267791748047,-35.58735656738281,0
+Curtis didn't respect himself.,Curtis didn't respect itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,344,-51.104766845703125,-51.40335464477539,1
+Kathleen does investigate herself.,Kathleen does investigate itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,345,-54.433135986328125,-55.103431701660156,1
+Marla isn't approaching herself.,Marla isn't approaching himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,346,-37.54724884033203,-36.85133743286133,0
+Vanessa concealed herself.,Vanessa concealed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,347,-35.73773956298828,-35.03574752807617,0
+Brett escapes from himself.,Brett escapes from itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,348,-49.99415588378906,-48.804073333740234,0
+Kenneth hadn't seen himself.,Kenneth hadn't seen itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,349,-29.91057777404785,-32.16514205932617,1
+Clyde cared for himself.,Clyde cared for itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,350,-53.74565887451172,-55.48939895629883,1
+Craig wouldn't return to himself.,Craig wouldn't return to herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,351,-26.002792358398438,-26.83376693725586,1
+Jessica has noticed herself.,Jessica has noticed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,352,-23.911489486694336,-23.303611755371094,0
+Bethany likes herself.,Bethany likes itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,353,-50.529842376708984,-49.74809265136719,0
+Douglas can't visit himself.,Douglas can't visit herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,354,-32.639495849609375,-33.60515594482422,1
+Travis hasn't attacked himself.,Travis hasn't attacked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,355,-49.97708511352539,-51.16615676879883,1
+Cindy conceals herself.,Cindy conceals itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,356,-55.3072509765625,-53.335060119628906,0
+Julie can't upset herself.,Julie can't upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,357,-33.88393783569336,-33.10765838623047,0
+Adam insults himself.,Adam insults itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,358,-21.11764144897461,-20.980464935302734,0
+Grace won't astound herself.,Grace won't astound itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,359,-46.79023742675781,-47.2342529296875,1
+Rebecca hasn't hugged herself.,Rebecca hasn't hugged himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,360,-38.375370025634766,-37.76457214355469,0
+Gregory is questioning himself.,Gregory is questioning herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,361,-29.48754119873047,-30.13731575012207,1
+Carla hasn't praised herself.,Carla hasn't praised himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,362,-36.26387023925781,-35.31416320800781,0
+Lissa thought about herself.,Lissa thought about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,363,-29.54701042175293,-28.337669372558594,0
+Cindy would hire herself.,Cindy would hire itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,364,-44.25434112548828,-45.401084899902344,1
+Christine hadn't boasted about herself.,Christine hadn't boasted about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,365,-49.13739013671875,-48.13114929199219,0
+Alice wasn't hugging herself.,Alice wasn't hugging itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,366,-28.6729736328125,-31.005022048950195,1
+A report disagreed with itself.,A report disagreed with herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,367,-50.106971740722656,-50.538124084472656,1
+Amanda will alarm herself.,Amanda will alarm itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,368,-37.98786926269531,-39.512542724609375,1
+Rhonda likes herself.,Rhonda likes itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,369,-32.1580810546875,-31.014114379882812,0
+Vincent embarrassed himself.,Vincent embarrassed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,370,-36.7420768737793,-36.26818084716797,0
+The waitress discovers herself.,The waitress discovers himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,371,-34.72259521484375,-33.699623107910156,0
+Jennifer has scared herself.,Jennifer has scared itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,372,-26.950145721435547,-25.510601043701172,0
+Tamara had upset herself.,Tamara had upset himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,373,-34.817909240722656,-32.973289489746094,0
+Tara hadn't seen herself.,Tara hadn't seen himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,374,-40.47409439086914,-39.20058059692383,0
+Every girl isn't referencing herself.,Every girl isn't referencing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,375,-41.038108825683594,-40.46658706665039,0
+Cynthia might argue about herself.,Cynthia might argue about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,376,-61.70037841796875,-61.50758361816406,0
+Carmen isn't talking to herself.,Carmen isn't talking to himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,377,-48.73095703125,-48.32078552246094,0
+Donna dislikes herself.,Donna dislikes itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,378,-43.94532012939453,-43.9207763671875,0
+Sonia isn't discussing herself.,Sonia isn't discussing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,379,-44.00468826293945,-43.12158966064453,0
+Dana couldn't bother herself.,Dana couldn't bother himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,380,-37.23543930053711,-36.54500961303711,0
+Irene hadn't scared herself.,Irene hadn't scared itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,381,-43.36747741699219,-42.67424774169922,0
+Beverly has investigated herself.,Beverly has investigated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,382,-53.93492889404297,-52.54140090942383,0
+Chad complains about himself.,Chad complains about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,383,-42.47686004638672,-43.162567138671875,1
+Suzanne hadn't known herself.,Suzanne hadn't known himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,384,-40.92363739013672,-40.42010498046875,0
+Sally visited herself.,Sally visited itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,385,-33.99742889404297,-33.5117301940918,0
+Rachelle distracted herself.,Rachelle distracted himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,386,-31.03879165649414,-29.634361267089844,0
+Dawn escaped from herself.,Dawn escaped from itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,387,-43.151485443115234,-41.999385833740234,0
+Omar reveals himself.,Omar reveals itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,388,-34.934547424316406,-34.331520080566406,0
+Rodney had visited himself.,Rodney had visited herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,389,-28.372705459594727,-29.31108856201172,1
+Noah sees himself.,Noah sees herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,390,-31.815792083740234,-33.67809295654297,1
+Gerald has cared for himself.,Gerald has cared for itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,391,-39.37156677246094,-40.625877380371094,1
+Sabrina has remembered herself.,Sabrina has remembered himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,392,-33.904781341552734,-32.82312774658203,0
+Laurie won't like herself.,Laurie won't like himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,393,-37.50293731689453,-36.50334167480469,0
+Richard would annoy himself.,Richard would annoy herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,394,-26.99936294555664,-28.29312515258789,1
+Matt isn't disturbing himself.,Matt isn't disturbing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,395,-27.65938949584961,-30.572025299072266,1
+Rachel respected herself.,Rachel respected itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,396,-19.96881866455078,-20.177980422973633,1
+Veronica wouldn't work with herself.,Veronica wouldn't work with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,397,-34.594329833984375,-33.21806335449219,0
+Ronald hadn't bothered himself.,Ronald hadn't bothered herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,398,-43.368019104003906,-44.0604248046875,1
+Phillip had attacked himself.,Phillip had attacked herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,399,-35.064151763916016,-35.7139892578125,1
+Some girl will discuss herself.,Some girl will discuss itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,400,-32.39957046508789,-32.038089752197266,0
+Elaine investigates herself.,Elaine investigates himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,401,-36.91935729980469,-36.28302764892578,0
+Holly isn't attacking herself.,Holly isn't attacking itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,402,-38.79899978637695,-40.983306884765625,1
+Margaret approached herself.,Margaret approached itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,403,-24.68795394897461,-24.484384536743164,0
+Ruth irritated herself.,Ruth irritated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,404,-39.904563903808594,-38.86045837402344,0
+Florence sounds like herself.,Florence sounds like itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,405,-35.66203308105469,-35.70335388183594,1
+Homer is attacking himself.,Homer is attacking itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,406,-37.1527099609375,-37.02995300292969,0
+Randolf wasn't boring himself.,Randolf wasn't boring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,407,-37.333309173583984,-39.016788482666016,1
+Guy would insult himself.,Guy would insult herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,408,-26.24088478088379,-27.79171371459961,1
+Colleen doesn't complain about herself.,Colleen doesn't complain about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,409,-36.62097930908203,-35.64954376220703,0
+Cynthia wouldn't distract herself.,Cynthia wouldn't distract himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,410,-60.61518478393555,-59.332679748535156,0
+Tammy can't scare herself.,Tammy can't scare itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,411,-30.65473747253418,-33.0970344543457,1
+Ruth heals herself.,Ruth heals itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,412,-42.69561767578125,-39.85113525390625,0
+Dennis won't hide himself.,Dennis won't hide herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,413,-40.746925354003906,-41.85295867919922,1
+Natalie confused herself.,Natalie confused itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,414,-40.316864013671875,-39.44853210449219,0
+Travis doesn't find himself.,Travis doesn't find herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,415,-42.183441162109375,-43.540225982666016,1
+Susan visited herself.,Susan visited itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,416,-18.29856300354004,-19.389585494995117,1
+Steve has complained about himself.,Steve has complained about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,417,-29.13518524169922,-29.927001953125,1
+Tara could scare herself.,Tara could scare himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,418,-42.23418426513672,-41.699424743652344,0
+Bill hires himself.,Bill hires herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,419,-23.56279754638672,-24.089372634887695,1
+Matt found himself.,Matt found herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,420,-17.250638961791992,-18.748291015625,1
+Travis listened to himself.,Travis listened to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,421,-42.0194091796875,-42.8154411315918,1
+Kayla forgot herself.,Kayla forgot itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,422,-30.466144561767578,-29.44029426574707,0
+Noah hides himself.,Noah hides herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,423,-34.97932052612305,-35.93977355957031,1
+Dan cured himself.,Dan cured herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,424,-22.022005081176758,-22.37656021118164,1
+Spain was scaring itself.,Spain was scaring herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,425,-29.019868850708008,-29.665355682373047,1
+The library couldn't aggravate itself.,The library couldn't aggravate himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,426,-42.53477478027344,-43.29327392578125,1
+Catherine isn't confusing herself.,Catherine isn't confusing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,427,-45.890716552734375,-46.442588806152344,1
+Adam doesn't escape from himself.,Adam doesn't escape from herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,428,-30.999582290649414,-31.7934627532959,1
+Steven was impressing himself.,Steven was impressing herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,429,-33.3256721496582,-34.463775634765625,1
+Rebecca has visited herself.,Rebecca has visited itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,430,-31.335514068603516,-31.80398941040039,1
+Todd doesn't see himself.,Todd doesn't see itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,431,-19.1353759765625,-21.645336151123047,1
+Barbara is noticing herself.,Barbara is noticing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,432,-34.15724182128906,-33.20231628417969,0
+Bruce hasn't irritated himself.,Bruce hasn't irritated herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,433,-31.66374969482422,-32.61082458496094,1
+Kenneth worked with himself.,Kenneth worked with herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,434,-29.27872657775879,-30.951181411743164,1
+Christina hadn't discussed herself.,Christina hadn't discussed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,435,-33.71523666381836,-34.021629333496094,1
+Robert has hidden himself.,Robert has hidden itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,436,-25.35757827758789,-26.92546844482422,1
+Bill isn't disgusting himself.,Bill isn't disgusting herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,437,-31.440820693969727,-31.7155818939209,1
+Richard argued about himself.,Richard argued about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,438,-24.812671661376953,-25.76214027404785,1
+The lady referenced herself.,The lady referenced itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,439,-31.115293502807617,-32.28197479248047,1
+Cynthia can't criticize herself.,Cynthia can't criticize itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,440,-58.72970962524414,-58.92235565185547,1
+Marie helped herself.,Marie helped himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,441,-20.009033203125,-19.123971939086914,0
+Bruce has upset himself.,Bruce has upset herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,442,-26.995868682861328,-28.351612091064453,1
+Bill was insulting himself.,Bill was insulting herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,443,-29.146766662597656,-30.08798599243164,1
+Grace hadn't confused herself.,Grace hadn't confused himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,444,-40.69452667236328,-39.671112060546875,0
+This documentary has disagreed with itself.,This documentary has disagreed with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,445,-45.061370849609375,-45.56824493408203,1
+Jennifer described herself.,Jennifer described himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,446,-20.662899017333984,-19.481672286987305,0
+Jane has shocked herself.,Jane has shocked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,447,-30.46063804626465,-30.496816635131836,1
+Rachel wasn't curing herself.,Rachel wasn't curing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,448,-29.351966857910156,-30.253902435302734,1
+Judy disturbed herself.,Judy disturbed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,449,-30.344940185546875,-29.83011245727539,0
+Ruth can't observe herself.,Ruth can't observe itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,450,-42.0664176940918,-41.683780670166016,0
+Chad hurt himself.,Chad hurt herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,451,-35.308406829833984,-35.727447509765625,1
+Diana describes herself.,Diana describes himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,452,-39.36484146118164,-38.4361457824707,0
+Carol might complain about herself.,Carol might complain about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,453,-39.06080627441406,-38.73924255371094,0
+Andrew was annoying himself.,Andrew was annoying herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,454,-28.38127899169922,-28.83802604675293,1
+Derek isn't referencing himself.,Derek isn't referencing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,455,-52.73554611206055,-51.908512115478516,0
+Regina had scared herself.,Regina had scared himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,456,-34.69252014160156,-33.39002990722656,0
+Roger isn't helping himself.,Roger isn't helping herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,457,-26.36084747314453,-27.433029174804688,1
+Carrie does cure herself.,Carrie does cure himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,458,-34.88818359375,-34.204803466796875,0
+This newspaper article disagreed with itself.,This newspaper article disagreed with herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,459,-46.81175994873047,-47.263710021972656,1
+Carl had known himself.,Carl had known itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,460,-26.949756622314453,-27.796146392822266,1
+Jodi was bothering herself.,Jodi was bothering itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,461,-41.36665344238281,-42.64035415649414,1
+Kevin wasn't upsetting himself.,Kevin wasn't upsetting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,462,-28.162403106689453,-31.548580169677734,1
+Kenneth had hurt himself.,Kenneth had hurt itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,463,-31.147010803222656,-34.01531982421875,1
+Brad wasn't bothering himself.,Brad wasn't bothering itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,464,-27.292015075683594,-30.210678100585938,1
+April fires herself.,April fires himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,465,-24.960893630981445,-24.9653263092041,1
+Theresa isn't healing herself.,Theresa isn't healing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,466,-42.21733093261719,-40.89605712890625,0
+Steven remembered himself.,Steven remembered itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,467,-21.45449447631836,-22.42432403564453,1
+Tina wasn't talking about herself.,Tina wasn't talking about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,468,-42.7938117980957,-42.47782897949219,0
+Christine loves herself.,Christine loves himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,469,-27.00214385986328,-26.021377563476562,0
+That actress describes herself.,That actress describes itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,470,-33.93533706665039,-34.19957733154297,1
+Bruce shouldn't argue about himself.,Bruce shouldn't argue about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,471,-27.811704635620117,-28.90390968322754,1
+Caroline would help herself.,Caroline would help itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,472,-29.32592010498047,-30.585132598876953,1
+Bradley couldn't upset himself.,Bradley couldn't upset herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,473,-30.97087287902832,-32.425594329833984,1
+Eva bored herself.,Eva bored himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,474,-23.02362060546875,-22.60246467590332,0
+David hires himself.,David hires itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,475,-21.02557945251465,-21.416706085205078,1
+Becca hadn't astounded herself.,Becca hadn't astounded himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,476,-49.97941589355469,-49.84258270263672,0
+Harvard University wasn't disturbing itself.,Harvard University wasn't disturbing herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,477,-56.22311019897461,-56.01121139526367,0
+Phillip hadn't watched himself.,Phillip hadn't watched herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,478,-34.27009582519531,-35.171268463134766,1
+Joel forgets himself.,Joel forgets itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,479,-35.29318618774414,-34.283355712890625,0
+Linda could forget herself.,Linda could forget himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,480,-36.48693084716797,-35.16551971435547,0
+Laura can't criticize herself.,Laura can't criticize itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,481,-28.176971435546875,-29.379798889160156,1
+Amelia watches herself.,Amelia watches itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,482,-34.0504150390625,-34.48202133178711,1
+Kayla insults herself.,Kayla insults itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,483,-28.500648498535156,-28.453927993774414,0
+Larry didn't heal himself.,Larry didn't heal herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,484,-24.77895736694336,-25.948759078979492,1
+Maria hated herself.,Maria hated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,485,-18.546222686767578,-20.2714786529541,1
+Walter wouldn't investigate himself.,Walter wouldn't investigate herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,486,-32.849151611328125,-33.764556884765625,1
+Chad will alarm himself.,Chad will alarm herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,487,-43.594688415527344,-43.56962203979492,0
+Renee hadn't fled from herself.,Renee hadn't fled from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,488,-47.041046142578125,-46.58843231201172,0
+Tina doesn't think about herself.,Tina doesn't think about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,489,-43.39741516113281,-42.50741958618164,0
+Russell thought about himself.,Russell thought about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,490,-20.843048095703125,-22.154956817626953,1
+Theresa remembered herself.,Theresa remembered itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,491,-36.383331298828125,-34.05517578125,0
+Kenneth insulted himself.,Kenneth insulted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,492,-28.363731384277344,-29.873313903808594,1
+Eric admired himself.,Eric admired herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,493,-21.75253677368164,-22.699630737304688,1
+The guy doesn't think about himself.,The guy doesn't think about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,494,-25.86797332763672,-27.720149993896484,1
+Emily won't confuse herself.,Emily won't confuse himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,495,-27.893795013427734,-26.60942840576172,0
+Jason complains about himself.,Jason complains about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,496,-22.56313133239746,-23.692399978637695,1
+Victoria wasn't approaching herself.,Victoria wasn't approaching itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,497,-27.31883430480957,-28.15353775024414,1
+Liam hadn't returned to himself.,Liam hadn't returned to herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,498,-36.08308792114258,-37.10764694213867,1
+Holly thinks about herself.,Holly thinks about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,499,-32.77788162231445,-31.802814483642578,0
+David discovered himself.,David discovered herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,500,-18.892908096313477,-20.36725616455078,1
+Every lady does irritate herself.,Every lady does irritate itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,501,-41.24042510986328,-40.923030853271484,0
+Julia boasted about herself.,Julia boasted about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,502,-42.96792984008789,-41.825294494628906,0
+Jacqueline has disgusted herself.,Jacqueline has disgusted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,503,-43.66949462890625,-44.33806228637695,1
+The guy doesn't irritate himself.,The guy doesn't irritate herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,504,-38.275848388671875,-39.44007110595703,1
+Chad is admiring himself.,Chad is admiring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,505,-56.045143127441406,-53.65656280517578,0
+Andrea left herself.,Andrea left itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,506,-29.819786071777344,-29.2760009765625,0
+Melinda cured herself.,Melinda cured himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,507,-33.96219253540039,-33.33584976196289,0
+Meredith has kissed herself.,Meredith has kissed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,508,-42.434043884277344,-43.63166427612305,1
+April criticized herself.,April criticized itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,509,-24.774673461914062,-22.271305084228516,0
+Sheila won't bother herself.,Sheila won't bother himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,510,-29.220809936523438,-27.89276885986328,0
+Roger should dislike himself.,Roger should dislike itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,511,-29.980182647705078,-31.178401947021484,1
+Rachelle talks to herself.,Rachelle talks to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,512,-31.819652557373047,-33.409759521484375,1
+Jerry would attack himself.,Jerry would attack itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,513,-22.376110076904297,-25.27908706665039,1
+Julia has listened to herself.,Julia has listened to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,514,-31.492443084716797,-32.54925537109375,1
+Ronald scared himself.,Ronald scared herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,515,-36.68760299682617,-37.522987365722656,1
+Susan wasn't attacking herself.,Susan wasn't attacking himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,516,-26.759498596191406,-25.944599151611328,0
+Sarah could criticize herself.,Sarah could criticize itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,517,-29.06167984008789,-29.863494873046875,1
+Stacy had hired herself.,Stacy had hired himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,518,-38.69919967651367,-38.01898193359375,0
+Frank has worked with himself.,Frank has worked with itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,519,-26.472047805786133,-28.612539291381836,1
+That actress will irritate herself.,That actress will irritate itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,520,-46.22337341308594,-45.948638916015625,0
+Stephanie has irritated herself.,Stephanie has irritated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,521,-39.41775894165039,-40.36712646484375,1
+Colleen forgets herself.,Colleen forgets himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,522,-35.41144561767578,-34.43219757080078,0
+Nancy hurt herself.,Nancy hurt itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,523,-33.916221618652344,-35.08440399169922,1
+Deborah hasn't remembered herself.,Deborah hasn't remembered itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,524,-39.81999969482422,-39.34413146972656,0
+Alicia hasn't remembered herself.,Alicia hasn't remembered himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,525,-57.28528594970703,-55.86411666870117,0
+Beverly can respect herself.,Beverly can respect himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,526,-52.78743362426758,-52.3300895690918,0
+Ann has cared for herself.,Ann has cared for himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,527,-32.401100158691406,-31.930076599121094,0
+Edward had disliked himself.,Edward had disliked herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,528,-29.670276641845703,-31.299640655517578,1
+Melanie had returned to herself.,Melanie had returned to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,529,-37.63365936279297,-38.342376708984375,1
+Alexander scares himself.,Alexander scares herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,530,-18.170848846435547,-18.852657318115234,1
+Ella revealed herself.,Ella revealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,531,-41.49281311035156,-40.113922119140625,0
+Samuel hasn't hated himself.,Samuel hasn't hated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,532,-31.829303741455078,-34.733497619628906,1
+Omar embarrassed himself.,Omar embarrassed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,533,-35.359230041503906,-35.983402252197266,1
+That boy upset himself.,That boy upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,534,-30.237701416015625,-31.5703067779541,1
+Diana respected herself.,Diana respected himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,535,-41.09336853027344,-40.353973388671875,0
+Charles worked with himself.,Charles worked with herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,536,-19.569305419921875,-21.53176498413086,1
+Veronica is shocking herself.,Veronica is shocking itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,537,-36.362152099609375,-35.61805725097656,0
+Lori disgusted herself.,Lori disgusted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,538,-36.905574798583984,-36.156158447265625,0
+Steven hasn't helped himself.,Steven hasn't helped itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,539,-24.26256561279297,-27.506502151489258,1
+Roger did listen to himself.,Roger did listen to herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,540,-25.782846450805664,-25.90384292602539,1
+Cindy disturbed herself.,Cindy disturbed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,541,-44.17597198486328,-43.22843933105469,0
+Laura isn't shocking herself.,Laura isn't shocking himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,542,-30.664382934570312,-30.102222442626953,0
+Patrick isn't impressing himself.,Patrick isn't impressing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,543,-36.65911865234375,-38.392608642578125,1
+Danielle bored herself.,Danielle bored himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,544,-32.07493209838867,-31.125776290893555,0
+Some movie was disagreeing with itself.,Some movie was disagreeing with herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,545,-47.331905364990234,-47.416893005371094,1
+Anna investigated herself.,Anna investigated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,546,-21.343063354492188,-20.36105728149414,0
+Lissa hired herself.,Lissa hired itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,547,-28.140756607055664,-30.098703384399414,1
+Heidi had stunned herself.,Heidi had stunned himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,548,-41.11079406738281,-39.890480041503906,0
+Theodore boasted about himself.,Theodore boasted about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,549,-45.091766357421875,-45.968997955322266,1
+Every woman would care for herself.,Every woman would care for himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,550,-29.180500030517578,-28.562578201293945,0
+That lady cured herself.,That lady cured itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,551,-31.389514923095703,-32.447261810302734,1
+Dana was criticizing herself.,Dana was criticizing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,552,-44.23550033569336,-44.42436218261719,1
+Heidi didn't work with herself.,Heidi didn't work with itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,553,-36.32979965209961,-38.12605285644531,1
+Guy isn't concealing himself.,Guy isn't concealing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,554,-41.061683654785156,-43.49767303466797,1
+Patricia was approaching herself.,Patricia was approaching himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,555,-31.453472137451172,-30.811159133911133,0
+Alexander insults himself.,Alexander insults itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,556,-21.010986328125,-21.03923797607422,1
+Irene wasn't listening to herself.,Irene wasn't listening to himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,557,-35.593223571777344,-35.080047607421875,0
+Ruth returns to herself.,Ruth returns to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,558,-37.96980667114258,-37.45446014404297,0
+Joel has hurt himself.,Joel has hurt herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,559,-30.09294891357422,-30.628700256347656,1
+Katherine criticizes herself.,Katherine criticizes himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,560,-47.593055725097656,-47.12533187866211,0
+Steven visited himself.,Steven visited itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,561,-17.81379508972168,-20.09256362915039,1
+Susan knew herself.,Susan knew himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,562,-20.951663970947266,-19.420255661010742,0
+Some report was disagreeing with itself.,Some report was disagreeing with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,563,-49.66410827636719,-49.04970932006836,0
+Heather is worrying herself.,Heather is worrying himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,564,-42.497642517089844,-41.01848602294922,0
+Thomas reveals himself.,Thomas reveals herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,565,-20.444847106933594,-21.41651153564453,1
+Aaron visits himself.,Aaron visits herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,566,-24.13922119140625,-24.342296600341797,1
+This company had disturbed itself.,This company had disturbed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,567,-32.89319610595703,-32.84144592285156,0
+Brian hasn't concealed himself.,Brian hasn't concealed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,568,-33.01793670654297,-33.571407318115234,1
+Carmen works with herself.,Carmen works with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,569,-46.43956756591797,-45.39551544189453,0
+Kayla does admire herself.,Kayla does admire himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,570,-34.69744873046875,-33.441368103027344,0
+Marla can leave herself.,Marla can leave itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,571,-31.9862060546875,-32.190860748291016,1
+Kristin has cured herself.,Kristin has cured itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,572,-35.148658752441406,-33.757320404052734,0
+This girl has loved herself.,This girl has loved itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,573,-27.765869140625,-29.237728118896484,1
+David wasn't confusing himself.,David wasn't confusing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,574,-29.10388946533203,-30.736839294433594,1
+Samantha appreciated herself.,Samantha appreciated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,575,-43.553993225097656,-43.57035827636719,1
+Deanna wouldn't return to herself.,Deanna wouldn't return to himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,576,-36.3662109375,-35.725746154785156,0
+Some actress described herself.,Some actress described himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,577,-32.34822082519531,-30.9095458984375,0
+Sheila hasn't watched herself.,Sheila hasn't watched himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,578,-32.864376068115234,-31.122434616088867,0
+Susan leaves herself.,Susan leaves himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,579,-21.103683471679688,-19.669055938720703,0
+That woman hasn't described herself.,That woman hasn't described itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,580,-32.99421691894531,-34.45259475708008,1
+Christina discussed herself.,Christina discussed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,581,-29.48915672302246,-28.8162784576416,0
+Douglas should respect himself.,Douglas should respect herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,582,-37.14486312866211,-37.70627975463867,1
+Karen worked with herself.,Karen worked with itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,583,-39.294715881347656,-40.180938720703125,1
+Elaine can reveal herself.,Elaine can reveal itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,584,-36.521263122558594,-36.838653564453125,1
+Rhonda has referenced herself.,Rhonda has referenced itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,585,-40.25627136230469,-39.89641189575195,0
+Emily had hated herself.,Emily had hated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,586,-28.498048782348633,-29.683998107910156,1
+Vanessa complained about herself.,Vanessa complained about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,587,-33.364288330078125,-33.25447082519531,0
+Jessica is impressing herself.,Jessica is impressing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,588,-32.440433502197266,-31.662342071533203,0
+Carrie describes herself.,Carrie describes itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,589,-27.761138916015625,-27.72684097290039,0
+Melanie wasn't discovering herself.,Melanie wasn't discovering himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,590,-42.989749908447266,-42.18693923950195,0
+William is discovering himself.,William is discovering itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,591,-30.643869400024414,-30.819246292114258,1
+Elaine observes herself.,Elaine observes himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,592,-37.27320861816406,-36.662139892578125,0
+Ellen was hiring herself.,Ellen was hiring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,593,-30.94793701171875,-30.837745666503906,0
+Wendy hasn't worried herself.,Wendy hasn't worried itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,594,-54.85149383544922,-52.80357360839844,0
+Claire had concealed herself.,Claire had concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,595,-40.14108657836914,-38.357872009277344,0
+David visited himself.,David visited herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,596,-17.87905502319336,-18.74555778503418,1
+Suzanne thought about herself.,Suzanne thought about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,597,-35.058082580566406,-34.09172439575195,0
+Carla notices herself.,Carla notices itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,598,-28.82163429260254,-27.326507568359375,0
+Derek wasn't describing himself.,Derek wasn't describing herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,599,-47.41290283203125,-48.68858337402344,1
+Angela can't stun herself.,Angela can't stun itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,600,-35.977806091308594,-35.9451904296875,0
+Some story hasn't disagreed with itself.,Some story hasn't disagreed with himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,601,-47.304866790771484,-46.225242614746094,0
+Amy has helped herself.,Amy has helped itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,602,-24.392532348632812,-25.485088348388672,1
+Ronald does see himself.,Ronald does see itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,603,-41.232452392578125,-41.462459564208984,1
+Susan hid herself.,Susan hid itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,604,-21.16588592529297,-21.4642333984375,1
+Laurie boasted about herself.,Laurie boasted about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,605,-42.55900573730469,-42.58057403564453,1
+Kayla upset herself.,Kayla upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,606,-28.525754928588867,-27.658504486083984,0
+Debra was listening to herself.,Debra was listening to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,607,-26.495418548583984,-28.150402069091797,1
+Stacey hasn't watched herself.,Stacey hasn't watched itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,608,-46.60606384277344,-47.122596740722656,1
+Travis wasn't firing himself.,Travis wasn't firing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,609,-49.99845504760742,-49.445987701416016,0
+Wayne praises himself.,Wayne praises itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,610,-30.97071075439453,-31.24173355102539,1
+Every commentary had disagreed with itself.,Every commentary had disagreed with herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,611,-47.85321044921875,-48.1949462890625,1
+Steven complains about himself.,Steven complains about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,612,-22.801151275634766,-24.277462005615234,1
+Connie hadn't alarmed herself.,Connie hadn't alarmed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,613,-40.92618179321289,-40.16373062133789,0
+Meredith can't see herself.,Meredith can't see itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,614,-38.897010803222656,-38.32475280761719,0
+Peter wouldn't alarm himself.,Peter wouldn't alarm itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,615,-29.289743423461914,-31.62354278564453,1
+Eva has respected herself.,Eva has respected itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,616,-26.386512756347656,-25.947067260742188,0
+Kristen has noticed herself.,Kristen has noticed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,617,-28.702774047851562,-27.407182693481445,0
+Raymond was criticizing himself.,Raymond was criticizing herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,618,-36.1113166809082,-36.934932708740234,1
+Stacey isn't alarming herself.,Stacey isn't alarming itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,619,-52.93291473388672,-52.4913330078125,0
+Janet hasn't scared herself.,Janet hasn't scared himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,620,-39.160308837890625,-37.78316116333008,0
+The lady hasn't hired herself.,The lady hasn't hired itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,621,-33.208534240722656,-35.200714111328125,1
+Becca describes herself.,Becca describes itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,622,-31.099998474121094,-29.699237823486328,0
+Tara hadn't remembered herself.,Tara hadn't remembered itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,623,-46.71828842163086,-46.54176712036133,0
+Ann might worry herself.,Ann might worry himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,624,-34.47142028808594,-33.2902946472168,0
+Barbara hadn't referenced herself.,Barbara hadn't referenced itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,625,-39.87980270385742,-40.88950729370117,1
+Joel has hugged himself.,Joel has hugged itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,626,-35.72827911376953,-37.274879455566406,1
+Sheila revealed herself.,Sheila revealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,627,-30.256816864013672,-30.61123275756836,1
+Suzanne hurt herself.,Suzanne hurt itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,628,-32.475929260253906,-33.57105255126953,1
+Dan talks about himself.,Dan talks about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,629,-20.59555435180664,-21.74245262145996,1
+Bethany was confusing herself.,Bethany was confusing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,630,-56.599754333496094,-56.320579528808594,0
+Guy was referencing himself.,Guy was referencing herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,631,-27.951171875,-29.553241729736328,1
+Julia isn't healing herself.,Julia isn't healing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,632,-39.773338317871094,-38.772544860839844,0
+Clyde might like himself.,Clyde might like itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,633,-55.74176025390625,-56.3697509765625,1
+Craig forgets himself.,Craig forgets itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,634,-27.725339889526367,-26.459758758544922,0
+Joseph won't admire himself.,Joseph won't admire itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,635,-29.151819229125977,-31.37920379638672,1
+Irene had described herself.,Irene had described itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,636,-36.82217788696289,-37.10701370239258,1
+Robert had fled from himself.,Robert had fled from itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,637,-32.79475402832031,-33.034637451171875,1
+Clyde hadn't noticed himself.,Clyde hadn't noticed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,638,-55.87596893310547,-57.49805450439453,1
+Martin hasn't visited himself.,Martin hasn't visited itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,639,-27.298370361328125,-29.714134216308594,1
+Ella criticized herself.,Ella criticized itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,640,-40.67472839355469,-39.26420593261719,0
+Barbara was watching herself.,Barbara was watching himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,641,-27.810836791992188,-26.903446197509766,0
+Kirsten has shocked herself.,Kirsten has shocked himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,642,-50.61632537841797,-50.04777526855469,0
+Ella insulted herself.,Ella insulted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,643,-39.72675323486328,-39.89647674560547,1
+Every actress shouldn't aggravate herself.,Every actress shouldn't aggravate himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,644,-45.664398193359375,-44.930702209472656,0
+Dennis observed himself.,Dennis observed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,645,-39.05693817138672,-39.8009033203125,1
+Aaron was discussing himself.,Aaron was discussing herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,646,-25.623699188232422,-27.488842010498047,1
+Holly hasn't sounded like herself.,Holly hasn't sounded like itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,647,-43.70712661743164,-44.051475524902344,1
+Pamela hasn't criticized herself.,Pamela hasn't criticized itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,648,-59.19662094116211,-59.36277389526367,1
+Tina irritated herself.,Tina irritated himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,649,-44.22462463378906,-43.87563705444336,0
+Donald references himself.,Donald references itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,650,-23.459945678710938,-22.802661895751953,0
+Connie wasn't hiring herself.,Connie wasn't hiring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,651,-35.02808380126953,-36.301666259765625,1
+Stacey admires herself.,Stacey admires himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,652,-52.537506103515625,-52.52508544921875,0
+Kristin should think about herself.,Kristin should think about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,653,-32.132896423339844,-31.44680404663086,0
+Scott returns to himself.,Scott returns to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,654,-19.54120635986328,-20.675094604492188,1
+Samantha was hugging herself.,Samantha was hugging himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,655,-47.604225158691406,-46.49885940551758,0
+Linda appreciated herself.,Linda appreciated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,656,-31.918445587158203,-30.709518432617188,0
+Holly fires herself.,Holly fires himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,657,-34.58589172363281,-33.72989273071289,0
+Samantha should reveal herself.,Samantha should reveal himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,658,-49.62397003173828,-48.476722717285156,0
+Sandra is referencing herself.,Sandra is referencing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,659,-43.71219253540039,-42.19279479980469,0
+Susan has scared herself.,Susan has scared himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,660,-27.27082633972168,-25.634891510009766,0
+Bill cured himself.,Bill cured herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,661,-22.7305908203125,-22.988059997558594,1
+Jill hadn't praised herself.,Jill hadn't praised itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,662,-51.118595123291016,-51.510101318359375,1
+Alice shouldn't know herself.,Alice shouldn't know himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,663,-27.22385025024414,-25.520362854003906,0
+Vincent does attack himself.,Vincent does attack itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,664,-42.07672882080078,-43.31464767456055,1
+Charles is confusing himself.,Charles is confusing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,665,-30.080158233642578,-29.192806243896484,0
+Bradley won't discover himself.,Bradley won't discover itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,666,-29.901477813720703,-31.061511993408203,1
+Becca has criticized herself.,Becca has criticized itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,667,-37.606605529785156,-35.87897491455078,0
+Denise might upset herself.,Denise might upset himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,668,-36.284454345703125,-35.38975524902344,0
+Laurie might help herself.,Laurie might help itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,669,-35.69200134277344,-37.22515869140625,1
+Naomi hasn't concealed herself.,Naomi hasn't concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,670,-45.179691314697266,-43.97335433959961,0
+Anne is helping herself.,Anne is helping himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,671,-25.7423152923584,-24.755428314208984,0
+Karla talked about herself.,Karla talked about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,672,-27.539783477783203,-27.649015426635742,1
+Catherine was curing herself.,Catherine was curing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,673,-41.629295349121094,-42.1772575378418,1
+William had admired himself.,William had admired herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,674,-30.487258911132812,-32.00013732910156,1
+Sabrina isn't escaping from herself.,Sabrina isn't escaping from itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,675,-43.55342102050781,-42.31855010986328,0
+Karla isn't finding herself.,Karla isn't finding himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,676,-36.06159973144531,-34.32439041137695,0
+Gerald had worried himself.,Gerald had worried herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,677,-43.59999465942383,-45.078948974609375,1
+A lady hasn't visited herself.,A lady hasn't visited himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,678,-43.014793395996094,-41.96759033203125,0
+Renee hadn't alarmed herself.,Renee hadn't alarmed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,679,-44.166629791259766,-43.628326416015625,0
+Sarah fires herself.,Sarah fires itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,680,-22.03443145751953,-22.401742935180664,1
+Sara hadn't fled from herself.,Sara hadn't fled from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,681,-48.56653594970703,-48.12226867675781,0
+Anne upset herself.,Anne upset himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,682,-21.329410552978516,-20.5530948638916,0
+Richard hadn't bored himself.,Richard hadn't bored herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,683,-31.887868881225586,-32.534828186035156,1
+Rachel watched herself.,Rachel watched itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,684,-18.468517303466797,-19.845247268676758,1
+Samuel describes himself.,Samuel describes herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,685,-23.76624298095703,-25.242965698242188,1
+Natalie is shocking herself.,Natalie is shocking itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,686,-45.16557312011719,-44.63575744628906,0
+Karen didn't see herself.,Karen didn't see itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,687,-39.13531494140625,-38.83600616455078,0
+Andrew did annoy himself.,Andrew did annoy itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,688,-28.38905906677246,-31.626062393188477,1
+Meredith was disgusting herself.,Meredith was disgusting himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,689,-43.71227264404297,-43.372276306152344,0
+Margaret won't heal herself.,Margaret won't heal himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,690,-30.920791625976562,-30.147167205810547,0
+Raymond hasn't referenced himself.,Raymond hasn't referenced herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,691,-39.85968017578125,-41.302059173583984,1
+Lawrence disturbed himself.,Lawrence disturbed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,692,-29.226123809814453,-29.383644104003906,1
+Clyde stunned himself.,Clyde stunned herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,693,-54.241966247558594,-54.175106048583984,0
+Kevin hadn't concealed himself.,Kevin hadn't concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,694,-34.52803039550781,-34.15187072753906,0
+Veronica isn't attacking herself.,Veronica isn't attacking itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,695,-37.86468505859375,-38.84678649902344,1
+Larry discovered himself.,Larry discovered itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,696,-18.25885772705078,-20.078258514404297,1
+Natalie hadn't impressed herself.,Natalie hadn't impressed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,697,-46.57422637939453,-45.50675582885742,0
+Leslie hated herself.,Leslie hated himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,698,-31.140907287597656,-29.99093246459961,0
+Andrea isn't kissing herself.,Andrea isn't kissing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,699,-39.86154556274414,-39.01223373413086,0
+Carrie noticed herself.,Carrie noticed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,700,-29.705459594726562,-28.434734344482422,0
+Beth has concealed herself.,Beth has concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,701,-55.339599609375,-52.71302032470703,0
+Colleen was concealing herself.,Colleen was concealing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,702,-46.908531188964844,-48.426856994628906,1
+Nicole had annoyed herself.,Nicole had annoyed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,703,-38.08051300048828,-38.36531448364258,1
+Charles isn't thinking about himself.,Charles isn't thinking about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,704,-25.292898178100586,-26.568435668945312,1
+Some lady isn't bothering herself.,Some lady isn't bothering himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,705,-37.19190979003906,-36.14128112792969,0
+Douglas wouldn't confuse himself.,Douglas wouldn't confuse itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,706,-36.16001510620117,-37.750274658203125,1
+Ann can shock herself.,Ann can shock himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,707,-32.79413986206055,-32.17995071411133,0
+Noah knows himself.,Noah knows herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,708,-33.33586120605469,-34.894752502441406,1
+Eva heals herself.,Eva heals itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,709,-23.897842407226562,-22.786500930786133,0
+Theodore wasn't revealing himself.,Theodore wasn't revealing herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,710,-43.02832794189453,-44.10261917114258,1
+Donna hasn't observed herself.,Donna hasn't observed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,711,-40.90679931640625,-41.48362731933594,1
+Vincent will alarm himself.,Vincent will alarm herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,712,-41.2884521484375,-41.60399627685547,1
+Connie has returned to herself.,Connie has returned to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,713,-32.40900421142578,-33.16664505004883,1
+Amanda insults herself.,Amanda insults himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,714,-37.07177734375,-36.790000915527344,0
+Eva was disturbing herself.,Eva was disturbing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,715,-24.75887107849121,-26.520706176757812,1
+Tamara has found herself.,Tamara has found himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,716,-29.108760833740234,-27.82681655883789,0
+Todd isn't talking to himself.,Todd isn't talking to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,717,-22.44830322265625,-25.293935775756836,1
+Elizabeth shouldn't argue about herself.,Elizabeth shouldn't argue about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,718,-29.15658950805664,-28.089210510253906,0
+Kevin hasn't found himself.,Kevin hasn't found itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,719,-23.566917419433594,-26.713207244873047,1
+That lady praises herself.,That lady praises himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,720,-33.507354736328125,-32.188499450683594,0
+Donna is scaring herself.,Donna is scaring himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,721,-38.2266845703125,-37.471038818359375,0
+That guy hasn't respected himself.,That guy hasn't respected itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,722,-32.979515075683594,-35.181156158447266,1
+Russell isn't confusing himself.,Russell isn't confusing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,723,-29.190731048583984,-30.048404693603516,1
+Dan would love himself.,Dan would love herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,724,-22.73131561279297,-23.682830810546875,1
+Mitchell flees from himself.,Mitchell flees from itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,725,-43.48139953613281,-42.60169982910156,0
+Ronald wasn't curing himself.,Ronald wasn't curing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,726,-45.31843185424805,-45.4012336730957,1
+Florence upset herself.,Florence upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,727,-33.64108657836914,-32.85879135131836,0
+Irene is disgusting herself.,Irene is disgusting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,728,-39.205909729003906,-38.93059158325195,0
+Julia hugs herself.,Julia hugs itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,729,-34.21668243408203,-32.81981658935547,0
+Regina isn't visiting herself.,Regina isn't visiting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,730,-36.555545806884766,-37.550289154052734,1
+Lisa cured herself.,Lisa cured himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,731,-21.419876098632812,-20.729829788208008,0
+Laura would respect herself.,Laura would respect himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,732,-28.47353744506836,-27.088130950927734,0
+Noah hasn't fired himself.,Noah hasn't fired herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,733,-39.40915298461914,-40.113525390625,1
+Renee was referencing herself.,Renee was referencing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,734,-40.5466423034668,-39.39099884033203,0
+Rachelle isn't finding herself.,Rachelle isn't finding itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,735,-35.540687561035156,-36.69589614868164,1
+Wayne conceals himself.,Wayne conceals herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,736,-42.890594482421875,-43.17779541015625,1
+Phillip isn't confusing himself.,Phillip isn't confusing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,737,-38.68928146362305,-38.3576545715332,0
+Melinda found herself.,Melinda found himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,738,-29.9943904876709,-28.579591751098633,0
+Tiffany hasn't discovered herself.,Tiffany hasn't discovered himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,739,-53.8458251953125,-52.348419189453125,0
+Roger wouldn't astound himself.,Roger wouldn't astound itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,740,-36.49815368652344,-37.72958755493164,1
+Carlos forgot himself.,Carlos forgot itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,741,-29.518878936767578,-28.994653701782227,0
+Helen referenced herself.,Helen referenced himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,742,-28.956134796142578,-28.39124298095703,0
+Deanna is irritating herself.,Deanna is irritating himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,743,-39.820831298828125,-39.83378219604492,1
+Deborah should flee from herself.,Deborah should flee from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,744,-43.52581024169922,-43.24726486206055,0
+Nicole is curing herself.,Nicole is curing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,745,-31.9431095123291,-30.167675018310547,0
+Holly hasn't appreciated herself.,Holly hasn't appreciated himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,746,-40.1400146484375,-39.27191925048828,0
+Todd hasn't forgotten himself.,Todd hasn't forgotten itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,747,-25.32347869873047,-26.909454345703125,1
+Carolyn irritated herself.,Carolyn irritated himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,748,-33.010711669921875,-32.34845733642578,0
+Kristin can't love herself.,Kristin can't love himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,749,-30.113719940185547,-29.318424224853516,0
+Steven has disturbed himself.,Steven has disturbed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,750,-26.74296760559082,-28.11576271057129,1
+Julia had upset herself.,Julia had upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,751,-36.758968353271484,-35.18730163574219,0
+Aaron wasn't hurting himself.,Aaron wasn't hurting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,752,-25.808856964111328,-28.546655654907227,1
+Every girl watched herself.,Every girl watched itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,753,-27.173391342163086,-28.536544799804688,1
+Liam worked with himself.,Liam worked with itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,754,-30.474506378173828,-33.37297058105469,1
+Janet wasn't questioning herself.,Janet wasn't questioning himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,755,-37.47699737548828,-36.325439453125,0
+Jason should listen to himself.,Jason should listen to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,756,-24.101808547973633,-25.513504028320312,1
+Anne left herself.,Anne left itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,757,-18.17954444885254,-18.238998413085938,1
+Stephanie is returning to herself.,Stephanie is returning to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,758,-34.83649444580078,-35.7701301574707,1
+Rachel had argued about herself.,Rachel had argued about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,759,-30.196807861328125,-29.248104095458984,0
+Roger could annoy himself.,Roger could annoy itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,760,-27.876943588256836,-30.38872718811035,1
+Sandra was distracting herself.,Sandra was distracting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,761,-39.920074462890625,-42.053375244140625,1
+Leslie isn't disturbing herself.,Leslie isn't disturbing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,762,-37.97053909301758,-39.0411262512207,1
+Andrea did stun herself.,Andrea did stun itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,763,-42.87103271484375,-42.58635711669922,0
+Aaron remembered himself.,Aaron remembered herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,764,-22.9129638671875,-23.632877349853516,1
+Angela is irritating herself.,Angela is irritating itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,765,-32.20508575439453,-32.204830169677734,0
+Alan kisses himself.,Alan kisses herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,766,-22.257299423217773,-23.02977752685547,1
+Rebecca observes herself.,Rebecca observes itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,767,-30.804933547973633,-29.773488998413086,0
+Maria admired herself.,Maria admired himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,768,-21.912128448486328,-21.12351417541504,0
+Joel finds himself.,Joel finds herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,769,-24.823715209960938,-26.622936248779297,1
+Joel did hire himself.,Joel did hire herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,770,-35.23027038574219,-35.764549255371094,1
+Andrea is concealing herself.,Andrea is concealing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,771,-48.92979049682617,-48.54570770263672,0
+Allison isn't leaving herself.,Allison isn't leaving himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,772,-36.296512603759766,-35.15542221069336,0
+Patricia conceals herself.,Patricia conceals itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,773,-42.482479095458984,-40.540470123291016,0
+Stephen could dislike himself.,Stephen could dislike herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,774,-29.85234832763672,-31.3437557220459,1
+Julie has praised herself.,Julie has praised itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,775,-32.78618621826172,-33.22813034057617,1
+Gary talked about himself.,Gary talked about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,776,-19.890735626220703,-21.46798324584961,1
+Martha was shocking herself.,Martha was shocking himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,777,-34.812522888183594,-34.078338623046875,0
+That man hasn't found himself.,That man hasn't found itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,778,-29.84357452392578,-32.296607971191406,1
+Alice is distracting herself.,Alice is distracting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,779,-28.995319366455078,-29.50543975830078,1
+Some woman could insult herself.,Some woman could insult itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,780,-34.95648193359375,-36.14090347290039,1
+Caroline boasts about herself.,Caroline boasts about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,781,-38.792869567871094,-38.77767562866211,0
+Russell won't forget himself.,Russell won't forget itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,782,-26.248106002807617,-26.128934860229492,0
+Theodore wouldn't return to himself.,Theodore wouldn't return to herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,783,-38.44131851196289,-38.94268035888672,1
+Laura wasn't annoying herself.,Laura wasn't annoying itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,784,-29.528467178344727,-31.98278045654297,1
+Pamela is insulting herself.,Pamela is insulting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,785,-57.096954345703125,-58.813507080078125,1
+Holly hadn't worried herself.,Holly hadn't worried itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,786,-44.952720642089844,-44.196678161621094,0
+Christopher upset himself.,Christopher upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,787,-20.410602569580078,-20.320030212402344,0
+Diana couldn't bother herself.,Diana couldn't bother itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,788,-42.001792907714844,-43.78539276123047,1
+Brian can't notice himself.,Brian can't notice itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,789,-24.855995178222656,-26.420772552490234,1
+Lucille embarrassed herself.,Lucille embarrassed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,790,-31.589139938354492,-29.861080169677734,0
+Naomi had found herself.,Naomi had found himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,791,-33.810577392578125,-32.313987731933594,0
+Stephanie listens to herself.,Stephanie listens to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,792,-30.343990325927734,-33.30768585205078,1
+Karen sees herself.,Karen sees himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,793,-36.46152877807617,-35.17047882080078,0
+Joel isn't hurting himself.,Joel isn't hurting herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,794,-31.700942993164062,-32.533599853515625,1
+Sarah discusses herself.,Sarah discusses himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,795,-20.73338508605957,-19.706321716308594,0
+Amanda could praise herself.,Amanda could praise himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,796,-39.09281921386719,-38.461483001708984,0
+Tara helped herself.,Tara helped himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,797,-37.50288009643555,-36.38402557373047,0
+Samuel had hated himself.,Samuel had hated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,798,-29.832889556884766,-33.04133987426758,1
+Joel respected himself.,Joel respected itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,799,-29.49854278564453,-28.507587432861328,0
+Ruth confused herself.,Ruth confused itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,800,-39.287689208984375,-38.05120086669922,0
+The dancer questioned herself.,The dancer questioned himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,801,-34.62653350830078,-33.574012756347656,0
+Ronald had admired himself.,Ronald had admired herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,802,-42.23365020751953,-42.88792419433594,1
+Jill hasn't confused herself.,Jill hasn't confused itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,803,-52.105281829833984,-52.128421783447266,1
+Tamara appreciates herself.,Tamara appreciates itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,804,-34.40692138671875,-34.20976257324219,0
+Teresa wouldn't return to herself.,Teresa wouldn't return to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,805,-38.259864807128906,-38.32676315307617,1
+Cynthia won't hug herself.,Cynthia won't hug itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,806,-60.34503936767578,-61.63440704345703,1
+Tonya wasn't investigating herself.,Tonya wasn't investigating himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,807,-35.929656982421875,-34.742835998535156,0
+Jill wasn't praising herself.,Jill wasn't praising itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,808,-55.139400482177734,-55.05032730102539,0
+Jane had remembered herself.,Jane had remembered himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,809,-29.198802947998047,-27.262630462646484,0
+Judy wasn't hurting herself.,Judy wasn't hurting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,810,-31.318222045898438,-33.46385192871094,1
+Jeffrey visited himself.,Jeffrey visited herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,811,-25.159339904785156,-26.12139129638672,1
+Jodi had scared herself.,Jodi had scared itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,812,-47.72322082519531,-45.696067810058594,0
+Florence would bore herself.,Florence would bore itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,813,-39.76209259033203,-41.763343811035156,1
+Amy observed herself.,Amy observed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,814,-22.073822021484375,-21.722373962402344,0
+Walter liked himself.,Walter liked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,815,-25.281288146972656,-25.763046264648438,1
+Lori alarmed herself.,Lori alarmed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,816,-37.15228271484375,-35.35444259643555,0
+Charles would appreciate himself.,Charles would appreciate herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,817,-27.700210571289062,-29.341455459594727,1
+Brett isn't alarming himself.,Brett isn't alarming itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,818,-58.13873291015625,-57.65070343017578,0
+Suzanne wasn't concealing herself.,Suzanne wasn't concealing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,819,-55.796871185302734,-55.47437286376953,0
+Rebecca discovers herself.,Rebecca discovers himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,820,-28.406307220458984,-27.298389434814453,0
+Elaine talked to herself.,Elaine talked to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,821,-32.05913543701172,-32.226646423339844,1
+Phillip has hired himself.,Phillip has hired itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,822,-35.126739501953125,-35.39012908935547,1
+Andrew is revealing himself.,Andrew is revealing herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,823,-29.199275970458984,-30.219959259033203,1
+Laura has concealed herself.,Laura has concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,824,-31.79207992553711,-30.324138641357422,0
+A hospital shouldn't dislike itself.,A hospital shouldn't dislike herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,825,-49.068389892578125,-49.34480285644531,1
+George wouldn't alarm himself.,George wouldn't alarm itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,826,-28.924509048461914,-31.414674758911133,1
+Carolyn worked with herself.,Carolyn worked with itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,827,-31.708763122558594,-31.948760986328125,1
+Leslie aggravated herself.,Leslie aggravated itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,828,-37.2061882019043,-36.210975646972656,0
+Angela had disliked herself.,Angela had disliked himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,829,-33.05171585083008,-31.972286224365234,0
+Teresa had hugged herself.,Teresa had hugged itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,830,-40.052345275878906,-41.683441162109375,1
+Theresa shouldn't disgust herself.,Theresa shouldn't disgust himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,831,-46.03774642944336,-45.53948211669922,0
+Julia referenced herself.,Julia referenced itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,832,-33.49871063232422,-31.809703826904297,0
+Ruth knew herself.,Ruth knew himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,833,-37.38178634643555,-36.22089385986328,0
+Stephanie hadn't loved herself.,Stephanie hadn't loved itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,834,-38.29210662841797,-39.71628189086914,1
+Karla should confuse herself.,Karla should confuse himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,835,-35.92679214477539,-34.917945861816406,0
+This library didn't respect itself.,This library didn't respect herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,836,-36.67693328857422,-37.61393737792969,1
+Rose could kiss herself.,Rose could kiss himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,837,-27.19024085998535,-25.776039123535156,0
+Tara knows herself.,Tara knows itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,838,-39.056739807128906,-36.9896240234375,0
+Robert should hate himself.,Robert should hate itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,839,-29.929283142089844,-30.878623962402344,1
+Brad forgot himself.,Brad forgot herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,840,-23.471982955932617,-24.4815673828125,1
+Carolyn complained about herself.,Carolyn complained about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,841,-35.640174865722656,-34.909385681152344,0
+The essay hadn't sounded like itself.,The essay hadn't sounded like himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,842,-46.15150833129883,-46.503692626953125,1
+Aaron hadn't hugged himself.,Aaron hadn't hugged herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,843,-34.02333450317383,-34.42025375366211,1
+Guy has annoyed himself.,Guy has annoyed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,844,-28.13804817199707,-30.35486602783203,1
+Amanda had questioned herself.,Amanda had questioned itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,845,-37.71197509765625,-37.89396286010742,1
+Paula isn't disturbing herself.,Paula isn't disturbing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,846,-35.234432220458984,-34.303955078125,0
+Rhonda scares herself.,Rhonda scares itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,847,-31.76024627685547,-32.72511291503906,1
+Stacey had talked about herself.,Stacey had talked about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,848,-43.82452392578125,-43.2034912109375,0
+Bruce escaped from himself.,Bruce escaped from itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,849,-23.82193946838379,-23.548240661621094,0
+Christopher was disturbing himself.,Christopher was disturbing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,850,-24.95446014404297,-28.37979507446289,1
+Carol insults herself.,Carol insults itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,851,-32.82897186279297,-30.94365692138672,0
+Barbara isn't escaping from herself.,Barbara isn't escaping from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,852,-43.716552734375,-43.23736572265625,0
+Candice conceals herself.,Candice conceals himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,853,-41.13457489013672,-40.982261657714844,0
+Holly disagrees with herself.,Holly disagrees with itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,854,-43.15824890136719,-44.73539733886719,1
+Samantha hasn't known herself.,Samantha hasn't known himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,855,-51.30888748168945,-50.44257736206055,0
+Nicole won't praise herself.,Nicole won't praise itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,856,-36.18586730957031,-35.77897262573242,0
+Lissa concealed herself.,Lissa concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,857,-35.33269500732422,-33.9188117980957,0
+Karen does visit herself.,Karen does visit itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,858,-46.22317123413086,-46.007476806640625,0
+Tara isn't admiring herself.,Tara isn't admiring itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,859,-61.66023254394531,-59.964683532714844,0
+Debra has concealed herself.,Debra has concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,860,-36.82261657714844,-34.919708251953125,0
+Brad had hidden himself.,Brad had hidden herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,861,-27.087541580200195,-28.5086669921875,1
+Bruce will hug himself.,Bruce will hug itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,862,-25.7698974609375,-28.182140350341797,1
+John disliked himself.,John disliked itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,863,-21.597185134887695,-22.10774803161621,1
+Denise did see herself.,Denise did see itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,864,-33.26342010498047,-32.25846862792969,0
+Emily hasn't astounded herself.,Emily hasn't astounded himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,865,-37.78108215332031,-37.043853759765625,0
+Peter reveals himself.,Peter reveals itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,866,-20.318370819091797,-21.538726806640625,1
+Every dancer appreciates herself.,Every dancer appreciates himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,867,-38.97381591796875,-38.34977340698242,0
+Angela isn't arguing about herself.,Angela isn't arguing about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,868,-35.545677185058594,-34.44901657104492,0
+Sherry hasn't talked to herself.,Sherry hasn't talked to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,869,-41.543067932128906,-42.31034851074219,1
+Susan hadn't approached herself.,Susan hadn't approached himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,870,-29.287784576416016,-28.25204849243164,0
+Christopher hasn't distracted himself.,Christopher hasn't distracted herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,871,-31.552446365356445,-32.26593017578125,1
+Nina had questioned herself.,Nina had questioned itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,872,-43.10504913330078,-43.28626251220703,1
+Theresa couldn't flee from herself.,Theresa couldn't flee from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,873,-46.62653350830078,-46.06060028076172,0
+Florence criticizes herself.,Florence criticizes himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,874,-45.027587890625,-44.484352111816406,0
+Guy questions himself.,Guy questions itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,875,-24.1147518157959,-23.474821090698242,0
+David has fired himself.,David has fired herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,876,-24.342676162719727,-25.407794952392578,1
+Sabrina helps herself.,Sabrina helps itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,877,-27.920209884643555,-27.32155990600586,0
+Dana kissed herself.,Dana kissed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,878,-34.83042907714844,-36.47185516357422,1
+Florence shouldn't talk about herself.,Florence shouldn't talk about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,879,-39.589942932128906,-39.72848129272461,1
+Deborah would know herself.,Deborah would know itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,880,-34.997703552246094,-33.92474365234375,0
+Bradley did talk to himself.,Bradley did talk to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,881,-31.744598388671875,-34.19769287109375,1
+Anna hadn't fled from herself.,Anna hadn't fled from itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,882,-34.851627349853516,-34.46319580078125,0
+Christopher criticizes himself.,Christopher criticizes herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,883,-31.55348777770996,-32.605690002441406,1
+Timothy might boast about himself.,Timothy might boast about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,884,-45.93675994873047,-46.33863067626953,1
+Joel should stun himself.,Joel should stun herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,885,-38.909420013427734,-39.13532257080078,1
+Tammy is hiding herself.,Tammy is hiding itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,886,-30.701311111450195,-31.370840072631836,1
+Raymond had fled from himself.,Raymond had fled from herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,887,-39.734371185302734,-40.55591583251953,1
+Bruce cures himself.,Bruce cures herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,888,-23.9833984375,-24.546646118164062,1
+Sabrina has approached herself.,Sabrina has approached itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,889,-32.409664154052734,-32.55262756347656,1
+Debra criticized herself.,Debra criticized itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,890,-29.25469970703125,-28.12688446044922,0
+Jacqueline has watched herself.,Jacqueline has watched itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,891,-37.67118835449219,-38.70616912841797,1
+Paul has argued about himself.,Paul has argued about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,892,-29.490955352783203,-30.337316513061523,1
+Leslie won't complain about herself.,Leslie won't complain about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,893,-40.56330108642578,-39.59349822998047,0
+Carla should think about herself.,Carla should think about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,894,-32.46806335449219,-32.0671272277832,0
+Anne hasn't respected herself.,Anne hasn't respected itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,895,-29.529815673828125,-30.334604263305664,1
+Amanda hasn't shocked herself.,Amanda hasn't shocked himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,896,-44.45515823364258,-43.70326232910156,0
+Tonya has argued about herself.,Tonya has argued about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,897,-37.188804626464844,-36.3933219909668,0
+Valerie wasn't approaching herself.,Valerie wasn't approaching himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,898,-41.34333038330078,-40.7664794921875,0
+Sabrina remembers herself.,Sabrina remembers himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,899,-27.8704833984375,-26.422805786132812,0
+A bank has described itself.,A bank has described himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,900,-47.15776824951172,-47.528133392333984,1
+Brian hadn't worried himself.,Brian hadn't worried herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,901,-32.94612121582031,-34.47218322753906,1
+Regina isn't confusing herself.,Regina isn't confusing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,902,-39.367313385009766,-39.5026741027832,1
+Thomas worked with himself.,Thomas worked with herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,903,-20.166770935058594,-22.09991455078125,1
+Steven references himself.,Steven references itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,904,-22.792688369750977,-22.388137817382812,0
+Becca had upset herself.,Becca had upset himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,905,-40.43454360961914,-39.0760612487793,0
+Valerie isn't disgusting herself.,Valerie isn't disgusting himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,906,-43.2575569152832,-42.81654739379883,0
+Becky wasn't healing herself.,Becky wasn't healing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,907,-32.850345611572266,-32.22038650512695,0
+Craig hasn't concealed himself.,Craig hasn't concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,908,-34.000709533691406,-33.434814453125,0
+Charles has referenced himself.,Charles has referenced herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,909,-29.681989669799805,-31.093952178955078,1
+Veronica has cared for herself.,Veronica has cared for itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,910,-34.053810119628906,-34.924827575683594,1
+George was hurting himself.,George was hurting herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,911,-22.21678352355957,-23.586532592773438,1
+Some government scares itself.,Some government scares herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,912,-29.144384384155273,-28.932479858398438,0
+Martin admires himself.,Martin admires herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,913,-30.73263931274414,-31.674184799194336,1
+Beverly shouldn't care for herself.,Beverly shouldn't care for itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,914,-53.631385803222656,-53.83665466308594,1
+Patricia scared herself.,Patricia scared himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,915,-30.57451057434082,-29.456417083740234,0
+Deanna was discovering herself.,Deanna was discovering himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,916,-36.60962677001953,-36.039154052734375,0
+Kimberley listened to herself.,Kimberley listened to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,917,-33.16960906982422,-35.57909393310547,1
+Rose visited herself.,Rose visited itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,918,-19.702112197875977,-20.359891891479492,1
+Florence hasn't talked about herself.,Florence hasn't talked about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,919,-39.11582946777344,-37.58720397949219,0
+Spain didn't impress itself.,Spain didn't impress himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,920,-29.160778045654297,-28.01925277709961,0
+Wayne does hire himself.,Wayne does hire itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,921,-37.885345458984375,-39.63777542114258,1
+Kayla approaches herself.,Kayla approaches itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,922,-29.679346084594727,-28.44317054748535,0
+Judy can't describe herself.,Judy can't describe itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,923,-30.320528030395508,-29.646900177001953,0
+Tina didn't talk about herself.,Tina didn't talk about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,924,-42.66244888305664,-41.62966537475586,0
+Carrie upset herself.,Carrie upset itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,925,-30.97754669189453,-28.830978393554688,0
+Christopher hadn't concealed himself.,Christopher hadn't concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,926,-35.11494064331055,-34.20206069946289,0
+Kevin left himself.,Kevin left itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,927,-15.607861518859863,-17.94851303100586,1
+Travis complained about himself.,Travis complained about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,928,-47.74896240234375,-48.44925308227539,1
+Alice had astounded herself.,Alice had astounded himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,929,-34.471229553222656,-33.90980529785156,0
+Natalie might reveal herself.,Natalie might reveal itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,930,-44.519317626953125,-44.97671127319336,1
+Renee had confused herself.,Renee had confused himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,931,-38.48761749267578,-37.512821197509766,0
+Tanya couldn't conceal herself.,Tanya couldn't conceal himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,932,-48.9831428527832,-48.428897857666016,0
+George sounded like himself.,George sounded like itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,933,-23.087238311767578,-24.444549560546875,1
+Ronald healed himself.,Ronald healed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,934,-37.81368637084961,-36.87125778198242,0
+Tonya did think about herself.,Tonya did think about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,935,-35.531166076660156,-34.62791442871094,0
+Richard works with himself.,Richard works with itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,936,-19.576553344726562,-22.2032470703125,1
+Walter hadn't described himself.,Walter hadn't described itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,937,-33.918853759765625,-35.21110534667969,1
+Amanda hasn't respected herself.,Amanda hasn't respected himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,938,-41.94220733642578,-41.194000244140625,0
+Caroline didn't like herself.,Caroline didn't like itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,939,-29.64959144592285,-29.54994773864746,0
+Sherry hasn't concealed herself.,Sherry hasn't concealed himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,940,-51.16021728515625,-50.79462432861328,0
+Tara was impressing herself.,Tara was impressing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,941,-50.17146301269531,-49.8047981262207,0
+Dawn hadn't talked to herself.,Dawn hadn't talked to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,942,-44.01545715332031,-44.85240173339844,1
+Marie wouldn't irritate herself.,Marie wouldn't irritate himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,943,-35.797813415527344,-35.1397705078125,0
+Martin has hired himself.,Martin has hired herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,944,-23.693683624267578,-25.01567268371582,1
+Jeffrey should care for himself.,Jeffrey should care for herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,945,-33.64263916015625,-34.28030776977539,1
+Christopher observed himself.,Christopher observed herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,946,-22.06185531616211,-22.251052856445312,1
+Michelle shouldn't investigate herself.,Michelle shouldn't investigate himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,947,-29.46932601928711,-28.050085067749023,0
+Amy isn't admiring herself.,Amy isn't admiring himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,948,-42.813209533691406,-42.12841796875,0
+Stacy won't heal herself.,Stacy won't heal himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,949,-41.68815612792969,-41.18003845214844,0
+Emily thinks about herself.,Emily thinks about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,950,-22.445613861083984,-21.18995475769043,0
+Carmen reveals herself.,Carmen reveals himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,951,-46.434486389160156,-46.141937255859375,0
+Keith was appreciating himself.,Keith was appreciating itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,952,-28.82485580444336,-30.77120590209961,1
+Bethany would listen to herself.,Bethany would listen to itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,953,-49.56222152709961,-50.24691390991211,1
+Jerry is talking about himself.,Jerry is talking about herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,954,-19.63095474243164,-20.56920623779297,1
+Craig will conceal himself.,Craig will conceal itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,955,-27.498044967651367,-27.92214584350586,1
+Cindy watches herself.,Cindy watches itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,956,-41.190948486328125,-40.82311248779297,0
+Paula might describe herself.,Paula might describe itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,957,-36.27082824707031,-36.53324508666992,1
+Colleen wasn't visiting herself.,Colleen wasn't visiting itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,958,-35.50586700439453,-37.175987243652344,1
+Robert knew himself.,Robert knew herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,959,-20.74630355834961,-22.15711784362793,1
+Dawn hadn't noticed herself.,Dawn hadn't noticed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,960,-44.63642120361328,-44.939273834228516,1
+Vanessa found herself.,Vanessa found itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,961,-27.553802490234375,-27.45302963256836,0
+Rachelle finds herself.,Rachelle finds himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,962,-27.796871185302734,-25.990108489990234,0
+Jennifer was kissing herself.,Jennifer was kissing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,963,-25.55135154724121,-24.418434143066406,0
+Stephanie wasn't arguing about herself.,Stephanie wasn't arguing about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,964,-41.888282775878906,-42.39846420288086,1
+John questioned himself.,John questioned itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,965,-19.638484954833984,-20.767471313476562,1
+Sara hasn't sounded like herself.,Sara hasn't sounded like itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,966,-46.56266784667969,-45.79853439331055,0
+Carolyn cares for herself.,Carolyn cares for itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,967,-35.2598762512207,-35.390289306640625,1
+Brett has revealed himself.,Brett has revealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,968,-53.01397705078125,-51.9559211730957,0
+That boy might describe himself.,That boy might describe herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,969,-33.88456726074219,-35.446659088134766,1
+Every dancer had disliked herself.,Every dancer had disliked himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,970,-39.95068359375,-39.150108337402344,0
+Paula couldn't approach herself.,Paula couldn't approach himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,971,-35.42399597167969,-34.90755844116211,0
+Stephanie could flee from herself.,Stephanie could flee from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,972,-44.48326873779297,-43.96501159667969,0
+Vincent saw himself.,Vincent saw herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,973,-33.046329498291016,-34.93830871582031,1
+Tina knows herself.,Tina knows itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,974,-41.999420166015625,-39.6485595703125,0
+Derek remembers himself.,Derek remembers itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,975,-37.93708038330078,-39.130550384521484,1
+Rachelle praises herself.,Rachelle praises itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,976,-31.309593200683594,-31.534259796142578,1
+Kendra flees from herself.,Kendra flees from himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,977,-55.70747375488281,-55.256317138671875,0
+Heather did argue about herself.,Heather did argue about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,978,-39.74580001831055,-38.43693923950195,0
+Katherine visits herself.,Katherine visits himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,979,-39.37253189086914,-38.558135986328125,0
+Scott thinks about himself.,Scott thinks about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,980,-22.250642776489258,-23.383052825927734,1
+Caroline remembered herself.,Caroline remembered himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,981,-31.42091941833496,-29.975067138671875,0
+Kenneth admires himself.,Kenneth admires herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,982,-40.308502197265625,-40.658477783203125,1
+Stephanie wouldn't dislike herself.,Stephanie wouldn't dislike itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,983,-39.236358642578125,-39.850765228271484,1
+Stephen had worried himself.,Stephen had worried herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,984,-31.323280334472656,-33.20153045654297,1
+Ruth concealed herself.,Ruth concealed itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,985,-42.974613189697266,-40.03678894042969,0
+Harvard University was scaring itself.,Harvard University was scaring himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,986,-52.81816864013672,-52.138614654541016,0
+Raymond hugged himself.,Raymond hugged herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,987,-29.52295684814453,-30.540294647216797,1
+Holly is annoying herself.,Holly is annoying itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,988,-37.99458694458008,-39.371559143066406,1
+Some bank likes itself.,Some bank likes himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,989,-31.883705139160156,-33.166656494140625,1
+Carlos should embarrass himself.,Carlos should embarrass itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,990,-33.45550537109375,-35.476524353027344,1
+Sabrina isn't discussing herself.,Sabrina isn't discussing himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,991,-38.320945739746094,-36.98979187011719,0
+Rebecca appreciated herself.,Rebecca appreciated himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,992,-28.32759666442871,-27.986587524414062,0
+Kevin was alarming himself.,Kevin was alarming itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,993,-30.879316329956055,-32.64955139160156,1
+Derek hadn't disgusted himself.,Derek hadn't disgusted itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,994,-52.98811340332031,-54.266571044921875,1
+Carlos complained about himself.,Carlos complained about itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,995,-31.230588912963867,-31.64124870300293,1
+Benjamin is firing himself.,Benjamin is firing itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,996,-37.2321891784668,-35.90565490722656,0
+Chad kisses himself.,Chad kisses herself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,997,-39.04682540893555,-40.3548583984375,1
+Paula was arguing about herself.,Paula was arguing about himself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,998,-31.75753402709961,-30.702354431152344,0
+Colleen should question herself.,Colleen should question itself.,morphology,anaphor_agreement,anaphor_gender_agreement,True,True,False,False,999,-37.17375946044922,-37.6363525390625,1

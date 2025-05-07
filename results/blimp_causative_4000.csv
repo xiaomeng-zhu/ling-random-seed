@@ -1,0 +1,1001 @@
+sentence_good,sentence_bad,field,linguistics_term,UID,simple_LM_method,one_prefix_method,two_prefix_method,lexically_identical,pair_id,good_prob,bad_prob,correct
+Aaron breaks the glass.,Aaron appeared the glass.,syntax,argument_structure,causative,True,False,False,False,0,-23.474546432495117,-25.101764678955078,1
+April had dropped the truck.,April had existed the truck.,syntax,argument_structure,causative,True,False,False,False,1,-27.710786819458008,-32.36847686767578,1
+All actors train Tonya's brothers.,All actors appeared Tonya's brothers.,syntax,argument_structure,causative,True,False,False,False,2,-56.259098052978516,-58.40673828125,1
+Raymond was stretching that shirt.,Raymond was vanishing that shirt.,syntax,argument_structure,causative,True,False,False,False,3,-39.80086135864258,-47.57604217529297,1
+Benjamin would wrinkle every scarf.,Benjamin would fall every scarf.,syntax,argument_structure,causative,True,False,False,False,4,-54.67159652709961,-45.056968688964844,0
+Most students hide away sisters of Gerald.,Most students wept sisters of Gerald.,syntax,argument_structure,causative,True,False,False,False,5,-59.990142822265625,-57.754268646240234,0
+Michael had wrinkled many blouses.,Michael had existed many blouses.,syntax,argument_structure,causative,True,False,False,False,6,-48.989479064941406,-45.82317352294922,0
+Phillip isn't hiding away Monica.,Phillip isn't departing Monica.,syntax,argument_structure,causative,True,False,False,False,7,-49.21440887451172,-45.93482208251953,0
+Alan twirls that dress.,Alan existed that dress.,syntax,argument_structure,causative,True,False,False,False,8,-46.02783966064453,-30.14327621459961,0
+Dawn had condensed ice.,Dawn had existed ice.,syntax,argument_structure,causative,True,False,False,False,9,-53.30318832397461,-51.42497253417969,0
+Most guys hide away David's friends.,Most guys divorced David's friends.,syntax,argument_structure,causative,True,False,False,False,10,-46.59988784790039,-40.927101135253906,0
+Rodney was moving Victoria.,Rodney was sighing Victoria.,syntax,argument_structure,causative,True,False,False,False,11,-33.612831115722656,-38.644073486328125,1
+Kimberley had slowed every skateboard.,Kimberley had rusted every skateboard.,syntax,argument_structure,causative,True,False,False,False,12,-59.1702995300293,-61.32823944091797,1
+All doctors fray gloves.,All doctors waste away gloves.,syntax,argument_structure,causative,True,False,False,False,13,-39.17444610595703,-42.628257751464844,1
+Winston Churchill hasn't rolled most trucks.,Winston Churchill hasn't wasted away most trucks.,syntax,argument_structure,causative,True,False,False,False,14,-63.452518463134766,-70.60317993164062,1
+Kevin dropped some chair.,Kevin existed some chair.,syntax,argument_structure,causative,True,False,False,False,15,-29.023195266723633,-32.72344970703125,1
+The Borgias crash a lot of unicycles.,The Borgias existed a lot of unicycles.,syntax,argument_structure,causative,True,False,False,False,16,-78.20467376708984,-75.72957611083984,0
+Many customers trains Bethany.,Many customers cheered Bethany.,syntax,argument_structure,causative,True,False,False,False,17,-51.3602180480957,-52.73495101928711,1
+Katherine grew some apples.,Katherine went bad some apples.,syntax,argument_structure,causative,True,False,False,False,18,-43.22896957397461,-50.44589614868164,1
+Waiters wake up Beverly's dentists.,Waiters clashed Beverly's dentists.,syntax,argument_structure,causative,True,False,False,False,19,-64.75591278076172,-68.30231475830078,1
+Curtis dropped some dishes.,Curtis wasted away some dishes.,syntax,argument_structure,causative,True,False,False,False,20,-43.98760986328125,-56.18348693847656,1
+Noah hasn't shattered a mirror.,Noah hasn't fallen a mirror.,syntax,argument_structure,causative,True,False,False,False,21,-49.804283142089844,-45.108795166015625,0
+A lot of customers shrink the skirts.,A lot of customers fell the skirts.,syntax,argument_structure,causative,True,False,False,False,22,-57.160377502441406,-53.9971809387207,0
+Some guests reunite Rachelle's teachers.,Some guests whisper Rachelle's teachers.,syntax,argument_structure,causative,True,False,False,False,23,-66.21723175048828,-57.77119445800781,0
+Lissa shuts the door.,Lissa wasted away the door.,syntax,argument_structure,causative,True,False,False,False,24,-32.291160583496094,-44.798851013183594,1
+A teenager couldn't turn a plane.,A teenager couldn't exist a plane.,syntax,argument_structure,causative,True,False,False,False,25,-47.001487731933594,-52.20234680175781,1
+David isn't drying many blouses.,David isn't falling many blouses.,syntax,argument_structure,causative,True,False,False,False,26,-47.70930099487305,-45.287269592285156,0
+Benjamin was folding a blouse.,Benjamin was existing a blouse.,syntax,argument_structure,causative,True,False,False,False,27,-48.61333465576172,-49.53741455078125,1
+A man hadn't healed Carol.,A man hadn't protested Carol.,syntax,argument_structure,causative,True,False,False,False,28,-55.234710693359375,-55.910518646240234,1
+Many actors evaporate a lot of glaciers.,Many actors disappeared a lot of glaciers.,syntax,argument_structure,causative,True,False,False,False,29,-48.199562072753906,-46.901424407958984,0
+Natalie has assembled a hospital.,Natalie has debated a hospital.,syntax,argument_structure,causative,True,False,False,False,30,-47.27383041381836,-49.74969482421875,1
+Stacy twirled a sweater.,Stacy wasted away a sweater.,syntax,argument_structure,causative,True,False,False,False,31,-55.40972900390625,-49.70690155029297,0
+Carol heals a customer.,Carol waved a customer.,syntax,argument_structure,causative,True,False,False,False,32,-37.50178527832031,-35.41495895385742,0
+Cheryl had trained Tara.,Cheryl had murmured Tara.,syntax,argument_structure,causative,True,False,False,False,33,-57.93901824951172,-67.82563781738281,1
+This guest shattered a plane.,This guest exists a plane.,syntax,argument_structure,causative,True,False,False,False,34,-36.352867126464844,-34.01943588256836,0
+Those ladies close some gates.,Those ladies fell some gates.,syntax,argument_structure,causative,True,False,False,False,35,-37.17642593383789,-37.98973846435547,1
+Dennis isn't evaporating a lot of glaciers.,Dennis isn't falling a lot of glaciers.,syntax,argument_structure,causative,True,False,False,False,36,-63.78083419799805,-58.17864990234375,0
+A lot of women fade those lights.,A lot of women vanished those lights.,syntax,argument_structure,causative,True,False,False,False,37,-54.73298645019531,-56.14109802246094,1
+Douglas trained Wendy's hairdresser.,Douglas escapes Wendy's hairdresser.,syntax,argument_structure,causative,True,False,False,False,38,-64.80484771728516,-65.55360412597656,1
+Colleen wouldn't drop some truck.,Colleen wouldn't slip some truck.,syntax,argument_structure,causative,True,False,False,False,39,-41.341373443603516,-46.364627838134766,1
+Andrea chipped some screen.,Andrea appears some screen.,syntax,argument_structure,causative,True,False,False,False,40,-47.32596969604492,-43.21297836303711,0
+Homer reunited most women.,Homer drank most women.,syntax,argument_structure,causative,True,False,False,False,41,-44.64226531982422,-41.265342712402344,0
+Kenneth wasn't spinning around Melinda.,Kenneth wasn't boasting Melinda.,syntax,argument_structure,causative,True,False,False,False,42,-57.577667236328125,-56.55573272705078,0
+Most teachers darken a lot of lamps.,Most teachers exist a lot of lamps.,syntax,argument_structure,causative,True,False,False,False,43,-51.85246658325195,-40.063289642333984,0
+Samantha won't melt these lakes.,Samantha won't vanish these lakes.,syntax,argument_structure,causative,True,False,False,False,44,-56.22411346435547,-62.01686477661133,1
+Tara grew this spinach.,Tara disappears this spinach.,syntax,argument_structure,causative,True,False,False,False,45,-39.77001190185547,-40.86574172973633,1
+Marcus was opening every mouth.,Marcus was wasting away every mouth.,syntax,argument_structure,causative,True,False,False,False,46,-32.19707489013672,-41.74601364135742,1
+Victoria hadn't burned the pork.,Victoria hadn't appeared the pork.,syntax,argument_structure,causative,True,False,False,False,47,-35.216026306152344,-34.96735382080078,0
+That cashier loosens every blouse.,That cashier fell every blouse.,syntax,argument_structure,causative,True,False,False,False,48,-71.6821060180664,-58.96857452392578,0
+Bethany had frayed jackets.,Bethany had wasted away jackets.,syntax,argument_structure,causative,True,False,False,False,49,-67.82857513427734,-67.55805969238281,0
+Meredith wakes up Teresa.,Meredith gets a job Teresa.,syntax,argument_structure,causative,True,False,False,False,50,-42.28107833862305,-44.765464782714844,1
+Denise was dropping some cup.,Denise was disappearing some cup.,syntax,argument_structure,causative,True,False,False,False,51,-37.792823791503906,-42.72233963012695,1
+Julie wrinkled every shawl.,Julie wastes away every shawl.,syntax,argument_structure,causative,True,False,False,False,52,-50.04924011230469,-55.12416076660156,1
+Erin has flung open these eyes.,Erin has disappeared these eyes.,syntax,argument_structure,causative,True,False,False,False,53,-55.34130096435547,-42.8988151550293,0
+Anna shuts that eye.,Anna exists that eye.,syntax,argument_structure,causative,True,False,False,False,54,-28.68499755859375,-29.301172256469727,1
+Florence wasn't moving the waitresses.,Florence wasn't disagreeing the waitresses.,syntax,argument_structure,causative,True,False,False,False,55,-59.782737731933594,-70.58753967285156,1
+Alicia stretched Jill's cousins.,Alicia nodded Jill's cousins.,syntax,argument_structure,causative,True,False,False,False,56,-68.22074127197266,-71.45230102539062,1
+Mark is warping that dress.,Mark is appearing that dress.,syntax,argument_structure,causative,True,False,False,False,57,-46.85073471069336,-33.447044372558594,0
+Douglas hid away Colleen.,Douglas appears Colleen.,syntax,argument_structure,causative,True,False,False,False,58,-54.72234344482422,-46.92694854736328,0
+Gerald stretches Diane.,Gerald salutes Diane.,syntax,argument_structure,causative,True,False,False,False,59,-50.257747650146484,-56.58613586425781,1
+A lot of patients loosen these jackets.,A lot of patients appeared these jackets.,syntax,argument_structure,causative,True,False,False,False,60,-60.40711212158203,-59.54546356201172,0
+Every dancer did hide away Donna's tutors.,Every dancer did compromise Donna's tutors.,syntax,argument_structure,causative,True,False,False,False,61,-70.61708068847656,-67.75699615478516,0
+Heidi isn't blackening some cake.,Heidi isn't existing some cake.,syntax,argument_structure,causative,True,False,False,False,62,-55.622154235839844,-54.973052978515625,0
+Winston Churchill hasn't assembled the Clintons.,Winston Churchill hasn't chuckled the Clintons.,syntax,argument_structure,causative,True,False,False,False,63,-66.33988952636719,-69.92431640625,1
+A lot of women unfolded some pants.,A lot of women fell some pants.,syntax,argument_structure,causative,True,False,False,False,64,-58.3670654296875,-52.61235427856445,0
+That guest wouldn't accelerate all planes.,That guest wouldn't exist all planes.,syntax,argument_structure,causative,True,False,False,False,65,-56.946266174316406,-46.55269241333008,0
+Some teenager shouldn't grow this broccoli.,Some teenager shouldn't vanish this broccoli.,syntax,argument_structure,causative,True,False,False,False,66,-51.45732879638672,-59.13253402709961,1
+Nina is fraying all shawls.,Nina is appearing all shawls.,syntax,argument_structure,causative,True,False,False,False,67,-73.87306213378906,-63.39262771606445,0
+William was selling that screen.,William was falling that screen.,syntax,argument_structure,causative,True,False,False,False,68,-27.891334533691406,-34.60014343261719,1
+Stephen was dropping this computer.,Stephen was appearing this computer.,syntax,argument_structure,causative,True,False,False,False,69,-30.252408981323242,-32.053916931152344,1
+Daniel is worrying cashiers.,Daniel is falling cashiers.,syntax,argument_structure,causative,True,False,False,False,70,-41.902862548828125,-37.95679473876953,0
+Stephanie isn't maneuvering planes.,Stephanie isn't rusting planes.,syntax,argument_structure,causative,True,False,False,False,71,-53.558738708496094,-50.74795150756836,0
+Beth hadn't turned this bike.,Beth hadn't wasted away this bike.,syntax,argument_structure,causative,True,False,False,False,72,-51.88203430175781,-64.49763488769531,1
+Most waiters unfold a lot of scarves.,Most waiters exist a lot of scarves.,syntax,argument_structure,causative,True,False,False,False,73,-67.59906005859375,-60.196842193603516,0
+Gina wakes up Ellen.,Gina complained Ellen.,syntax,argument_structure,causative,True,False,False,False,74,-45.40480422973633,-44.97723388671875,0
+Some people burn some apples.,Some people vanished some apples.,syntax,argument_structure,causative,True,False,False,False,75,-30.707901000976562,-36.99775695800781,1
+Linda doesn't flatten these gloves.,Linda doesn't waste away these gloves.,syntax,argument_structure,causative,True,False,False,False,76,-52.14600372314453,-52.13740539550781,0
+William's plumbers hide every photograph.,William's plumbers vanished every photograph.,syntax,argument_structure,causative,True,False,False,False,77,-56.11201858520508,-59.35731887817383,1
+Florence hadn't blackened the cakes.,Florence hadn't disappeared the cakes.,syntax,argument_structure,causative,True,False,False,False,78,-57.469547271728516,-51.41565704345703,0
+Most men roll all wheelbarrows.,Most men disappear all wheelbarrows.,syntax,argument_structure,causative,True,False,False,False,79,-62.39145278930664,-59.94586181640625,0
+These waitresses twirl some dresses.,These waitresses vanish some dresses.,syntax,argument_structure,causative,True,False,False,False,80,-62.78872299194336,-56.33177185058594,0
+That driver's grandmothers can't heal Bruce.,That driver's grandmothers can't appear Bruce.,syntax,argument_structure,causative,True,False,False,False,81,-64.06746673583984,-63.8120231628418,0
+Deanna wakes up Kirsten.,Deanna chuckles Kirsten.,syntax,argument_structure,causative,True,False,False,False,82,-42.29859924316406,-44.18092346191406,1
+Steven baked pork.,Steven appeared pork.,syntax,argument_structure,causative,True,False,False,False,83,-24.489299774169922,-25.26003646850586,1
+Paul closes some eye.,Paul vanished some eye.,syntax,argument_structure,causative,True,False,False,False,84,-30.45867156982422,-32.01946258544922,1
+Travis did bake some fish.,Travis did exist some fish.,syntax,argument_structure,causative,True,False,False,False,85,-41.52104949951172,-44.47562789916992,1
+Jeffrey isn't assembling these mothers of Holly.,Jeffrey isn't whispering these mothers of Holly.,syntax,argument_structure,causative,True,False,False,False,86,-69.12213134765625,-67.31287384033203,0
+Some cashier isn't marrying these granddaughters of Sherry.,Some cashier isn't embracing these granddaughters of Sherry.,syntax,argument_structure,causative,True,False,False,False,87,-99.32032012939453,-101.04734802246094,1
+Elizabeth couldn't wash Nancy's boyfriend.,Elizabeth couldn't swallow Nancy's boyfriend.,syntax,argument_structure,causative,True,False,False,False,88,-43.072811126708984,-45.87563705444336,1
+These patients wake up those doctors.,These patients spoke up those doctors.,syntax,argument_structure,causative,True,False,False,False,89,-36.74141311645508,-40.16901397705078,1
+Frank wasn't baking all pies.,Frank wasn't existing all pies.,syntax,argument_structure,causative,True,False,False,False,90,-41.78832244873047,-45.159912109375,1
+Benjamin wasn't crashing all cars.,Benjamin wasn't vanishing all cars.,syntax,argument_structure,causative,True,False,False,False,91,-42.98251724243164,-47.196807861328125,1
+Kristin crashed a wheelbarrow.,Kristin wasted away a wheelbarrow.,syntax,argument_structure,causative,True,False,False,False,92,-53.18783187866211,-65.71695709228516,1
+Janice is melting a popsicle.,Janice is existing a popsicle.,syntax,argument_structure,causative,True,False,False,False,93,-52.369319915771484,-54.93418502807617,1
+Carl has turned that carriage.,Carl has vanished that carriage.,syntax,argument_structure,causative,True,False,False,False,94,-30.33440399169922,-37.44868469238281,1
+Samuel will crash all bikes.,Samuel will appear all bikes.,syntax,argument_structure,causative,True,False,False,False,95,-43.223941802978516,-44.92237854003906,1
+Rachel had turned this carriage.,Rachel had disappeared this carriage.,syntax,argument_structure,causative,True,False,False,False,96,-32.583831787109375,-35.80323028564453,1
+Tonya tightened the hat.,Tonya vanishes the hat.,syntax,argument_structure,causative,True,False,False,False,97,-42.79224395751953,-42.62241744995117,0
+Linda shrank a lot of pants.,Linda existed a lot of pants.,syntax,argument_structure,causative,True,False,False,False,98,-51.185020446777344,-40.76698684692383,0
+Eva wasn't evaporating some icicle.,Eva wasn't falling some icicle.,syntax,argument_structure,causative,True,False,False,False,99,-55.68356704711914,-48.26323699951172,0
+Nina isn't burning some casserole.,Nina isn't vanishing some casserole.,syntax,argument_structure,causative,True,False,False,False,100,-67.89176940917969,-76.89048767089844,1
+Stacey couldn't flatten a lot of dresses.,Stacey couldn't fall a lot of dresses.,syntax,argument_structure,causative,True,False,False,False,101,-62.274078369140625,-54.27429962158203,0
+Carolyn loosened the skirts.,Carolyn appeared the skirts.,syntax,argument_structure,causative,True,False,False,False,102,-47.62648010253906,-36.876155853271484,0
+Vanessa loosened that sweater.,Vanessa vanished that sweater.,syntax,argument_structure,causative,True,False,False,False,103,-50.477760314941406,-42.3824462890625,0
+Mary folded every skirt.,Mary vanished every skirt.,syntax,argument_structure,causative,True,False,False,False,104,-31.44721221923828,-32.193634033203125,1
+David steers some truck.,David wastes away some truck.,syntax,argument_structure,causative,True,False,False,False,105,-41.164554595947266,-40.81385803222656,0
+Peter has broken the convertible.,Peter has disappeared the convertible.,syntax,argument_structure,causative,True,False,False,False,106,-28.904516220092773,-33.93311309814453,1
+Karen stretched Homer.,Karen shrugs Homer.,syntax,argument_structure,causative,True,False,False,False,107,-40.1654052734375,-48.019073486328125,1
+Dennis wasn't worrying a lot of cashiers.,Dennis wasn't screaming a lot of cashiers.,syntax,argument_structure,causative,True,False,False,False,108,-66.44866180419922,-64.23799133300781,0
+Stephen was shattering a lot of trucks.,Stephen was slipping a lot of trucks.,syntax,argument_structure,causative,True,False,False,False,109,-39.33619689941406,-34.09278869628906,0
+The Impressionists slow these convertibles.,The Impressionists appeared these convertibles.,syntax,argument_structure,causative,True,False,False,False,110,-75.8974838256836,-76.21320343017578,1
+The actress hid away Katherine.,The actress learned Katherine.,syntax,argument_structure,causative,True,False,False,False,111,-46.30585861206055,-37.489891052246094,0
+That doctor faded those projectors.,That doctor appeared those projectors.,syntax,argument_structure,causative,True,False,False,False,112,-50.5323486328125,-47.668785095214844,0
+Rachelle will brighten those spotlights.,Rachelle will disappear those spotlights.,syntax,argument_structure,causative,True,False,False,False,113,-62.88042449951172,-57.19050979614258,0
+The cashiers can crack that plate.,The cashiers can fall that plate.,syntax,argument_structure,causative,True,False,False,False,114,-44.760318756103516,-47.24786376953125,1
+Eva soaked all socks.,Eva wasted away all socks.,syntax,argument_structure,causative,True,False,False,False,115,-33.2787971496582,-40.94994354248047,1
+Christine sits down Tara.,Christine went fishing Tara.,syntax,argument_structure,causative,True,False,False,False,116,-38.11378860473633,-37.75414276123047,0
+Adam will melt these rivers.,Adam will vanish these rivers.,syntax,argument_structure,causative,True,False,False,False,117,-33.652557373046875,-36.9555778503418,1
+Alice hadn't brightened the lights.,Alice hadn't vanished the lights.,syntax,argument_structure,causative,True,False,False,False,118,-40.01686477661133,-35.94062042236328,0
+Some teachers haven't spun around Carl.,Some teachers haven't played Carl.,syntax,argument_structure,causative,True,False,False,False,119,-50.03779983520508,-37.78411102294922,0
+Brett has melted some icicles.,Brett has vanished some icicles.,syntax,argument_structure,causative,True,False,False,False,120,-66.531494140625,-68.27830505371094,1
+Becca rolled the cars.,Becca fell the cars.,syntax,argument_structure,causative,True,False,False,False,121,-33.086265563964844,-32.71498107910156,0
+Kimberley did shatter most carts.,Kimberley did exist most carts.,syntax,argument_structure,causative,True,False,False,False,122,-58.422943115234375,-54.15705108642578,0
+Naomi had twisted most hats.,Naomi had fallen most hats.,syntax,argument_structure,causative,True,False,False,False,123,-50.712860107421875,-48.2283821105957,0
+Anna had flattened coats.,Anna had disappeared coats.,syntax,argument_structure,causative,True,False,False,False,124,-32.63524627685547,-31.028181076049805,0
+Barbara twists the jacket.,Barbara fell the jacket.,syntax,argument_structure,causative,True,False,False,False,125,-37.20205307006836,-31.735958099365234,0
+Most teenagers had warped a scarf.,Most teenagers had disappeared a scarf.,syntax,argument_structure,causative,True,False,False,False,126,-50.8785400390625,-44.10946273803711,0
+Christina's French teachers hid that jacket.,Christina's French teachers appeared that jacket.,syntax,argument_structure,causative,True,False,False,False,127,-57.00608825683594,-57.7098388671875,1
+The Lutherans tighten those shoes.,The Lutherans disappeared those shoes.,syntax,argument_structure,causative,True,False,False,False,128,-48.95325469970703,-50.52668380737305,1
+Deborah can't dry most scarves.,Deborah can't fall most scarves.,syntax,argument_structure,causative,True,False,False,False,129,-55.365806579589844,-54.43783950805664,0
+Erin broke this mirror.,Erin vanished this mirror.,syntax,argument_structure,causative,True,False,False,False,130,-34.29114532470703,-39.882816314697266,1
+All actresses shut some mouths.,All actresses disappear some mouths.,syntax,argument_structure,causative,True,False,False,False,131,-42.22416687011719,-45.93903732299805,1
+Richard hadn't darkened some candle.,Richard hadn't wasted away some candle.,syntax,argument_structure,causative,True,False,False,False,132,-47.01027297973633,-51.45858383178711,1
+Ann should sell the report about the Lutherans.,Ann should appear the report about the Lutherans.,syntax,argument_structure,causative,True,False,False,False,133,-60.021240234375,-64.18647766113281,1
+Senators are spinning around Suzanne's ex-husbands.,Senators are communicating Suzanne's ex-husbands.,syntax,argument_structure,causative,True,False,False,False,134,-86.39402770996094,-80.5684814453125,0
+Veronica isn't ripening that apple.,Veronica isn't existing that apple.,syntax,argument_structure,causative,True,False,False,False,135,-58.16786193847656,-50.374813079833984,0
+The teachers freeze all lakes.,The teachers waste away all lakes.,syntax,argument_structure,causative,True,False,False,False,136,-39.25300598144531,-47.019134521484375,1
+Brad isn't assembling a committee.,Brad isn't negotiating a committee.,syntax,argument_structure,causative,True,False,False,False,137,-38.719608306884766,-37.2071647644043,0
+John has loosened many hats.,John has disappeared many hats.,syntax,argument_structure,causative,True,False,False,False,138,-49.45478057861328,-37.76095199584961,0
+Aaron can warp the coats.,Aaron can fall the coats.,syntax,argument_structure,causative,True,False,False,False,139,-38.23591232299805,-34.414512634277344,0
+Alexander wouldn't wash all women's grandfathers.,Alexander wouldn't cheer all women's grandfathers.,syntax,argument_structure,causative,True,False,False,False,140,-52.47051239013672,-55.79682922363281,1
+Stacy's classmates heal Julia's employee.,Stacy's classmates slumped over Julia's employee.,syntax,argument_structure,causative,True,False,False,False,141,-67.61827087402344,-77.98709106445312,1
+Elizabeth stretched a lot of blouses.,Elizabeth vanished a lot of blouses.,syntax,argument_structure,causative,True,False,False,False,142,-38.5958366394043,-38.37480545043945,0
+Elaine wrinkled sweaters.,Elaine existed sweaters.,syntax,argument_structure,causative,True,False,False,False,143,-45.05310821533203,-40.44358444213867,0
+All daughters of Monet hadn't hurt Liam.,All daughters of Monet hadn't murmured Liam.,syntax,argument_structure,causative,True,False,False,False,144,-69.28770446777344,-82.58607482910156,1
+That actor baked some peppers.,That actor fell some peppers.,syntax,argument_structure,causative,True,False,False,False,145,-45.36460876464844,-42.06999206542969,0
+Many girls bake many cakes.,Many girls appeared many cakes.,syntax,argument_structure,causative,True,False,False,False,146,-42.255802154541016,-41.739219665527344,0
+Carla isn't charring every pepper.,Carla isn't vanishing every pepper.,syntax,argument_structure,causative,True,False,False,False,147,-58.60832595825195,-52.58039855957031,0
+Joel doesn't shut many eyes.,Joel doesn't appear many eyes.,syntax,argument_structure,causative,True,False,False,False,148,-42.98371505737305,-42.88694763183594,0
+Debra couldn't wake up a horse.,Debra couldn't exist a horse.,syntax,argument_structure,causative,True,False,False,False,149,-37.52445983886719,-39.07163619995117,1
+Phillip isn't washing Homer.,Phillip isn't playing Homer.,syntax,argument_structure,causative,True,False,False,False,150,-41.313209533691406,-36.942527770996094,0
+The child can't crash every truck.,The child can't disappear every truck.,syntax,argument_structure,causative,True,False,False,False,151,-40.390174865722656,-41.310752868652344,1
+Homer isn't opening some mouth.,Homer isn't vanishing some mouth.,syntax,argument_structure,causative,True,False,False,False,152,-48.077056884765625,-54.997032165527344,1
+Some cashier shut some window.,Some cashier disappears some window.,syntax,argument_structure,causative,True,False,False,False,153,-47.868797302246094,-51.73587417602539,1
+Sheila is ripening this cucumber.,Sheila is going bad this cucumber.,syntax,argument_structure,causative,True,False,False,False,154,-61.581031799316406,-55.666316986083984,0
+All customers slow some cars.,All customers appear some cars.,syntax,argument_structure,causative,True,False,False,False,155,-35.92601013183594,-36.57903289794922,1
+This patient could maneuver all cars.,This patient could disappear all cars.,syntax,argument_structure,causative,True,False,False,False,156,-44.94011688232422,-40.91978073120117,0
+Gina rolls that wheelbarrow.,Gina existed that wheelbarrow.,syntax,argument_structure,causative,True,False,False,False,157,-64.95853424072266,-66.33876037597656,1
+Steven could warp every skirt.,Steven could appear every skirt.,syntax,argument_structure,causative,True,False,False,False,158,-45.63113021850586,-38.33845520019531,0
+Guys were burning that cilantro.,Guys were wasting away that cilantro.,syntax,argument_structure,causative,True,False,False,False,159,-45.80240249633789,-60.54385757446289,1
+Timothy had reunited Rose's grandsons.,Timothy had concurred Rose's grandsons.,syntax,argument_structure,causative,True,False,False,False,160,-71.70915222167969,-79.2524185180664,1
+Amy heals Guy's tutors.,Amy wept Guy's tutors.,syntax,argument_structure,causative,True,False,False,False,161,-49.57758331298828,-51.59107971191406,1
+A lot of customers accelerate a lot of carriages.,A lot of customers exist a lot of carriages.,syntax,argument_structure,causative,True,False,False,False,162,-70.55625915527344,-65.03826904296875,0
+Karen hasn't blackened that eggplant.,Karen hasn't vanished that eggplant.,syntax,argument_structure,causative,True,False,False,False,163,-68.52481079101562,-63.65166473388672,0
+The Borgias shrank some blouse.,The Borgias vanished some blouse.,syntax,argument_structure,causative,True,False,False,False,164,-69.65357971191406,-63.05298614501953,0
+Brett wasn't vaporizing some rivers.,Brett wasn't wasting away some rivers.,syntax,argument_structure,causative,True,False,False,False,165,-71.82620239257812,-69.40332794189453,0
+Christina chipped glasses.,Christina vanished glasses.,syntax,argument_structure,causative,True,False,False,False,166,-36.78424835205078,-34.4099006652832,0
+Kimberley cracks this vase.,Kimberley fell apart this vase.,syntax,argument_structure,causative,True,False,False,False,167,-53.72499084472656,-56.26827621459961,1
+Gerald folds a glove.,Gerald appeared a glove.,syntax,argument_structure,causative,True,False,False,False,168,-49.229148864746094,-45.07481384277344,0
+Carla accelerates every skateboard.,Carla disappeared every skateboard.,syntax,argument_structure,causative,True,False,False,False,169,-52.44133758544922,-42.69081115722656,0
+Sarah doesn't benefit the Clintons.,Sarah doesn't meet the Clintons.,syntax,argument_structure,causative,True,False,False,False,170,-39.20653533935547,-36.068359375,0
+Joseph wouldn't open every box.,Joseph wouldn't waste away every box.,syntax,argument_structure,causative,True,False,False,False,171,-33.10524368286133,-43.71436309814453,1
+Those men close those closets.,Those men existed those closets.,syntax,argument_structure,causative,True,False,False,False,172,-39.228782653808594,-43.18285369873047,1
+Jennifer could stand up Natalie.,Jennifer could sneeze Natalie.,syntax,argument_structure,causative,True,False,False,False,173,-33.51878356933594,-43.221885681152344,1
+Emily woke up a grandmother of Alice.,Emily wastes away a grandmother of Alice.,syntax,argument_structure,causative,True,False,False,False,174,-41.80805206298828,-53.993934631347656,1
+Veronica soaked many glasses.,Veronica disappeared many glasses.,syntax,argument_structure,causative,True,False,False,False,175,-44.24567413330078,-42.683677673339844,0
+Samantha unfolds the sock.,Samantha fell the sock.,syntax,argument_structure,causative,True,False,False,False,176,-51.011131286621094,-48.466392517089844,0
+Walter hadn't loosened this glove.,Walter hadn't disappeared this glove.,syntax,argument_structure,causative,True,False,False,False,177,-56.39756393432617,-46.421409606933594,0
+These actresses darken many screens.,These actresses fell many screens.,syntax,argument_structure,causative,True,False,False,False,178,-51.51679611206055,-41.42512512207031,0
+Helen has evaporated many icicles.,Helen has existed many icicles.,syntax,argument_structure,causative,True,False,False,False,179,-56.33843994140625,-50.945281982421875,0
+Marcus darkened those lights.,Marcus disappeared those lights.,syntax,argument_structure,causative,True,False,False,False,180,-34.58441162109375,-31.752676010131836,0
+Those girls blacken all bananas.,Those girls fell all bananas.,syntax,argument_structure,causative,True,False,False,False,181,-42.75535583496094,-35.699859619140625,0
+Some teenagers heal Cynthia.,Some teenagers cooked Cynthia.,syntax,argument_structure,causative,True,False,False,False,182,-39.428951263427734,-37.852691650390625,0
+The teachers fade some lights.,The teachers existed some lights.,syntax,argument_structure,causative,True,False,False,False,183,-40.47890090942383,-38.45842742919922,0
+Cindy isn't accelerating those unicycles.,Cindy isn't appearing those unicycles.,syntax,argument_structure,causative,True,False,False,False,184,-80.63782501220703,-79.58627319335938,0
+Paula folded this blouse.,Paula vanishes this blouse.,syntax,argument_structure,causative,True,False,False,False,185,-41.039188385009766,-51.0656623840332,1
+All stairs had worried Paul.,All stairs had eaten Paul.,syntax,argument_structure,causative,True,False,False,False,186,-48.178245544433594,-45.06253433227539,0
+The Borgias trains a waiter.,The Borgias whispered a waiter.,syntax,argument_structure,causative,True,False,False,False,187,-54.3608283996582,-50.27330780029297,0
+Steven has chipped computers.,Steven has fallen apart computers.,syntax,argument_structure,causative,True,False,False,False,188,-30.38665008544922,-32.017845153808594,1
+Michael hurt Anne.,Michael chuckles Anne.,syntax,argument_structure,causative,True,False,False,False,189,-25.967910766601562,-30.46114730834961,1
+Lissa slows every plane.,Lissa falls every plane.,syntax,argument_structure,causative,True,False,False,False,190,-42.82991027832031,-38.01002502441406,0
+Most children hide away the Lutherans.,Most children meet the Lutherans.,syntax,argument_structure,causative,True,False,False,False,191,-50.20649719238281,-41.51782989501953,0
+Ann would wash Samuel's podiatrists.,Ann would date Samuel's podiatrists.,syntax,argument_structure,causative,True,False,False,False,192,-81.22371673583984,-80.89479064941406,0
+Jodi slowed every unicycle.,Jodi appears every unicycle.,syntax,argument_structure,causative,True,False,False,False,193,-58.695030212402344,-56.03001022338867,0
+A lot of teenagers stop some carriages.,A lot of teenagers appear some carriages.,syntax,argument_structure,causative,True,False,False,False,194,-61.75425338745117,-63.69971466064453,1
+Ellen's ex-wives were healing Sara's senator.,Ellen's ex-wives were donating Sara's senator.,syntax,argument_structure,causative,True,False,False,False,195,-72.64431762695312,-76.67022705078125,1
+Melinda hadn't stood up some actor.,Melinda hadn't chuckled some actor.,syntax,argument_structure,causative,True,False,False,False,196,-47.37134552001953,-53.34303665161133,1
+Scott has dried a coat.,Scott has fallen a coat.,syntax,argument_structure,causative,True,False,False,False,197,-27.635385513305664,-27.69784927368164,1
+Amanda fades this candle.,Amanda falls this candle.,syntax,argument_structure,causative,True,False,False,False,198,-38.96075439453125,-36.8856201171875,0
+Many teachers wake up the Clintons.,Many teachers kissed the Clintons.,syntax,argument_structure,causative,True,False,False,False,199,-39.090126037597656,-41.614593505859375,1
+All ladies darken all lamps.,All ladies fall all lamps.,syntax,argument_structure,causative,True,False,False,False,200,-49.12017059326172,-37.99031066894531,0
+Peter was scorching pies.,Peter was vanishing pies.,syntax,argument_structure,causative,True,False,False,False,201,-41.635406494140625,-35.848541259765625,0
+Samantha has broken most carriages.,Samantha has fallen most carriages.,syntax,argument_structure,causative,True,False,False,False,202,-60.339046478271484,-61.483314514160156,1
+Jesus wasn't cracking some cup.,Jesus wasn't slipping some cup.,syntax,argument_structure,causative,True,False,False,False,203,-37.9033088684082,-36.93006134033203,0
+Diane heals Carla's associates.,Diane met Carla's associates.,syntax,argument_structure,causative,True,False,False,False,204,-59.736202239990234,-55.698604583740234,0
+Alicia shatters that mirror.,Alicia vanishes that mirror.,syntax,argument_structure,causative,True,False,False,False,205,-65.62281799316406,-67.291748046875,1
+Connie was ripening this tomato.,Connie was disappearing this tomato.,syntax,argument_structure,causative,True,False,False,False,206,-53.66691207885742,-45.00244903564453,0
+Martin heals Mark.,Martin went fishing Mark.,syntax,argument_structure,causative,True,False,False,False,207,-27.739608764648438,-29.40362548828125,1
+Anne shut every box.,Anne fell every box.,syntax,argument_structure,causative,True,False,False,False,208,-27.830873489379883,-28.555593490600586,1
+Every student shrank this scarf.,Every student disappeared this scarf.,syntax,argument_structure,causative,True,False,False,False,209,-50.321956634521484,-40.73651885986328,0
+John melted this icicle.,John existed this icicle.,syntax,argument_structure,causative,True,False,False,False,210,-43.42793273925781,-43.13719940185547,0
+Donna is freezing that river.,Donna is wasting away that river.,syntax,argument_structure,causative,True,False,False,False,211,-40.68265914916992,-54.47862243652344,1
+Dan worries Christine's associate.,Dan struggles Christine's associate.,syntax,argument_structure,causative,True,False,False,False,212,-39.41611862182617,-43.53215026855469,1
+Curtis is steering these carts.,Curtis is wasting away these carts.,syntax,argument_structure,causative,True,False,False,False,213,-58.751373291015625,-66.027099609375,1
+Scott hasn't changed Catherine's contractors.,Scott hasn't laughed Catherine's contractors.,syntax,argument_structure,causative,True,False,False,False,214,-46.45401382446289,-53.62914276123047,1
+Irene blackened some pie.,Irene falls some pie.,syntax,argument_structure,causative,True,False,False,False,215,-46.968849182128906,-41.81398010253906,0
+Michael worried this museum.,Michael testified this museum.,syntax,argument_structure,causative,True,False,False,False,216,-29.896007537841797,-32.807518005371094,1
+Noah darkens the screen.,Noah disappears the screen.,syntax,argument_structure,causative,True,False,False,False,217,-51.15965270996094,-40.231781005859375,0
+Carrie isn't charring muffins.,Carrie isn't wasting away muffins.,syntax,argument_structure,causative,True,False,False,False,218,-56.323604583740234,-56.50501251220703,1
+Maria cracks this bike.,Maria falls apart this bike.,syntax,argument_structure,causative,True,False,False,False,219,-31.534358978271484,-31.868160247802734,1
+Some teenagers wash those friends of Anna.,Some teenagers conspire those friends of Anna.,syntax,argument_structure,causative,True,False,False,False,220,-54.32746124267578,-68.37423706054688,1
+Martin moves Carrie.,Martin got a job Carrie.,syntax,argument_structure,causative,True,False,False,False,221,-27.726795196533203,-32.99382400512695,1
+Curtis has vaporized this ice.,Curtis has appeared this ice.,syntax,argument_structure,causative,True,False,False,False,222,-65.5103988647461,-54.36581039428711,0
+Jason stretched Sara.,Jason fell Sara.,syntax,argument_structure,causative,True,False,False,False,223,-27.91836166381836,-24.929649353027344,0
+Bill reunited Debra's contractors.,Bill talked Debra's contractors.,syntax,argument_structure,causative,True,False,False,False,224,-50.13374710083008,-48.296791076660156,0
+A waitress chipped every cart.,A waitress vanished every cart.,syntax,argument_structure,causative,True,False,False,False,225,-61.94956970214844,-60.31684494018555,0
+People have shattered these cars.,People have fallen these cars.,syntax,argument_structure,causative,True,False,False,False,226,-27.84269905090332,-25.544689178466797,0
+Eric brightened this candle.,Eric wastes away this candle.,syntax,argument_structure,causative,True,False,False,False,227,-37.35574722290039,-41.815765380859375,1
+Steve does twirl most scarves.,Steve does disappear most scarves.,syntax,argument_structure,causative,True,False,False,False,228,-58.416587829589844,-48.110111236572266,0
+Tamara shut all doors.,Tamara existed all doors.,syntax,argument_structure,causative,True,False,False,False,229,-34.52745819091797,-36.47394943237305,1
+Ellen is tightening the shoes.,Ellen is disappearing the shoes.,syntax,argument_structure,causative,True,False,False,False,230,-37.97105407714844,-34.978355407714844,0
+Some waiter does open some eyes.,Some waiter does fall some eyes.,syntax,argument_structure,causative,True,False,False,False,231,-44.989471435546875,-46.11883544921875,1
+Catherine can twirl every sweater.,Catherine can fall every sweater.,syntax,argument_structure,causative,True,False,False,False,232,-62.445884704589844,-49.42022705078125,0
+Vanessa stretches a jacket.,Vanessa vanished a jacket.,syntax,argument_structure,causative,True,False,False,False,233,-36.726654052734375,-37.59837341308594,1
+Patricia shut boxes.,Patricia fell boxes.,syntax,argument_structure,causative,True,False,False,False,234,-35.360652923583984,-35.33415985107422,0
+Gina cracks every cup.,Gina falls every cup.,syntax,argument_structure,causative,True,False,False,False,235,-47.64563751220703,-44.496212005615234,0
+Some teenagers had maneuvered the skateboard.,Some teenagers had wasted away the skateboard.,syntax,argument_structure,causative,True,False,False,False,236,-73.51988220214844,-57.301239013671875,0
+Mary dried some shawls.,Mary fell some shawls.,syntax,argument_structure,causative,True,False,False,False,237,-43.577186584472656,-40.645118713378906,0
+Roger had twisted a dress.,Roger had appeared a dress.,syntax,argument_structure,causative,True,False,False,False,238,-31.174243927001953,-28.188846588134766,0
+Liam isn't closing some door.,Liam isn't disappearing some door.,syntax,argument_structure,causative,True,False,False,False,239,-44.40739059448242,-49.292198181152344,1
+Galileo isn't crashing a lot of bicycles.,Galileo isn't falling a lot of bicycles.,syntax,argument_structure,causative,True,False,False,False,240,-53.58484649658203,-52.59645080566406,0
+Cheryl opened some eye.,Cheryl vanished some eye.,syntax,argument_structure,causative,True,False,False,False,241,-49.77975082397461,-53.994163513183594,1
+The teachers darkened every light.,The teachers fell every light.,syntax,argument_structure,causative,True,False,False,False,242,-41.397613525390625,-36.053550720214844,0
+Senators don't wake up a lot of horses.,Senators don't come here a lot of horses.,syntax,argument_structure,causative,True,False,False,False,243,-44.418785095214844,-44.2348747253418,0
+A lot of men are sitting down Heidi.,A lot of men are hunting Heidi.,syntax,argument_structure,causative,True,False,False,False,244,-54.23145294189453,-53.63865661621094,0
+Most boys hadn't washed most cousins of Candice.,Most boys hadn't testified most cousins of Candice.,syntax,argument_structure,causative,True,False,False,False,245,-75.526611328125,-79.14183044433594,1
+Brenda trained Kirsten.,Brenda shrugs Kirsten.,syntax,argument_structure,causative,True,False,False,False,246,-32.28131866455078,-45.390769958496094,1
+The Clintons froze this icicle.,The Clintons fell this icicle.,syntax,argument_structure,causative,True,False,False,False,247,-58.51954650878906,-57.898681640625,0
+Jane has evaporated the ice cream.,Jane has disappeared the ice cream.,syntax,argument_structure,causative,True,False,False,False,248,-38.88488006591797,-32.40503692626953,0
+Colleen hadn't wrinkled these scarves.,Colleen hadn't vanished these scarves.,syntax,argument_structure,causative,True,False,False,False,249,-61.271522521972656,-60.69891357421875,0
+Thomas was chipping those glasses.,Thomas was existing those glasses.,syntax,argument_structure,causative,True,False,False,False,250,-39.84793472290039,-39.91337203979492,1
+Colleen washed Amy.,Colleen boasted Amy.,syntax,argument_structure,causative,True,False,False,False,251,-35.2332763671875,-38.243736267089844,1
+Roger didn't worry the Clintons.,Roger didn't play the Clintons.,syntax,argument_structure,causative,True,False,False,False,252,-38.550750732421875,-33.02351379394531,0
+All cashiers blacken many eggplants.,All cashiers fall many eggplants.,syntax,argument_structure,causative,True,False,False,False,253,-75.38017272949219,-65.53631591796875,0
+Those dancers freeze many glaciers.,Those dancers vanished many glaciers.,syntax,argument_structure,causative,True,False,False,False,254,-48.564849853515625,-51.634666442871094,1
+Some waitresses haven't shut all closets.,Some waitresses haven't vanished all closets.,syntax,argument_structure,causative,True,False,False,False,255,-69.49470520019531,-69.38406372070312,0
+Homer is tightening those gloves.,Homer is existing those gloves.,syntax,argument_structure,causative,True,False,False,False,256,-50.71939468383789,-51.71982192993164,1
+Victoria hadn't folded these skirts.,Victoria hadn't appeared these skirts.,syntax,argument_structure,causative,True,False,False,False,257,-39.90776824951172,-37.65052795410156,0
+A lot of waitresses worry every customer's colleagues.,A lot of waitresses work hard every customer's colleagues.,syntax,argument_structure,causative,True,False,False,False,258,-85.28631591796875,-89.94345092773438,1
+Chad blackens every tomato.,Chad vanished every tomato.,syntax,argument_structure,causative,True,False,False,False,259,-56.15473937988281,-49.82388687133789,0
+Carla will maneuver every plane.,Carla will fall apart every plane.,syntax,argument_structure,causative,True,False,False,False,260,-44.78559494018555,-43.12556457519531,0
+Cindy hadn't stood up Linda's partner.,Cindy hadn't suffered Linda's partner.,syntax,argument_structure,causative,True,False,False,False,261,-65.02958679199219,-62.77266311645508,0
+Jennifer hadn't reunited the sons of Charles.,Jennifer hadn't spoken up the sons of Charles.,syntax,argument_structure,causative,True,False,False,False,262,-53.849815368652344,-51.87177658081055,0
+Sharon froze the ice cream.,Sharon exists the ice cream.,syntax,argument_structure,causative,True,False,False,False,263,-34.128265380859375,-35.124176025390625,1
+Heidi had baked this pie.,Heidi had fallen this pie.,syntax,argument_structure,causative,True,False,False,False,264,-48.73884582519531,-47.53031921386719,0
+A waiter hadn't loosened this scarf.,A waiter hadn't fallen this scarf.,syntax,argument_structure,causative,True,False,False,False,265,-73.42748260498047,-60.446292877197266,0
+Many actresses condense the rivers.,Many actresses vanished the rivers.,syntax,argument_structure,causative,True,False,False,False,266,-48.025550842285156,-40.08918762207031,0
+Many ladies' father hadn't healed Winston Churchill.,Many ladies' father hadn't explained everything Winston Churchill.,syntax,argument_structure,causative,True,False,False,False,267,-71.19819641113281,-76.5570297241211,1
+Becky did wash Deborah.,Becky did practice Deborah.,syntax,argument_structure,causative,True,False,False,False,268,-36.309608459472656,-36.527931213378906,1
+Laura had shattered carts.,Laura had vanished carts.,syntax,argument_structure,causative,True,False,False,False,269,-36.70914840698242,-36.481842041015625,0
+The teenagers fade all screens.,The teenagers waste away all screens.,syntax,argument_structure,causative,True,False,False,False,270,-44.449188232421875,-47.063232421875,1
+The Impressionists bake all tomatoes.,The Impressionists fall all tomatoes.,syntax,argument_structure,causative,True,False,False,False,271,-60.356536865234375,-55.42342758178711,0
+Sally unfolded most socks.,Sally wasted away most socks.,syntax,argument_structure,causative,True,False,False,False,272,-50.915122985839844,-56.13752746582031,1
+Some rabbit has worried Tiffany's supervisor.,Some rabbit has practiced Tiffany's supervisor.,syntax,argument_structure,causative,True,False,False,False,273,-62.48002624511719,-61.08106231689453,0
+Tonya washed Teresa.,Tonya negotiates Teresa.,syntax,argument_structure,causative,True,False,False,False,274,-34.74212646484375,-49.765647888183594,1
+Randolf chars some rice.,Randolf falls some rice.,syntax,argument_structure,causative,True,False,False,False,275,-47.99541473388672,-36.512481689453125,0
+A lot of children shrink these coats.,A lot of children wasted away these coats.,syntax,argument_structure,causative,True,False,False,False,276,-55.53634262084961,-63.52205276489258,1
+Some customer froze the rivers.,Some customer vanished the rivers.,syntax,argument_structure,causative,True,False,False,False,277,-37.097145080566406,-39.44476318359375,1
+Rodney didn't worry Danielle's oncologists.,Rodney didn't murmur Danielle's oncologists.,syntax,argument_structure,causative,True,False,False,False,278,-70.65319061279297,-90.33151245117188,1
+Christine turned some carriage.,Christine slipped some carriage.,syntax,argument_structure,causative,True,False,False,False,279,-36.060516357421875,-38.991214752197266,1
+Stephen was loosening those socks.,Stephen was wasting away those socks.,syntax,argument_structure,causative,True,False,False,False,280,-45.65955352783203,-47.17748260498047,1
+Meredith was freezing this ice cream.,Meredith was appearing this ice cream.,syntax,argument_structure,causative,True,False,False,False,281,-47.295555114746094,-48.318946838378906,1
+Many guys change the guys.,Many guys talk the guys.,syntax,argument_structure,causative,True,False,False,False,282,-26.732555389404297,-32.286766052246094,1
+Jacqueline could melt water.,Jacqueline could waste away water.,syntax,argument_structure,causative,True,False,False,False,283,-41.09083557128906,-52.67398452758789,1
+These eggplants were worrying many women's father.,These eggplants were studying many women's father.,syntax,argument_structure,causative,True,False,False,False,284,-64.1187744140625,-60.356895446777344,0
+Anna folds this sweater.,Anna wastes away this sweater.,syntax,argument_structure,causative,True,False,False,False,285,-32.510990142822266,-41.87360382080078,1
+Allison stretched those socks.,Allison vanished those socks.,syntax,argument_structure,causative,True,False,False,False,286,-44.29591369628906,-47.01277160644531,1
+All cashiers train the students' contractors.,All cashiers studied the students' contractors.,syntax,argument_structure,causative,True,False,False,False,287,-68.08692932128906,-69.50741577148438,1
+Samuel soaked a lot of glasses.,Samuel appeared a lot of glasses.,syntax,argument_structure,causative,True,False,False,False,288,-38.06950759887695,-32.386375427246094,0
+Charles stretches that jacket.,Charles exists that jacket.,syntax,argument_structure,causative,True,False,False,False,289,-32.850425720214844,-29.64535903930664,0
+These adults can't spin around Carmen.,These adults can't sing Carmen.,syntax,argument_structure,causative,True,False,False,False,290,-45.51700973510742,-37.88441467285156,0
+Helen could brighten some projectors.,Helen could waste away some projectors.,syntax,argument_structure,causative,True,False,False,False,291,-56.555824279785156,-58.71936798095703,1
+Many girls hide a lot of fathers of Colleen.,Many girls replied a lot of fathers of Colleen.,syntax,argument_structure,causative,True,False,False,False,292,-64.22220611572266,-67.946533203125,1
+Chad can't chip some cart.,Chad can't waste away some cart.,syntax,argument_structure,causative,True,False,False,False,293,-57.802818298339844,-63.609230041503906,1
+Jennifer brightened the spotlight.,Jennifer vanished the spotlight.,syntax,argument_structure,causative,True,False,False,False,294,-33.922367095947266,-29.361268997192383,0
+Carl hadn't worried that association.,Carl hadn't donated that association.,syntax,argument_structure,causative,True,False,False,False,295,-39.249149322509766,-39.19969940185547,0
+Some child burns a cucumber.,Some child exists a cucumber.,syntax,argument_structure,causative,True,False,False,False,296,-43.92859649658203,-41.80084228515625,0
+Some children flatten many skirts.,Some children disappeared many skirts.,syntax,argument_structure,causative,True,False,False,False,297,-46.35284423828125,-39.938507080078125,0
+The doctor is growing the bananas.,The doctor is wasting away the bananas.,syntax,argument_structure,causative,True,False,False,False,298,-35.137413024902344,-49.091766357421875,1
+April hadn't flattened the glove.,April hadn't fallen the glove.,syntax,argument_structure,causative,True,False,False,False,299,-39.42481994628906,-37.714378356933594,0
+Rhonda is twisting many scarves.,Rhonda is disappearing many scarves.,syntax,argument_structure,causative,True,False,False,False,300,-54.94614028930664,-57.575374603271484,1
+Danielle's teacher can break some carriage.,Danielle's teacher can exist some carriage.,syntax,argument_structure,causative,True,False,False,False,301,-50.06869125366211,-59.116737365722656,1
+Tina has grown those bananas.,Tina has wasted away those bananas.,syntax,argument_structure,causative,True,False,False,False,302,-41.762733459472656,-54.52003479003906,1
+Richard dries some shoe.,Richard exists some shoe.,syntax,argument_structure,causative,True,False,False,False,303,-40.103240966796875,-32.719818115234375,0
+All waiters haven't reunited Alicia's fathers.,All waiters haven't sighed Alicia's fathers.,syntax,argument_structure,causative,True,False,False,False,304,-74.9234390258789,-77.60624694824219,1
+Sara tipped over this carriage.,Sara falls this carriage.,syntax,argument_structure,causative,True,False,False,False,305,-47.35418701171875,-45.119441986083984,0
+Kathleen is dropping this cart.,Kathleen is appearing this cart.,syntax,argument_structure,causative,True,False,False,False,306,-58.079994201660156,-61.57649230957031,1
+These patients are sitting down Tracy's dentists.,These patients are suffering Tracy's dentists.,syntax,argument_structure,causative,True,False,False,False,307,-58.63311767578125,-56.000160217285156,0
+Colleen can't loosen those scarves.,Colleen can't fall those scarves.,syntax,argument_structure,causative,True,False,False,False,308,-56.42439270019531,-55.744930267333984,0
+Sally is moving Sandra.,Sally is dying Sandra.,syntax,argument_structure,causative,True,False,False,False,309,-44.545005798339844,-44.930419921875,1
+This girl might wrinkle a dress.,This girl might appear a dress.,syntax,argument_structure,causative,True,False,False,False,310,-46.18232727050781,-38.174285888671875,0
+Cheryl hadn't unfolded every sweater.,Cheryl hadn't wasted away every sweater.,syntax,argument_structure,causative,True,False,False,False,311,-67.88542938232422,-71.00825500488281,1
+Brad hasn't darkened every candle.,Brad hasn't vanished every candle.,syntax,argument_structure,causative,True,False,False,False,312,-46.21943664550781,-42.976863861083984,0
+Ellen is freezing the ice cream.,Ellen is wasting away the ice cream.,syntax,argument_structure,causative,True,False,False,False,313,-33.51046371459961,-45.85338592529297,1
+Sally hides Deborah.,Sally complains Deborah.,syntax,argument_structure,causative,True,False,False,False,314,-41.845664978027344,-42.20289611816406,1
+Marcus does shrink many glasses.,Marcus does fall many glasses.,syntax,argument_structure,causative,True,False,False,False,315,-40.96723175048828,-39.743003845214844,0
+Stacy shrinks that shoe.,Stacy fell that shoe.,syntax,argument_structure,causative,True,False,False,False,316,-53.055274963378906,-42.456138610839844,0
+Kimberley could loosen these skirts.,Kimberley could vanish these skirts.,syntax,argument_structure,causative,True,False,False,False,317,-52.584068298339844,-54.52469253540039,1
+Meredith was brightening the lights.,Meredith was falling the lights.,syntax,argument_structure,causative,True,False,False,False,318,-46.144920349121094,-41.08230209350586,0
+Suzanne isn't evaporating a lake.,Suzanne isn't appearing a lake.,syntax,argument_structure,causative,True,False,False,False,319,-49.61118698120117,-44.79247283935547,0
+Monica isn't marrying Wayne's teachers.,Monica isn't grinning Wayne's teachers.,syntax,argument_structure,causative,True,False,False,False,320,-49.154640197753906,-55.5403938293457,1
+Jesus moved Steve.,Jesus got fired Steve.,syntax,argument_structure,causative,True,False,False,False,321,-25.420772552490234,-30.22913360595703,1
+Lori has twisted the blouses.,Lori has disappeared the blouses.,syntax,argument_structure,causative,True,False,False,False,322,-49.53469467163086,-48.78526306152344,0
+Men fling open some gates.,Men exist some gates.,syntax,argument_structure,causative,True,False,False,False,323,-42.349849700927734,-30.745737075805664,0
+Every patient had frozen a glacier.,Every patient had disappeared a glacier.,syntax,argument_structure,causative,True,False,False,False,324,-42.12101364135742,-42.377037048339844,1
+Matt unfolded that blouse.,Matt existed that blouse.,syntax,argument_structure,causative,True,False,False,False,325,-38.985015869140625,-36.202388763427734,0
+Jane rolls the unicycle.,Jane appears the unicycle.,syntax,argument_structure,causative,True,False,False,False,326,-38.36473083496094,-35.72577667236328,0
+All waitresses shrink those coats.,All waitresses fall those coats.,syntax,argument_structure,causative,True,False,False,False,327,-56.9843864440918,-54.19892501831055,0
+Carolyn is drying that shawl.,Carolyn is existing that shawl.,syntax,argument_structure,causative,True,False,False,False,328,-55.481712341308594,-58.25919723510742,1
+Julie won't char the beef.,Julie won't vanish the beef.,syntax,argument_structure,causative,True,False,False,False,329,-42.93180847167969,-38.01089859008789,0
+Nicole moved Vanessa.,Nicole protests Vanessa.,syntax,argument_structure,causative,True,False,False,False,330,-34.883209228515625,-34.3935546875,0
+Brenda didn't melt this lake.,Brenda didn't appear this lake.,syntax,argument_structure,causative,True,False,False,False,331,-38.02838897705078,-39.243919372558594,1
+Marie hadn't brightened those screens.,Marie hadn't appeared those screens.,syntax,argument_structure,causative,True,False,False,False,332,-47.857200622558594,-37.232078552246094,0
+Some patient was fraying that skirt.,Some patient was wasting away that skirt.,syntax,argument_structure,causative,True,False,False,False,333,-55.10957336425781,-55.763763427734375,1
+Karla's lawyers break some wheelbarrow.,Karla's lawyers fell some wheelbarrow.,syntax,argument_structure,causative,True,False,False,False,334,-69.75173950195312,-72.04669952392578,1
+Frank didn't condense some water.,Frank didn't vanish some water.,syntax,argument_structure,causative,True,False,False,False,335,-45.690223693847656,-38.917747497558594,0
+Some grandsons of John hurt Maria's father.,Some grandsons of John cooked Maria's father.,syntax,argument_structure,causative,True,False,False,False,336,-73.42689514160156,-74.09773254394531,1
+Alice chipped some bicycles.,Alice fell some bicycles.,syntax,argument_structure,causative,True,False,False,False,337,-36.452117919921875,-31.057472229003906,0
+Vincent has accelerated the bike.,Vincent has slipped the bike.,syntax,argument_structure,causative,True,False,False,False,338,-53.59478759765625,-45.64529800415039,0
+Mary has opened the gate.,Mary has existed the gate.,syntax,argument_structure,causative,True,False,False,False,339,-27.997509002685547,-32.515342712402344,1
+Amanda would spin around the student's oncologists.,Amanda would compromise the student's oncologists.,syntax,argument_structure,causative,True,False,False,False,340,-78.72544860839844,-72.61334228515625,0
+All ladies drop many trucks.,All ladies disappear many trucks.,syntax,argument_structure,causative,True,False,False,False,341,-41.51573181152344,-44.10276412963867,1
+Guy had brightened most screens.,Guy had disappeared most screens.,syntax,argument_structure,causative,True,False,False,False,342,-41.87751388549805,-35.65220260620117,0
+Michael had stood up David.,Michael had spoken up David.,syntax,argument_structure,causative,True,False,False,False,343,-32.787288665771484,-34.671722412109375,1
+Mark would move Stephanie.,Mark would donate Stephanie.,syntax,argument_structure,causative,True,False,False,False,344,-29.864151000976562,-36.4100341796875,1
+Jodi hasn't closed that eye.,Jodi hasn't existed that eye.,syntax,argument_structure,causative,True,False,False,False,345,-51.28057098388672,-52.59337615966797,1
+Donna's senators worry Tiffany.,Donna's senators appeared Tiffany.,syntax,argument_structure,causative,True,False,False,False,346,-58.35981750488281,-57.14527893066406,0
+These doctors might spin around Frank.,These doctors might vanish Frank.,syntax,argument_structure,causative,True,False,False,False,347,-46.755455017089844,-41.98868942260742,0
+Ellen opened most doors.,Ellen appeared most doors.,syntax,argument_structure,causative,True,False,False,False,348,-33.246524810791016,-34.576393127441406,1
+Heather hadn't melted some popsicle.,Heather hadn't wasted away some popsicle.,syntax,argument_structure,causative,True,False,False,False,349,-63.047115325927734,-71.64247131347656,1
+Todd wasn't vaporizing a lake.,Todd wasn't existing a lake.,syntax,argument_structure,causative,True,False,False,False,350,-45.43726348876953,-38.04327392578125,0
+Most senators benefit a lot of grandsons of the ladies.,Most senators confer a lot of grandsons of the ladies.,syntax,argument_structure,causative,True,False,False,False,351,-76.09352111816406,-84.05463409423828,1
+Some cashier hadn't burned that pasta.,Some cashier hadn't appeared that pasta.,syntax,argument_structure,causative,True,False,False,False,352,-57.45204162597656,-55.78084945678711,0
+Galileo froze some river.,Galileo disappeared some river.,syntax,argument_structure,causative,True,False,False,False,353,-43.053775787353516,-43.94906234741211,1
+Cashiers sit down most students.,Cashiers laughed most students.,syntax,argument_structure,causative,True,False,False,False,354,-42.3535270690918,-44.23124694824219,1
+Donna did vaporize the popsicle.,Donna did exist the popsicle.,syntax,argument_structure,causative,True,False,False,False,355,-68.80775451660156,-55.478919982910156,0
+This teenager couldn't train Monet.,This teenager couldn't drink Monet.,syntax,argument_structure,causative,True,False,False,False,356,-52.23975372314453,-49.843360900878906,0
+Kirsten melted rivers.,Kirsten vanished rivers.,syntax,argument_structure,causative,True,False,False,False,357,-41.530242919921875,-43.1905517578125,1
+Helen evaporates some lake.,Helen appeared some lake.,syntax,argument_structure,causative,True,False,False,False,358,-38.9888916015625,-33.90443420410156,0
+Phillip had maneuvered some carriage.,Phillip had slipped some carriage.,syntax,argument_structure,causative,True,False,False,False,359,-70.86662292480469,-45.23723220825195,0
+Veronica won't twist the dress.,Veronica won't vanish the dress.,syntax,argument_structure,causative,True,False,False,False,360,-39.75489807128906,-44.950408935546875,1
+Victoria trained Kevin.,Victoria yawns Kevin.,syntax,argument_structure,causative,True,False,False,False,361,-26.657909393310547,-37.67949676513672,1
+Raymond had dried all socks.,Raymond had disappeared all socks.,syntax,argument_structure,causative,True,False,False,False,362,-44.40876770019531,-44.42754364013672,1
+Most teachers turn a lot of cars.,Most teachers fell a lot of cars.,syntax,argument_structure,causative,True,False,False,False,363,-31.2282772064209,-36.116432189941406,1
+Samuel hasn't scorched the chicken.,Samuel hasn't wasted away the chicken.,syntax,argument_structure,causative,True,False,False,False,364,-47.829193115234375,-47.811729431152344,0
+Benjamin twists some sock.,Benjamin wasted away some sock.,syntax,argument_structure,causative,True,False,False,False,365,-47.070098876953125,-51.63924026489258,1
+Jennifer flings open the box.,Jennifer disappeared the box.,syntax,argument_structure,causative,True,False,False,False,366,-35.71330261230469,-26.363414764404297,0
+Paula heals Larry's grandson.,Paula bakes Larry's grandson.,syntax,argument_structure,causative,True,False,False,False,367,-44.95077133178711,-44.53977584838867,0
+Derek tips over this fork.,Derek slips this fork.,syntax,argument_structure,causative,True,False,False,False,368,-53.01404571533203,-49.78331756591797,0
+Kevin hadn't grown all bananas.,Kevin hadn't vanished all bananas.,syntax,argument_structure,causative,True,False,False,False,369,-37.05742263793945,-41.25514602661133,1
+Denise could stop skateboards.,Denise could vanish skateboards.,syntax,argument_structure,causative,True,False,False,False,370,-42.20884704589844,-49.001434326171875,1
+George tightened most socks.,George existed most socks.,syntax,argument_structure,causative,True,False,False,False,371,-41.635765075683594,-35.421165466308594,0
+Brenda hadn't crumpled every shoe.,Brenda hadn't wasted away every shoe.,syntax,argument_structure,causative,True,False,False,False,372,-58.68988037109375,-49.58028793334961,0
+Ellen slowed a bicycle.,Ellen vanishes a bicycle.,syntax,argument_structure,causative,True,False,False,False,373,-32.79225540161133,-39.59028625488281,1
+Emily burned many eggplants.,Emily fell many eggplants.,syntax,argument_structure,causative,True,False,False,False,374,-46.32426834106445,-45.67377853393555,0
+Melinda is opening every door.,Melinda is disappearing every door.,syntax,argument_structure,causative,True,False,False,False,375,-34.819828033447266,-38.64249038696289,1
+Chad hasn't ripened a mushroom.,Chad hasn't wasted away a mushroom.,syntax,argument_structure,causative,True,False,False,False,376,-63.712181091308594,-61.248287200927734,0
+Keith condensed that water.,Keith falls that water.,syntax,argument_structure,causative,True,False,False,False,377,-30.138717651367188,-24.079925537109375,0
+Deborah was rolling that bicycle.,Deborah was falling that bicycle.,syntax,argument_structure,causative,True,False,False,False,378,-39.958473205566406,-40.328548431396484,1
+Wayne has frozen some ice.,Wayne has disappeared some ice.,syntax,argument_structure,causative,True,False,False,False,379,-44.919334411621094,-44.93866729736328,1
+All children twist those shirts.,All children existed those shirts.,syntax,argument_structure,causative,True,False,False,False,380,-39.93798828125,-40.26801300048828,1
+Winston Churchill hid Marie.,Winston Churchill spoke up Marie.,syntax,argument_structure,causative,True,False,False,False,381,-50.553497314453125,-52.837894439697266,1
+Most dancers hide away Craig's bosses.,Most dancers weep Craig's bosses.,syntax,argument_structure,causative,True,False,False,False,382,-59.26881790161133,-56.848167419433594,0
+A lot of senators train Brad's ex-husbands.,A lot of senators painted Brad's ex-husbands.,syntax,argument_structure,causative,True,False,False,False,383,-98.96564483642578,-99.19985961914062,1
+The Impressionists crack all vases.,The Impressionists slipped all vases.,syntax,argument_structure,causative,True,False,False,False,384,-69.80980682373047,-69.57530212402344,0
+That waiter wasn't drying every glove.,That waiter wasn't appearing every glove.,syntax,argument_structure,causative,True,False,False,False,385,-53.69677734375,-52.80278015136719,0
+Michelle dims this spotlight.,Michelle exists this spotlight.,syntax,argument_structure,causative,True,False,False,False,386,-41.193016052246094,-33.24577331542969,0
+Tammy had loosened all jackets.,Tammy had vanished all jackets.,syntax,argument_structure,causative,True,False,False,False,387,-53.005306243896484,-42.09587097167969,0
+Martha hasn't charred most bananas.,Martha hasn't existed most bananas.,syntax,argument_structure,causative,True,False,False,False,388,-52.39246368408203,-45.42668914794922,0
+Sandra wouldn't turn some carriage.,Sandra wouldn't rust some carriage.,syntax,argument_structure,causative,True,False,False,False,389,-46.733707427978516,-55.62739944458008,1
+Most boys sit down many doctors.,Most boys hug many doctors.,syntax,argument_structure,causative,True,False,False,False,390,-35.064971923828125,-41.0982551574707,1
+Veronica isn't hiding Paula's electrician.,Veronica isn't practicing Paula's electrician.,syntax,argument_structure,causative,True,False,False,False,391,-63.035400390625,-63.85133743286133,1
+Barbara didn't turn the bicycle.,Barbara didn't exist the bicycle.,syntax,argument_structure,causative,True,False,False,False,392,-31.06836700439453,-37.32849884033203,1
+Many girls shut windows.,Many girls existed windows.,syntax,argument_structure,causative,True,False,False,False,393,-32.11682891845703,-34.221527099609375,1
+Those boys roll all cars.,Those boys appeared all cars.,syntax,argument_structure,causative,True,False,False,False,394,-32.710777282714844,-32.152198791503906,0
+Leslie breaks all vases.,Leslie appeared all vases.,syntax,argument_structure,causative,True,False,False,False,395,-48.8162956237793,-49.93707275390625,1
+Kathleen is darkening that lamp.,Kathleen is appearing that lamp.,syntax,argument_structure,causative,True,False,False,False,396,-62.660484313964844,-56.35192108154297,0
+Gina can fray many dresses.,Gina can fall many dresses.,syntax,argument_structure,causative,True,False,False,False,397,-58.601409912109375,-53.250823974609375,0
+The Borgias hadn't blackened eggplants.,The Borgias hadn't existed eggplants.,syntax,argument_structure,causative,True,False,False,False,398,-79.83538055419922,-73.06410217285156,0
+Maria wakes up that patient's partner.,Maria lies that patient's partner.,syntax,argument_structure,causative,True,False,False,False,399,-41.486900329589844,-39.14128112792969,0
+Denise could stand up Caroline.,Denise could disappear Caroline.,syntax,argument_structure,causative,True,False,False,False,400,-40.40582275390625,-40.909812927246094,1
+The Clintons wash the nephews of every girl.,The Clintons answered the nephews of every girl.,syntax,argument_structure,causative,True,False,False,False,401,-70.49996185302734,-67.91375732421875,0
+Elaine had accelerated all bikes.,Elaine had appeared all bikes.,syntax,argument_structure,causative,True,False,False,False,402,-52.32852554321289,-45.153865814208984,0
+Nicole would brighten that lamp.,Nicole would disappear that lamp.,syntax,argument_structure,causative,True,False,False,False,403,-48.1031494140625,-41.86650848388672,0
+A lot of cashiers had changed Rachelle's boyfriend.,A lot of cashiers had muttered Rachelle's boyfriend.,syntax,argument_structure,causative,True,False,False,False,404,-83.500732421875,-94.72602844238281,1
+Dana woke up Maria's girlfriend.,Dana shouts Maria's girlfriend.,syntax,argument_structure,causative,True,False,False,False,405,-52.44610595703125,-53.29862976074219,1
+These actresses steer some trucks.,These actresses fell some trucks.,syntax,argument_structure,causative,True,False,False,False,406,-40.94389724731445,-38.447086334228516,0
+All grandfathers of many adults worry Tonya.,All grandfathers of many adults laughed Tonya.,syntax,argument_structure,causative,True,False,False,False,407,-79.16790771484375,-77.97473907470703,0
+Cashiers train the Borgias.,Cashiers compromised the Borgias.,syntax,argument_structure,causative,True,False,False,False,408,-54.9294319152832,-63.0634765625,1
+Frank was charring every pepper.,Frank was existing every pepper.,syntax,argument_structure,causative,True,False,False,False,409,-47.87065124511719,-43.165313720703125,0
+Paula is twisting the hats.,Paula is vanishing the hats.,syntax,argument_structure,causative,True,False,False,False,410,-37.06315612792969,-44.20074462890625,1
+Clyde has vaporized that ice.,Clyde has disappeared that ice.,syntax,argument_structure,causative,True,False,False,False,411,-69.4169921875,-59.104766845703125,0
+Janice shuts some gate.,Janice fell some gate.,syntax,argument_structure,causative,True,False,False,False,412,-39.736968994140625,-38.776611328125,0
+Some men blacken a lot of casseroles.,Some men exist a lot of casseroles.,syntax,argument_structure,causative,True,False,False,False,413,-61.99281692504883,-54.22140884399414,0
+Kayla isn't worrying a lot of customers.,Kayla isn't cooking a lot of customers.,syntax,argument_structure,causative,True,False,False,False,414,-45.36758804321289,-40.58707046508789,0
+The Borgias stand up the women.,The Borgias retaliated the women.,syntax,argument_structure,causative,True,False,False,False,415,-49.97704315185547,-59.57583236694336,1
+Chad healed Larry.,Chad compromises Larry.,syntax,argument_structure,causative,True,False,False,False,416,-45.3824462890625,-44.51654052734375,0
+A student hadn't melted those glaciers.,A student hadn't disappeared those glaciers.,syntax,argument_structure,causative,True,False,False,False,417,-63.36105728149414,-63.06146240234375,0
+Some guests stretch Wendy's colleagues.,Some guests worked hard Wendy's colleagues.,syntax,argument_structure,causative,True,False,False,False,418,-49.872867584228516,-53.46668243408203,1
+The actors crumpled the gloves.,The actors exist the gloves.,syntax,argument_structure,causative,True,False,False,False,419,-51.084537506103516,-36.549747467041016,0
+Richard tightened sweaters.,Richard existed sweaters.,syntax,argument_structure,causative,True,False,False,False,420,-38.22422790527344,-31.996232986450195,0
+Caroline is turning this unicycle.,Caroline is rusting this unicycle.,syntax,argument_structure,causative,True,False,False,False,421,-47.38595199584961,-54.043052673339844,1
+Tina would accelerate the unicycles.,Tina would rust the unicycles.,syntax,argument_structure,causative,True,False,False,False,422,-71.18241119384766,-68.42889404296875,0
+A person hadn't sold every dog.,A person hadn't vanished every dog.,syntax,argument_structure,causative,True,False,False,False,423,-52.12688446044922,-58.13636016845703,1
+All customers have grown some banana.,All customers have fallen some banana.,syntax,argument_structure,causative,True,False,False,False,424,-39.44342803955078,-40.16913986206055,1
+Ruth steered every convertible.,Ruth disappears every convertible.,syntax,argument_structure,causative,True,False,False,False,425,-53.48954391479492,-52.38370132446289,0
+The Lutherans dry those blouses.,The Lutherans fell those blouses.,syntax,argument_structure,causative,True,False,False,False,426,-55.31901931762695,-56.89717102050781,1
+Russell has broken every plane.,Russell has existed every plane.,syntax,argument_structure,causative,True,False,False,False,427,-27.14881134033203,-31.969921112060547,1
+Emily hadn't soaked this shoe.,Emily hadn't fallen this shoe.,syntax,argument_structure,causative,True,False,False,False,428,-41.99407958984375,-37.19947814941406,0
+The Impressionists wash Jacqueline's ex-wives.,The Impressionists fell Jacqueline's ex-wives.,syntax,argument_structure,causative,True,False,False,False,429,-86.17311096191406,-87.49690246582031,1
+Kayla couldn't vaporize this icicle.,Kayla couldn't fall this icicle.,syntax,argument_structure,causative,True,False,False,False,430,-70.96157836914062,-56.77112579345703,0
+Valerie wasn't reuniting many legislatures.,Valerie wasn't replying many legislatures.,syntax,argument_structure,causative,True,False,False,False,431,-69.11759948730469,-65.54142761230469,0
+Alice isn't opening this gate.,Alice isn't appearing this gate.,syntax,argument_structure,causative,True,False,False,False,432,-33.8021240234375,-37.707252502441406,1
+Eric wasn't vaporizing ice cream.,Eric wasn't existing ice cream.,syntax,argument_structure,causative,True,False,False,False,433,-46.0011100769043,-36.1845703125,0
+The Clintons break carriages.,The Clintons existed carriages.,syntax,argument_structure,causative,True,False,False,False,434,-47.83856201171875,-48.613338470458984,1
+Stephanie is healing Ann.,Stephanie is yawning Ann.,syntax,argument_structure,causative,True,False,False,False,435,-43.59944152832031,-51.318519592285156,1
+Jennifer twirls some scarf.,Jennifer appears some scarf.,syntax,argument_structure,causative,True,False,False,False,436,-49.95170974731445,-33.73566436767578,0
+Judy wakes up Samantha.,Judy cheers Samantha.,syntax,argument_structure,causative,True,False,False,False,437,-35.80017852783203,-31.970722198486328,0
+Brian had condensed some ice cream.,Brian had wasted away some ice cream.,syntax,argument_structure,causative,True,False,False,False,438,-37.425262451171875,-43.831817626953125,1
+Russell was stretching Randolf's daughters.,Russell was slumping over Randolf's daughters.,syntax,argument_structure,causative,True,False,False,False,439,-57.46721649169922,-72.00585174560547,1
+Jesus was rolling a car.,Jesus was falling a car.,syntax,argument_structure,causative,True,False,False,False,440,-25.160751342773438,-26.295188903808594,1
+Debra hides every photograph of every plane.,Debra exists every photograph of every plane.,syntax,argument_structure,causative,True,False,False,False,441,-54.73548126220703,-53.4265022277832,0
+The actors stopped these bicycles.,The actors fall these bicycles.,syntax,argument_structure,causative,True,False,False,False,442,-41.944671630859375,-43.71895980834961,1
+Pamela heals Chad.,Pamela exercised Chad.,syntax,argument_structure,causative,True,False,False,False,443,-49.77741241455078,-50.447105407714844,1
+Carlos hides the girl.,Carlos falls the girl.,syntax,argument_structure,causative,True,False,False,False,444,-33.14354705810547,-33.24935531616211,1
+Susan burns that cilantro.,Susan falls that cilantro.,syntax,argument_structure,causative,True,False,False,False,445,-42.7633171081543,-38.79582595825195,0
+Renee hasn't maneuvered the carriages.,Renee hasn't wasted away the carriages.,syntax,argument_structure,causative,True,False,False,False,446,-74.13034057617188,-60.26226043701172,0
+Every dancer vaporizes this popsicle.,Every dancer exists this popsicle.,syntax,argument_structure,causative,True,False,False,False,447,-65.18802642822266,-51.217105865478516,0
+All girls aren't hiding Jeffrey.,All girls aren't waving Jeffrey.,syntax,argument_structure,causative,True,False,False,False,448,-43.451019287109375,-47.475494384765625,1
+The children crash bicycles.,The children waste away bicycles.,syntax,argument_structure,causative,True,False,False,False,449,-33.096351623535156,-42.329872131347656,1
+The Borgias are stretching Eric.,The Borgias are going fishing Eric.,syntax,argument_structure,causative,True,False,False,False,450,-51.436744689941406,-53.4955940246582,1
+The Clintons shut many gates.,The Clintons wasted away many gates.,syntax,argument_structure,causative,True,False,False,False,451,-49.57215881347656,-56.70927810668945,1
+Many waitresses hide Stacey's tutors.,Many waitresses whispered Stacey's tutors.,syntax,argument_structure,causative,True,False,False,False,452,-81.75395202636719,-83.74366760253906,1
+William scorches pasta.,William disappears pasta.,syntax,argument_structure,causative,True,False,False,False,453,-37.43186950683594,-27.316925048828125,0
+A lot of boys shatter most carts.,A lot of boys waste away most carts.,syntax,argument_structure,causative,True,False,False,False,454,-61.7628173828125,-66.81702423095703,1
+Kirsten won't scorch this tomato.,Kirsten won't rot this tomato.,syntax,argument_structure,causative,True,False,False,False,455,-69.90339660644531,-60.61907196044922,0
+Sara can turn every unicycle.,Sara can exist every unicycle.,syntax,argument_structure,causative,True,False,False,False,456,-55.74388122558594,-59.45173645019531,1
+William is tipping over a lot of cups.,William is slipping a lot of cups.,syntax,argument_structure,causative,True,False,False,False,457,-47.90980529785156,-36.27001190185547,0
+Sandra is twirling these pants.,Sandra is falling these pants.,syntax,argument_structure,causative,True,False,False,False,458,-58.51762771606445,-48.86537170410156,0
+Tonya can't break these forks.,Tonya can't fall apart these forks.,syntax,argument_structure,causative,True,False,False,False,459,-40.98614501953125,-51.788848876953125,1
+Most drivers haven't twirled this blouse.,Most drivers haven't disappeared this blouse.,syntax,argument_structure,causative,True,False,False,False,460,-67.02073669433594,-53.274139404296875,0
+Carrie broke some wheelbarrow.,Carrie falls some wheelbarrow.,syntax,argument_structure,causative,True,False,False,False,461,-54.17337417602539,-57.34449768066406,1
+Stephen burns some mushroom.,Stephen vanished some mushroom.,syntax,argument_structure,causative,True,False,False,False,462,-36.061767578125,-35.64208984375,0
+Tanya had warped these sweaters.,Tanya had fallen these sweaters.,syntax,argument_structure,causative,True,False,False,False,463,-56.78013610839844,-48.89862823486328,0
+A customer grows broccoli.,A customer vanishes broccoli.,syntax,argument_structure,causative,True,False,False,False,464,-46.53696060180664,-57.840919494628906,1
+Some dancer would shrink these glasses.,Some dancer would fall these glasses.,syntax,argument_structure,causative,True,False,False,False,465,-45.43960189819336,-43.603363037109375,0
+Most dancers had stopped every convertible.,Most dancers had slipped every convertible.,syntax,argument_structure,causative,True,False,False,False,466,-47.626708984375,-50.759910583496094,1
+Gina does wake up Wayne.,Gina does murmur Wayne.,syntax,argument_structure,causative,True,False,False,False,467,-49.74448013305664,-64.28317260742188,1
+Jill rolls every bicycle.,Jill vanished every bicycle.,syntax,argument_structure,causative,True,False,False,False,468,-46.43450927734375,-46.49955749511719,1
+Those teenagers crash these bicycles.,Those teenagers vanished these bicycles.,syntax,argument_structure,causative,True,False,False,False,469,-44.33066940307617,-45.48204803466797,1
+Those waitresses blackened fish.,Those waitresses wasted away fish.,syntax,argument_structure,causative,True,False,False,False,470,-46.04560089111328,-52.460731506347656,1
+Sara frayed the blouses.,Sara existed the blouses.,syntax,argument_structure,causative,True,False,False,False,471,-56.07505798339844,-47.47467041015625,0
+These people train Elizabeth's nieces.,These people boast Elizabeth's nieces.,syntax,argument_structure,causative,True,False,False,False,472,-53.64838790893555,-59.30752182006836,1
+Larry won't heal Daniel.,Larry won't cough Daniel.,syntax,argument_structure,causative,True,False,False,False,473,-32.235660552978516,-35.48392868041992,1
+An adult worries Carl.,An adult won Carl.,syntax,argument_structure,causative,True,False,False,False,474,-35.25370407104492,-34.88263702392578,0
+Every waiter shouldn't wake up Jeffrey's ex-girlfriends.,Every waiter shouldn't negotiate Jeffrey's ex-girlfriends.,syntax,argument_structure,causative,True,False,False,False,475,-87.49361419677734,-87.2077865600586,0
+Chad wakes up Jennifer's guest.,Chad fell asleep Jennifer's guest.,syntax,argument_structure,causative,True,False,False,False,476,-56.84309387207031,-59.907188415527344,1
+Brad sat down Sally.,Brad swallows Sally.,syntax,argument_structure,causative,True,False,False,False,477,-27.269519805908203,-36.32917785644531,1
+Joel crumpled a glove.,Joel vanished a glove.,syntax,argument_structure,causative,True,False,False,False,478,-48.36353302001953,-34.138526916503906,0
+A lot of cashiers freeze the glaciers.,A lot of cashiers existed the glaciers.,syntax,argument_structure,causative,True,False,False,False,479,-67.25349426269531,-68.1800308227539,1
+Andrew married most nieces of Travis.,Andrew fought most nieces of Travis.,syntax,argument_structure,causative,True,False,False,False,480,-57.720401763916016,-60.65009689331055,1
+Derek hadn't hidden Angela.,Derek hadn't muttered Angela.,syntax,argument_structure,causative,True,False,False,False,481,-51.162574768066406,-57.244754791259766,1
+Many actresses rolled all carts.,Many actresses disappeared all carts.,syntax,argument_structure,causative,True,False,False,False,482,-45.85332489013672,-43.77520751953125,0
+Gregory steers a car.,Gregory disappeared a car.,syntax,argument_structure,causative,True,False,False,False,483,-38.98402786254883,-30.687044143676758,0
+Catherine had flung open the mouths.,Catherine had vanished the mouths.,syntax,argument_structure,causative,True,False,False,False,484,-57.91490936279297,-46.15980911254883,0
+This cashier turns every bike.,This cashier existed every bike.,syntax,argument_structure,causative,True,False,False,False,485,-47.139060974121094,-49.28929138183594,1
+The Impressionists dim those screens.,The Impressionists disappear those screens.,syntax,argument_structure,causative,True,False,False,False,486,-63.44245910644531,-61.50896072387695,0
+Rose opened all gates.,Rose disappeared all gates.,syntax,argument_structure,causative,True,False,False,False,487,-29.454368591308594,-30.96186637878418,1
+Jeffrey hides wheelbarrows.,Jeffrey rusted wheelbarrows.,syntax,argument_structure,causative,True,False,False,False,488,-55.132789611816406,-62.95970153808594,1
+Clyde hasn't moved the adult's dentist.,Clyde hasn't yawned the adult's dentist.,syntax,argument_structure,causative,True,False,False,False,489,-73.3070068359375,-85.07746124267578,1
+Candice wasn't wrinkling these jackets.,Candice wasn't disappearing these jackets.,syntax,argument_structure,causative,True,False,False,False,490,-50.494834899902344,-50.057151794433594,0
+Lissa vaporized every popsicle.,Lissa vanished every popsicle.,syntax,argument_structure,causative,True,False,False,False,491,-65.47598266601562,-56.51144027709961,0
+A doctor was shrinking the skirts.,A doctor was falling the skirts.,syntax,argument_structure,causative,True,False,False,False,492,-53.932518005371094,-48.92498779296875,0
+Cheryl might wash Becca.,Cheryl might sing Becca.,syntax,argument_structure,causative,True,False,False,False,493,-61.70240783691406,-63.23729705810547,1
+Cheryl fades that lamp.,Cheryl vanished that lamp.,syntax,argument_structure,causative,True,False,False,False,494,-53.74260711669922,-56.249568939208984,1
+Tammy hasn't slowed this skateboard.,Tammy hasn't vanished this skateboard.,syntax,argument_structure,causative,True,False,False,False,495,-52.18634033203125,-52.03573989868164,0
+Eva shouldn't steer the cars.,Eva shouldn't waste away the cars.,syntax,argument_structure,causative,True,False,False,False,496,-30.638343811035156,-39.306968688964844,1
+A lot of senators have broken cars.,A lot of senators have rusted cars.,syntax,argument_structure,causative,True,False,False,False,497,-52.623294830322266,-63.75187683105469,1
+Jane might char that tomato.,Jane might go bad that tomato.,syntax,argument_structure,causative,True,False,False,False,498,-49.61780548095703,-44.188323974609375,0
+Lawrence does sit down some waitress.,Lawrence does wave some waitress.,syntax,argument_structure,causative,True,False,False,False,499,-47.74673080444336,-47.30818176269531,0
+The teacher wasn't breaking that dish.,The teacher wasn't slipping that dish.,syntax,argument_structure,causative,True,False,False,False,500,-40.48846435546875,-43.60579299926758,1
+People condense those icicles.,People existed those icicles.,syntax,argument_structure,causative,True,False,False,False,501,-52.02165222167969,-41.59691619873047,0
+Walter isn't tightening the shawl.,Walter isn't disappearing the shawl.,syntax,argument_structure,causative,True,False,False,False,502,-57.35338592529297,-54.64318084716797,0
+Some customer sits down every waiter.,Some customer struggles every waiter.,syntax,argument_structure,causative,True,False,False,False,503,-43.25044250488281,-45.882118225097656,1
+Tamara can't bake these cakes.,Tamara can't fall these cakes.,syntax,argument_structure,causative,True,False,False,False,504,-42.036582946777344,-45.306541442871094,1
+Anne twisted every hat.,Anne vanishes every hat.,syntax,argument_structure,causative,True,False,False,False,505,-31.743457794189453,-40.431602478027344,1
+The patient burns the eggplant.,The patient disappeared the eggplant.,syntax,argument_structure,causative,True,False,False,False,506,-48.997257232666016,-48.98046875,0
+Michelle was sitting down Kirsten.,Michelle was blinking Kirsten.,syntax,argument_structure,causative,True,False,False,False,507,-33.40495300292969,-35.613136291503906,1
+Teresa isn't flattening scarves.,Teresa isn't appearing scarves.,syntax,argument_structure,causative,True,False,False,False,508,-60.013614654541016,-52.97075653076172,0
+Steve was wrinkling gloves.,Steve was wasting away gloves.,syntax,argument_structure,causative,True,False,False,False,509,-32.157981872558594,-40.06944274902344,1
+Steve stopped many cars.,Steve rusted many cars.,syntax,argument_structure,causative,True,False,False,False,510,-27.147457122802734,-38.17462921142578,1
+This teenager vaporized every lake.,This teenager appears every lake.,syntax,argument_structure,causative,True,False,False,False,511,-50.738685607910156,-39.75432586669922,0
+Some pedestrian is breaking the plane.,Some pedestrian is vanishing the plane.,syntax,argument_structure,causative,True,False,False,False,512,-38.722572326660156,-47.01542282104492,1
+Many teenagers loosen these skirts.,Many teenagers appeared these skirts.,syntax,argument_structure,causative,True,False,False,False,513,-42.77802276611328,-41.26005554199219,0
+Paula folded the sock.,Paula appeared the sock.,syntax,argument_structure,causative,True,False,False,False,514,-33.184410095214844,-33.30689239501953,1
+Allison hadn't steered a convertible.,Allison hadn't existed a convertible.,syntax,argument_structure,causative,True,False,False,False,515,-52.40345764160156,-49.039878845214844,0
+Jeffrey stretched the sweaters.,Jeffrey appeared the sweaters.,syntax,argument_structure,causative,True,False,False,False,516,-40.56766891479492,-38.648075103759766,0
+These boys wrinkle the gloves.,These boys vanished the gloves.,syntax,argument_structure,causative,True,False,False,False,517,-41.52893829345703,-35.053462982177734,0
+Kristin can crack this mirror.,Kristin can waste away this mirror.,syntax,argument_structure,causative,True,False,False,False,518,-39.65980911254883,-51.53235626220703,1
+Brad soaks a sock.,Brad existed a sock.,syntax,argument_structure,causative,True,False,False,False,519,-39.36283874511719,-30.957475662231445,0
+Andrew couldn't change these friends of April.,Andrew couldn't meet these friends of April.,syntax,argument_structure,causative,True,False,False,False,520,-48.52685546875,-50.2179069519043,1
+The Clintons break that dish.,The Clintons fell that dish.,syntax,argument_structure,causative,True,False,False,False,521,-43.234031677246094,-45.069419860839844,1
+Wendy wrinkles some skirt.,Wendy fell some skirt.,syntax,argument_structure,causative,True,False,False,False,522,-50.361419677734375,-45.17064666748047,0
+Carolyn wouldn't vaporize the ice cream.,Carolyn wouldn't disappear the ice cream.,syntax,argument_structure,causative,True,False,False,False,523,-57.44768524169922,-46.08849334716797,0
+Heidi had frozen the ice.,Heidi had disappeared the ice.,syntax,argument_structure,causative,True,False,False,False,524,-43.38459777832031,-44.630699157714844,1
+Charles isn't fading many lamps.,Charles isn't appearing many lamps.,syntax,argument_structure,causative,True,False,False,False,525,-43.078338623046875,-42.02709197998047,0
+Paula reunited Martha's cousins.,Paula sighed Martha's cousins.,syntax,argument_structure,causative,True,False,False,False,526,-47.977134704589844,-52.175689697265625,1
+Karla hasn't broken the convertible.,Karla hasn't vanished the convertible.,syntax,argument_structure,causative,True,False,False,False,527,-40.85577392578125,-47.94868850708008,1
+George assembled the pedestrians.,George littered the pedestrians.,syntax,argument_structure,causative,True,False,False,False,528,-29.993274688720703,-35.762447357177734,1
+A lot of adults trains the cashier.,A lot of adults saw the cashier.,syntax,argument_structure,causative,True,False,False,False,529,-63.13963317871094,-54.246944427490234,0
+These people trains Sharon.,These people wasted away Sharon.,syntax,argument_structure,causative,True,False,False,False,530,-33.61937713623047,-41.79254913330078,1
+Brad tipped over a lot of bicycles.,Brad fell a lot of bicycles.,syntax,argument_structure,causative,True,False,False,False,531,-38.735450744628906,-33.69471740722656,0
+Sandra dimmed those projectors.,Sandra disappeared those projectors.,syntax,argument_structure,causative,True,False,False,False,532,-63.11893081665039,-55.98956298828125,0
+The Clintons blacken all muffins.,The Clintons fall all muffins.,syntax,argument_structure,causative,True,False,False,False,533,-58.420589447021484,-50.44150161743164,0
+A lot of ladies vaporize most lakes.,A lot of ladies exist most lakes.,syntax,argument_structure,causative,True,False,False,False,534,-68.71043395996094,-57.87800216674805,0
+Alice shouldn't maneuver a car.,Alice shouldn't fall apart a car.,syntax,argument_structure,causative,True,False,False,False,535,-34.45062255859375,-34.41861343383789,0
+Some waitresses' dermatologists are breaking most skateboards.,Some waitresses' dermatologists are appearing most skateboards.,syntax,argument_structure,causative,True,False,False,False,536,-91.71187591552734,-94.05765533447266,1
+Many teachers tip over those forks.,Many teachers appeared those forks.,syntax,argument_structure,causative,True,False,False,False,537,-45.37453079223633,-39.79192352294922,0
+Cynthia could tip over a wheelbarrow.,Cynthia could fall apart a wheelbarrow.,syntax,argument_structure,causative,True,False,False,False,538,-81.29188537597656,-78.06039428710938,0
+Gina wasn't scorching that pepper.,Gina wasn't vanishing that pepper.,syntax,argument_structure,causative,True,False,False,False,539,-64.73439025878906,-57.404422760009766,0
+Maria can wrinkle some sock.,Maria can waste away some sock.,syntax,argument_structure,causative,True,False,False,False,540,-48.029640197753906,-48.86854553222656,1
+The sweater isn't worrying Raymond.,The sweater isn't talking Raymond.,syntax,argument_structure,causative,True,False,False,False,541,-43.091758728027344,-38.1717414855957,0
+Kimberley hadn't stretched most skirts.,Kimberley hadn't disappeared most skirts.,syntax,argument_structure,causative,True,False,False,False,542,-56.37704086303711,-56.19011688232422,0
+All waitresses had charred pies.,All waitresses had wasted away pies.,syntax,argument_structure,causative,True,False,False,False,543,-60.81359100341797,-66.56047821044922,1
+Charles crashes that carriage.,Charles fell apart that carriage.,syntax,argument_structure,causative,True,False,False,False,544,-34.558616638183594,-36.827964782714844,1
+These women crash some unicycles.,These women rust some unicycles.,syntax,argument_structure,causative,True,False,False,False,545,-55.874385833740234,-60.329078674316406,1
+A boy shut most gates.,A boy disappeared most gates.,syntax,argument_structure,causative,True,False,False,False,546,-50.03514099121094,-50.52626037597656,1
+Russell is benefiting Bill's dermatologists.,Russell is cooking Bill's dermatologists.,syntax,argument_structure,causative,True,False,False,False,547,-60.94091796875,-51.53471374511719,0
+Amy has rolled the truck.,Amy has appeared the truck.,syntax,argument_structure,causative,True,False,False,False,548,-28.614402770996094,-26.812564849853516,0
+Gina might marry a lot of brothers of Rose.,Gina might grin a lot of brothers of Rose.,syntax,argument_structure,causative,True,False,False,False,549,-69.51793670654297,-76.72965240478516,1
+The Lutherans grow most eggplants.,The Lutherans wasted away most eggplants.,syntax,argument_structure,causative,True,False,False,False,550,-63.10000991821289,-78.74505615234375,1
+William won't freeze every popsicle.,William won't exist every popsicle.,syntax,argument_structure,causative,True,False,False,False,551,-50.265472412109375,-49.763427734375,0
+A lot of patients have changed Larry.,A lot of patients have existed Larry.,syntax,argument_structure,causative,True,False,False,False,552,-50.523399353027344,-55.19379425048828,1
+Barbara was melting the lake.,Barbara was vanishing the lake.,syntax,argument_structure,causative,True,False,False,False,553,-36.91008377075195,-39.86357116699219,1
+Thomas turned the plane.,Thomas falls the plane.,syntax,argument_structure,causative,True,False,False,False,554,-22.080095291137695,-24.862648010253906,1
+Becky was fraying a lot of glasses.,Becky was wasting away a lot of glasses.,syntax,argument_structure,causative,True,False,False,False,555,-46.33153533935547,-48.025917053222656,1
+Vanessa freezes some water.,Vanessa disappears some water.,syntax,argument_structure,causative,True,False,False,False,556,-37.81888198852539,-37.38349533081055,0
+Rebecca was chipping every couch.,Rebecca was slipping every couch.,syntax,argument_structure,causative,True,False,False,False,557,-45.73370361328125,-39.739017486572266,0
+Eva grew this pepper.,Eva falls this pepper.,syntax,argument_structure,causative,True,False,False,False,558,-30.64066505432129,-28.39588165283203,0
+Lisa could fade every light.,Lisa could fall every light.,syntax,argument_structure,causative,True,False,False,False,559,-36.19752502441406,-32.8568115234375,0
+That patient drops that skateboard.,That patient falls that skateboard.,syntax,argument_structure,causative,True,False,False,False,560,-47.95747756958008,-45.483436584472656,0
+Jessica doesn't burn some steak.,Jessica doesn't appear some steak.,syntax,argument_structure,causative,True,False,False,False,561,-35.49845886230469,-38.47418212890625,1
+Most adults freeze some glaciers.,Most adults appear some glaciers.,syntax,argument_structure,causative,True,False,False,False,562,-41.15833282470703,-40.96607971191406,0
+Bruce tips over a couch.,Bruce wastes away a couch.,syntax,argument_structure,causative,True,False,False,False,563,-32.46995162963867,-36.33891296386719,1
+These teenagers wake up the Clintons.,These teenagers confer the Clintons.,syntax,argument_structure,causative,True,False,False,False,564,-40.109214782714844,-48.219970703125,1
+Jane has hidden Regina's electricians.,Jane has gotten fired Regina's electricians.,syntax,argument_structure,causative,True,False,False,False,565,-55.576438903808594,-60.79368591308594,1
+Brett warped this dress.,Brett wastes away this dress.,syntax,argument_structure,causative,True,False,False,False,566,-56.223121643066406,-61.094573974609375,1
+William stretched that hat.,William exists that hat.,syntax,argument_structure,causative,True,False,False,False,567,-31.025901794433594,-30.01242446899414,0
+The Borgias would accelerate many unicycles.,The Borgias would fall many unicycles.,syntax,argument_structure,causative,True,False,False,False,568,-89.15946960449219,-80.15682220458984,0
+The Clintons worry libraries.,The Clintons retaliate libraries.,syntax,argument_structure,causative,True,False,False,False,569,-46.2929573059082,-46.647769927978516,1
+Stephanie has assembled that university.,Stephanie has testified that university.,syntax,argument_structure,causative,True,False,False,False,570,-49.21842956542969,-50.40659713745117,1
+Tamara will twirl these shirts.,Tamara will exist these shirts.,syntax,argument_structure,causative,True,False,False,False,571,-58.521827697753906,-47.12981414794922,0
+Jacqueline baked the cilantro.,Jacqueline wasted away the cilantro.,syntax,argument_structure,causative,True,False,False,False,572,-52.86637496948242,-61.75776672363281,1
+Dana stretched Melinda.,Dana shrugged Melinda.,syntax,argument_structure,causative,True,False,False,False,573,-50.819847106933594,-53.817970275878906,1
+Deborah isn't dropping every cart.,Deborah isn't vanishing every cart.,syntax,argument_structure,causative,True,False,False,False,574,-47.46070098876953,-54.952552795410156,1
+All cashiers stretch most blouses.,All cashiers disappear most blouses.,syntax,argument_structure,causative,True,False,False,False,575,-57.7440299987793,-59.36209487915039,1
+A lot of teenagers benefit Susan's French teachers.,A lot of teenagers went fishing Susan's French teachers.,syntax,argument_structure,causative,True,False,False,False,576,-73.35011291503906,-75.78282928466797,1
+Judy does dry that shawl.,Judy does disappear that shawl.,syntax,argument_structure,causative,True,False,False,False,577,-50.54087829589844,-52.90843200683594,1
+Every man wasn't changing the cashier.,Every man wasn't seeing the cashier.,syntax,argument_structure,causative,True,False,False,False,578,-43.46951675415039,-43.365570068359375,0
+All adults stop the convertibles.,All adults vanished the convertibles.,syntax,argument_structure,causative,True,False,False,False,579,-48.37686538696289,-54.960548400878906,1
+Every man rolled many skateboards.,Every man wasted away many skateboards.,syntax,argument_structure,causative,True,False,False,False,580,-51.04340362548828,-58.861106872558594,1
+All guests had shattered some couch.,All guests had disappeared some couch.,syntax,argument_structure,causative,True,False,False,False,581,-46.717979431152344,-46.48552703857422,0
+The Borgias grow the bananas.,The Borgias vanished the bananas.,syntax,argument_structure,causative,True,False,False,False,582,-49.47026062011719,-52.890663146972656,1
+Many guests tighten most coats.,Many guests vanished most coats.,syntax,argument_structure,causative,True,False,False,False,583,-44.45389938354492,-45.791263580322266,1
+Peter didn't dry every scarf.,Peter didn't appear every scarf.,syntax,argument_structure,causative,True,False,False,False,584,-39.112030029296875,-38.13350296020508,0
+Sandra didn't drop that skateboard.,Sandra didn't fall apart that skateboard.,syntax,argument_structure,causative,True,False,False,False,585,-51.536685943603516,-61.463233947753906,1
+Rodney brightened some screens.,Rodney wasted away some screens.,syntax,argument_structure,causative,True,False,False,False,586,-39.743621826171875,-44.90851593017578,1
+Actresses evaporate a lot of icicles.,Actresses exist a lot of icicles.,syntax,argument_structure,causative,True,False,False,False,587,-56.20347595214844,-54.10200500488281,0
+Randolf rolls this bike.,Randolf rusts this bike.,syntax,argument_structure,causative,True,False,False,False,588,-39.057456970214844,-46.124969482421875,1
+Keith wrinkles this sock.,Keith vanished this sock.,syntax,argument_structure,causative,True,False,False,False,589,-36.24625778198242,-33.38039016723633,0
+Most women crash the unicycles.,Most women disappeared the unicycles.,syntax,argument_structure,causative,True,False,False,False,590,-56.02526092529297,-56.03337097167969,1
+Jerry hadn't cracked a lot of forks.,Jerry hadn't disappeared a lot of forks.,syntax,argument_structure,causative,True,False,False,False,591,-42.56595230102539,-43.66695022583008,1
+The Impressionists blacken the tomatoes.,The Impressionists disappear the tomatoes.,syntax,argument_structure,causative,True,False,False,False,592,-65.38724517822266,-57.686241149902344,0
+A girl hasn't burned that muffin.,A girl hasn't disappeared that muffin.,syntax,argument_structure,causative,True,False,False,False,593,-53.978084564208984,-58.46743392944336,1
+Deanna charred this spinach.,Deanna falls this spinach.,syntax,argument_structure,causative,True,False,False,False,594,-46.78507614135742,-41.32117462158203,0
+Claire didn't fold the gloves.,Claire didn't vanish the gloves.,syntax,argument_structure,causative,True,False,False,False,595,-44.97523498535156,-50.542728424072266,1
+Paula ripened the pepper.,Paula wasted away the pepper.,syntax,argument_structure,causative,True,False,False,False,596,-40.30393981933594,-43.25665283203125,1
+Many waiters scorched pasta.,Many waiters fell pasta.,syntax,argument_structure,causative,True,False,False,False,597,-59.82941818237305,-46.17456817626953,0
+Kristin was maneuvering the convertible.,Kristin was appearing the convertible.,syntax,argument_structure,causative,True,False,False,False,598,-47.046775817871094,-40.96377944946289,0
+Most teachers twist these coats.,Most teachers fall these coats.,syntax,argument_structure,causative,True,False,False,False,599,-40.518959045410156,-37.38053894042969,0
+Those people grow most bananas.,Those people fell most bananas.,syntax,argument_structure,causative,True,False,False,False,600,-29.656723022460938,-33.04783248901367,1
+Most actors twirl those sweaters.,Most actors fell those sweaters.,syntax,argument_structure,causative,True,False,False,False,601,-58.04639434814453,-44.59892272949219,0
+Wendy will bake fish.,Wendy will appear fish.,syntax,argument_structure,causative,True,False,False,False,602,-40.629737854003906,-43.698001861572266,1
+The Impressionists stand up Timothy's French teachers.,The Impressionists cooperate Timothy's French teachers.,syntax,argument_structure,causative,True,False,False,False,603,-77.56346893310547,-79.45233154296875,1
+Waitresses tighten shirts.,Waitresses wasted away shirts.,syntax,argument_structure,causative,True,False,False,False,604,-39.55541229248047,-47.97212219238281,1
+Meredith had condensed many rivers.,Meredith had wasted away many rivers.,syntax,argument_structure,causative,True,False,False,False,605,-52.3692626953125,-56.203887939453125,1
+Meredith hadn't frozen this ice.,Meredith hadn't fallen this ice.,syntax,argument_structure,causative,True,False,False,False,606,-53.75287628173828,-50.31397247314453,0
+Pamela maneuvers every bicycle.,Pamela slips every bicycle.,syntax,argument_structure,causative,True,False,False,False,607,-59.10192108154297,-52.29515838623047,0
+A student has stood up Deanna's nieces.,A student has concurred Deanna's nieces.,syntax,argument_structure,causative,True,False,False,False,608,-85.50965881347656,-99.00494384765625,1
+These waiters shut a lot of eyes.,These waiters disappeared a lot of eyes.,syntax,argument_structure,causative,True,False,False,False,609,-47.32596206665039,-50.58954620361328,1
+A lot of doctors couldn't sell that rice.,A lot of doctors couldn't fall that rice.,syntax,argument_structure,causative,True,False,False,False,610,-53.709346771240234,-57.9344367980957,1
+Some teenager crumpled every scarf.,Some teenager disappears every scarf.,syntax,argument_structure,causative,True,False,False,False,611,-61.63467025756836,-45.65251922607422,0
+Most ladies tip over these glasses.,Most ladies fall these glasses.,syntax,argument_structure,causative,True,False,False,False,612,-45.93470764160156,-39.71349334716797,0
+Catherine moved the teacher.,Catherine approves the teacher.,syntax,argument_structure,causative,True,False,False,False,613,-36.45138931274414,-44.034393310546875,1
+Chad frays this blouse.,Chad appeared this blouse.,syntax,argument_structure,causative,True,False,False,False,614,-59.62628173828125,-52.257415771484375,0
+The women stop some planes.,The women existed some planes.,syntax,argument_structure,causative,True,False,False,False,615,-35.672447204589844,-36.896095275878906,1
+Benjamin worries Allison.,Benjamin bakes Allison.,syntax,argument_structure,causative,True,False,False,False,616,-35.23374938964844,-41.074493408203125,1
+That man wasn't sitting down Sara.,That man wasn't exercising Sara.,syntax,argument_structure,causative,True,False,False,False,617,-41.61712646484375,-43.02641296386719,1
+These guests evaporate those rivers.,These guests waste away those rivers.,syntax,argument_structure,causative,True,False,False,False,618,-39.21019744873047,-46.08705520629883,1
+Roger baked most muffins.,Roger fell most muffins.,syntax,argument_structure,causative,True,False,False,False,619,-39.36949920654297,-37.42388153076172,0
+Most boys tighten the skirts.,Most boys vanished the skirts.,syntax,argument_structure,causative,True,False,False,False,620,-36.01985168457031,-38.79948806762695,1
+The people unfold a lot of jackets.,The people appear a lot of jackets.,syntax,argument_structure,causative,True,False,False,False,621,-43.91814422607422,-36.76508331298828,0
+Tonya does evaporate some river.,Tonya does waste away some river.,syntax,argument_structure,causative,True,False,False,False,622,-49.28333282470703,-53.80426025390625,1
+Some teenagers wash the friends of Douglas.,Some teenagers eat the friends of Douglas.,syntax,argument_structure,causative,True,False,False,False,623,-52.546836853027344,-48.14177703857422,0
+The waitress washes Regina.,The waitress went fishing Regina.,syntax,argument_structure,causative,True,False,False,False,624,-43.273475646972656,-42.7158203125,0
+Andrea burns chicken.,Andrea exists chicken.,syntax,argument_structure,causative,True,False,False,False,625,-37.87248229980469,-36.63230895996094,0
+Alexander does slow this bike.,Alexander does exist this bike.,syntax,argument_structure,causative,True,False,False,False,626,-33.104469299316406,-34.37361145019531,1
+Some senators flatten the hats.,Some senators exist the hats.,syntax,argument_structure,causative,True,False,False,False,627,-50.309043884277344,-44.85132598876953,0
+Most doctors are melting this river.,Most doctors are disappearing this river.,syntax,argument_structure,causative,True,False,False,False,628,-40.093990325927734,-39.44802474975586,0
+Most drivers steer the cars.,Most drivers rust the cars.,syntax,argument_structure,causative,True,False,False,False,629,-34.89326477050781,-40.626136779785156,1
+Michael grows every tomato.,Michael goes bad every tomato.,syntax,argument_structure,causative,True,False,False,False,630,-34.67240524291992,-42.20311737060547,1
+Tina should shut mouths.,Tina should appear mouths.,syntax,argument_structure,causative,True,False,False,False,631,-42.602630615234375,-43.17595672607422,1
+That woman spun around the customer's lawyers.,That woman argued the customer's lawyers.,syntax,argument_structure,causative,True,False,False,False,632,-55.09764862060547,-48.363861083984375,0
+Jerry will darken those lights.,Jerry will waste away those lights.,syntax,argument_structure,causative,True,False,False,False,633,-43.03361511230469,-43.29615020751953,1
+Diane baked this tomato.,Diane goes bad this tomato.,syntax,argument_structure,causative,True,False,False,False,634,-48.13873291015625,-56.1004638671875,1
+The Impressionists broke this couch.,The Impressionists existed this couch.,syntax,argument_structure,causative,True,False,False,False,635,-55.84336853027344,-60.25001525878906,1
+Amelia wasn't standing up most brothers of Craig.,Amelia wasn't reacting most brothers of Craig.,syntax,argument_structure,causative,True,False,False,False,636,-67.3377456665039,-68.48495483398438,1
+These jackets were worrying many actresses' ex-girlfriend.,These jackets were answering many actresses' ex-girlfriend.,syntax,argument_structure,causative,True,False,False,False,637,-71.92350769042969,-73.2796630859375,1
+Many teenagers shrink all shirts.,Many teenagers disappear all shirts.,syntax,argument_structure,causative,True,False,False,False,638,-42.67945861816406,-39.50245666503906,0
+Sonia hasn't stood up Allison.,Sonia hasn't died Allison.,syntax,argument_structure,causative,True,False,False,False,639,-53.253578186035156,-51.44700241088867,0
+Debra did shrink most glasses.,Debra did vanish most glasses.,syntax,argument_structure,causative,True,False,False,False,640,-46.36524200439453,-47.47887420654297,1
+All drivers haven't dimmed most screens.,All drivers haven't disappeared most screens.,syntax,argument_structure,causative,True,False,False,False,641,-59.81950759887695,-47.84507751464844,0
+Carlos doesn't marry many cashiers.,Carlos doesn't work hard many cashiers.,syntax,argument_structure,causative,True,False,False,False,642,-52.284393310546875,-57.292503356933594,1
+A lot of senators hid Edward.,A lot of senators saw Edward.,syntax,argument_structure,causative,True,False,False,False,643,-62.185935974121094,-57.89915466308594,0
+This child has burned this cucumber.,This child has disappeared this cucumber.,syntax,argument_structure,causative,True,False,False,False,644,-43.32819366455078,-46.72053527832031,1
+Victoria frays this sweater.,Victoria vanishes this sweater.,syntax,argument_structure,causative,True,False,False,False,645,-40.40593719482422,-40.60906219482422,1
+The Clintons shatter these chairs.,The Clintons existed these chairs.,syntax,argument_structure,causative,True,False,False,False,646,-51.400691986083984,-48.740169525146484,0
+This closet hurts Kayla's dentist.,This closet concurred Kayla's dentist.,syntax,argument_structure,causative,True,False,False,False,647,-55.8816032409668,-75.55964660644531,1
+These fish worry that driver's grandmother.,These fish sang that driver's grandmother.,syntax,argument_structure,causative,True,False,False,False,648,-47.436004638671875,-45.45410919189453,0
+Those teenagers steer those convertibles.,Those teenagers slipped those convertibles.,syntax,argument_structure,causative,True,False,False,False,649,-57.27976989746094,-58.09706115722656,1
+Lori shut a lot of mouths.,Lori fell a lot of mouths.,syntax,argument_structure,causative,True,False,False,False,650,-40.82691192626953,-42.76908874511719,1
+Nina can crack computers.,Nina can slip computers.,syntax,argument_structure,causative,True,False,False,False,651,-46.572776794433594,-45.85796356201172,0
+Guy is sitting down a patient's mentors.,Guy is sneezing a patient's mentors.,syntax,argument_structure,causative,True,False,False,False,652,-47.28813171386719,-62.32810592651367,1
+Every man hadn't reunited some women.,Every man hadn't screamed some women.,syntax,argument_structure,causative,True,False,False,False,653,-46.096336364746094,-43.820648193359375,0
+These waiters chip these carts.,These waiters fell apart these carts.,syntax,argument_structure,causative,True,False,False,False,654,-55.618995666503906,-58.459171295166016,1
+Mary had loosened the dress.,Mary had wasted away the dress.,syntax,argument_structure,causative,True,False,False,False,655,-41.9945068359375,-41.29069900512695,0
+Stephanie crumples a sweater.,Stephanie wasted away a sweater.,syntax,argument_structure,causative,True,False,False,False,656,-56.40432357788086,-49.612709045410156,0
+A girl baked that pasta.,A girl fell that pasta.,syntax,argument_structure,causative,True,False,False,False,657,-51.14303207397461,-50.056602478027344,0
+Scott isn't closing some window.,Scott isn't existing some window.,syntax,argument_structure,causative,True,False,False,False,658,-36.05108642578125,-44.17661666870117,1
+Becca slows this unicycle.,Becca falls apart this unicycle.,syntax,argument_structure,causative,True,False,False,False,659,-48.74662780761719,-52.96852111816406,1
+Tara wasn't shattering that bike.,Tara wasn't rusting that bike.,syntax,argument_structure,causative,True,False,False,False,660,-48.91459655761719,-46.70166015625,0
+William spins around Patricia.,William protests Patricia.,syntax,argument_structure,causative,True,False,False,False,661,-34.53944396972656,-31.676395416259766,0
+Scott won't tighten most sweaters.,Scott won't exist most sweaters.,syntax,argument_structure,causative,True,False,False,False,662,-43.658447265625,-42.461814880371094,0
+A lot of waiters twisted this shoe.,A lot of waiters vanished this shoe.,syntax,argument_structure,causative,True,False,False,False,663,-70.2235107421875,-72.18968963623047,1
+Stacy darkens some candle.,Stacy appeared some candle.,syntax,argument_structure,causative,True,False,False,False,664,-53.19449996948242,-42.550113677978516,0
+Irene wasn't healing Kirsten.,Irene wasn't talking Kirsten.,syntax,argument_structure,causative,True,False,False,False,665,-54.304908752441406,-46.5870246887207,0
+Stephanie is tightening a sweater.,Stephanie is appearing a sweater.,syntax,argument_structure,causative,True,False,False,False,666,-48.777774810791016,-43.584861755371094,0
+Pamela would roll this plane.,Pamela would slip this plane.,syntax,argument_structure,causative,True,False,False,False,667,-51.6070556640625,-51.51819610595703,0
+Melanie flattens the dress.,Melanie wasted away the dress.,syntax,argument_structure,causative,True,False,False,False,668,-44.46086883544922,-42.94051742553711,0
+Beverly warps that glove.,Beverly falls that glove.,syntax,argument_structure,causative,True,False,False,False,669,-67.98796844482422,-55.18054962158203,0
+Nina evaporates every river.,Nina appears every river.,syntax,argument_structure,causative,True,False,False,False,670,-50.027252197265625,-46.370018005371094,0
+Sally shrank most sweaters.,Sally appeared most sweaters.,syntax,argument_structure,causative,True,False,False,False,671,-62.053184509277344,-46.661136627197266,0
+Raymond would crumple hats.,Raymond would exist hats.,syntax,argument_structure,causative,True,False,False,False,672,-56.72021484375,-42.41163635253906,0
+Melissa maneuvered carriages.,Melissa existed carriages.,syntax,argument_structure,causative,True,False,False,False,673,-58.95288848876953,-38.5478515625,0
+Debra is stretching most sweaters.,Debra is vanishing most sweaters.,syntax,argument_structure,causative,True,False,False,False,674,-45.64036560058594,-50.155479431152344,1
+All patients flung open some doors.,All patients vanish some doors.,syntax,argument_structure,causative,True,False,False,False,675,-52.87358856201172,-44.416847229003906,0
+Bill changed many actresses.,Bill existed many actresses.,syntax,argument_structure,causative,True,False,False,False,676,-30.96381378173828,-34.90404510498047,1
+The Impressionists stretch Beverly's friends.,The Impressionists answered Beverly's friends.,syntax,argument_structure,causative,True,False,False,False,677,-70.37730407714844,-67.56903076171875,0
+Matt twirls a shirt.,Matt vanishes a shirt.,syntax,argument_structure,causative,True,False,False,False,678,-41.968265533447266,-35.52857208251953,0
+Katherine was standing up Nina's contractor.,Katherine was lying Nina's contractor.,syntax,argument_structure,causative,True,False,False,False,679,-57.689979553222656,-55.748233795166016,0
+The Impressionists dim many spotlights.,The Impressionists fell many spotlights.,syntax,argument_structure,causative,True,False,False,False,680,-76.96633911132812,-72.05699157714844,0
+Edward dimmed a candle.,Edward wasted away a candle.,syntax,argument_structure,causative,True,False,False,False,681,-36.59841537475586,-37.111610412597656,1
+Theodore might hide away some dancers' French teacher.,Theodore might learn some dancers' French teacher.,syntax,argument_structure,causative,True,False,False,False,682,-85.37771606445312,-71.32432556152344,0
+Naomi was closing a window.,Naomi was falling a window.,syntax,argument_structure,causative,True,False,False,False,683,-37.74357986450195,-38.59449768066406,1
+A lot of adults soak a lot of sweaters.,A lot of adults vanished a lot of sweaters.,syntax,argument_structure,causative,True,False,False,False,684,-59.901084899902344,-62.12689208984375,1
+Many patients open the boxes.,Many patients appeared the boxes.,syntax,argument_structure,causative,True,False,False,False,685,-31.398622512817383,-36.33015441894531,1
+Jesus does loosen a jacket.,Jesus does waste away a jacket.,syntax,argument_structure,causative,True,False,False,False,686,-36.121246337890625,-43.27644729614258,1
+Deborah isn't freezing these lakes.,Deborah isn't vanishing these lakes.,syntax,argument_structure,causative,True,False,False,False,687,-44.1818962097168,-50.24187469482422,1
+Brad has unfolded these shawls.,Brad has disappeared these shawls.,syntax,argument_structure,causative,True,False,False,False,688,-53.583316802978516,-50.51227569580078,0
+Stacey cracked a lot of convertibles.,Stacey disappeared a lot of convertibles.,syntax,argument_structure,causative,True,False,False,False,689,-64.45294952392578,-63.861549377441406,0
+Stacy does break some vase.,Stacy does exist some vase.,syntax,argument_structure,causative,True,False,False,False,690,-49.371158599853516,-53.11179733276367,1
+Joel wrinkled those gloves.,Joel existed those gloves.,syntax,argument_structure,causative,True,False,False,False,691,-39.596588134765625,-38.015357971191406,0
+Claire wouldn't close many doors.,Claire wouldn't fall many doors.,syntax,argument_structure,causative,True,False,False,False,692,-47.93714904785156,-47.263607025146484,0
+Eva's niece is healing some guests' supervisors.,Eva's niece is compromising some guests' supervisors.,syntax,argument_structure,causative,True,False,False,False,693,-63.935340881347656,-65.31428527832031,1
+Jeffrey hid away Raymond's plumber.,Jeffrey complained Raymond's plumber.,syntax,argument_structure,causative,True,False,False,False,694,-61.7144889831543,-54.754249572753906,0
+Adults have worried the museums.,Adults have met the museums.,syntax,argument_structure,causative,True,False,False,False,695,-45.71831512451172,-40.30952835083008,0
+Monet couldn't dry some scarves.,Monet couldn't appear some scarves.,syntax,argument_structure,causative,True,False,False,False,696,-55.38427734375,-57.68157196044922,1
+The boy shrank that hat.,The boy appeared that hat.,syntax,argument_structure,causative,True,False,False,False,697,-43.41656494140625,-34.42237091064453,0
+Walter stretched every student's contractor.,Walter littered every student's contractor.,syntax,argument_structure,causative,True,False,False,False,698,-51.386783599853516,-56.67985153198242,1
+Many guys open those windows.,Many guys vanish those windows.,syntax,argument_structure,causative,True,False,False,False,699,-32.76983642578125,-42.39628219604492,1
+Tina hasn't crumpled blouses.,Tina hasn't appeared blouses.,syntax,argument_structure,causative,True,False,False,False,700,-66.94244384765625,-46.34915542602539,0
+Judy loosens a shoe.,Judy existed a shoe.,syntax,argument_structure,causative,True,False,False,False,701,-41.05634307861328,-32.14303970336914,0
+Christine might condense that icicle.,Christine might disappear that icicle.,syntax,argument_structure,causative,True,False,False,False,702,-69.50055694580078,-57.53125,0
+That child ripens this pepper.,That child disappears this pepper.,syntax,argument_structure,causative,True,False,False,False,703,-49.49458312988281,-40.641387939453125,0
+Linda would melt this water.,Linda would waste away this water.,syntax,argument_structure,causative,True,False,False,False,704,-41.47154998779297,-52.04890823364258,1
+Homer tipped over the mirrors.,Homer fell apart the mirrors.,syntax,argument_structure,causative,True,False,False,False,705,-41.4963264465332,-43.87495803833008,1
+Walter hasn't evaporated water.,Walter hasn't vanished water.,syntax,argument_structure,causative,True,False,False,False,706,-42.76265335083008,-38.4302864074707,0
+Rachelle had folded that coat.,Rachelle had wasted away that coat.,syntax,argument_structure,causative,True,False,False,False,707,-41.64111328125,-53.30439758300781,1
+These actresses brighten all spotlights.,These actresses disappear all spotlights.,syntax,argument_structure,causative,True,False,False,False,708,-57.07911682128906,-50.56757354736328,0
+Rachel isn't assembling the company.,Rachel isn't joking around the company.,syntax,argument_structure,causative,True,False,False,False,709,-34.27891540527344,-33.35219955444336,0
+Many pedestrians close gates.,Many pedestrians appear gates.,syntax,argument_structure,causative,True,False,False,False,710,-35.09287643432617,-37.71515655517578,1
+The actresses burn a lot of peppers.,The actresses vanish a lot of peppers.,syntax,argument_structure,causative,True,False,False,False,711,-42.60093307495117,-48.74728012084961,1
+Tracy twisted that coat.,Tracy appears that coat.,syntax,argument_structure,causative,True,False,False,False,712,-38.331382751464844,-33.45823669433594,0
+Denise's dermatologist does sell most rivers.,Denise's dermatologist does vanish most rivers.,syntax,argument_structure,causative,True,False,False,False,713,-67.646484375,-72.56446838378906,1
+Customers bake many casseroles.,Customers appeared many casseroles.,syntax,argument_structure,causative,True,False,False,False,714,-54.914608001708984,-55.73529815673828,1
+Some patient hid most books about art.,Some patient disagreed most books about art.,syntax,argument_structure,causative,True,False,False,False,715,-53.39546585083008,-54.879722595214844,1
+Sally hasn't flung open many eyes.,Sally hasn't fallen many eyes.,syntax,argument_structure,causative,True,False,False,False,716,-65.9836196899414,-48.90937042236328,0
+Some teachers fold a lot of dresses.,Some teachers wasted away a lot of dresses.,syntax,argument_structure,causative,True,False,False,False,717,-42.14571762084961,-50.683448791503906,1
+All patients train these waitresses.,All patients concurred these waitresses.,syntax,argument_structure,causative,True,False,False,False,718,-53.140419006347656,-67.75616455078125,1
+Samuel was assembling the Impressionists.,Samuel was learning the Impressionists.,syntax,argument_structure,causative,True,False,False,False,719,-59.926063537597656,-53.63285446166992,0
+Jane washes Stephen.,Jane speaks up Stephen.,syntax,argument_structure,causative,True,False,False,False,720,-29.998809814453125,-33.62164306640625,1
+Some adults were benefiting Samuel's grandfathers.,Some adults were retaliating Samuel's grandfathers.,syntax,argument_structure,causative,True,False,False,False,721,-62.304325103759766,-61.51185989379883,0
+Pamela hasn't darkened those lamps.,Pamela hasn't existed those lamps.,syntax,argument_structure,causative,True,False,False,False,722,-63.899452209472656,-58.6591911315918,0
+Teresa woke up Claire's dentist.,Teresa complains Claire's dentist.,syntax,argument_structure,causative,True,False,False,False,723,-56.54075241088867,-57.09638214111328,1
+Andrea had brightened most screens.,Andrea had disappeared most screens.,syntax,argument_structure,causative,True,False,False,False,724,-53.75575256347656,-46.968849182128906,0
+Gary had changed Brad's bosses.,Gary had negotiated Brad's bosses.,syntax,argument_structure,causative,True,False,False,False,725,-45.413028717041016,-52.89295959472656,1
+Erin slowed that car.,Erin exists that car.,syntax,argument_structure,causative,True,False,False,False,726,-35.53238296508789,-32.74419403076172,0
+All patients brighten spotlights.,All patients fell spotlights.,syntax,argument_structure,causative,True,False,False,False,727,-52.06370544433594,-45.83722686767578,0
+Lucille cracks a glass.,Lucille falls a glass.,syntax,argument_structure,causative,True,False,False,False,728,-36.67070388793945,-32.19289016723633,0
+Joseph couldn't char some pies.,Joseph couldn't waste away some pies.,syntax,argument_structure,causative,True,False,False,False,729,-48.59724807739258,-48.89373016357422,1
+Paul is opening that eye.,Paul is appearing that eye.,syntax,argument_structure,causative,True,False,False,False,730,-32.19789123535156,-34.75775146484375,1
+Tiffany wasn't melting some icicle.,Tiffany wasn't falling some icicle.,syntax,argument_structure,causative,True,False,False,False,731,-69.70027160644531,-64.37648010253906,0
+Andrew hadn't twirled a lot of skirts.,Andrew hadn't existed a lot of skirts.,syntax,argument_structure,causative,True,False,False,False,732,-56.15798568725586,-39.28956985473633,0
+Guy has flung open this closet.,Guy has wasted away this closet.,syntax,argument_structure,causative,True,False,False,False,733,-45.67032241821289,-40.91255187988281,0
+Steven doesn't bake some rice.,Steven doesn't exist some rice.,syntax,argument_structure,causative,True,False,False,False,734,-32.27574157714844,-34.63935852050781,1
+Many teenagers stop these bikes.,Many teenagers slip these bikes.,syntax,argument_structure,causative,True,False,False,False,735,-39.870628356933594,-42.52680206298828,1
+Some person frayed the sweater.,Some person wastes away the sweater.,syntax,argument_structure,causative,True,False,False,False,736,-43.800960540771484,-45.27867126464844,1
+Veronica had soaked all gloves.,Veronica had existed all gloves.,syntax,argument_structure,causative,True,False,False,False,737,-45.65715026855469,-44.32590103149414,0
+Connie wasn't stretching Alan.,Connie wasn't shouting Alan.,syntax,argument_structure,causative,True,False,False,False,738,-43.556243896484375,-41.07194137573242,0
+All cashiers scorch those mushrooms.,All cashiers vanish those mushrooms.,syntax,argument_structure,causative,True,False,False,False,739,-64.85987091064453,-57.53324508666992,0
+Christine could crash the convertibles.,Christine could slip the convertibles.,syntax,argument_structure,causative,True,False,False,False,740,-58.38884735107422,-58.06548309326172,0
+Wayne was crumpling a glove.,Wayne was disappearing a glove.,syntax,argument_structure,causative,True,False,False,False,741,-59.971595764160156,-44.79838180541992,0
+Most ladies crack those dishes.,Most ladies slipped those dishes.,syntax,argument_structure,causative,True,False,False,False,742,-40.26062774658203,-40.6627197265625,1
+Stacy won't sell computers.,Stacy won't slip computers.,syntax,argument_structure,causative,True,False,False,False,743,-36.285064697265625,-42.70985412597656,1
+Every doctor shrinks that dress.,Every doctor falls that dress.,syntax,argument_structure,causative,True,False,False,False,744,-44.90437316894531,-32.847434997558594,0
+Customers do move this friend of Kathleen.,Customers do vanish this friend of Kathleen.,syntax,argument_structure,causative,True,False,False,False,745,-51.07835388183594,-58.11198425292969,1
+Laura might grow bananas.,Laura might fall bananas.,syntax,argument_structure,causative,True,False,False,False,746,-29.961872100830078,-30.603038787841797,1
+Randolf tips over this window.,Randolf fell this window.,syntax,argument_structure,causative,True,False,False,False,747,-41.520835876464844,-36.29193115234375,0
+Leslie grows a pepper.,Leslie existed a pepper.,syntax,argument_structure,causative,True,False,False,False,748,-38.71632385253906,-41.24078369140625,1
+James won't stretch Elizabeth.,James won't nod Elizabeth.,syntax,argument_structure,causative,True,False,False,False,749,-32.06173324584961,-35.52158737182617,1
+Maria wouldn't break some bikes.,Maria wouldn't fall apart some bikes.,syntax,argument_structure,causative,True,False,False,False,750,-33.926483154296875,-44.09575653076172,1
+Ella is hiding away Tara.,Ella is whispering Tara.,syntax,argument_structure,causative,True,False,False,False,751,-55.50456237792969,-51.50788116455078,0
+Theodore's sister was selling this truck.,Theodore's sister was slipping this truck.,syntax,argument_structure,causative,True,False,False,False,752,-48.32431411743164,-53.225135803222656,1
+Most actresses closed some box.,Most actresses wasted away some box.,syntax,argument_structure,causative,True,False,False,False,753,-39.47309112548828,-50.72703552246094,1
+Tonya changed the Impressionists' supervisors.,Tonya collaborated the Impressionists' supervisors.,syntax,argument_structure,causative,True,False,False,False,754,-71.39453125,-78.16735076904297,1
+Becky is fraying the dress.,Becky is wasting away the dress.,syntax,argument_structure,causative,True,False,False,False,755,-42.553810119628906,-42.872398376464844,1
+Heidi hasn't wrinkled every blouse.,Heidi hasn't wasted away every blouse.,syntax,argument_structure,causative,True,False,False,False,756,-61.169315338134766,-65.46495819091797,1
+Richard blackens some cilantro.,Richard disappears some cilantro.,syntax,argument_structure,causative,True,False,False,False,757,-51.66218566894531,-42.62425231933594,0
+Some senators roll some bicycles.,Some senators fall apart some bicycles.,syntax,argument_structure,causative,True,False,False,False,758,-49.75791931152344,-52.20407485961914,1
+The Borgias reunite most museums.,The Borgias struggled most museums.,syntax,argument_structure,causative,True,False,False,False,759,-65.40296936035156,-58.0749626159668,0
+Jennifer unfolds some blouse.,Jennifer disappeared some blouse.,syntax,argument_structure,causative,True,False,False,False,760,-40.117942810058594,-38.627052307128906,0
+Carol soaks that skirt.,Carol appears that skirt.,syntax,argument_structure,causative,True,False,False,False,761,-46.65876770019531,-36.013648986816406,0
+Nieces of Elaine hadn't broken this chair.,Nieces of Elaine hadn't wasted away this chair.,syntax,argument_structure,causative,True,False,False,False,762,-74.75108337402344,-87.56315612792969,1
+Samuel had slowed most bicycles.,Samuel had appeared most bicycles.,syntax,argument_structure,causative,True,False,False,False,763,-49.760040283203125,-42.2232780456543,0
+This ladder hurts every grandmother of Phillip.,This ladder grins every grandmother of Phillip.,syntax,argument_structure,causative,True,False,False,False,764,-58.14421844482422,-70.83474731445312,1
+Rebecca hasn't slowed these cars.,Rebecca hasn't slipped these cars.,syntax,argument_structure,causative,True,False,False,False,765,-41.17509460449219,-39.111690521240234,0
+Dennis worries some patients' granddaughter.,Dennis complains some patients' granddaughter.,syntax,argument_structure,causative,True,False,False,False,766,-61.60573196411133,-66.01821899414062,1
+Sabrina twists some dress.,Sabrina vanishes some dress.,syntax,argument_structure,causative,True,False,False,False,767,-43.095359802246094,-46.13541793823242,1
+Sherry hadn't spun around Tiffany.,Sherry hadn't learned Tiffany.,syntax,argument_structure,causative,True,False,False,False,768,-61.94380187988281,-49.49602127075195,0
+Beverly steers the convertible.,Beverly slipped the convertible.,syntax,argument_structure,causative,True,False,False,False,769,-63.78333282470703,-51.760887145996094,0
+Carrie isn't stopping this carriage.,Carrie isn't slipping this carriage.,syntax,argument_structure,causative,True,False,False,False,770,-45.03374099731445,-49.115989685058594,1
+Some ladies were accelerating many bikes.,Some ladies were vanishing many bikes.,syntax,argument_structure,causative,True,False,False,False,771,-49.40576171875,-50.026039123535156,1
+Tonya soaks every scarf.,Tonya existed every scarf.,syntax,argument_structure,causative,True,False,False,False,772,-48.46430969238281,-40.671348571777344,0
+Kristen hid away Vincent.,Kristen speaks up Vincent.,syntax,argument_structure,causative,True,False,False,False,773,-42.08448791503906,-38.711692810058594,0
+Sheila hasn't trained all cousins of Raymond.,Sheila hasn't read all cousins of Raymond.,syntax,argument_structure,causative,True,False,False,False,774,-64.333740234375,-61.9371337890625,0
+Emily chips a bicycle.,Emily falls a bicycle.,syntax,argument_structure,causative,True,False,False,False,775,-28.741724014282227,-24.767860412597656,0
+Becky hadn't flattened some blouse.,Becky hadn't existed some blouse.,syntax,argument_structure,causative,True,False,False,False,776,-49.90599060058594,-49.37538146972656,0
+The drivers dry some pants.,The drivers waste away some pants.,syntax,argument_structure,causative,True,False,False,False,777,-41.09998321533203,-50.184566497802734,1
+The Lutherans can marry Walter's sons.,The Lutherans can cope Walter's sons.,syntax,argument_structure,causative,True,False,False,False,778,-57.891788482666016,-63.063682556152344,1
+Donna scorches some pasta.,Donna falls some pasta.,syntax,argument_structure,causative,True,False,False,False,779,-53.96771240234375,-40.69020462036133,0
+Diana frays that skirt.,Diana wastes away that skirt.,syntax,argument_structure,causative,True,False,False,False,780,-55.81083679199219,-59.289451599121094,1
+Students reunite the Clintons.,Students nod the Clintons.,syntax,argument_structure,causative,True,False,False,False,781,-43.227081298828125,-37.1075325012207,0
+Every student moves Carolyn.,Every student muttered Carolyn.,syntax,argument_structure,causative,True,False,False,False,782,-34.351768493652344,-42.506431579589844,1
+Joseph doesn't move Russell.,Joseph doesn't shrug Russell.,syntax,argument_structure,causative,True,False,False,False,783,-29.65079116821289,-38.96710205078125,1
+Ella was accelerating some carriage.,Ella was falling apart some carriage.,syntax,argument_structure,causative,True,False,False,False,784,-57.45669174194336,-57.64099884033203,1
+That student dries some hat.,That student falls some hat.,syntax,argument_structure,causative,True,False,False,False,785,-51.646583557128906,-41.774051666259766,0
+The fork hurt John.,The fork gets fired John.,syntax,argument_structure,causative,True,False,False,False,786,-37.246070861816406,-43.31781768798828,1
+Stacey shrinks a shawl.,Stacey disappeared a shawl.,syntax,argument_structure,causative,True,False,False,False,787,-65.03548431396484,-55.67323303222656,0
+Jacqueline was reuniting some legislature.,Jacqueline was protesting some legislature.,syntax,argument_structure,causative,True,False,False,False,788,-64.64154052734375,-49.67813491821289,0
+Jennifer warped some shoes.,Jennifer disappeared some shoes.,syntax,argument_structure,causative,True,False,False,False,789,-35.389129638671875,-30.154212951660156,0
+Patrick will spin around Barbara.,Patrick will boast Barbara.,syntax,argument_structure,causative,True,False,False,False,790,-40.987186431884766,-35.96582794189453,0
+Samuel is hiding Naomi.,Samuel is cheering Naomi.,syntax,argument_structure,causative,True,False,False,False,791,-36.20395278930664,-40.65665817260742,1
+Some actress wasn't brightening that screen.,Some actress wasn't appearing that screen.,syntax,argument_structure,causative,True,False,False,False,792,-55.65419006347656,-46.41862869262695,0
+Stephanie didn't heal some granddaughters of Becky.,Stephanie didn't answer some granddaughters of Becky.,syntax,argument_structure,causative,True,False,False,False,793,-84.09313201904297,-79.3854751586914,0
+Those guests bake a lot of bananas.,Those guests appear a lot of bananas.,syntax,argument_structure,causative,True,False,False,False,794,-40.43290710449219,-38.966346740722656,0
+Rachel didn't assemble every organization.,Rachel didn't collaborate every organization.,syntax,argument_structure,causative,True,False,False,False,795,-37.56391906738281,-38.28203201293945,1
+Carol hid Curtis.,Carol comes here Curtis.,syntax,argument_structure,causative,True,False,False,False,796,-34.87565994262695,-38.200775146484375,1
+Martha could move doctors.,Martha could drink doctors.,syntax,argument_structure,causative,True,False,False,False,797,-34.95597457885742,-35.48766326904297,1
+Those guys benefit the Borgias.,Those guys reply the Borgias.,syntax,argument_structure,causative,True,False,False,False,798,-48.39965057373047,-51.62763595581055,1
+Jodi stood up Grace.,Jodi performs Grace.,syntax,argument_structure,causative,True,False,False,False,799,-46.790218353271484,-45.609039306640625,0
+Winston Churchill had loosened every shirt.,Winston Churchill had fallen every shirt.,syntax,argument_structure,causative,True,False,False,False,800,-66.61444091796875,-54.8470458984375,0
+Sonia hadn't cracked some planes.,Sonia hadn't appeared some planes.,syntax,argument_structure,causative,True,False,False,False,801,-53.48799133300781,-51.54606628417969,0
+Stacey burned some pasta.,Stacey wasted away some pasta.,syntax,argument_structure,causative,True,False,False,False,802,-46.91896057128906,-56.8826789855957,1
+Keith had baked all eggplants.,Keith had disappeared all eggplants.,syntax,argument_structure,causative,True,False,False,False,803,-50.657615661621094,-48.616634368896484,0
+Raymond has chipped the convertible.,Raymond has disappeared the convertible.,syntax,argument_structure,causative,True,False,False,False,804,-48.0484733581543,-43.051082611083984,0
+George had brightened a lamp.,George had existed a lamp.,syntax,argument_structure,causative,True,False,False,False,805,-38.24677276611328,-34.68981170654297,0
+Anna does shrink the hat.,Anna does exist the hat.,syntax,argument_structure,causative,True,False,False,False,806,-36.21839141845703,-34.77351760864258,0
+That boy had opened some gates.,That boy had wasted away some gates.,syntax,argument_structure,causative,True,False,False,False,807,-40.49262237548828,-53.246299743652344,1
+Kristin had shattered those skateboards.,Kristin had disappeared those skateboards.,syntax,argument_structure,causative,True,False,False,False,808,-53.54195022583008,-53.56874465942383,1
+Rachel changes Suzanne.,Rachel testifies Suzanne.,syntax,argument_structure,causative,True,False,False,False,809,-28.632883071899414,-39.036521911621094,1
+This pedestrian brightens every screen.,This pedestrian wasted away every screen.,syntax,argument_structure,causative,True,False,False,False,810,-52.72216033935547,-51.86683654785156,0
+Maria's senator isn't worrying Cheryl.,Maria's senator isn't muttering Cheryl.,syntax,argument_structure,causative,True,False,False,False,811,-51.04115295410156,-60.956321716308594,1
+Adam wasn't scorching some bananas.,Adam wasn't existing some bananas.,syntax,argument_structure,causative,True,False,False,False,812,-48.33634567260742,-43.629756927490234,0
+The Clintons hadn't shattered every window.,The Clintons hadn't slipped every window.,syntax,argument_structure,causative,True,False,False,False,813,-57.08828353881836,-53.42616271972656,0
+Cynthia isn't accelerating some bike.,Cynthia isn't falling apart some bike.,syntax,argument_structure,causative,True,False,False,False,814,-65.09463500976562,-66.23703002929688,1
+Nancy washed Claire.,Nancy paints Claire.,syntax,argument_structure,causative,True,False,False,False,815,-39.96123504638672,-41.27207565307617,1
+Jesus had condensed most lakes.,Jesus had disappeared most lakes.,syntax,argument_structure,causative,True,False,False,False,816,-41.72227478027344,-37.162864685058594,0
+Chad should move Margaret.,Chad should paint Margaret.,syntax,argument_structure,causative,True,False,False,False,817,-46.421836853027344,-49.32594680786133,1
+Pamela soaks every dress.,Pamela vanished every dress.,syntax,argument_structure,causative,True,False,False,False,818,-60.095951080322266,-51.515235900878906,0
+Students crack many chairs.,Students fall apart many chairs.,syntax,argument_structure,causative,True,False,False,False,819,-34.54701614379883,-35.468528747558594,1
+Frank is evaporating some lakes.,Frank is existing some lakes.,syntax,argument_structure,causative,True,False,False,False,820,-42.04305648803711,-42.74920654296875,1
+The dancers wrinkle the shawls.,The dancers fall the shawls.,syntax,argument_structure,causative,True,False,False,False,821,-59.52235412597656,-50.016998291015625,0
+The Clintons brighten these spotlights.,The Clintons vanish these spotlights.,syntax,argument_structure,causative,True,False,False,False,822,-65.59964752197266,-62.715782165527344,0
+The Lutherans melt these glaciers.,The Lutherans waste away these glaciers.,syntax,argument_structure,causative,True,False,False,False,823,-54.182647705078125,-63.97714614868164,1
+Those doctors steered a skateboard.,Those doctors existed a skateboard.,syntax,argument_structure,causative,True,False,False,False,824,-44.708770751953125,-42.17052459716797,0
+Pamela should flatten some scarf.,Pamela should exist some scarf.,syntax,argument_structure,causative,True,False,False,False,825,-65.88130950927734,-60.73212432861328,0
+Most adults sit down these boys' French teachers.,Most adults swallowed these boys' French teachers.,syntax,argument_structure,causative,True,False,False,False,826,-54.1307373046875,-58.150352478027344,1
+Some girl hides the lady.,Some girl exercised the lady.,syntax,argument_structure,causative,True,False,False,False,827,-35.505645751953125,-37.68428039550781,1
+Many patients fade most projectors.,Many patients exist most projectors.,syntax,argument_structure,causative,True,False,False,False,828,-55.17556381225586,-48.959983825683594,0
+Some waiter dries this shawl.,Some waiter vanished this shawl.,syntax,argument_structure,causative,True,False,False,False,829,-62.01960754394531,-57.912757873535156,0
+Carmen hadn't soaked blouses.,Carmen hadn't disappeared blouses.,syntax,argument_structure,causative,True,False,False,False,830,-59.33076477050781,-57.07936096191406,0
+The child hadn't hidden Alice.,The child hadn't donated Alice.,syntax,argument_structure,causative,True,False,False,False,831,-41.568077087402344,-43.8377799987793,1
+These guests had stretched this dress.,These guests had fallen this dress.,syntax,argument_structure,causative,True,False,False,False,832,-42.815101623535156,-40.69651794433594,0
+Keith breaks all planes.,Keith wasted away all planes.,syntax,argument_structure,causative,True,False,False,False,833,-28.53339385986328,-38.459716796875,1
+Roger will shrink those socks.,Roger will waste away those socks.,syntax,argument_structure,causative,True,False,False,False,834,-37.521724700927734,-46.885738372802734,1
+Douglas didn't stand up Sarah.,Douglas didn't compromise Sarah.,syntax,argument_structure,causative,True,False,False,False,835,-44.34709167480469,-48.00833511352539,1
+Sonia spins around Regina's podiatrist.,Sonia smiled Regina's podiatrist.,syntax,argument_structure,causative,True,False,False,False,836,-86.40400695800781,-82.30703735351562,0
+Jason moves Tammy.,Jason smiles Tammy.,syntax,argument_structure,causative,True,False,False,False,837,-26.21857452392578,-25.62560272216797,0
+Many senators are growing that cilantro.,Many senators are appearing that cilantro.,syntax,argument_structure,causative,True,False,False,False,838,-56.1331787109375,-57.745513916015625,1
+Alicia will hide away Russell.,Alicia will explain everything Russell.,syntax,argument_structure,causative,True,False,False,False,839,-64.65666961669922,-63.75516128540039,0
+The Borgias should fling open the boxes.,The Borgias should exist the boxes.,syntax,argument_structure,causative,True,False,False,False,840,-69.01740264892578,-55.89225769042969,0
+Some adults reunite Marie's ex-boyfriends.,Some adults meet Marie's ex-boyfriends.,syntax,argument_structure,causative,True,False,False,False,841,-80.59828186035156,-67.66427612304688,0
+A lot of senators freeze all icicles.,A lot of senators fall all icicles.,syntax,argument_structure,causative,True,False,False,False,842,-73.80950927734375,-70.25900268554688,0
+Melinda has crashed some truck.,Melinda has vanished some truck.,syntax,argument_structure,causative,True,False,False,False,843,-39.280731201171875,-41.26502227783203,1
+Those doctors stretch all skirts.,Those doctors disappeared all skirts.,syntax,argument_structure,causative,True,False,False,False,844,-37.2031364440918,-37.21961975097656,1
+Janet hasn't broken every car.,Janet hasn't disappeared every car.,syntax,argument_structure,causative,True,False,False,False,845,-40.558998107910156,-43.009098052978516,1
+Leslie had chipped the screens.,Leslie had vanished the screens.,syntax,argument_structure,causative,True,False,False,False,846,-48.17875289916992,-45.4024772644043,0
+Larry worries the Clintons' lawyer.,Larry wept the Clintons' lawyer.,syntax,argument_structure,causative,True,False,False,False,847,-50.3988037109375,-59.80924606323242,1
+Diane can shrink that shawl.,Diane can fall that shawl.,syntax,argument_structure,causative,True,False,False,False,848,-64.27102661132812,-61.566558837890625,0
+Some guys break some cups.,Some guys slipped some cups.,syntax,argument_structure,causative,True,False,False,False,849,-33.638328552246094,-36.718727111816406,1
+Tonya grew every pepper.,Tonya existed every pepper.,syntax,argument_structure,causative,True,False,False,False,850,-39.12300109863281,-41.17955780029297,1
+Teresa hides the wheelbarrows.,Teresa disappeared the wheelbarrows.,syntax,argument_structure,causative,True,False,False,False,851,-61.40441131591797,-61.740272521972656,1
+Lissa shuts a gate.,Lissa falls a gate.,syntax,argument_structure,causative,True,False,False,False,852,-38.33256149291992,-37.33529281616211,0
+This teacher wasn't rolling every bicycle.,This teacher wasn't falling apart every bicycle.,syntax,argument_structure,causative,True,False,False,False,853,-45.09550857543945,-48.37723159790039,1
+The people's dermatologist hides some prints.,The people's dermatologist wasted away some prints.,syntax,argument_structure,causative,True,False,False,False,854,-66.6177978515625,-76.81320190429688,1
+Heidi isn't sitting down Pamela.,Heidi isn't saluting Pamela.,syntax,argument_structure,causative,True,False,False,False,855,-48.902252197265625,-60.380340576171875,1
+Those children turn these skateboards.,Those children slip these skateboards.,syntax,argument_structure,causative,True,False,False,False,856,-39.24272918701172,-44.115196228027344,1
+Brian shouldn't stop most planes.,Brian shouldn't fall most planes.,syntax,argument_structure,causative,True,False,False,False,857,-38.0110969543457,-41.264102935791016,1
+Sabrina wasn't spinning around this man.,Sabrina wasn't speaking up this man.,syntax,argument_structure,causative,True,False,False,False,858,-46.934967041015625,-45.40873718261719,0
+The driver is drying many scarves.,The driver is appearing many scarves.,syntax,argument_structure,causative,True,False,False,False,859,-54.46027374267578,-53.19429397583008,0
+Carol condenses a river.,Carol existed a river.,syntax,argument_structure,causative,True,False,False,False,860,-47.25905227661133,-34.60175323486328,0
+Judy wasn't crumpling the shoe.,Judy wasn't wasting away the shoe.,syntax,argument_structure,causative,True,False,False,False,861,-55.433475494384766,-47.426116943359375,0
+Sonia dries some scarf.,Sonia wasted away some scarf.,syntax,argument_structure,causative,True,False,False,False,862,-55.1998291015625,-56.703826904296875,1
+Sherry shrinks this scarf.,Sherry disappeared this scarf.,syntax,argument_structure,causative,True,False,False,False,863,-55.044044494628906,-46.79346466064453,0
+A lot of adults break this computer.,A lot of adults vanished this computer.,syntax,argument_structure,causative,True,False,False,False,864,-48.44701385498047,-55.25005340576172,1
+Some dancer does shrink this shirt.,Some dancer does exist this shirt.,syntax,argument_structure,causative,True,False,False,False,865,-45.826881408691406,-43.85386657714844,0
+Every senator hadn't flung open a lot of closets.,Every senator hadn't wasted away a lot of closets.,syntax,argument_structure,causative,True,False,False,False,866,-72.65264892578125,-67.81654357910156,0
+Many senators hadn't washed Jodi.,Many senators hadn't fallen Jodi.,syntax,argument_structure,causative,True,False,False,False,867,-60.16929626464844,-58.093055725097656,0
+Connie twisted most coats.,Connie wasted away most coats.,syntax,argument_structure,causative,True,False,False,False,868,-40.874488830566406,-50.245445251464844,1
+Becca has sold this cup.,Becca has existed this cup.,syntax,argument_structure,causative,True,False,False,False,869,-36.05598831176758,-42.17604064941406,1
+The guy grew all tomatoes.,The guy fell all tomatoes.,syntax,argument_structure,causative,True,False,False,False,870,-36.16492462158203,-36.05748748779297,0
+Lissa has opened the window.,Lissa has appeared the window.,syntax,argument_structure,causative,True,False,False,False,871,-38.4882926940918,-40.939964294433594,1
+Cynthia loosens that blouse.,Cynthia appeared that blouse.,syntax,argument_structure,causative,True,False,False,False,872,-70.84717559814453,-58.064781188964844,0
+Marcus was shutting some closet.,Marcus was falling some closet.,syntax,argument_structure,causative,True,False,False,False,873,-34.065818786621094,-33.78548812866211,0
+Frank turned those bikes.,Frank appeared those bikes.,syntax,argument_structure,causative,True,False,False,False,874,-29.965057373046875,-32.91381072998047,1
+Matt was crashing those bikes.,Matt was disappearing those bikes.,syntax,argument_structure,causative,True,False,False,False,875,-36.269927978515625,-38.93959045410156,1
+Rodney flattens some sweater.,Rodney appeared some sweater.,syntax,argument_structure,causative,True,False,False,False,876,-46.78870391845703,-35.89765167236328,0
+Sally might accelerate the cart.,Sally might disappear the cart.,syntax,argument_structure,causative,True,False,False,False,877,-59.49113082885742,-51.069820404052734,0
+Travis had loosened every shirt.,Travis had existed every shirt.,syntax,argument_structure,causative,True,False,False,False,878,-57.08041763305664,-47.158599853515625,0
+James is dropping this mirror.,James is vanishing this mirror.,syntax,argument_structure,causative,True,False,False,False,879,-33.67017364501953,-41.18204116821289,1
+Tracy dimmed all screens.,Tracy wasted away all screens.,syntax,argument_structure,causative,True,False,False,False,880,-47.29292297363281,-47.04564666748047,0
+Paul shouldn't twist this sock.,Paul shouldn't appear this sock.,syntax,argument_structure,causative,True,False,False,False,881,-42.35236358642578,-42.61275100708008,1
+Carla hasn't charred that mushroom.,Carla hasn't appeared that mushroom.,syntax,argument_structure,causative,True,False,False,False,882,-51.988956451416016,-42.39182662963867,0
+Ellen did dim lamps.,Ellen did disappear lamps.,syntax,argument_structure,causative,True,False,False,False,883,-35.28029251098633,-36.8010139465332,1
+Carlos can't sell a lot of peppers.,Carlos can't disappear a lot of peppers.,syntax,argument_structure,causative,True,False,False,False,884,-41.82319259643555,-48.19432830810547,1
+Gina could scorch mushrooms.,Gina could waste away mushrooms.,syntax,argument_structure,causative,True,False,False,False,885,-58.098670959472656,-57.48686981201172,0
+The Borgias burn a lot of bananas.,The Borgias fall a lot of bananas.,syntax,argument_structure,causative,True,False,False,False,886,-53.608394622802734,-55.368080139160156,1
+Marcus wasn't breaking the bikes.,Marcus wasn't existing the bikes.,syntax,argument_structure,causative,True,False,False,False,887,-31.96181869506836,-40.23878860473633,1
+Scott closes every window.,Scott falls every window.,syntax,argument_structure,causative,True,False,False,False,888,-26.689790725708008,-24.025598526000977,0
+Many adults loosen a lot of sweaters.,Many adults vanish a lot of sweaters.,syntax,argument_structure,causative,True,False,False,False,889,-44.84633255004883,-48.077735900878906,1
+Erin will stop that skateboard.,Erin will slip that skateboard.,syntax,argument_structure,causative,True,False,False,False,890,-45.01751708984375,-50.44630432128906,1
+These women grow tomatoes.,These women vanish tomatoes.,syntax,argument_structure,causative,True,False,False,False,891,-26.443695068359375,-36.49298095703125,1
+Paul should fling open most mouths.,Paul should disappear most mouths.,syntax,argument_structure,causative,True,False,False,False,892,-55.21467590332031,-39.37590789794922,0
+Some actresses brighten the lights.,Some actresses waste away the lights.,syntax,argument_structure,causative,True,False,False,False,893,-41.03471374511719,-40.70146179199219,0
+Elizabeth shatters every car.,Elizabeth wasted away every car.,syntax,argument_structure,causative,True,False,False,False,894,-34.84856414794922,-34.456912994384766,0
+Those guys reunite some sons of Frank.,Those guys smiled some sons of Frank.,syntax,argument_structure,causative,True,False,False,False,895,-63.00019836425781,-54.471046447753906,0
+Jill hid Steven.,Jill performs Steven.,syntax,argument_structure,causative,True,False,False,False,896,-41.86152648925781,-42.924861907958984,1
+An adult wouldn't fold this sock.,An adult wouldn't disappear this sock.,syntax,argument_structure,causative,True,False,False,False,897,-48.35480499267578,-48.6313362121582,1
+Cheryl's piano teachers are breaking the chairs.,Cheryl's piano teachers are disappearing the chairs.,syntax,argument_structure,causative,True,False,False,False,898,-76.45576477050781,-82.68866729736328,1
+Monet had stood up Dan.,Monet had escaped Dan.,syntax,argument_structure,causative,True,False,False,False,899,-45.15238952636719,-43.056556701660156,0
+Richard had blackened the peppers.,Richard had disappeared the peppers.,syntax,argument_structure,causative,True,False,False,False,900,-36.62553024291992,-34.34184646606445,0
+Diana wasn't hiding Sheila's students.,Diana wasn't wasting away Sheila's students.,syntax,argument_structure,causative,True,False,False,False,901,-60.69657897949219,-70.81201171875,1
+These women train Kristen's mentors.,These women corresponded Kristen's mentors.,syntax,argument_structure,causative,True,False,False,False,902,-52.855079650878906,-61.55727767944336,1
+Becky isn't opening this mouth.,Becky isn't falling this mouth.,syntax,argument_structure,causative,True,False,False,False,903,-37.20382308959961,-36.77409744262695,0
+Some pedestrian shrinks this glove.,Some pedestrian existed this glove.,syntax,argument_structure,causative,True,False,False,False,904,-54.33027267456055,-45.51931381225586,0
+Richard would freeze this ice.,Richard would waste away this ice.,syntax,argument_structure,causative,True,False,False,False,905,-36.26671600341797,-45.40105438232422,1
+The actors ripened every banana.,The actors wasted away every banana.,syntax,argument_structure,causative,True,False,False,False,906,-49.355743408203125,-50.088104248046875,1
+Carlos has cracked a lot of planes.,Carlos has fallen apart a lot of planes.,syntax,argument_structure,causative,True,False,False,False,907,-40.227989196777344,-44.035484313964844,1
+Carla couldn't stand up a lot of teenagers' grandson.,Carla couldn't scream a lot of teenagers' grandson.,syntax,argument_structure,causative,True,False,False,False,908,-57.663856506347656,-63.55632781982422,1
+That vase hasn't hurt Tracy.,That vase hasn't yelled Tracy.,syntax,argument_structure,causative,True,False,False,False,909,-50.325252532958984,-55.04375076293945,1
+Brian was slowing some cars.,Brian was disappearing some cars.,syntax,argument_structure,causative,True,False,False,False,910,-32.48634338378906,-32.49348449707031,1
+The cashiers scorched every muffin.,The cashiers disappeared every muffin.,syntax,argument_structure,causative,True,False,False,False,911,-62.34368896484375,-50.84355545043945,0
+Some teacher can't bake those casseroles.,Some teacher can't exist those casseroles.,syntax,argument_structure,causative,True,False,False,False,912,-58.581459045410156,-62.750022888183594,1
+Melinda stands up Kirsten's son.,Melinda smiles Kirsten's son.,syntax,argument_structure,causative,True,False,False,False,913,-51.108768463134766,-47.222938537597656,0
+Melanie shouldn't crack this skateboard.,Melanie shouldn't disappear this skateboard.,syntax,argument_structure,causative,True,False,False,False,914,-54.50791931152344,-55.57050704956055,1
+Irene was hurting Tamara.,Irene was explaining everything Tamara.,syntax,argument_structure,causative,True,False,False,False,915,-46.07610321044922,-60.35910415649414,1
+Deanna breaks some vase.,Deanna vanished some vase.,syntax,argument_structure,causative,True,False,False,False,916,-43.87506103515625,-47.67539596557617,1
+William hides away Frank.,William falls Frank.,syntax,argument_structure,causative,True,False,False,False,917,-35.035911560058594,-23.301368713378906,0
+These teenagers move these wheelbarrows.,These teenagers fell apart these wheelbarrows.,syntax,argument_structure,causative,True,False,False,False,918,-57.25941467285156,-66.13312530517578,1
+The waiter wouldn't vaporize every river.,The waiter wouldn't exist every river.,syntax,argument_structure,causative,True,False,False,False,919,-59.19068908691406,-44.41217803955078,0
+Christine can't bake some banana.,Christine can't appear some banana.,syntax,argument_structure,causative,True,False,False,False,920,-41.18933868408203,-45.83650207519531,1
+Patrick warped this shoe.,Patrick disappeared this shoe.,syntax,argument_structure,causative,True,False,False,False,921,-37.50658416748047,-31.482807159423828,0
+Alexander has trained Emily.,Alexander has compromised Emily.,syntax,argument_structure,causative,True,False,False,False,922,-31.150985717773438,-36.00286102294922,1
+Every girl had crumpled the skirt.,Every girl had fallen the skirt.,syntax,argument_structure,causative,True,False,False,False,923,-55.94586944580078,-38.76528549194336,0
+Colleen doesn't shut gates.,Colleen doesn't exist gates.,syntax,argument_structure,causative,True,False,False,False,924,-41.324459075927734,-38.057395935058594,0
+Janice isn't evaporating that icicle.,Janice isn't appearing that icicle.,syntax,argument_structure,causative,True,False,False,False,925,-63.88746643066406,-60.26858139038086,0
+Naomi evaporated some glacier.,Naomi appeared some glacier.,syntax,argument_structure,causative,True,False,False,False,926,-49.44850158691406,-44.17250061035156,0
+Becky was tipping over every vase.,Becky was disappearing every vase.,syntax,argument_structure,causative,True,False,False,False,927,-54.227333068847656,-45.72203063964844,0
+Carl folded these shawls.,Carl wasted away these shawls.,syntax,argument_structure,causative,True,False,False,False,928,-42.630680084228516,-55.48509216308594,1
+A lot of patients hide these children.,A lot of patients fell asleep these children.,syntax,argument_structure,causative,True,False,False,False,929,-48.85248565673828,-56.58422088623047,1
+Paula shouldn't crash the carriage.,Paula shouldn't disappear the carriage.,syntax,argument_structure,causative,True,False,False,False,930,-43.33311462402344,-43.716243743896484,1
+Some customers weren't benefiting the girls.,Some customers weren't crying the girls.,syntax,argument_structure,causative,True,False,False,False,931,-48.20955276489258,-42.08656311035156,0
+Donald had hurt some sister of Danielle.,Donald had gotten a job some sister of Danielle.,syntax,argument_structure,causative,True,False,False,False,932,-54.73920440673828,-62.38987731933594,1
+Heidi is shrinking those socks.,Heidi is wasting away those socks.,syntax,argument_structure,causative,True,False,False,False,933,-53.049278259277344,-59.32459259033203,1
+A lot of patients close the gates.,A lot of patients vanish the gates.,syntax,argument_structure,causative,True,False,False,False,934,-49.10591125488281,-59.64744567871094,1
+Some driver hid the cousin of Brad.,Some driver fell asleep the cousin of Brad.,syntax,argument_structure,causative,True,False,False,False,935,-56.3034553527832,-60.52244567871094,1
+Denise should open the gate.,Denise should vanish the gate.,syntax,argument_structure,causative,True,False,False,False,936,-31.956695556640625,-41.487831115722656,1
+Monica fades every candle.,Monica wastes away every candle.,syntax,argument_structure,causative,True,False,False,False,937,-39.739768981933594,-48.06504821777344,1
+All children shouldn't dry many jackets.,All children shouldn't waste away many jackets.,syntax,argument_structure,causative,True,False,False,False,938,-50.3388786315918,-56.423011779785156,1
+All adults worry Jennifer's partners.,All adults chatted Jennifer's partners.,syntax,argument_structure,causative,True,False,False,False,939,-49.15306854248047,-57.34406280517578,1
+That grandfather of the Clintons has healed Omar.,That grandfather of the Clintons has gotten fired Omar.,syntax,argument_structure,causative,True,False,False,False,940,-69.0947265625,-72.30401611328125,1
+Those students aren't evaporating an icicle.,Those students aren't falling an icicle.,syntax,argument_structure,causative,True,False,False,False,941,-54.80873489379883,-49.18794250488281,0
+Rachelle has stood up Amanda.,Rachelle has drunk Amanda.,syntax,argument_structure,causative,True,False,False,False,942,-41.43022155761719,-38.32733917236328,0
+Denise chipped a wheelbarrow.,Denise appeared a wheelbarrow.,syntax,argument_structure,causative,True,False,False,False,943,-58.23744201660156,-52.778587341308594,0
+All men heal Tamara.,All men escaped Tamara.,syntax,argument_structure,causative,True,False,False,False,944,-43.40472412109375,-43.52495574951172,1
+Eric hid Jeffrey.,Eric gets a job Jeffrey.,syntax,argument_structure,causative,True,False,False,False,945,-30.22235870361328,-35.55690383911133,1
+Laurie could blacken that pepper.,Laurie could exist that pepper.,syntax,argument_structure,causative,True,False,False,False,946,-59.065887451171875,-51.592247009277344,0
+Diana wasn't soaking sweaters.,Diana wasn't appearing sweaters.,syntax,argument_structure,causative,True,False,False,False,947,-57.256351470947266,-56.8466682434082,0
+Every teacher wasn't opening the door.,Every teacher wasn't vanishing the door.,syntax,argument_structure,causative,True,False,False,False,948,-34.91018295288086,-44.60247039794922,1
+Joel turns some bike.,Joel rusted some bike.,syntax,argument_structure,causative,True,False,False,False,949,-33.68567657470703,-41.38418960571289,1
+Students spun around Derek.,Students compromised Derek.,syntax,argument_structure,causative,True,False,False,False,950,-36.70891571044922,-31.44164276123047,0
+These dancers can't drop some chairs.,These dancers can't exist some chairs.,syntax,argument_structure,causative,True,False,False,False,951,-39.44123458862305,-42.73516845703125,1
+Carl isn't training Melinda.,Carl isn't going fishing Melinda.,syntax,argument_structure,causative,True,False,False,False,952,-44.855865478515625,-46.236759185791016,1
+A student is loosening some dresses.,A student is appearing some dresses.,syntax,argument_structure,causative,True,False,False,False,953,-62.65043640136719,-52.426490783691406,0
+Benjamin won't fold every sock.,Benjamin won't exist every sock.,syntax,argument_structure,causative,True,False,False,False,954,-49.42445373535156,-48.1531867980957,0
+Rachelle chipped some convertible.,Rachelle slipped some convertible.,syntax,argument_structure,causative,True,False,False,False,955,-45.598175048828125,-42.351478576660156,0
+Erin is hiding Theresa.,Erin is painting Theresa.,syntax,argument_structure,causative,True,False,False,False,956,-39.07472610473633,-37.90276336669922,0
+Diana wasn't stopping a lot of carriages.,Diana wasn't rusting a lot of carriages.,syntax,argument_structure,causative,True,False,False,False,957,-62.136390686035156,-69.95610046386719,1
+Irene crashed every unicycle.,Irene wastes away every unicycle.,syntax,argument_structure,causative,True,False,False,False,958,-50.426856994628906,-60.70853805541992,1
+April breaks every cup.,April disappears every cup.,syntax,argument_structure,causative,True,False,False,False,959,-32.38017272949219,-35.669307708740234,1
+A lot of people darken some lights.,A lot of people appeared some lights.,syntax,argument_structure,causative,True,False,False,False,960,-57.741668701171875,-49.69618225097656,0
+Bill tipped over some cups.,Bill fell apart some cups.,syntax,argument_structure,causative,True,False,False,False,961,-34.03806686401367,-33.97960662841797,0
+Christopher hadn't shrunk a shoe.,Christopher hadn't fallen a shoe.,syntax,argument_structure,causative,True,False,False,False,962,-36.73938751220703,-32.64501190185547,0
+The Borgias don't flatten the jacket.,The Borgias don't exist the jacket.,syntax,argument_structure,causative,True,False,False,False,963,-63.82441711425781,-55.690616607666016,0
+Bruce was accelerating many carts.,Bruce was rusting many carts.,syntax,argument_structure,causative,True,False,False,False,964,-42.13129806518555,-42.1572265625,1
+Ann isn't training Dennis.,Ann isn't studying Dennis.,syntax,argument_structure,causative,True,False,False,False,965,-34.707237243652344,-33.610836029052734,0
+Daniel shatters that mirror.,Daniel vanished that mirror.,syntax,argument_structure,causative,True,False,False,False,966,-39.32026672363281,-31.87609100341797,0
+Naomi can chip some bicycle.,Naomi can rust some bicycle.,syntax,argument_structure,causative,True,False,False,False,967,-47.27522277832031,-48.324859619140625,1
+Rachel brightened a lot of spotlights.,Rachel disappeared a lot of spotlights.,syntax,argument_structure,causative,True,False,False,False,968,-48.65463638305664,-41.97095489501953,0
+Chad slows the cart.,Chad disappears the cart.,syntax,argument_structure,causative,True,False,False,False,969,-46.26231002807617,-47.39826202392578,1
+The Clintons weren't twirling that hat.,The Clintons weren't existing that hat.,syntax,argument_structure,causative,True,False,False,False,970,-63.3524169921875,-57.3150749206543,0
+Anna wasn't benefiting a lot of students.,Anna wasn't sighing a lot of students.,syntax,argument_structure,causative,True,False,False,False,971,-41.829872131347656,-40.35966873168945,0
+The Lutherans crack the screens.,The Lutherans appeared the screens.,syntax,argument_structure,causative,True,False,False,False,972,-49.498443603515625,-46.77960205078125,0
+Laura scorched some eggplant.,Laura wastes away some eggplant.,syntax,argument_structure,causative,True,False,False,False,973,-52.60232162475586,-54.1412353515625,1
+Aaron stood up Elizabeth.,Aaron cheers Elizabeth.,syntax,argument_structure,causative,True,False,False,False,974,-28.432092666625977,-27.606338500976562,0
+Karla can't ripen the eggplants.,Karla can't exist the eggplants.,syntax,argument_structure,causative,True,False,False,False,975,-60.807621002197266,-55.910343170166016,0
+Those teenagers blacken many mushrooms.,Those teenagers appear many mushrooms.,syntax,argument_structure,causative,True,False,False,False,976,-50.268951416015625,-42.51032257080078,0
+George stretched Nicole.,George lied Nicole.,syntax,argument_structure,causative,True,False,False,False,977,-28.781936645507812,-27.53440284729004,0
+That actress had evaporated the icicle.,That actress had disappeared the icicle.,syntax,argument_structure,causative,True,False,False,False,978,-59.762779235839844,-53.47451400756836,0
+The students sit down many grandfathers of Marcus.,The students communicate many grandfathers of Marcus.,syntax,argument_structure,causative,True,False,False,False,979,-67.35794067382812,-69.76080322265625,1
+Liam is stopping some carriage.,Liam is slipping some carriage.,syntax,argument_structure,causative,True,False,False,False,980,-43.466087341308594,-45.99830627441406,1
+The man isn't stretching a sweater.,The man isn't existing a sweater.,syntax,argument_structure,causative,True,False,False,False,981,-42.24085235595703,-48.145050048828125,1
+Sandra shrinks the hat.,Sandra appeared the hat.,syntax,argument_structure,causative,True,False,False,False,982,-50.08189392089844,-39.72282791137695,0
+The Borgias trains that doctor's handyman.,The Borgias swallowed that doctor's handyman.,syntax,argument_structure,causative,True,False,False,False,983,-74.4053955078125,-73.80072021484375,0
+Marie hadn't woken up Marcus.,Marie hadn't cried Marcus.,syntax,argument_structure,causative,True,False,False,False,984,-46.62117385864258,-40.30767822265625,0
+Bethany had washed Galileo.,Bethany had explained everything Galileo.,syntax,argument_structure,causative,True,False,False,False,985,-63.677982330322266,-72.07731628417969,1
+Naomi hadn't twisted a shirt.,Naomi hadn't wasted away a shirt.,syntax,argument_structure,causative,True,False,False,False,986,-46.17085266113281,-55.18767547607422,1
+Katherine shatters this convertible.,Katherine fell apart this convertible.,syntax,argument_structure,causative,True,False,False,False,987,-55.14703369140625,-50.02136993408203,0
+Paula has loosened some dress.,Paula has wasted away some dress.,syntax,argument_structure,causative,True,False,False,False,988,-50.411827087402344,-50.040069580078125,0
+Beth hasn't slowed every wheelbarrow.,Beth hasn't vanished every wheelbarrow.,syntax,argument_structure,causative,True,False,False,False,989,-81.96981811523438,-81.47517395019531,0
+Janet hasn't flung open some eye.,Janet hasn't existed some eye.,syntax,argument_structure,causative,True,False,False,False,990,-59.711753845214844,-46.43575668334961,0
+Kathleen hasn't married the Lutherans.,Kathleen hasn't sneezed the Lutherans.,syntax,argument_structure,causative,True,False,False,False,991,-64.85995483398438,-83.06016540527344,1
+Monet ripens the cilantro.,Monet appears the cilantro.,syntax,argument_structure,causative,True,False,False,False,992,-54.49298858642578,-47.330322265625,0
+Steven ripened these peppers.,Steven existed these peppers.,syntax,argument_structure,causative,True,False,False,False,993,-40.171722412109375,-34.26066589355469,0
+Jessica hadn't burned this banana.,Jessica hadn't wasted away this banana.,syntax,argument_structure,causative,True,False,False,False,994,-37.608253479003906,-49.842437744140625,1
+Nicole won't char the pies.,Nicole won't exist the pies.,syntax,argument_structure,causative,True,False,False,False,995,-52.507564544677734,-44.12572479248047,0
+Travis scorches an eggplant.,Travis wasted away an eggplant.,syntax,argument_structure,causative,True,False,False,False,996,-63.282135009765625,-60.41023635864258,0
+Some pedestrian hasn't tightened this shirt.,Some pedestrian hasn't appeared this shirt.,syntax,argument_structure,causative,True,False,False,False,997,-55.953067779541016,-46.82856750488281,0
+A dancer shouldn't slow most cars.,A dancer shouldn't fall apart most cars.,syntax,argument_structure,causative,True,False,False,False,998,-61.40700912475586,-65.41324615478516,1
+Wayne was burning many bananas.,Wayne was wasting away many bananas.,syntax,argument_structure,causative,True,False,False,False,999,-44.668495178222656,-57.96771240234375,1

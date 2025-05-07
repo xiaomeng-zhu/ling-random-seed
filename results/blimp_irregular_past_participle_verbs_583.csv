@@ -1,0 +1,1001 @@
+sentence_good,sentence_bad,field,linguistics_term,UID,simple_LM_method,one_prefix_method,two_prefix_method,lexically_identical,pair_id,good_prob,bad_prob,correct
+The Borgias wore a lot of scarves.,The Borgias worn a lot of scarves.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,0,-59.73078155517578,-63.38151550292969,1
+Teresa hid every senator.,Teresa hidden every senator.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,1,-44.70171356201172,-44.73359680175781,1
+The mushroom went bad.,The mushroom gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,2,-30.155345916748047,-31.895957946777344,1
+Cheryl came here.,Cheryl come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,3,-42.1973991394043,-40.413330078125,0
+Christopher hid a spotlight.,Christopher hidden a spotlight.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,4,-28.316970825195312,-30.80255889892578,1
+Edward hid the cats.,Edward hidden the cats.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,5,-27.77426528930664,-29.409881591796875,1
+Erin went to some schools.,Erin gone to some schools.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,6,-30.15703010559082,-31.56610679626465,1
+Joel came here.,Joel come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,7,-20.253482818603516,-19.677797317504883,0
+Paula broke some plates.,Paula broken some plates.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,8,-31.878271102905273,-35.635520935058594,1
+Raymond woke up.,Raymond woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,9,-21.845447540283203,-28.511993408203125,1
+Randolf drove to a mall.,Randolf driven to a mall.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,10,-36.06620407104492,-35.26372528076172,0
+Laura broke this cart.,Laura broken this cart.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,11,-30.171789169311523,-34.88539123535156,1
+Victoria wore that hat.,Victoria worn that hat.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,12,-22.791643142700195,-26.89434814453125,1
+Carrie took most bikes.,Carrie taken most bikes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,13,-36.78675842285156,-40.41281509399414,1
+Nancy sang.,Nancy sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,14,-30.016935348510742,-29.594009399414062,0
+The guy sang.,The guy sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,15,-18.540647506713867,-20.579227447509766,1
+The women broke a lot of convertibles.,The women broken a lot of convertibles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,16,-51.46531295776367,-56.57527160644531,1
+Lucille went to some cafe.,Lucille gone to some cafe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,17,-35.50638961791992,-37.85126495361328,1
+Sandra knew Becca.,Sandra known Becca.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,18,-42.28145217895508,-42.97370910644531,1
+Susan knew Florence.,Susan known Florence.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,19,-24.135478973388672,-23.55282211303711,0
+Many girls took that banana.,Many girls taken that banana.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,20,-31.937318801879883,-35.404090881347656,1
+Melissa ate.,Melissa eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,21,-23.822057723999023,-23.8376522064209,1
+Andrew wrote.,Andrew written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,22,-11.234127044677734,-13.812652587890625,1
+Kendra knew Florence.,Kendra known Florence.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,23,-47.4467658996582,-46.62744140625,0
+Guests woke up.,Guests woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,24,-23.255859375,-29.072649002075195,1
+Suzanne sang.,Suzanne sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,25,-25.674129486083984,-26.323974609375,1
+Catherine knew Amanda.,Catherine known Amanda.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,26,-40.70315933227539,-41.15396499633789,1
+Frank hid away.,Frank hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,27,-20.451906204223633,-21.151147842407227,1
+Libraries forgot Douglas.,Libraries forgotten Douglas.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,28,-44.61753845214844,-43.949989318847656,0
+Every waiter hid Julia.,Every waiter hidden Julia.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,29,-40.517112731933594,-40.278289794921875,0
+This person spoke up.,This person spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,30,-26.99437141418457,-26.526594161987305,0
+Caroline hid.,Caroline hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,31,-22.797801971435547,-22.445249557495117,0
+That coat shrank.,That coat shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,32,-35.866336822509766,-31.587764739990234,0
+James ate.,James eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,33,-14.235608100891113,-14.111282348632812,0
+Michael drove to all hospitals.,Michael driven to all hospitals.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,34,-31.841257095336914,-30.9749755859375,0
+Todd took every car.,Todd taken every car.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,35,-21.642921447753906,-25.12127685546875,1
+Most ladies hid away.,Most ladies hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,36,-29.509563446044922,-29.86404037475586,1
+Aaron broke the unicycle.,Aaron broken the unicycle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,37,-31.949111938476562,-35.2403450012207,1
+Stacey took chicken.,Stacey taken chicken.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,38,-38.511871337890625,-40.95926284790039,1
+Charles forgot Sarah.,Charles forgotten Sarah.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,39,-25.865840911865234,-25.872468948364258,1
+Every teenager went to the hospitals.,Every teenager gone to the hospitals.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,40,-32.644317626953125,-34.66022491455078,1
+These guests got fired.,These guests gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,41,-26.447406768798828,-32.303897857666016,1
+Elizabeth broke the carriages.,Elizabeth broken the carriages.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,42,-26.373001098632812,-30.278364181518555,1
+Claire woke up.,Claire woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,43,-21.516807556152344,-28.142566680908203,1
+Alice woke up.,Alice woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,44,-11.40648078918457,-19.810300827026367,1
+Victoria wrote.,Victoria written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,45,-10.689149856567383,-13.392463684082031,1
+Allison got a job.,Allison gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,46,-27.673492431640625,-33.89177703857422,1
+This dancer broke many glasses.,This dancer broken many glasses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,47,-40.452430725097656,-43.9664192199707,1
+Banks knew Elaine.,Banks known Elaine.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,48,-45.99679946899414,-46.03338623046875,1
+The Lutherans hid.,The Lutherans hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,49,-39.25762939453125,-37.44700241088867,0
+Kimberley drove to this high school.,Kimberley driven to this high school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,50,-43.29751968383789,-42.9290771484375,0
+Some boy spoke up.,Some boy spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,51,-30.49394989013672,-29.794071197509766,0
+Tiffany sang.,Tiffany sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,52,-39.10680389404297,-39.53312301635742,1
+Mitchell broke a lot of forks.,Mitchell broken a lot of forks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,53,-39.88710021972656,-43.88029479980469,1
+Jessica drove to all museums.,Jessica driven to all museums.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,54,-34.5328369140625,-34.33692932128906,0
+Valerie hid away.,Valerie hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,55,-31.623470306396484,-33.24906921386719,1
+Jesus ate.,Jesus eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,56,-13.859275817871094,-12.935234069824219,0
+Some customer hid.,Some customer hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,57,-26.138330459594727,-24.869901657104492,0
+All actresses hid away.,All actresses hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,58,-32.54888153076172,-33.780643463134766,1
+Marcus wore this sock.,Marcus worn this sock.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,59,-28.913442611694336,-31.156949996948242,1
+Bradley knew Stacy.,Bradley known Stacy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,60,-29.23748016357422,-30.582515716552734,1
+Helen took a lot of lamps.,Helen taken a lot of lamps.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,61,-33.029083251953125,-35.141357421875,1
+These drivers came here.,These drivers come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,62,-23.138565063476562,-19.36762237548828,0
+Veronica drove to the hospitals.,Veronica driven to the hospitals.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,63,-34.47597885131836,-34.338687896728516,0
+Lori hid away.,Lori hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,64,-29.90797996520996,-31.34768295288086,1
+A lot of teenagers spoke up.,A lot of teenagers spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,65,-45.0745849609375,-43.714149475097656,0
+Danielle knew George.,Danielle known George.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,66,-33.014190673828125,-33.74193572998047,1
+Suzanne broke those trucks.,Suzanne broken those trucks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,67,-36.6745491027832,-41.15676498413086,1
+A lot of actresses took some river.,A lot of actresses taken some river.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,68,-53.417396545410156,-56.277976989746094,1
+Marla drank.,Marla drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,69,-21.859153747558594,-19.74126434326172,0
+Edward broke some chair.,Edward broken some chair.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,70,-26.315105438232422,-29.912296295166016,1
+Sharon spoke up.,Sharon spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,71,-30.039451599121094,-29.13507080078125,0
+Many boys woke up.,Many boys woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,72,-21.446624755859375,-27.38241958618164,1
+Sally went fishing.,Sally gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,73,-28.277545928955078,-29.55204963684082,1
+Tammy woke up.,Tammy woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,74,-20.318191528320312,-24.855701446533203,1
+Monica ate.,Monica eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,75,-21.142906188964844,-21.927738189697266,1
+Adam ate.,Adam eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,76,-13.696338653564453,-13.641768455505371,0
+Patrick broke a lot of wheelbarrows.,Patrick broken a lot of wheelbarrows.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,77,-47.91936111450195,-52.72480010986328,1
+Lisa ate.,Lisa eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,78,-13.898552894592285,-13.483011245727539,0
+Those students drove to Spain.,Those students driven to Spain.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,79,-31.091176986694336,-31.92765235900879,1
+Carla went to schools.,Carla gone to schools.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,80,-24.593902587890625,-27.70147705078125,1
+Some people broke that chair.,Some people broken that chair.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,81,-26.257610321044922,-29.314659118652344,1
+A lot of dancers broke the vases.,A lot of dancers broken the vases.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,82,-60.43722152709961,-62.837135314941406,1
+Some children came here.,Some children come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,83,-19.824920654296875,-16.76622772216797,0
+Raymond drove to Harvard University.,Raymond driven to Harvard University.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,84,-39.39274597167969,-40.0732536315918,1
+Keith took these birds.,Keith taken these birds.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,85,-22.756877899169922,-26.617637634277344,1
+Carrie went to some malls.,Carrie gone to some malls.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,86,-37.54730987548828,-40.89752960205078,1
+Tamara went to a cafe.,Tamara gone to a cafe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,87,-27.903488159179688,-31.0010986328125,1
+Michelle went to the closet.,Michelle gone to the closet.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,88,-19.899887084960938,-22.390037536621094,1
+Janet broke the plane.,Janet broken the plane.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,89,-29.184738159179688,-32.29609298706055,1
+Gerald hid Ann.,Gerald hidden Ann.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,90,-42.89453887939453,-43.04353332519531,1
+Vincent drove to those restaurants.,Vincent driven to those restaurants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,91,-44.34229278564453,-43.8822021484375,0
+Kirsten broke a dish.,Kirsten broken a dish.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,92,-40.744224548339844,-43.40888977050781,1
+Patrick forgot Victoria.,Patrick forgotten Victoria.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,93,-26.28851318359375,-26.744300842285156,1
+The Clintons wore this coat.,The Clintons worn this coat.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,94,-41.05194854736328,-44.358314514160156,1
+Maria wore jackets.,Maria worn jackets.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,95,-25.764793395996094,-25.689128875732422,0
+This guy came here.,This guy come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,96,-19.18004608154297,-19.89088249206543,1
+Tamara hid.,Tamara hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,97,-22.42354965209961,-21.832317352294922,0
+Bethany broke a lot of cups.,Bethany broken a lot of cups.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,98,-56.26221466064453,-60.32500457763672,1
+Those dancers woke up.,Those dancers woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,99,-24.986478805541992,-31.375627517700195,1
+The blouses shrank.,The blouses shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,100,-40.271575927734375,-34.699100494384766,0
+Many pedestrians broke some cars.,Many pedestrians broken some cars.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,101,-36.641197204589844,-37.892555236816406,1
+Wendy drove to most college campuses.,Wendy driven to most college campuses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,102,-64.69509887695312,-64.38111877441406,0
+Every teenager sang.,Every teenager sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,103,-25.371305465698242,-25.084243774414062,0
+A lot of doctors drove to this library.,A lot of doctors driven to this library.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,104,-51.773231506347656,-52.500816345214844,1
+Every library took some painting.,Every library taken some painting.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,105,-31.541881561279297,-34.13344955444336,1
+Andrea broke these vases.,Andrea broken these vases.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,106,-46.55802536010742,-51.401214599609375,1
+Paula wore these sweaters.,Paula worn these sweaters.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,107,-40.81950378417969,-42.81687927246094,1
+Aaron drove to some mountain.,Aaron driven to some mountain.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,108,-31.90927505493164,-32.044185638427734,1
+Deborah wore the jacket.,Deborah worn the jacket.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,109,-33.534393310546875,-35.195274353027344,1
+Jennifer broke a carriage.,Jennifer broken a carriage.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,110,-22.097126007080078,-26.50259017944336,1
+Dawn hid many shawls.,Dawn hidden many shawls.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,111,-61.39857864379883,-62.73191452026367,1
+Diane went fishing.,Diane gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,112,-33.170936584472656,-36.831748962402344,1
+Rhonda wore a shoe.,Rhonda worn a shoe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,113,-34.314674377441406,-36.742958068847656,1
+Carla broke some plates.,Carla broken some plates.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,114,-29.829240798950195,-33.594085693359375,1
+These actors got a job.,These actors gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,115,-26.09121322631836,-31.878252029418945,1
+A lot of women hid away.,A lot of women hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,116,-40.6038703918457,-41.9432373046875,1
+The patients wore every shoe.,The patients worn every shoe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,117,-37.877410888671875,-39.87406539916992,1
+Theresa drove to the public park.,Theresa driven to the public park.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,118,-42.70616912841797,-42.06980895996094,0
+Naomi sang.,Naomi sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,119,-22.836353302001953,-23.47295379638672,1
+Those adults wore most shoes.,Those adults worn most shoes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,120,-34.46039581298828,-36.60553741455078,1
+The waiters spoke up.,The waiters spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,121,-43.07169723510742,-41.74269485473633,0
+Katherine ate.,Katherine eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,122,-28.497257232666016,-28.30194664001465,0
+Rose went to every art gallery.,Rose gone to every art gallery.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,123,-37.10938262939453,-40.50016784667969,1
+Denise got a job.,Denise gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,124,-23.112213134765625,-28.230159759521484,1
+Anne knew Todd.,Anne known Todd.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,125,-24.878828048706055,-25.525840759277344,1
+Helen got fired.,Helen gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,126,-21.71913719177246,-26.65273666381836,1
+Those waiters spoke up.,Those waiters spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,127,-43.51177215576172,-42.11660385131836,0
+That actor hid away.,That actor hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,128,-32.52390670776367,-33.82121276855469,1
+Laurie came here.,Laurie come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,129,-25.488418579101562,-26.043800354003906,1
+Tamara came here.,Tamara come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,130,-19.887184143066406,-19.71074676513672,0
+Those drivers got a job.,Those drivers gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,131,-26.667831420898438,-32.329200744628906,1
+Stephen forgot Nancy.,Stephen forgotten Nancy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,132,-28.023983001708984,-28.902000427246094,1
+Peter forgot Tammy.,Peter forgotten Tammy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,133,-27.556652069091797,-27.654102325439453,1
+Rhonda went to the river.,Rhonda gone to the river.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,134,-29.501014709472656,-31.983657836914062,1
+Those doctors wore that coat.,Those doctors worn that coat.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,135,-31.55385971069336,-35.31232452392578,1
+Colleen got a job.,Colleen gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,136,-26.048442840576172,-31.175912857055664,1
+A man wrote.,A man written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,137,-29.996009826660156,-30.22502899169922,1
+Linda got fired.,Linda gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,138,-24.56296157836914,-30.111743927001953,1
+The Lutherans woke up.,The Lutherans woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,139,-36.62831497192383,-42.89055252075195,1
+The peppers went bad.,The peppers gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,140,-30.61581039428711,-32.13319778442383,1
+Keith wrote.,Keith written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,141,-11.117244720458984,-13.602563858032227,1
+Some girl hid that screen.,Some girl hidden that screen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,142,-35.779640197753906,-38.84517288208008,1
+This popsicle froze.,This popsicle frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,143,-38.9964714050293,-38.438751220703125,0
+Leslie ate.,Leslie eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,144,-24.093833923339844,-23.652462005615234,0
+Florence woke up.,Florence woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,145,-24.13720703125,-30.643184661865234,1
+Vanessa woke up.,Vanessa woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,146,-21.837261199951172,-28.897733688354492,1
+Monet got fired.,Monet gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,147,-29.582611083984375,-32.93205642700195,1
+Sharon went fishing.,Sharon gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,148,-24.60879898071289,-27.236608505249023,1
+Renee drove to the art gallery.,Renee driven to the art gallery.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,149,-48.47840118408203,-48.81349563598633,1
+Many ladies hid the girl.,Many ladies hidden the girl.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,150,-34.700862884521484,-34.88882827758789,1
+Valerie wrote.,Valerie written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,151,-22.93377113342285,-24.929658889770508,1
+Melinda got a job.,Melinda gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,152,-27.453250885009766,-33.07905960083008,1
+Nancy spoke up.,Nancy spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,153,-36.69476318359375,-34.48316192626953,0
+Many boys wore every dress.,Many boys worn every dress.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,154,-35.391510009765625,-37.59064865112305,1
+Florence got fired.,Florence gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,155,-28.215930938720703,-33.573307037353516,1
+Sabrina wore a lot of hats.,Sabrina worn a lot of hats.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,156,-35.17271041870117,-37.156368255615234,1
+Jeffrey hid away.,Jeffrey hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,157,-25.660348892211914,-26.22203254699707,1
+Kendra broke the mirrors.,Kendra broken the mirrors.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,158,-43.889976501464844,-47.10542297363281,1
+Debra wrote.,Debra written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,159,-17.106407165527344,-19.941654205322266,1
+Those glaciers froze.,Those glaciers frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,160,-29.379642486572266,-29.531265258789062,1
+Larry wore the coat.,Larry worn the coat.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,161,-24.073238372802734,-25.207599639892578,1
+Tonya got fired.,Tonya gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,162,-24.136474609375,-28.743671417236328,1
+Candice hid away.,Candice hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,163,-25.652503967285156,-25.62900161743164,0
+Omar went to high schools.,Omar gone to high schools.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,164,-35.82112121582031,-36.07774353027344,1
+Caroline broke couches.,Caroline broken couches.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,165,-35.558387756347656,-39.28385925292969,1
+Men broke those bicycles.,Men broken those bicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,166,-28.789588928222656,-33.23823547363281,1
+Stephen went to most libraries.,Stephen gone to most libraries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,167,-34.273170471191406,-36.48946762084961,1
+These dancers wrote.,These dancers written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,168,-24.138134002685547,-25.014366149902344,1
+Steve hid.,Steve hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,169,-15.320209503173828,-14.022171020507812,0
+Kendra came here.,Kendra come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,170,-35.54769515991211,-34.60306930541992,0
+Carlos broke that wheelbarrow.,Carlos broken that wheelbarrow.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,171,-48.13129806518555,-52.99439239501953,1
+Katherine forgot Frank.,Katherine forgotten Frank.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,172,-40.97911071777344,-42.14609146118164,1
+The glacier froze.,The glacier frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,173,-27.164562225341797,-26.643861770629883,0
+Those shawls shrank.,Those shawls shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,174,-45.956153869628906,-40.55872344970703,0
+All doctors drove to this hill.,All doctors driven to this hill.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,175,-38.173309326171875,-39.55730438232422,1
+The adult broke a lot of dishes.,The adult broken a lot of dishes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,176,-35.79570770263672,-37.69792175292969,1
+All guys forgot Kenneth.,All guys forgotten Kenneth.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,177,-37.936790466308594,-38.60655212402344,1
+Craig went to a lot of malls.,Craig gone to a lot of malls.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,178,-31.811418533325195,-34.41233825683594,1
+Diana broke the car.,Diana broken the car.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,179,-35.195899963378906,-38.99259948730469,1
+Travis got fired.,Travis gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,180,-39.45824432373047,-43.93196105957031,1
+Rodney broke some couch.,Rodney broken some couch.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,181,-29.65474510192871,-33.44389343261719,1
+Kristen broke that mirror.,Kristen broken that mirror.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,182,-27.276439666748047,-32.4410400390625,1
+The hats shrank.,The hats shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,183,-32.95433807373047,-26.992259979248047,0
+Adam took that horse.,Adam taken that horse.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,184,-22.55967903137207,-26.5299072265625,1
+Patients broke all mirrors.,Patients broken all mirrors.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,185,-40.27958679199219,-44.371986389160156,1
+All girls broke every car.,All girls broken every car.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,186,-32.230472564697266,-35.84101104736328,1
+Those pedestrians drank.,Those pedestrians drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,187,-26.435565948486328,-26.149261474609375,0
+Every patient broke the vases.,Every patient broken the vases.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,188,-40.699493408203125,-44.331443786621094,1
+Melinda woke up.,Melinda woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,189,-23.910173416137695,-30.879011154174805,1
+All mushrooms went bad.,All mushrooms gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,190,-32.149009704589844,-32.382816314697266,1
+Elaine spoke up.,Elaine spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,191,-31.933319091796875,-31.50080108642578,0
+These guys took a lot of newspaper articles.,These guys taken a lot of newspaper articles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,192,-38.84575271606445,-42.296546936035156,1
+Marcus hid.,Marcus hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,193,-14.283711433410645,-14.022712707519531,0
+Jacqueline wore many jackets.,Jacqueline worn many jackets.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,194,-44.29466247558594,-46.34465026855469,1
+Samuel drank.,Samuel drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,195,-18.913768768310547,-16.516021728515625,0
+Bradley broke this plate.,Bradley broken this plate.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,196,-25.483457565307617,-30.528623580932617,1
+Walter hid.,Walter hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,197,-20.84511947631836,-19.978328704833984,0
+Many universities knew Dawn.,Many universities known Dawn.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,198,-33.82355499267578,-32.99620056152344,0
+Natalie drove to many museums.,Natalie driven to many museums.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,199,-51.15378952026367,-49.90361785888672,0
+Eric took computers.,Eric taken computers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,200,-19.313446044921875,-21.837554931640625,1
+Allison broke these cups.,Allison broken these cups.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,201,-36.938751220703125,-40.88847351074219,1
+Carrie ate.,Carrie eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,202,-20.35944175720215,-21.019702911376953,1
+Meredith wrote.,Meredith written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,203,-28.196561813354492,-29.526779174804688,1
+Some adults broke a lot of wheelbarrows.,Some adults broken a lot of wheelbarrows.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,204,-57.70146942138672,-61.03068542480469,1
+Margaret ate.,Margaret eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,205,-17.11941146850586,-17.681838989257812,1
+Sara went fishing.,Sara gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,206,-27.06383514404297,-29.400970458984375,1
+Martin went fishing.,Martin gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,207,-15.122465133666992,-18.708255767822266,1
+Steve sang.,Steve sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,208,-13.094270706176758,-13.114181518554688,1
+Carrie spoke up.,Carrie spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,209,-27.825050354003906,-27.30998420715332,0
+Becca wore the shoes.,Becca worn the shoes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,210,-31.776103973388672,-32.575904846191406,1
+Most mushrooms went bad.,Most mushrooms gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,211,-32.47184753417969,-32.710853576660156,1
+Many skirts shrank.,Many skirts shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,212,-35.88912582397461,-29.15472412109375,0
+Alexander wrote.,Alexander written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,213,-10.638276100158691,-13.48452377319336,1
+All hats shrank.,All hats shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,214,-34.040340423583984,-27.41923713684082,0
+That lake froze.,That lake frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,215,-28.268434524536133,-26.74854850769043,0
+The dancers hid.,The dancers hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,216,-27.59760093688965,-27.079570770263672,0
+Some waiter knew Kirsten.,Some waiter known Kirsten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,217,-43.43980026245117,-44.75945281982422,1
+Claire ate.,Claire eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,218,-22.869007110595703,-22.290714263916016,0
+Some dancers drank.,Some dancers drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,219,-25.851137161254883,-26.05240249633789,1
+Mary hid a lot of glasses.,Mary hidden a lot of glasses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,220,-28.68606948852539,-30.80150604248047,1
+Tammy wore some sock.,Tammy worn some sock.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,221,-35.804866790771484,-38.579978942871094,1
+Kevin woke up.,Kevin woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,222,-12.133173942565918,-20.463546752929688,1
+Daniel broke some chair.,Daniel broken some chair.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,223,-26.027278900146484,-29.674808502197266,1
+Brenda came here.,Brenda come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,224,-17.2030086517334,-16.49590492248535,0
+Most girls wrote.,Most girls written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,225,-21.19948959350586,-21.925466537475586,1
+Danielle got fired.,Danielle gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,226,-25.525550842285156,-30.036317825317383,1
+Theodore broke most bikes.,Theodore broken most bikes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,227,-43.910552978515625,-46.99017333984375,1
+Most cashiers went fishing.,Most cashiers gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,228,-37.12767791748047,-40.30775451660156,1
+Theresa broke all bicycles.,Theresa broken all bicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,229,-41.278106689453125,-45.087440490722656,1
+Those people hid away.,Those people hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,230,-22.176658630371094,-22.654693603515625,1
+These shoes shrank.,These shoes shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,231,-31.944852828979492,-25.158416748046875,0
+This actress hid.,This actress hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,232,-27.252235412597656,-27.153369903564453,0
+The popsicle froze.,The popsicle frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,233,-38.068416595458984,-38.06002426147461,0
+Many people hid away.,Many people hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,234,-21.800521850585938,-22.224960327148438,1
+Gregory hid those bicycles.,Gregory hidden those bicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,235,-38.74825668334961,-40.69805908203125,1
+Amy sang.,Amy sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,236,-12.985672950744629,-13.46407699584961,1
+A sock shrank.,A sock shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,237,-42.606101989746094,-35.60710525512695,0
+Tiffany hid the lady.,Tiffany hidden the lady.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,238,-52.001834869384766,-51.85407257080078,0
+Carmen took this box.,Carmen taken this box.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,239,-45.26545333862305,-47.989830017089844,1
+Eva drove to this library.,Eva driven to this library.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,240,-29.09033966064453,-28.584659576416016,0
+Monet hid.,Monet hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,241,-26.214780807495117,-24.894622802734375,0
+Donna went to this art gallery.,Donna gone to this art gallery.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,242,-45.078407287597656,-47.996334075927734,1
+Brenda hid the bicycles.,Brenda hidden the bicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,243,-32.96538162231445,-34.260257720947266,1
+Most actresses wore a lot of jackets.,Most actresses worn a lot of jackets.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,244,-41.769927978515625,-43.93547439575195,1
+This lake froze.,This lake frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,245,-25.62297821044922,-25.0020694732666,0
+The waiters hid that actress.,The waiters hidden that actress.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,246,-51.70252227783203,-54.32776641845703,1
+Diana wore a lot of hats.,Diana worn a lot of hats.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,247,-46.17259216308594,-48.38641357421875,1
+Matt knew Kathleen.,Matt known Kathleen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,248,-27.675783157348633,-28.555431365966797,1
+Jacqueline wore most shirts.,Jacqueline worn most shirts.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,249,-44.37550735473633,-46.570655822753906,1
+Tammy broke those forks.,Tammy broken those forks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,250,-34.978546142578125,-37.93524169921875,1
+Some eggplants went bad.,Some eggplants gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,251,-44.85683059692383,-45.575218200683594,1
+Those girls got a job.,Those girls gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,252,-23.652639389038086,-29.576797485351562,1
+Kenneth spoke up.,Kenneth spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,253,-28.13035774230957,-27.506694793701172,0
+Clyde took this eggplant.,Clyde taken this eggplant.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,254,-69.38203430175781,-71.22093200683594,1
+Stacy drank.,Stacy drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,255,-28.998626708984375,-27.751602172851562,0
+Alice came here.,Alice come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,256,-12.923304557800293,-12.96379280090332,1
+Tara hid away.,Tara hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,257,-35.69377899169922,-36.28293991088867,1
+All boys hid this face.,All boys hidden this face.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,258,-35.99235916137695,-37.81916809082031,1
+Jodi went to a lot of mountains.,Jodi gone to a lot of mountains.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,259,-46.40496063232422,-45.93598175048828,0
+Bruce went to banks.,Bruce gone to banks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,260,-18.74411392211914,-22.304149627685547,1
+Martha knew Keith.,Martha known Keith.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,261,-32.934959411621094,-33.34056854248047,1
+This pedestrian hid Alexander.,This pedestrian hidden Alexander.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,262,-43.04954528808594,-42.00731658935547,0
+Gina drove to most closets.,Gina driven to most closets.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,263,-51.48688507080078,-50.817222595214844,0
+Kayla went to the restaurants.,Kayla gone to the restaurants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,264,-28.212617874145508,-30.578908920288086,1
+Dawn broke that plane.,Dawn broken that plane.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,265,-37.95494842529297,-42.293701171875,1
+Caroline hid all gates.,Caroline hidden all gates.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,266,-37.46626281738281,-38.106849670410156,1
+The Impressionists went fishing.,The Impressionists gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,267,-43.36833953857422,-46.83018493652344,1
+Mushrooms went bad.,Mushrooms gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,268,-50.20347213745117,-48.948707580566406,0
+That driver knew Anne.,That driver known Anne.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,269,-37.63520050048828,-39.21815490722656,1
+Nina drove to the high schools.,Nina driven to the high schools.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,270,-46.29339599609375,-45.89940643310547,0
+Kenneth sang.,Kenneth sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,271,-20.35788345336914,-21.405780792236328,1
+A lot of adults woke up.,A lot of adults woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,272,-36.82815170288086,-42.238548278808594,1
+Randolf knew the Lutherans.,Randolf known the Lutherans.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,273,-48.42869186401367,-49.84226989746094,1
+Many patients hid away.,Many patients hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,274,-29.546815872192383,-29.69098472595215,1
+Richard broke a lot of unicycles.,Richard broken a lot of unicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,275,-45.86162185668945,-49.91802215576172,1
+A lot of actors drank.,A lot of actors drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,276,-40.67462921142578,-40.896324157714844,1
+Sara drove to all cafes.,Sara driven to all cafes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,277,-51.35723876953125,-50.916805267333984,0
+Some waitresses hid some painting.,Some waitresses hidden some painting.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,278,-51.63999557495117,-52.90394973754883,1
+Sara got a job.,Sara gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,279,-28.03201675415039,-33.87669372558594,1
+Janet went to the school.,Janet gone to the school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,280,-24.466577529907227,-27.297718048095703,1
+Eric broke most glasses.,Eric broken most glasses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,281,-28.715993881225586,-33.09306716918945,1
+The pedestrians came here.,The pedestrians come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,282,-26.14295196533203,-23.667869567871094,0
+That adult sang.,That adult sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,283,-28.032447814941406,-27.853050231933594,0
+Many pedestrians spoke up.,Many pedestrians spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,284,-33.028202056884766,-31.51119613647461,0
+The glasses shrank.,The glasses shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,285,-32.82386779785156,-27.312965393066406,0
+Michelle took those cars.,Michelle taken those cars.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,286,-20.58777618408203,-24.292903900146484,1
+Irene drank.,Irene drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,287,-24.67344093322754,-23.368408203125,0
+Winston Churchill wrote.,Winston Churchill written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,288,-30.24127769470215,-32.190773010253906,1
+Caroline went fishing.,Caroline gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,289,-22.59276580810547,-26.389751434326172,1
+Rose drove to a glacier.,Rose driven to a glacier.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,290,-32.125457763671875,-32.04222106933594,0
+Adam knew Karla.,Adam known Karla.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,291,-31.587120056152344,-31.855728149414062,1
+Those teenagers went fishing.,Those teenagers gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,292,-23.44111442565918,-26.34347152709961,1
+All cucumbers went bad.,All cucumbers gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,293,-43.15654754638672,-43.61547088623047,1
+Carmen sang.,Carmen sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,294,-36.95026397705078,-37.243473052978516,1
+Some guys woke up.,Some guys woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,295,-20.684242248535156,-26.570301055908203,1
+Wendy broke this convertible.,Wendy broken this convertible.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,296,-48.03752136230469,-50.985389709472656,1
+The women drank.,The women drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,297,-20.17081069946289,-21.702091217041016,1
+Those actors drove to Harvard University.,Those actors driven to Harvard University.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,298,-40.260398864746094,-41.31854248046875,1
+Glaciers froze.,Glaciers frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,299,-34.37287139892578,-33.356163024902344,0
+Michael broke that mirror.,Michael broken that mirror.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,300,-22.969097137451172,-27.600902557373047,1
+Some eggplant went bad.,Some eggplant gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,301,-43.50951385498047,-43.35254669189453,0
+Kristen went to every college campus.,Kristen gone to every college campus.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,302,-39.278526306152344,-43.24500274658203,1
+David hid Denise.,David hidden Denise.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,303,-27.06995964050293,-25.079721450805664,0
+Sherry wrote.,Sherry written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,304,-27.107637405395508,-28.016029357910156,1
+The adults broke those computers.,The adults broken those computers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,305,-33.44043731689453,-36.547271728515625,1
+Those cashiers broke a lot of carriages.,Those cashiers broken a lot of carriages.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,306,-56.326786041259766,-60.067466735839844,1
+Samantha wore those shawls.,Samantha worn those shawls.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,307,-62.3898811340332,-64.70967102050781,1
+Brian wore jackets.,Brian worn jackets.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,308,-25.443790435791016,-25.792438507080078,1
+Noah knew Maria.,Noah known Maria.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,309,-39.13611602783203,-39.664615631103516,1
+A lady wore that jacket.,A lady worn that jacket.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,310,-40.14887237548828,-43.71487808227539,1
+The children broke a carriage.,The children broken a carriage.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,311,-29.046714782714844,-32.80638122558594,1
+Margaret got a job.,Margaret gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,312,-21.10149574279785,-26.335269927978516,1
+Victoria took this bike.,Victoria taken this bike.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,313,-22.96794891357422,-26.158203125,1
+Julia wore every glove.,Julia worn every glove.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,314,-39.194061279296875,-41.02543640136719,1
+Grace got fired.,Grace gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,315,-26.689556121826172,-32.20441436767578,1
+Kayla drank.,Kayla drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,316,-20.70404815673828,-18.06175994873047,0
+Mary came here.,Mary come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,317,-14.196971893310547,-13.83055305480957,0
+Samuel wore many pants.,Samuel worn many pants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,318,-34.09138488769531,-36.755130767822266,1
+Tara hid those rabbits.,Tara hidden those rabbits.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,319,-46.28899383544922,-48.84185028076172,1
+Lawrence drove to every bank.,Lawrence driven to every bank.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,320,-36.50543212890625,-36.46387481689453,0
+Nancy knew James.,Nancy known James.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,321,-40.17856979370117,-40.96977233886719,1
+Larry broke all convertibles.,Larry broken all convertibles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,322,-44.481300354003906,-48.49217224121094,1
+This student got a job.,This student gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,323,-27.123435974121094,-32.338104248046875,1
+Amy came here.,Amy come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,324,-13.23965835571289,-12.521773338317871,0
+Many drivers sang.,Many drivers sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,325,-25.026683807373047,-25.409664154052734,1
+Amelia got fired.,Amelia gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,326,-31.232418060302734,-35.971290588378906,1
+The ice cream froze.,The ice cream frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,327,-23.187755584716797,-22.360763549804688,0
+Wayne drove to some library.,Wayne driven to some library.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,328,-41.148494720458984,-40.70768737792969,0
+Some glasses shrank.,Some glasses shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,329,-33.89716339111328,-27.514225006103516,0
+Samantha woke up.,Samantha woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,330,-35.01994705200195,-42.10823440551758,1
+Carl broke every wheelbarrow.,Carl broken every wheelbarrow.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,331,-46.15053176879883,-47.96051025390625,1
+Many sweaters shrank.,Many sweaters shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,332,-39.89863586425781,-33.70540237426758,0
+Sarah went fishing.,Sarah gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,333,-14.746030807495117,-18.28792953491211,1
+Most fish broke a lot of mirrors.,Most fish broken a lot of mirrors.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,334,-35.945377349853516,-37.7807502746582,1
+Carla came here.,Carla come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,335,-19.057140350341797,-19.789382934570312,1
+Julie spoke up.,Julie spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,336,-26.070053100585938,-25.916624069213867,0
+Some river froze.,Some river frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,337,-26.685081481933594,-25.982627868652344,0
+Phillip woke up.,Phillip woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,338,-20.38862419128418,-25.887775421142578,1
+Diane got a job.,Diane gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,339,-34.38046646118164,-40.21306610107422,1
+Aaron hid.,Aaron hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,340,-14.64826488494873,-13.835258483886719,0
+Eva got fired.,Eva gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,341,-16.220001220703125,-21.056930541992188,1
+The customer went fishing.,The customer gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,342,-25.08111572265625,-28.243501663208008,1
+Amy hid the scarf.,Amy hidden the scarf.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,343,-27.976348876953125,-28.74461555480957,1
+Gerald wore some shawl.,Gerald worn some shawl.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,344,-54.17701721191406,-56.97459411621094,1
+The universities knew this cashier.,The universities known this cashier.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,345,-49.682579040527344,-50.81781768798828,1
+A lot of boys broke this truck.,A lot of boys broken this truck.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,346,-45.95128631591797,-49.05420684814453,1
+April got fired.,April gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,347,-18.77147102355957,-20.812726974487305,1
+These blouses shrank.,These blouses shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,348,-41.375423431396484,-35.2144889831543,0
+The dress shrank.,The dress shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,349,-31.053789138793945,-25.53380584716797,0
+Carol drove to museums.,Carol driven to museums.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,350,-37.19614791870117,-36.96452713012695,0
+Leslie drove to every library.,Leslie driven to every library.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,351,-42.92555618286133,-41.62958908081055,0
+An apple went bad.,An apple gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,352,-28.369535446166992,-27.2423095703125,0
+An actor wore many skirts.,An actor worn many skirts.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,353,-39.08565139770508,-40.898529052734375,1
+This waitress wore some shirt.,This waitress worn some shirt.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,354,-41.446929931640625,-44.836185455322266,1
+Tammy took some muffins.,Tammy taken some muffins.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,355,-34.64002227783203,-37.45281982421875,1
+Patrick took a spotlight.,Patrick taken a spotlight.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,356,-24.232933044433594,-27.873199462890625,1
+Customers knew Tracy.,Customers known Tracy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,357,-31.643375396728516,-31.546472549438477,0
+Heather drove to this high school.,Heather driven to this high school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,358,-41.26366424560547,-38.18138885498047,0
+Phillip broke windows.,Phillip broken windows.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,359,-29.238950729370117,-28.015125274658203,0
+Shirts shrank.,Shirts shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,360,-34.807621002197266,-27.804725646972656,0
+Winston Churchill woke up.,Winston Churchill woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,361,-32.27124786376953,-39.221248626708984,1
+Connie broke some computer.,Connie broken some computer.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,362,-30.640066146850586,-34.50743865966797,1
+Alice drove to a high school.,Alice driven to a high school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,363,-24.528053283691406,-24.420345306396484,0
+Catherine wore every sweater.,Catherine worn every sweater.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,364,-44.84283447265625,-45.036598205566406,1
+Omar forgot the men.,Omar forgotten the men.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,365,-36.829444885253906,-36.09764862060547,0
+The Impressionists forgot Tanya.,The Impressionists forgotten Tanya.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,366,-63.074310302734375,-63.71299362182617,1
+Joel drove to every hill.,Joel driven to every hill.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,367,-38.32457733154297,-37.678550720214844,0
+This doctor went fishing.,This doctor gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,368,-23.54987335205078,-27.939952850341797,1
+Brett hid away.,Brett hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,369,-39.63623046875,-40.61328125,1
+Rachel hid.,Rachel hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,370,-15.428756713867188,-14.586892127990723,0
+That actor knew a lot of dancers.,That actor known a lot of dancers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,371,-41.00127410888672,-42.11178970336914,1
+Lissa went to every school.,Lissa gone to every school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,372,-29.358314514160156,-32.807918548583984,1
+Ice froze.,Ice frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,373,-13.578071594238281,-13.607442855834961,1
+Robert went to those banks.,Robert gone to those banks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,374,-26.098331451416016,-28.70130729675293,1
+The guest drank.,The guest drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,375,-23.815744400024414,-23.144760131835938,0
+Sara drove to every cafe.,Sara driven to every cafe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,376,-45.96512222290039,-45.336612701416016,0
+Ruth hid these skateboards.,Ruth hidden these skateboards.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,377,-57.60063934326172,-59.110721588134766,1
+Tamara forgot Kathleen.,Tamara forgotten Kathleen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,378,-38.40638732910156,-38.17676544189453,0
+Most cashiers hid many customers.,Most cashiers hidden many customers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,379,-52.01453399658203,-53.42626190185547,1
+Debra broke many cups.,Debra broken many cups.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,380,-35.308170318603516,-38.64007568359375,1
+These cashiers sang.,These cashiers sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,381,-36.161808013916016,-37.29328155517578,1
+Every hamster hid.,Every hamster hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,382,-32.93170928955078,-32.23796463012695,0
+Karen broke all bicycles.,Karen broken all bicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,383,-46.975547790527344,-48.94041061401367,1
+Danielle drove to Spain.,Danielle driven to Spain.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,384,-33.846073150634766,-34.407676696777344,1
+Rodney wore this shoe.,Rodney worn this shoe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,385,-30.292736053466797,-33.071250915527344,1
+Larry got fired.,Larry gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,386,-16.55544662475586,-21.274646759033203,1
+Derek drank.,Derek drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,387,-33.14122009277344,-31.824909210205078,0
+Kimberley spoke up.,Kimberley spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,388,-33.97873306274414,-34.1365966796875,1
+Lisa got a job.,Lisa gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,389,-16.98592758178711,-21.41120147705078,1
+Heather drove to that lake.,Heather driven to that lake.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,390,-41.980159759521484,-39.53461456298828,0
+Many guys forgot Anna.,Many guys forgotten Anna.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,391,-33.7995719909668,-35.27455139160156,1
+A lot of cashiers sang.,A lot of cashiers sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,392,-49.54399108886719,-50.39509582519531,1
+Women got a job.,Women gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,393,-17.30413818359375,-23.42510223388672,1
+Some actress broke that dish.,Some actress broken that dish.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,394,-35.410850524902344,-39.755271911621094,1
+Every shirt shrank.,Every shirt shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,395,-34.95958709716797,-28.707508087158203,0
+Some icicles froze.,Some icicles frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,396,-36.64901351928711,-36.82408142089844,1
+Kathleen sang.,Kathleen sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,397,-39.59440994262695,-40.26910400390625,1
+Wendy wore this blouse.,Wendy worn this blouse.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,398,-50.552242279052734,-53.474788665771484,1
+Catherine forgot Bill.,Catherine forgotten Bill.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,399,-41.845985412597656,-42.35177230834961,1
+Some girl broke a fork.,Some girl broken a fork.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,400,-35.06272888183594,-38.628211975097656,1
+Wayne broke most bicycles.,Wayne broken most bicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,401,-43.679542541503906,-46.3316535949707,1
+Jackets shrank.,Jackets shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,402,-31.845510482788086,-24.80123519897461,0
+Ann knew Helen.,Ann known Helen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,403,-29.013248443603516,-28.447744369506836,0
+Debra broke the bicycle.,Debra broken the bicycle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,404,-27.8272705078125,-31.02648162841797,1
+Many gloves shrank.,Many gloves shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,405,-35.01470184326172,-28.372159957885742,0
+Steve broke that couch.,Steve broken that couch.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,406,-21.345478057861328,-25.966659545898438,1
+Dana got fired.,Dana gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,407,-30.503459930419922,-35.63642883300781,1
+Most fish broke this dish.,Most fish broken this dish.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,408,-31.94617462158203,-33.244422912597656,1
+Carlos drank.,Carlos drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,409,-20.70816421508789,-18.297948837280273,0
+Ruth knew Alexander.,Ruth known Alexander.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,410,-40.28064727783203,-40.83338928222656,1
+Grace hid.,Grace hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,411,-25.1961669921875,-24.04839324951172,0
+Elaine came here.,Elaine come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,412,-24.667896270751953,-23.79986572265625,0
+Colleen hid away.,Colleen hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,413,-28.77011489868164,-28.893632888793945,1
+Some mushroom went bad.,Some mushroom gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,414,-33.87306213378906,-35.015419006347656,1
+Amanda drove to this college campus.,Amanda driven to this college campus.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,415,-51.03113555908203,-50.5190544128418,0
+Sherry hid the art gallery.,Sherry hidden the art gallery.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,416,-52.29490280151367,-52.73638153076172,1
+Omar hid away.,Omar hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,417,-30.726198196411133,-30.480823516845703,0
+A lot of fish broke some wheelbarrows.,A lot of fish broken some wheelbarrows.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,418,-70.61771392822266,-70.46342468261719,0
+Actresses wrote.,Actresses written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,419,-25.15496826171875,-24.67624282836914,0
+Benjamin wore some shawls.,Benjamin worn some shawls.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,420,-49.536712646484375,-52.150428771972656,1
+Teresa knew Guy.,Teresa known Guy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,421,-37.997894287109375,-38.84047317504883,1
+Women spoke up.,Women spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,422,-20.090213775634766,-19.42278480529785,0
+Katherine knew Roger.,Katherine known Roger.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,423,-40.76586151123047,-42.737735748291016,1
+Women went to this museum.,Women gone to this museum.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,424,-22.473087310791016,-25.485549926757812,1
+Jane went fishing.,Jane gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,425,-14.755306243896484,-18.638019561767578,1
+Naomi drove to most art galleries.,Naomi driven to most art galleries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,426,-52.46448516845703,-52.41558074951172,0
+Brett wrote.,Brett written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,427,-32.91449737548828,-34.4268798828125,1
+Samuel drove to some cafe.,Samuel driven to some cafe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,428,-37.33806610107422,-37.72529602050781,1
+Cilantro went bad.,Cilantro gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,429,-46.736228942871094,-46.71383285522461,0
+Marla forgot Donna.,Marla forgotten Donna.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,430,-34.84721374511719,-35.63345718383789,1
+Christina wore some blouse.,Christina worn some blouse.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,431,-38.64036560058594,-40.633575439453125,1
+Marcus went fishing.,Marcus gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,432,-15.25279426574707,-18.729833602905273,1
+Heather wrote.,Heather written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,433,-23.397911071777344,-25.232696533203125,1
+Joseph went fishing.,Joseph gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,434,-16.621238708496094,-18.775728225708008,1
+Jodi hid.,Jodi hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,435,-32.59954071044922,-30.906795501708984,0
+Many actresses got fired.,Many actresses gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,436,-28.179349899291992,-33.54290771484375,1
+Cheryl hid many lights.,Cheryl hidden many lights.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,437,-57.506431579589844,-58.569000244140625,1
+Most students broke most dishes.,Most students broken most dishes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,438,-36.67149353027344,-39.779048919677734,1
+Chad went to all rivers.,Chad gone to all rivers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,439,-44.11932373046875,-43.50311279296875,0
+Samantha went to many closets.,Samantha gone to many closets.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,440,-55.580501556396484,-58.45613479614258,1
+Samuel came here.,Samuel come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,441,-18.159378051757812,-17.702781677246094,0
+These patients drove to every cafe.,These patients driven to every cafe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,442,-42.4674186706543,-42.71395492553711,1
+Julie drove to some schools.,Julie driven to some schools.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,443,-33.54006576538086,-32.80829620361328,0
+Walter wore many blouses.,Walter worn many blouses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,444,-41.582454681396484,-44.06962585449219,1
+Most teenagers wrote.,Most teenagers written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,445,-23.62529754638672,-23.935623168945312,1
+Christina drove to banks.,Christina driven to banks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,446,-32.4058723449707,-32.66218185424805,1
+Kathleen woke up.,Kathleen woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,447,-38.84769058227539,-45.66078186035156,1
+Every sock shrank.,Every sock shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,448,-34.830997467041016,-29.23586654663086,0
+Cheryl forgot a boy.,Cheryl forgotten a boy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,449,-52.104652404785156,-52.477989196777344,1
+Waitresses knew Vincent.,Waitresses known Vincent.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,450,-43.095848083496094,-41.69024658203125,0
+Mark wore every skirt.,Mark worn every skirt.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,451,-31.12158203125,-31.39194107055664,1
+Steven wore all shirts.,Steven worn all shirts.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,452,-29.033960342407227,-30.862430572509766,1
+Richard wore every coat.,Richard worn every coat.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,453,-29.812084197998047,-29.60442543029785,0
+Joel hid away.,Joel hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,454,-25.113235473632812,-25.609390258789062,1
+Sara hid away.,Sara hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,455,-30.534271240234375,-30.754526138305664,1
+Diana drank.,Diana drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,456,-32.9429931640625,-31.329113006591797,0
+All pedestrians hid Omar.,All pedestrians hidden Omar.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,457,-43.945655822753906,-42.168922424316406,0
+Rose forgot Vanessa.,Rose forgotten Vanessa.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,458,-25.330076217651367,-25.550283432006836,1
+John knew Stephen.,John known Stephen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,459,-25.843666076660156,-27.258684158325195,1
+Katherine hid.,Katherine hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,460,-30.271800994873047,-29.750585556030273,0
+A waiter hid that cucumber.,A waiter hidden that cucumber.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,461,-53.63620376586914,-58.16991424560547,1
+Emily hid many windows.,Emily hidden many windows.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,462,-29.34604263305664,-31.194412231445312,1
+Hamsters came here.,Hamsters come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,463,-22.99979591369629,-18.95844268798828,0
+Sally wore that sock.,Sally worn that sock.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,464,-38.85184097290039,-41.850830078125,1
+Nina drank.,Nina drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,465,-30.784412384033203,-28.89365005493164,0
+This lady went fishing.,This lady gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,466,-22.888755798339844,-27.297536849975586,1
+William got fired.,William gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,467,-18.222412109375,-21.77802276611328,1
+Marie forgot Eric.,Marie forgotten Eric.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,468,-26.220417022705078,-26.32370948791504,1
+Dan went fishing.,Dan gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,469,-15.684831619262695,-18.90130043029785,1
+Keith got a job.,Keith gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,470,-16.371761322021484,-21.214561462402344,1
+Scott forgot Jodi.,Scott forgotten Jodi.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,471,-33.625152587890625,-34.22224426269531,1
+Judy forgot Anna.,Judy forgotten Anna.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,472,-31.07740020751953,-32.652069091796875,1
+Allison knew Walter.,Allison known Walter.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,473,-36.71974182128906,-38.57356262207031,1
+Some cashiers wrote.,Some cashiers written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,474,-32.34088897705078,-33.59999465942383,1
+Ice cream froze.,Ice cream frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,475,-16.92146110534668,-15.613683700561523,0
+Katherine spoke up.,Katherine spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,476,-36.045352935791016,-36.090614318847656,1
+Dana broke this plane.,Dana broken this plane.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,477,-36.459266662597656,-40.387916564941406,1
+Many ladies drove to some closet.,Many ladies driven to some closet.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,478,-42.835113525390625,-43.3938102722168,1
+Some doctors sang.,Some doctors sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,479,-21.28768539428711,-22.262176513671875,1
+Irene went to that public park.,Irene gone to that public park.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,480,-41.50501251220703,-44.987762451171875,1
+Many senators went to all closets.,Many senators gone to all closets.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,481,-49.397727966308594,-51.49652099609375,1
+That customer woke up.,That customer woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,482,-26.73311424255371,-32.70069885253906,1
+Christine drank.,Christine drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,483,-22.538850784301758,-18.995925903320312,0
+Every scarf shrank.,Every scarf shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,484,-35.514495849609375,-29.584320068359375,0
+Emily drank.,Emily drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,485,-14.209223747253418,-11.815284729003906,0
+Maria wrote.,Maria written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,486,-10.601369857788086,-13.63072681427002,1
+Holly hid Tiffany.,Holly hidden Tiffany.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,487,-39.22599411010742,-40.74738693237305,1
+These women took the sketches.,These women taken the sketches.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,488,-28.805278778076172,-31.27524185180664,1
+Raymond went to that school.,Raymond gone to that school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,489,-29.173507690429688,-32.2427864074707,1
+Gregory spoke up.,Gregory spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,490,-27.113590240478516,-26.037250518798828,0
+Many governments knew a lot of guests.,Many governments known a lot of guests.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,491,-39.57048797607422,-39.546180725097656,0
+Sabrina got a job.,Sabrina gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,492,-24.74158477783203,-29.928895950317383,1
+The Borgias broke a screen.,The Borgias broken a screen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,493,-46.27250671386719,-51.69805145263672,1
+Michelle forgot Linda.,Michelle forgotten Linda.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,494,-26.154354095458984,-26.712617874145508,1
+Stacy broke some plates.,Stacy broken some plates.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,495,-39.63878631591797,-43.49332809448242,1
+Samuel went to the art galleries.,Samuel gone to the art galleries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,496,-36.337799072265625,-39.13291931152344,1
+Holly broke the computer.,Holly broken the computer.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,497,-30.49026107788086,-33.95355224609375,1
+Michael broke some plate.,Michael broken some plate.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,498,-25.105388641357422,-28.881160736083984,1
+Connie broke the cart.,Connie broken the cart.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,499,-32.10209274291992,-35.290245056152344,1
+Those students knew Rachel.,Those students known Rachel.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,500,-32.85623550415039,-34.32437515258789,1
+Lisa forgot Brian.,Lisa forgotten Brian.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,501,-25.760530471801758,-26.320880889892578,1
+Some actor went to some library.,Some actor gone to some library.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,502,-36.036380767822266,-39.483543395996094,1
+Marie got a job.,Marie gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,503,-17.174388885498047,-21.4381103515625,1
+Carolyn broke many cups.,Carolyn broken many cups.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,504,-38.33872985839844,-42.03187561035156,1
+The Impressionists sang.,The Impressionists sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,505,-43.70948791503906,-43.762054443359375,1
+Some actor spoke up.,Some actor spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,506,-32.0620002746582,-31.494525909423828,0
+Tonya hid Derek.,Tonya hidden Derek.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,507,-34.54850769042969,-34.474952697753906,0
+All women hid away.,All women hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,508,-26.67278289794922,-27.440235137939453,1
+Every museum took a lot of turtles.,Every museum taken a lot of turtles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,509,-36.308746337890625,-39.05500793457031,1
+Regina hid.,Regina hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,510,-22.895326614379883,-22.88980484008789,0
+Linda wore the shirts.,Linda worn the shirts.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,511,-33.584754943847656,-35.47722244262695,1
+Eric got a job.,Eric gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,512,-16.600887298583984,-21.73691749572754,1
+Claire wore these socks.,Claire worn these socks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,513,-37.07536315917969,-39.32964324951172,1
+These girls hid Karen.,These girls hidden Karen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,514,-34.118675231933594,-34.349815368652344,1
+Stephanie forgot Rachelle.,Stephanie forgotten Rachelle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,515,-45.042381286621094,-45.853668212890625,1
+Every senator came here.,Every senator come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,516,-25.393943786621094,-25.92076873779297,1
+Some fish hid.,Some fish hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,517,-22.352619171142578,-19.852561950683594,0
+Many lakes froze.,Many lakes frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,518,-26.311378479003906,-25.94289779663086,0
+Rachelle hid Gerald.,Rachelle hidden Gerald.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,519,-36.300941467285156,-36.34103012084961,1
+Peter got a job.,Peter gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,520,-17.26360511779785,-21.01439666748047,1
+Most icicles froze.,Most icicles frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,521,-37.36494064331055,-37.241477966308594,0
+Rodney ate.,Rodney eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,522,-17.195852279663086,-18.50273895263672,1
+Kirsten wore shawls.,Kirsten worn shawls.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,523,-54.4334716796875,-56.32556915283203,1
+Regina woke up.,Regina woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,524,-20.811420440673828,-26.921958923339844,1
+A cashier took these boxes.,A cashier taken these boxes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,525,-53.253662109375,-56.21104431152344,1
+Maria got a job.,Maria gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,526,-16.73647689819336,-21.190401077270508,1
+Michelle wore many skirts.,Michelle worn many skirts.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,527,-31.3665714263916,-34.05303955078125,1
+Janice wore that blouse.,Janice worn that blouse.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,528,-37.277854919433594,-40.95521926879883,1
+Mark got a job.,Mark gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,529,-18.105972290039062,-22.625654220581055,1
+Heather took the turtle.,Heather taken the turtle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,530,-34.100196838378906,-34.22169494628906,1
+Debra drove to most hospitals.,Debra driven to most hospitals.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,531,-40.248878479003906,-39.87528991699219,0
+Catherine wore this shawl.,Catherine worn this shawl.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,532,-54.87235641479492,-56.64787673950195,1
+Heather drank.,Heather drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,533,-25.998291015625,-21.758636474609375,0
+Edward forgot Patricia.,Edward forgotten Patricia.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,534,-27.140628814697266,-27.53445053100586,1
+A lot of peppers went bad.,A lot of peppers gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,535,-47.0523681640625,-47.691307067871094,1
+Patricia drove to a restaurant.,Patricia driven to a restaurant.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,536,-31.721664428710938,-31.087236404418945,0
+Guests ate.,Guests eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,537,-23.07229232788086,-24.079891204833984,1
+Brenda got fired.,Brenda gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,538,-20.14920425415039,-25.583066940307617,1
+Kendra knew this customer.,Kendra known this customer.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,539,-49.511470794677734,-49.92278289794922,1
+An actress went to these malls.,An actress gone to these malls.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,540,-42.42782974243164,-45.51961135864258,1
+Catherine took a popsicle.,Catherine taken a popsicle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,541,-49.74056625366211,-53.455421447753906,1
+A lot of customers ate.,A lot of customers eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,542,-38.10230255126953,-38.992774963378906,1
+The drivers hid.,The drivers hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,543,-26.29438591003418,-25.469425201416016,0
+The Borgias hid this snake.,The Borgias hidden this snake.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,544,-53.53559112548828,-55.847373962402344,1
+Rhonda ate.,Rhonda eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,545,-24.467483520507812,-25.69390296936035,1
+Adam knew Rodney.,Adam known Rodney.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,546,-24.732004165649414,-24.637691497802734,0
+A lot of ladies hid Todd.,A lot of ladies hidden Todd.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,547,-53.29517364501953,-51.91270446777344,0
+Frank broke those planes.,Frank broken those planes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,548,-26.917694091796875,-30.22002410888672,1
+The guests ate.,The guests eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,549,-22.438556671142578,-23.42500877380371,1
+These patients wore socks.,These patients worn socks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,550,-33.83625411987305,-35.5147590637207,1
+Most hats shrank.,Most hats shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,551,-35.14725875854492,-28.286752700805664,0
+Douglas sang.,Douglas sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,552,-22.940513610839844,-23.320512771606445,1
+All horses came here.,All horses come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,553,-24.482990264892578,-20.624168395996094,0
+Gerald went to all libraries.,Gerald gone to all libraries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,554,-46.15048599243164,-48.77592086791992,1
+Tiffany went fishing.,Tiffany gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,555,-41.40579605102539,-43.45304870605469,1
+Tina went to that hill.,Tina gone to that hill.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,556,-42.03050231933594,-42.957916259765625,1
+The actor sang.,The actor sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,557,-22.744365692138672,-24.302230834960938,1
+Nina knew Winston Churchill.,Nina known Winston Churchill.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,558,-51.854339599609375,-54.29297637939453,1
+The drivers broke this unicycle.,The drivers broken this unicycle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,559,-46.27031707763672,-50.46112823486328,1
+Derek went to those libraries.,Derek gone to those libraries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,560,-48.70805740356445,-52.312198638916016,1
+Many teachers spoke up.,Many teachers spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,561,-28.36957359313965,-27.2482852935791,0
+That cilantro went bad.,That cilantro gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,562,-48.22203826904297,-49.848609924316406,1
+Nancy took that skateboard.,Nancy taken that skateboard.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,563,-47.229488372802734,-48.00490188598633,1
+Steven broke this mirror.,Steven broken this mirror.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,564,-24.15943145751953,-28.689470291137695,1
+Barbara woke up.,Barbara woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,565,-20.364830017089844,-26.658082962036133,1
+The Lutherans wore many pants.,The Lutherans worn many pants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,566,-52.912872314453125,-57.08467102050781,1
+Adults broke this computer.,Adults broken this computer.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,567,-34.44133758544922,-37.76797103881836,1
+The Borgias got fired.,The Borgias gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,568,-41.78605651855469,-48.01457595825195,1
+These socks shrank.,These socks shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,569,-33.00932693481445,-27.33643341064453,0
+Noah drank.,Noah drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,570,-26.95785903930664,-26.62024688720703,0
+Julia forgot Raymond.,Julia forgotten Raymond.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,571,-35.18084716796875,-36.229183197021484,1
+This ice cream froze.,This ice cream frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,572,-26.097810745239258,-24.84119987487793,0
+A lot of senators drank.,A lot of senators drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,573,-46.576725006103516,-45.77898406982422,0
+Dennis knew Tracy.,Dennis known Tracy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,574,-42.828773498535156,-43.89430236816406,1
+Carla hid the book.,Carla hidden the book.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,575,-28.514530181884766,-29.658016204833984,1
+Brenda went to every college campus.,Brenda gone to every college campus.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,576,-37.419464111328125,-40.98234939575195,1
+Michael drank.,Michael drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,577,-14.05461311340332,-11.853189468383789,0
+Michael ate.,Michael eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,578,-13.875689506530762,-13.541292190551758,0
+The Borgias broke the computers.,The Borgias broken the computers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,579,-45.01557159423828,-49.74488830566406,1
+Janet broke those trucks.,Janet broken those trucks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,580,-32.1983528137207,-36.28013229370117,1
+Marcus broke some screens.,Marcus broken some screens.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,581,-25.688884735107422,-29.73974609375,1
+Teresa broke the trucks.,Teresa broken the trucks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,582,-33.45108413696289,-36.200172424316406,1
+Daniel took that ladder.,Daniel taken that ladder.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,583,-24.00454330444336,-27.16823959350586,1
+Many blouses shrank.,Many blouses shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,584,-41.76338195800781,-35.70289611816406,0
+Rachel went to a lot of hospitals.,Rachel gone to a lot of hospitals.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,585,-26.136493682861328,-28.815786361694336,1
+Some cats broke many carriages.,Some cats broken many carriages.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,586,-48.27418518066406,-51.18438720703125,1
+Travis got a job.,Travis gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,587,-39.2309684753418,-44.15612030029297,1
+Paula came here.,Paula come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,588,-20.02802276611328,-20.436927795410156,1
+Roger forgot Christine.,Roger forgotten Christine.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,589,-28.297393798828125,-27.077728271484375,0
+Nina spoke up.,Nina spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,590,-36.84947204589844,-36.94771957397461,1
+Patricia knew most students.,Patricia known most students.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,591,-34.216407775878906,-36.954280853271484,1
+These pedestrians drove to a lot of libraries.,These pedestrians driven to a lot of libraries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,592,-47.32875061035156,-47.10926818847656,0
+The water froze.,The water frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,593,-21.55562400817871,-20.89965057373047,0
+Regina got a job.,Regina gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,594,-24.349205017089844,-30.388391494750977,1
+Debra hid.,Debra hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,595,-21.469650268554688,-20.515789031982422,0
+Beverly drove to every closet.,Beverly driven to every closet.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,596,-59.18333435058594,-57.64002227783203,0
+Jennifer wrote.,Jennifer written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,597,-10.478939056396484,-13.722392082214355,1
+Those people wrote.,Those people written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,598,-15.657998085021973,-16.587173461914062,1
+Rachelle hid Brian.,Rachelle hidden Brian.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,599,-35.75996780395508,-36.056312561035156,1
+Sharon broke that glass.,Sharon broken that glass.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,600,-29.467792510986328,-33.53563690185547,1
+Maria went to this mountain.,Maria gone to this mountain.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,601,-25.13791847229004,-27.847579956054688,1
+Donald broke these cups.,Donald broken these cups.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,602,-26.40699005126953,-29.9022274017334,1
+A lot of pedestrians went to art galleries.,A lot of pedestrians gone to art galleries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,603,-59.902793884277344,-61.004188537597656,1
+Many rabbits broke couches.,Many rabbits broken couches.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,604,-41.134010314941406,-42.8614501953125,1
+This dancer went to the cafe.,This dancer gone to the cafe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,605,-33.412166595458984,-36.62469482421875,1
+Sally drove to every mountain.,Sally driven to every mountain.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,606,-46.43119812011719,-44.406333923339844,0
+Some girls forgot Kristin.,Some girls forgotten Kristin.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,607,-42.888004302978516,-44.09156799316406,1
+The jackets shrank.,The jackets shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,608,-34.17198181152344,-28.76930046081543,0
+Erin came here.,Erin come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,609,-22.12432098388672,-21.402507781982422,0
+Candice hid.,Candice hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,610,-22.159025192260742,-20.3972110748291,0
+The ladies drank.,The ladies drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,611,-23.23851776123047,-24.686019897460938,1
+A lot of rivers froze.,A lot of rivers frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,612,-42.25318145751953,-41.43310546875,0
+Monet knew Stacy.,Monet known Stacy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,613,-37.74837875366211,-38.54023742675781,1
+Cindy got fired.,Cindy gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,614,-36.63471221923828,-41.746829986572266,1
+Benjamin took this dog.,Benjamin taken this dog.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,615,-32.624420166015625,-35.7281494140625,1
+Denise broke every skateboard.,Denise broken every skateboard.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,616,-42.49489212036133,-44.65155792236328,1
+Many icicles froze.,Many icicles frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,617,-37.394020080566406,-37.49446105957031,1
+Diane went to every closet.,Diane gone to every closet.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,618,-44.85243225097656,-48.46331024169922,1
+Derek broke every plane.,Derek broken every plane.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,619,-42.094459533691406,-46.40685272216797,1
+Catherine came here.,Catherine come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,620,-28.892410278320312,-28.568979263305664,0
+A child went to those hills.,A child gone to those hills.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,621,-42.636932373046875,-42.90483093261719,1
+Some schools took those scarves.,Some schools taken those scarves.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,622,-39.69526290893555,-42.24555969238281,1
+Some actors hid.,Some actors hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,623,-24.975276947021484,-24.557275772094727,0
+Matt ate.,Matt eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,624,-13.873861312866211,-13.30336856842041,0
+Amanda sang.,Amanda sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,625,-24.92473602294922,-25.53655242919922,1
+That guy hid.,That guy hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,626,-23.166461944580078,-21.864492416381836,0
+Cynthia came here.,Cynthia come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,627,-46.93391418457031,-46.25224304199219,0
+Karla ate.,Karla eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,628,-20.562488555908203,-20.852872848510742,1
+Karen went to a lot of grocery stores.,Karen gone to a lot of grocery stores.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,629,-52.08417510986328,-52.600059509277344,1
+That actor drove to that closet.,That actor driven to that closet.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,630,-43.373756408691406,-43.65327835083008,1
+Some shawls shrank.,Some shawls shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,631,-46.339508056640625,-41.194984436035156,0
+Deborah broke these plates.,Deborah broken these plates.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,632,-34.937583923339844,-38.75212097167969,1
+Catherine spoke up.,Catherine spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,633,-36.52931213378906,-36.49596405029297,0
+Doctors drove to a high school.,Doctors driven to a high school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,634,-26.40598487854004,-24.677980422973633,0
+Some patients sang.,Some patients sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,635,-23.679668426513672,-24.149288177490234,1
+Those dancers took every nose.,Those dancers taken every nose.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,636,-37.14646911621094,-39.58244323730469,1
+Every student broke screens.,Every student broken screens.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,637,-33.49140930175781,-34.82944107055664,1
+Michelle wrote.,Michelle written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,638,-10.605823516845703,-13.568937301635742,1
+Bradley hid.,Bradley hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,639,-18.98845672607422,-18.42896842956543,0
+Becca knew Steve.,Becca known Steve.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,640,-37.05713653564453,-37.06297302246094,1
+Elaine got fired.,Elaine gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,641,-27.702411651611328,-33.274024963378906,1
+Chad woke up.,Chad woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,642,-29.36197280883789,-35.16533660888672,1
+Helen drove to all cafes.,Helen driven to all cafes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,643,-43.76799392700195,-43.285057067871094,0
+Theodore forgot Bethany.,Theodore forgotten Bethany.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,644,-49.58839797973633,-51.31517791748047,1
+Melanie knew Amelia.,Melanie known Amelia.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,645,-37.9774284362793,-38.92313003540039,1
+A man hid away.,A man hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,646,-37.0484619140625,-35.977638244628906,0
+The glaciers froze.,The glaciers frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,647,-27.471172332763672,-27.437192916870117,0
+Russell drove to the college campuses.,Russell driven to the college campuses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,648,-34.86116027832031,-35.41368865966797,1
+Omar drove to these schools.,Omar driven to these schools.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,649,-40.766014099121094,-38.920352935791016,0
+Some ladies drank.,Some ladies drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,650,-23.510053634643555,-25.1300048828125,1
+These guests wore some coat.,These guests worn some coat.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,651,-36.055824279785156,-38.57122039794922,1
+Tiffany forgot Suzanne.,Tiffany forgotten Suzanne.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,652,-53.361331939697266,-53.767677307128906,1
+Mark drove to that mall.,Mark driven to that mall.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,653,-30.061416625976562,-29.330781936645508,0
+Regina drove to all restaurants.,Regina driven to all restaurants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,654,-39.36801528930664,-39.93531036376953,1
+Kristin hid.,Kristin hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,655,-21.01354217529297,-20.30661392211914,0
+Karla drank.,Karla drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,656,-21.716175079345703,-19.231948852539062,0
+Every driver went fishing.,Every driver gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,657,-24.966224670410156,-29.09793472290039,1
+These customers hid.,These customers hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,658,-24.490676879882812,-23.235759735107422,0
+Ella ate.,Ella eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,659,-31.042766571044922,-31.831506729125977,1
+The actor broke most unicycles.,The actor broken most unicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,660,-57.25465774536133,-61.51660919189453,1
+Denise drove to some public park.,Denise driven to some public park.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,661,-42.302085876464844,-41.906646728515625,0
+Jesus went fishing.,Jesus gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,662,-15.874216079711914,-18.727371215820312,1
+Most teachers broke that plate.,Most teachers broken that plate.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,663,-32.478275299072266,-36.60649490356445,1
+Some pepper went bad.,Some pepper gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,664,-32.813140869140625,-32.023681640625,0
+Every coat shrank.,Every coat shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,665,-32.50344467163086,-28.02695083618164,0
+Susan forgot Tracy.,Susan forgotten Tracy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,666,-26.984149932861328,-27.076602935791016,1
+Chad wore the sock.,Chad worn the sock.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,667,-43.19657516479492,-43.807533264160156,1
+Some banks forgot Kendra.,Some banks forgotten Kendra.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,668,-51.321319580078125,-51.33544158935547,1
+Dan wore most glasses.,Dan worn most glasses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,669,-30.757946014404297,-33.25121307373047,1
+Wendy knew Carrie.,Wendy known Carrie.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,670,-45.461463928222656,-46.677345275878906,1
+Clyde took most bananas.,Clyde taken most bananas.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,671,-60.04787826538086,-61.66280746459961,1
+That guest hid away.,That guest hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,672,-32.46476364135742,-33.373146057128906,1
+That senator got fired.,That senator gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,673,-32.52690505981445,-37.81816864013672,1
+Teresa went to some high schools.,Teresa gone to some high schools.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,674,-39.94093704223633,-41.51808166503906,1
+Christopher broke the dishes.,Christopher broken the dishes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,675,-21.70952033996582,-24.410480499267578,1
+Those gloves shrank.,Those gloves shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,676,-33.90898132324219,-27.130733489990234,0
+Many adults went fishing.,Many adults gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,677,-22.241085052490234,-25.09357452392578,1
+That mushroom went bad.,That mushroom gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,678,-32.48618698120117,-34.11322784423828,1
+Susan broke vases.,Susan broken vases.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,679,-31.97675132751465,-34.44085693359375,1
+Homer broke a lot of screens.,Homer broken a lot of screens.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,680,-41.56307601928711,-43.69986343383789,1
+Stacey forgot all women.,Stacey forgotten all women.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,681,-46.315059661865234,-47.30000305175781,1
+Most pedestrians hid away.,Most pedestrians hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,682,-32.74170684814453,-32.900848388671875,1
+Allison hid away.,Allison hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,683,-30.047672271728516,-29.99199104309082,0
+Timothy got a job.,Timothy gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,684,-22.07158660888672,-27.492488861083984,1
+Many shawls shrank.,Many shawls shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,685,-47.11738967895508,-41.74870300292969,0
+Christopher hid every convertible.,Christopher hidden every convertible.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,686,-35.3597412109375,-35.919769287109375,1
+Alexander broke those bikes.,Alexander broken those bikes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,687,-27.49053955078125,-32.39406204223633,1
+Carol hid.,Carol hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,688,-23.296993255615234,-21.95916748046875,0
+Many waiters got fired.,Many waiters gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,689,-40.58478546142578,-46.98541259765625,1
+Edward came here.,Edward come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,690,-13.949390411376953,-14.026025772094727,1
+The waitresses forgot Michael.,The waitresses forgotten Michael.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,691,-50.09515380859375,-50.28123092651367,1
+Brett knew Paula.,Brett known Paula.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,692,-47.142295837402344,-46.69175720214844,0
+Sabrina took some dog.,Sabrina taken some dog.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,693,-27.90468978881836,-30.90913963317871,1
+These doctors went to glaciers.,These doctors gone to glaciers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,694,-28.898433685302734,-31.953365325927734,1
+Every driver broke a plate.,Every driver broken a plate.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,695,-29.782323837280273,-33.35908126831055,1
+A lot of children hid Cynthia.,A lot of children hidden Cynthia.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,696,-49.640716552734375,-49.56048583984375,0
+Theodore wore every scarf.,Theodore worn every scarf.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,697,-43.34109878540039,-44.953407287597656,1
+Florence hid Noah.,Florence hidden Noah.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,698,-39.99183654785156,-39.87079620361328,0
+Those patients broke this computer.,Those patients broken this computer.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,699,-32.615943908691406,-35.122955322265625,1
+Carol took these sketches.,Carol taken these sketches.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,700,-38.289466857910156,-40.74305725097656,1
+Those mushrooms went bad.,Those mushrooms gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,701,-31.516700744628906,-31.87381362915039,1
+Vanessa took all art galleries.,Vanessa taken all art galleries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,702,-41.02513885498047,-45.20252227783203,1
+Patrick went fishing.,Patrick gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,703,-15.289155960083008,-18.824621200561523,1
+Tara hid.,Tara hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,704,-32.29849624633789,-31.38858413696289,0
+This eggplant went bad.,This eggplant gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,705,-44.86911392211914,-44.940643310546875,1
+Wendy drank.,Wendy drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,706,-33.574249267578125,-30.7326602935791,0
+Alexander woke up.,Alexander woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,707,-12.552141189575195,-20.43930435180664,1
+Carol came here.,Carol come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,708,-22.291582107543945,-21.720394134521484,0
+Jeffrey took every candle.,Jeffrey taken every candle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,709,-34.133628845214844,-37.443111419677734,1
+Brad got fired.,Brad gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,710,-17.97172737121582,-22.29308319091797,1
+Many associations forgot Suzanne.,Many associations forgotten Suzanne.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,711,-41.748931884765625,-41.49124526977539,0
+Laurie went to some bank.,Laurie gone to some bank.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,712,-36.45005416870117,-39.762428283691406,1
+A skirt shrank.,A skirt shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,713,-43.350399017333984,-36.62520980834961,0
+Becky drove to that art gallery.,Becky driven to that art gallery.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,714,-44.264076232910156,-44.24274826049805,0
+Girls went to the Great Lakes.,Girls gone to the Great Lakes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,715,-26.27235984802246,-29.631221771240234,1
+That jacket shrank.,That jacket shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,716,-35.838714599609375,-30.23326301574707,0
+Carlos forgot Steve.,Carlos forgotten Steve.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,717,-34.01085662841797,-34.01699447631836,1
+Every driver wore these hats.,Every driver worn these hats.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,718,-37.85871887207031,-41.22829055786133,1
+Tara got a job.,Tara gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,719,-32.845458984375,-39.03120422363281,1
+Naomi forgot Gary.,Naomi forgotten Gary.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,720,-38.71776580810547,-39.375022888183594,1
+Winston Churchill hid.,Winston Churchill hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,721,-34.67767333984375,-33.73715591430664,0
+Michael hid.,Michael hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,722,-15.650026321411133,-14.94395637512207,0
+Some hat shrank.,Some hat shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,723,-34.7852783203125,-29.158653259277344,0
+Jesus hid.,Jesus hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,724,-15.308154106140137,-14.296133995056152,0
+Martha took a lot of bicycles.,Martha taken a lot of bicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,725,-34.829036712646484,-38.14601135253906,1
+Melissa came here.,Melissa come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,726,-23.273435592651367,-22.877548217773438,0
+Brenda hid away.,Brenda hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,727,-22.922407150268555,-24.47823715209961,1
+George went to all movie theaters.,George gone to all movie theaters.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,728,-38.4065055847168,-40.09657287597656,1
+Some doctors wore those scarves.,Some doctors worn those scarves.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,729,-41.85167694091797,-45.213043212890625,1
+A teenager broke that bike.,A teenager broken that bike.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,730,-42.629371643066406,-46.1221923828125,1
+Nicole forgot Meredith.,Nicole forgotten Meredith.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,731,-34.97364807128906,-35.16607666015625,1
+Some bird woke up.,Some bird woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,732,-24.38803482055664,-29.491016387939453,1
+Andrew broke this fork.,Andrew broken this fork.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,733,-26.879150390625,-30.56732177734375,1
+Men spoke up.,Men spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,734,-20.53529930114746,-19.56877899169922,0
+Regina took some bread.,Regina taken some bread.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,735,-28.711143493652344,-32.78665542602539,1
+These girls hid Paul.,These girls hidden Paul.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,736,-33.9859619140625,-33.87567901611328,0
+Gerald broke those carriages.,Gerald broken those carriages.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,737,-47.72709655761719,-52.50990295410156,1
+Thomas woke up.,Thomas woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,738,-12.253153800964355,-20.274124145507812,1
+Cheryl broke every bike.,Cheryl broken every bike.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,739,-54.04031753540039,-55.76158142089844,1
+Melanie went to every high school.,Melanie gone to every high school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,740,-36.94889450073242,-40.76329803466797,1
+The shoe shrank.,The shoe shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,741,-32.518157958984375,-27.814617156982422,0
+Holly got fired.,Holly gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,742,-27.202510833740234,-32.55059814453125,1
+Edward went to that college campus.,Edward gone to that college campus.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,743,-32.824676513671875,-35.38976287841797,1
+Douglas woke up.,Douglas woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,744,-23.247934341430664,-29.69196319580078,1
+Jane woke up.,Jane woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,745,-12.20995044708252,-20.147354125976562,1
+Alexander broke these cups.,Alexander broken these cups.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,746,-26.03778839111328,-31.393795013427734,1
+Judy got fired.,Judy gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,747,-22.333412170410156,-27.366649627685547,1
+David took most convertibles.,David taken most convertibles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,748,-45.980873107910156,-49.169395446777344,1
+The Clintons hid Tiffany.,The Clintons hidden Tiffany.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,749,-44.62934112548828,-44.7359504699707,1
+Elaine sang.,Elaine sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,750,-24.608173370361328,-25.484329223632812,1
+Julia knew Peter.,Julia known Peter.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,751,-34.144371032714844,-35.84636306762695,1
+Jessica hid a newspaper article.,Jessica hidden a newspaper article.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,752,-31.39493751525879,-33.676780700683594,1
+Melanie wrote.,Melanie written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,753,-23.29819107055664,-26.443607330322266,1
+The waiters hid away.,The waiters hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,754,-40.7756462097168,-40.6488151550293,0
+Thomas hid.,Thomas hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,755,-15.904854774475098,-15.537299156188965,0
+Every adult came here.,Every adult come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,756,-24.197933197021484,-23.670223236083984,0
+Erin ate.,Erin eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,757,-21.923744201660156,-21.122268676757812,0
+Sabrina sang.,Sabrina sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,758,-19.702167510986328,-20.579578399658203,1
+Stacey hid Sabrina.,Stacey hidden Sabrina.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,759,-56.97429656982422,-55.43275451660156,0
+Christina went to every closet.,Christina gone to every closet.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,760,-32.577972412109375,-36.275306701660156,1
+That actress spoke up.,That actress spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,761,-35.2004508972168,-35.63246536254883,1
+Bruce hid Sarah.,Bruce hidden Sarah.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,762,-25.696191787719727,-26.1049747467041,1
+Most waiters broke a screen.,Most waiters broken a screen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,763,-47.88139724731445,-51.19056701660156,1
+Christopher spoke up.,Christopher spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,764,-21.09284210205078,-21.060449600219727,0
+A woman broke a glass.,A woman broken a glass.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,765,-36.464595794677734,-38.98136520385742,1
+Alicia ate.,Alicia eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,766,-39.0691032409668,-40.763587951660156,1
+Aaron hid away.,Aaron hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,767,-19.13628578186035,-20.10558319091797,1
+Those guys got a job.,Those guys gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,768,-22.349987030029297,-28.52906036376953,1
+Most waiters wore some shawls.,Most waiters worn some shawls.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,769,-63.707366943359375,-66.29351806640625,1
+Most skirts shrank.,Most skirts shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,770,-35.949222564697266,-29.079723358154297,0
+That teenager hid away.,That teenager hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,771,-33.845298767089844,-34.637603759765625,1
+Alice got fired.,Alice gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,772,-16.114912033081055,-21.306621551513672,1
+Stephen got fired.,Stephen gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,773,-17.375316619873047,-21.465282440185547,1
+Every glacier froze.,Every glacier frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,774,-30.817354202270508,-30.225236892700195,0
+Monica knew dancers.,Monica known dancers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,775,-32.37240982055664,-32.98777770996094,1
+Tamara wore blouses.,Tamara worn blouses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,776,-36.6456298828125,-38.59862518310547,1
+Karen hid that hamster.,Karen hidden that hamster.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,777,-48.254512786865234,-51.0695686340332,1
+Carrie sang.,Carrie sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,778,-20.033628463745117,-21.10699462890625,1
+Bill drank.,Bill drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,779,-14.218486785888672,-11.24545669555664,0
+These waitresses went to Spain.,These waitresses gone to Spain.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,780,-44.477012634277344,-44.91953659057617,1
+Edward wrote.,Edward written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,781,-11.677023887634277,-13.989391326904297,1
+Carlos came here.,Carlos come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,782,-19.313888549804688,-18.511343002319336,0
+These children drove to Spain.,These children driven to Spain.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,783,-29.642410278320312,-30.43408203125,1
+Ronald got a job.,Ronald gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,784,-31.504634857177734,-36.085670471191406,1
+Peter went to most high schools.,Peter gone to most high schools.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,785,-32.240177154541016,-34.20094299316406,1
+All guys hid Angela.,All guys hidden Angela.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,786,-38.85511016845703,-38.53150177001953,0
+Sherry drove to the hospital.,Sherry driven to the hospital.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,787,-40.769657135009766,-39.16811752319336,0
+The Impressionists woke up.,The Impressionists woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,788,-42.38685607910156,-49.09446716308594,1
+These cashiers hid Margaret.,These cashiers hidden Margaret.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,789,-49.473506927490234,-50.279762268066406,1
+Those children went to that movie theater.,Those children gone to that movie theater.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,790,-36.22167205810547,-39.377845764160156,1
+Amelia went fishing.,Amelia gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,791,-29.879024505615234,-32.98158264160156,1
+Jesus forgot Denise.,Jesus forgotten Denise.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,792,-27.422813415527344,-28.457656860351562,1
+This water froze.,This water frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,793,-24.758188247680664,-23.446598052978516,0
+Wendy went to a lot of public parks.,Wendy gone to a lot of public parks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,794,-52.28690719604492,-54.32136154174805,1
+Most museums knew Benjamin.,Most museums known Benjamin.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,795,-40.48038864135742,-39.51959991455078,0
+Tanya came here.,Tanya come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,796,-31.682159423828125,-31.295957565307617,0
+The Clintons drove to many restaurants.,The Clintons driven to many restaurants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,797,-46.27671432495117,-45.636863708496094,0
+Rodney broke some plates.,Rodney broken some plates.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,798,-28.51954460144043,-32.27412414550781,1
+Alexander drove to restaurants.,Alexander driven to restaurants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,799,-25.287551879882812,-25.353744506835938,1
+Catherine took some eggplants.,Catherine taken some eggplants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,800,-53.247764587402344,-56.73231506347656,1
+Every woman drove to college campuses.,Every woman driven to college campuses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,801,-40.62052536010742,-40.64554214477539,1
+Charles wore that coat.,Charles worn that coat.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,802,-26.16211700439453,-29.126047134399414,1
+This pedestrian ate.,This pedestrian eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,803,-28.489459991455078,-29.52696990966797,1
+These dancers sang.,These dancers sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,804,-25.570541381835938,-26.003908157348633,1
+Elizabeth got fired.,Elizabeth gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,805,-16.984214782714844,-21.349828720092773,1
+Thomas sang.,Thomas sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,806,-13.209524154663086,-13.87636947631836,1
+Some shoes shrank.,Some shoes shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,807,-32.62291717529297,-26.20667266845703,0
+The Lutherans got a job.,The Lutherans gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,808,-40.391265869140625,-46.35139465332031,1
+Brian forgot Sherry.,Brian forgotten Sherry.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,809,-31.63014030456543,-32.55377197265625,1
+Jane wore the shirt.,Jane worn the shirt.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,810,-24.10200309753418,-25.411998748779297,1
+This teacher broke a skateboard.,This teacher broken a skateboard.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,811,-39.977806091308594,-44.051490783691406,1
+Jason took many boxes.,Jason taken many boxes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,812,-25.869123458862305,-29.240779876708984,1
+Rose drank.,Rose drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,813,-14.290079116821289,-11.334903717041016,0
+Lori broke glasses.,Lori broken glasses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,814,-32.098533630371094,-34.471580505371094,1
+Theresa wore a lot of coats.,Theresa worn a lot of coats.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,815,-40.148468017578125,-43.08396911621094,1
+This patient went fishing.,This patient gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,816,-25.35723304748535,-29.97075843811035,1
+Most students forgot Jesus.,Most students forgotten Jesus.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,817,-34.00330352783203,-35.52524185180664,1
+A mushroom went bad.,A mushroom gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,818,-41.40564727783203,-42.02363967895508,1
+Libraries forgot Wayne.,Libraries forgotten Wayne.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,819,-43.67901611328125,-42.606163024902344,0
+Aaron wore that shoe.,Aaron worn that shoe.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,820,-25.843124389648438,-28.715181350708008,1
+Girls sang.,Girls sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,821,-15.62205696105957,-15.541404724121094,0
+Diana got a job.,Diana gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,822,-34.78221130371094,-39.81026840209961,1
+Edward hid away.,Edward hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,823,-18.785476684570312,-20.731454849243164,1
+Regina got fired.,Regina gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,824,-24.450420379638672,-30.119367599487305,1
+Ella took rice.,Ella taken rice.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,825,-36.99937438964844,-40.87823486328125,1
+Heidi wore some glove.,Heidi worn some glove.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,826,-41.93681335449219,-43.16956329345703,1
+Frank broke a couch.,Frank broken a couch.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,827,-23.749746322631836,-26.88616371154785,1
+Dana hid away.,Dana hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,828,-32.76295471191406,-33.21392059326172,1
+Monet knew Mary.,Monet known Mary.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,829,-37.30502700805664,-38.032958984375,1
+This senator broke these plates.,This senator broken these plates.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,830,-40.06050491333008,-44.279937744140625,1
+These students drove to a restaurant.,These students driven to a restaurant.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,831,-31.351940155029297,-32.35392761230469,1
+Walter went fishing.,Walter gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,832,-21.200037002563477,-24.93747329711914,1
+Ann knew Florence.,Ann known Florence.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,833,-27.965137481689453,-28.796119689941406,1
+Broccoli went bad.,Broccoli gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,834,-29.398103713989258,-31.308940887451172,1
+The association took those bikes.,The association taken those bikes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,835,-38.07977294921875,-40.404090881347656,1
+Carolyn knew Rachelle.,Carolyn known Rachelle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,836,-43.20965576171875,-42.498046875,0
+Aaron went to every art gallery.,Aaron gone to every art gallery.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,837,-37.73505783081055,-40.058876037597656,1
+The Impressionists drove to the mall.,The Impressionists driven to the mall.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,838,-52.195594787597656,-53.27757263183594,1
+Every icicle froze.,Every icicle frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,839,-38.15217208862305,-38.996742248535156,1
+The Clintons drove to this high school.,The Clintons driven to this high school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,840,-44.32041931152344,-43.624691009521484,0
+Gerald hid these apples.,Gerald hidden these apples.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,841,-44.0911865234375,-46.651161193847656,1
+Colleen went fishing.,Colleen gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,842,-25.0787353515625,-28.16250991821289,1
+All governments forgot Kenneth.,All governments forgotten Kenneth.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,843,-41.30009078979492,-41.29243469238281,0
+Kristin hid away.,Kristin hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,844,-25.699447631835938,-25.27593231201172,0
+Some patients drank.,Some patients drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,845,-23.07496452331543,-23.427295684814453,1
+The Lutherans drank.,The Lutherans drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,846,-38.008644104003906,-37.51044464111328,0
+Stacy broke a lot of cars.,Stacy broken a lot of cars.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,847,-36.54295349121094,-41.687965393066406,1
+These senators drank.,These senators drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,848,-28.52562713623047,-28.162254333496094,0
+Ronald went fishing.,Ronald gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,849,-30.516653060913086,-32.36908721923828,1
+Denise knew Stacy.,Denise known Stacy.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,850,-33.02740478515625,-34.150779724121094,1
+Walter went to that school.,Walter gone to that school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,851,-26.373882293701172,-28.9613037109375,1
+Most rivers froze.,Most rivers frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,852,-26.289989471435547,-25.764989852905273,0
+Adults hid away.,Adults hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,853,-30.379552841186523,-30.555042266845703,1
+The senators drank.,The senators drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,854,-28.70856475830078,-28.3485107421875,0
+These eggplants went bad.,These eggplants gone bad.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,855,-44.893104553222656,-45.492347717285156,1
+Eva spoke up.,Eva spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,856,-19.799728393554688,-20.175495147705078,1
+Martin wore some blouses.,Martin worn some blouses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,857,-33.213096618652344,-35.094642639160156,1
+Patricia drank.,Patricia drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,858,-21.934988021850586,-19.985252380371094,0
+All senators went to this hill.,All senators gone to this hill.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,859,-40.54299545288086,-42.92109680175781,1
+The shawls shrank.,The shawls shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,860,-44.426300048828125,-39.96233367919922,0
+Angela wrote.,Angela written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,861,-14.915897369384766,-17.214759826660156,1
+Carmen went fishing.,Carmen gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,862,-38.97528076171875,-41.586097717285156,1
+Stephanie came here.,Stephanie come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,863,-24.214073181152344,-25.413299560546875,1
+Those waitresses wrote.,Those waitresses written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,864,-37.66831588745117,-38.472023010253906,1
+Teresa broke some mirror.,Teresa broken some mirror.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,865,-37.67023468017578,-41.22596740722656,1
+Clyde hid.,Clyde hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,866,-46.512901306152344,-44.974609375,0
+Connie ate.,Connie eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,867,-21.671051025390625,-21.211605072021484,0
+Ronald broke that wheelbarrow.,Ronald broken that wheelbarrow.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,868,-58.172203063964844,-61.59996795654297,1
+Robert hid.,Robert hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,869,-15.834596633911133,-14.96034049987793,0
+Elizabeth wore all sweaters.,Elizabeth worn all sweaters.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,870,-34.32481384277344,-35.74540328979492,1
+Daniel ate.,Daniel eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,871,-14.059711456298828,-13.644779205322266,0
+Many children drank.,Many children drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,872,-20.004104614257812,-20.828237533569336,1
+Winston Churchill broke most forks.,Winston Churchill broken most forks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,873,-49.786842346191406,-54.036865234375,1
+Snakes woke up.,Snakes woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,874,-24.813844680786133,-29.667682647705078,1
+Craig got a job.,Craig gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,875,-17.736114501953125,-23.043350219726562,1
+These patients broke this cart.,These patients broken this cart.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,876,-39.971534729003906,-41.998779296875,1
+Martha hid away.,Martha hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,877,-25.871885299682617,-26.4971981048584,1
+Ann wrote.,Ann written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,878,-14.815826416015625,-16.71242332458496,1
+Tammy sang.,Tammy sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,879,-20.916587829589844,-22.7254695892334,1
+Jacqueline wrote.,Jacqueline written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,880,-24.297283172607422,-27.019386291503906,1
+The senator knew Carl.,The senator known Carl.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,881,-37.96228790283203,-37.545616149902344,0
+Mary broke this unicycle.,Mary broken this unicycle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,882,-34.488868713378906,-38.66796112060547,1
+Karen hid away.,Karen hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,883,-34.48236846923828,-32.99567413330078,0
+Marla got a job.,Marla gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,884,-24.20856475830078,-29.81281280517578,1
+Donald spoke up.,Donald spoken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,885,-20.730701446533203,-20.729829788208008,0
+Clyde hid those drawings.,Clyde hidden those drawings.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,886,-60.60969543457031,-62.8955078125,1
+Derek took most mushrooms.,Derek taken most mushrooms.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,887,-47.255855560302734,-51.235984802246094,1
+Claire wore most skirts.,Claire worn most skirts.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,888,-41.044883728027344,-42.718544006347656,1
+Carol hid this scarf.,Carol hidden this scarf.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,889,-38.65423583984375,-39.71525955200195,1
+A jacket shrank.,A jacket shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,890,-43.045570373535156,-35.32162857055664,0
+Travis went fishing.,Travis gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,891,-38.38359069824219,-41.17955780029297,1
+Hospitals forgot most actors.,Hospitals forgotten most actors.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,892,-56.056495666503906,-56.54688262939453,1
+A lot of jackets shrank.,A lot of jackets shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,893,-50.523399353027344,-44.89735794067383,0
+Many patients came here.,Many patients come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,894,-24.0164794921875,-20.429180145263672,0
+Every adult got a job.,Every adult gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,895,-28.129901885986328,-31.455650329589844,1
+The bird broke some trucks.,The bird broken some trucks.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,896,-34.637168884277344,-36.309181213378906,1
+Those children forgot Andrew.,Those children forgotten Andrew.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,897,-34.93095397949219,-36.54386901855469,1
+Mark woke up.,Mark woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,898,-13.605522155761719,-21.096338272094727,1
+The Borgias wrote.,The Borgias written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,899,-36.322933197021484,-38.99542236328125,1
+Alexander hid away.,Alexander hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,900,-19.14317512512207,-21.903507232666016,1
+A lot of doctors broke a lot of couches.,A lot of doctors broken a lot of couches.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,901,-58.09512710571289,-61.91743850708008,1
+Clyde sang.,Clyde sung.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,902,-44.557342529296875,-45.21219253540039,1
+These associations took all skateboards.,These associations taken all skateboards.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,903,-47.16114807128906,-49.09605407714844,1
+A child knew some driver.,A child known some driver.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,904,-45.07661056518555,-48.5101432800293,1
+Nancy drove to restaurants.,Nancy driven to restaurants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,905,-41.41890335083008,-39.50956726074219,0
+Adam got a job.,Adam gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,906,-16.636070251464844,-21.068458557128906,1
+Steven wore this coat.,Steven worn this coat.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,907,-26.75118064880371,-29.038238525390625,1
+Gregory got a job.,Gregory gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,908,-22.746728897094727,-28.917070388793945,1
+Senators went to some closet.,Senators gone to some closet.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,909,-35.178382873535156,-37.80881881713867,1
+Grace broke the carts.,Grace broken the carts.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,910,-35.924293518066406,-39.11859893798828,1
+A lot of teachers wore the gloves.,A lot of teachers worn the gloves.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,911,-47.39054870605469,-49.90952682495117,1
+These glaciers froze.,These glaciers frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,912,-29.019508361816406,-29.03594970703125,1
+Nancy went to these closets.,Nancy gone to these closets.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,913,-48.36777114868164,-47.18292236328125,0
+Most banks knew Julie.,Most banks known Julie.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,914,-38.02016830444336,-37.480709075927734,0
+Christina hid.,Christina hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,915,-21.900894165039062,-21.296342849731445,0
+Eric forgot Vanessa.,Eric forgotten Vanessa.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,916,-25.35615348815918,-25.998870849609375,1
+Those students came here.,Those students come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,917,-21.02989959716797,-17.52852439880371,0
+Laura drove to some mountain.,Laura driven to some mountain.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,918,-32.240821838378906,-32.250816345214844,1
+Jodi drove to some hills.,Jodi driven to some hills.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,919,-49.21306228637695,-47.451751708984375,0
+Donald ate.,Donald eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,920,-14.038911819458008,-13.75551986694336,0
+Margaret came here.,Margaret come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,921,-17.72931671142578,-17.326248168945312,0
+This woman got a job.,This woman gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,922,-23.45414924621582,-29.01714324951172,1
+Every teenager forgot Sharon.,Every teenager forgotten Sharon.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,923,-42.271297454833984,-42.050907135009766,0
+Vincent hid a dog.,Vincent hidden a dog.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,924,-37.113189697265625,-38.461280822753906,1
+Ruth went fishing.,Ruth gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,925,-31.161148071289062,-33.34927749633789,1
+Curtis wore these dresses.,Curtis worn these dresses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,926,-53.36876678466797,-54.68049240112305,1
+A lake froze.,A lake frozen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,927,-33.178890228271484,-32.300254821777344,0
+Karla came here.,Karla come here.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,928,-21.09600067138672,-21.005413055419922,0
+Tracy drove to many restaurants.,Tracy driven to many restaurants.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,929,-42.53399658203125,-42.04274368286133,0
+Nina drove to some hill.,Nina driven to some hill.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,930,-48.25760269165039,-48.87416458129883,1
+Lucille broke this unicycle.,Lucille broken this unicycle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,931,-43.52236557006836,-47.64469909667969,1
+Some dancers hid dancers.,Some dancers hidden dancers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,932,-37.182762145996094,-35.99460220336914,0
+Carla wrote.,Carla written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,933,-16.56148910522461,-19.135223388671875,1
+Carlos took a bird.,Carlos taken a bird.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,934,-26.28994369506836,-28.83414649963379,1
+Kayla took some window.,Kayla taken some window.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,935,-29.252254486083984,-32.52778625488281,1
+Some socks shrank.,Some socks shrunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,936,-33.738243103027344,-28.063526153564453,0
+Tracy knew Kathleen.,Tracy known Kathleen.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,937,-39.54281234741211,-38.96783447265625,0
+Gary knew many women.,Gary known many women.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,938,-26.103269577026367,-26.53200912475586,1
+Patrick drove to a bank.,Patrick driven to a bank.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,939,-25.16483497619629,-25.141342163085938,0
+All students broke a lot of glasses.,All students broken a lot of glasses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,940,-36.735748291015625,-40.83296203613281,1
+Charles wrote.,Charles written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,941,-11.56850814819336,-13.899364471435547,1
+Many patients hid Omar.,Many patients hidden Omar.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,942,-39.6749153137207,-38.34719467163086,0
+Clyde took all shirts.,Clyde taken all shirts.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,943,-58.087684631347656,-59.66877365112305,1
+The Impressionists drove to this high school.,The Impressionists driven to this high school.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,944,-56.532623291015625,-57.04059982299805,1
+Many students wore most shawls.,Many students worn most shawls.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,945,-48.48102951049805,-51.289634704589844,1
+Florence wore most gloves.,Florence worn most gloves.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,946,-41.706722259521484,-44.06554412841797,1
+Tamara got fired.,Tamara gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,947,-22.951257705688477,-28.687225341796875,1
+Jeffrey went to libraries.,Jeffrey gone to libraries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,948,-30.756650924682617,-33.979454040527344,1
+These dancers took the art galleries.,These dancers taken the art galleries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,949,-40.66514587402344,-43.659454345703125,1
+Dawn wrote.,Dawn written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,950,-28.945907592773438,-31.417434692382812,1
+James wrote.,James written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,951,-11.79902172088623,-14.507257461547852,1
+Maria wore some shirt.,Maria worn some shirt.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,952,-28.251365661621094,-30.542999267578125,1
+This child knew a lot of men.,This child known a lot of men.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,953,-33.69795227050781,-35.880516052246094,1
+Jerry broke some carriage.,Jerry broken some carriage.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,954,-27.270639419555664,-31.364559173583984,1
+All snakes broke all bicycles.,All snakes broken all bicycles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,955,-41.88771057128906,-44.691871643066406,1
+The students knew Jason.,The students known Jason.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,956,-34.74525451660156,-36.61693572998047,1
+Those girls broke that wheelbarrow.,Those girls broken that wheelbarrow.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,957,-50.33424377441406,-54.847076416015625,1
+Timothy hid Danielle.,Timothy hidden Danielle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,958,-34.543128967285156,-34.64997863769531,1
+Christopher hid away.,Christopher hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,959,-19.19921875,-20.211669921875,1
+Deborah got fired.,Deborah gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,960,-26.298145294189453,-31.606531143188477,1
+Anna hid away.,Anna hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,961,-19.09634780883789,-22.73995590209961,1
+Richard got a job.,Richard gotten a job.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,962,-16.399038314819336,-20.80322265625,1
+Theodore forgot Janice.,Theodore forgotten Janice.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,963,-47.66889190673828,-48.90864562988281,1
+The children got fired.,The children gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,964,-21.4666748046875,-27.5433349609375,1
+Every doctor drove to the college campuses.,Every doctor driven to the college campuses.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,965,-42.90199661254883,-42.75872802734375,0
+Kirsten hid the college campus.,Kirsten hidden the college campus.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,966,-55.16672897338867,-54.68743896484375,0
+The actresses knew Scott.,The actresses known Scott.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,967,-37.137184143066406,-37.280208587646484,1
+Amelia forgot George.,Amelia forgotten George.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,968,-41.81878662109375,-42.23652648925781,1
+Paula went fishing.,Paula gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,969,-21.40123176574707,-25.175445556640625,1
+Sally went to every hill.,Sally gone to every hill.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,970,-38.40224075317383,-39.51008224487305,1
+Gary took photographs.,Gary taken photographs.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,971,-21.515933990478516,-24.73041534423828,1
+That girl hid away.,That girl hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,972,-27.476043701171875,-28.340782165527344,1
+Tiffany ate.,Tiffany eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,973,-38.48970031738281,-39.313934326171875,1
+Aaron broke these computers.,Aaron broken these computers.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,974,-24.691707611083984,-28.14169692993164,1
+A pedestrian wrote.,A pedestrian written.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,975,-36.843936920166016,-36.03297424316406,0
+Steven drank.,Steven drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,976,-14.303190231323242,-11.973901748657227,0
+Galileo knew Richard.,Galileo known Richard.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,977,-36.61058807373047,-38.909088134765625,1
+Mary knew Bruce.,Mary known Bruce.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,978,-24.83004379272461,-27.787187576293945,1
+Winston Churchill forgot Charles.,Winston Churchill forgotten Charles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,979,-45.69422149658203,-45.920352935791016,1
+The girls went to all cafes.,The girls gone to all cafes.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,980,-39.44463348388672,-42.74623489379883,1
+Mitchell drank.,Mitchell drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,981,-24.366474151611328,-22.1331787109375,0
+Richard got fired.,Richard gotten fired.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,982,-16.58302116394043,-20.984180450439453,1
+Colleen broke this car.,Colleen broken this car.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,983,-27.913278579711914,-32.381771087646484,1
+Gerald wore this glove.,Gerald worn this glove.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,984,-42.734230041503906,-45.76887512207031,1
+Guy drove to art galleries.,Guy driven to art galleries.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,985,-34.10945129394531,-33.475399017333984,0
+Karen hid.,Karen hidden.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,986,-30.36611557006836,-27.31352996826172,0
+Jason ate.,Jason eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,987,-13.917096138000488,-13.524391174316406,0
+Alan took this bicycle.,Alan taken this bicycle.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,988,-24.78762435913086,-28.32013511657715,1
+Sonia took these newspaper articles.,Sonia taken these newspaper articles.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,989,-47.6671142578125,-51.95945739746094,1
+Veronica hid away.,Veronica hidden away.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,990,-26.95192527770996,-28.862346649169922,1
+The man broke some skateboard.,The man broken some skateboard.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,991,-41.82524108886719,-44.255165100097656,1
+Charles went fishing.,Charles gone fishing.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,992,-15.721235275268555,-18.935199737548828,1
+Cynthia woke up.,Cynthia woken up.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,993,-46.354976654052734,-52.72394561767578,1
+Vanessa ate.,Vanessa eaten.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,994,-22.82195472717285,-22.99248504638672,1
+All teachers drank.,All teachers drunk.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,995,-23.861785888671875,-23.751956939697266,0
+Every cat broke that skateboard.,Every cat broken that skateboard.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,996,-42.597984313964844,-44.4686279296875,1
+Every dancer wore that sweater.,Every dancer worn that sweater.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,997,-37.316280364990234,-41.34965896606445,1
+Ann went to some river.,Ann gone to some river.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,998,-29.489112854003906,-30.39328384399414,1
+Deanna broke the cart.,Deanna broken the cart.,morphology,irregular_forms,irregular_past_participle_verbs,True,True,False,False,999,-33.49488830566406,-36.520294189453125,1
